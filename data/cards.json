@@ -1,1 +1,3313 @@
-[]
+[
+  {
+    "id": 5,
+    "name": "Hades - King of Olympus",
+    "type": "Character",
+    "cost": 8,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/5_eb74bbe5d3dfea633d596496243d7972e930b81a.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Stitch - Rock Star",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/23_a962999a02d161d6f5341c69469c12bf30e0bd2b.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Dr. Facilier - Agent Provocateur",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/37_df8214278bc2ef1790dfeb0a241cc1ec8bd5c693.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Jetsam - Ursula's Spy",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/46_01f1336c2d69344ac9d004d2a20d7b02e88f3ddb.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Tinker Bell - Peter Pan's Ally",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/58_e13723fd1214327ef6f4ac4954201558bd90caa6.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Genie - On the Job",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/75_2adad097b1231dbf5c571df488ab2582e9a09b9e.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Goofy - Musketeer",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/4_add38edeb287c4de4be302549b684e41b54f1519.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Maximus - Palace Horse",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/10_4d67a92c04456725f8167a0bd4ef9e7688ebfb15.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Simba - Protective Cub",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/20_b2f2a37d828a715e998f77ee0d95e49c84e54509.jpg"
+  },
+  {
+    "id": 7,
+    "name": "HeiHei - Boat Snack",
+    "type": "Character",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/7_ba58282d94d84de5e8d6675845a1a17f90f104c0.jpg"
+  },
+  {
+    "id": 143,
+    "name": "Chief Tui - Respected Leader",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/143_f8a6342a99f9211f9bc0e3ea454c164e30a1f8b6.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Aladdin - Prince Ali",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/69_567caacf82f67ff08587b6ded1c7ebeb1f77a196.jpg"
+  },
+  {
+    "id": 84,
+    "name": "Kuzco - Temperamental Emperor",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/84_e21315362098d8c59afa34013287e4180aa90cd3.jpg"
+  },
+  {
+    "id": 144,
+    "name": "Donald Duck - Strutting His Stuff",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/144_5f6ba41909f5b0fb32831ba3b25a8b882a751048.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Flotsam - Ursula's Spy",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/43_8d497710d66bfb4778e4c66043107d87b7174394.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Rafiki - Mysterious Sage",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/54_987ad175e35f0dad21528341467302fa86e3dadc.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Zeus - God of Lightning",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/61_e4e1676d3dbc062933042898c805e3590a7154d2.jpg"
+  },
+  {
+    "id": 393,
+    "name": "Cinderella - Stouthearted",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/177_85842415187fb72130d1453c2a2c29fe3672cb6b.jpg"
+  },
+  {
+    "id": 397,
+    "name": "Hercules - Divine Hero",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/181_877b440988280f9cae6242bdb613f33a89211dd4.jpg"
+  },
+  {
+    "id": 401,
+    "name": "Kronk - Junior Chipmunk",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/185_fd2e03313c8e327c8327bd9a769b53beeeaa699d.jpg"
+  },
+  {
+    "id": 2191,
+    "name": "Gaston - Frightful Bully",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/2_578e7dda619dc0479e37b3cb09c5ecf37b15a79a.jpg"
+  },
+  {
+    "id": 2206,
+    "name": "Ariel - Ethereal Voice",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/17_9a23d1c5002322039b67dfd18cba571473332bf9.jpg"
+  },
+  {
+    "id": 2209,
+    "name": "Simba - King in the Making",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/20_5c8b57b285d96c92d116a7383984ac2d1fe324c1.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Dr. Facilier - Charlatan",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/38_917dbda387829301522cdf4101a0b3fdaea24b1e.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Jafar - Wicked Sorcerer",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/45_023babc1a5b7dd4685a6fd6622db8e87722e1e49.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ariel - Spectacular Singer",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/2_1475cd96869cc0887dd77d27476b341c1a72236f.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cinderella - Gentle and Kind",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/3_4bab817e11efefcca3a3fb72905e0895bb5db74b.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Sebastian - Court Composer",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/19_b8d4e65dc867a80a36c63da3c31a0e0e742d72aa.jpg"
+  },
+  {
+    "id": 719,
+    "name": "Look at This Family",
+    "type": "Action",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/28_23b29e8fe3177d1ccd3338082522426ee968e253.jpg"
+  },
+  {
+    "id": 752,
+    "name": "Second Star to the Right",
+    "type": "Action",
+    "cost": 10,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/61_fac2e18b23be2bf7eb3c91ffacbfc187bc78963b.jpg"
+  },
+  {
+    "id": 786,
+    "name": "Under the Sea",
+    "type": "Action",
+    "cost": 8,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/95_0ef76376ac99702eeefcba2146c5dec986110fab.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Gaston - Arrogant Hunter",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/110_996053fabba0e1532141b64d0180fcb0dafe524d.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Maui - Hero to All",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/114_baac7725205b3c3e4ab15794c678078c1a52afd8.jpg"
+  },
+  {
+    "id": 126,
+    "name": "Te Kā - The Burning One",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/126_b6eaf77d0c4d3593ade60e8aa84d6d3df1f6c1a8.jpg"
+  },
+  {
+    "id": 2331,
+    "name": "Cri-Kee - Good Luck Charm",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/142_bf7018e8e62588d1b7171e331f81302aa6629f34.jpg"
+  },
+  {
+    "id": 2372,
+    "name": "Lexington - Small in Stature",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/183_505c4e256f61303f1d69063e051115e0320bb179.jpg"
+  },
+  {
+    "id": 2605,
+    "name": "Sina - Vigilant Parent",
+    "type": "Character",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set11/142_3194d0286645e9b64d18c7a37a1e1d73e017bab3.jpg"
+  },
+  {
+    "id": 1482,
+    "name": "Iago - Giant Spectral Parrot",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/49_9310ea06ea4099d37ef08d1e6d5aad82b6b5442f.jpg"
+  },
+  {
+    "id": 1490,
+    "name": "Giant Cobra - Ghostly Serpent",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/57_496d8ed300523b4c6e7aeaf41f2643109bbfe68c.jpg"
+  },
+  {
+    "id": 1495,
+    "name": "Rajah - Ghostly Tiger",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/62_4b86d55bd678952b7edfe64ecccd9a33e3e398b2.jpg"
+  },
+  {
+    "id": 3000,
+    "name": "Sulley & Boo - Scare Buddies",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/29_dcc88e064a75fd559313192857bf43fd0a76c7e0.jpg"
+  },
+  {
+    "id": 3104,
+    "name": "Dash Parr & Violet Parr - Super Siblings",
+    "type": "Character",
+    "cost": 8,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/133_e19ae0eff8d825fc639e20799809f55dd1bbb3da.jpg"
+  },
+  {
+    "id": 3200,
+    "name": "Sulley & Boo - Scare Buddies",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/229_f1c593b593ea309771e24bf8fecbc6c7872cace0.jpg"
+  },
+  {
+    "id": 3091,
+    "name": "Grandma Wu - Fierce Red Panda",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/120_b110fda573bde9a81d1f5595e025ecf4e72f18d7.jpg"
+  },
+  {
+    "id": 3096,
+    "name": "Meilin Lee - Popular Red Panda",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/125_0ef2acf14064134cdff932a72918fe81df4accc9.jpg"
+  },
+  {
+    "id": 3100,
+    "name": "Ming Lee - Giant Red Panda",
+    "type": "Character",
+    "cost": 9,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/129_9003e8044db6aae394757d7eba9c4a2f276297f6.jpg"
+  },
+  {
+    "id": 3001,
+    "name": "The Madrigal Family - Every Generation",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/30_f7ca307a27cde6cea7aee31a8b931d6d48858cd5.jpg"
+  },
+  {
+    "id": 3201,
+    "name": "The Madrigal Family - Every Generation",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/230_0fa35e34b158b3d132cacc873ddbdb307955b89d.jpg"
+  },
+  {
+    "id": 3070,
+    "name": "Mickey Mouse & Minnie Mouse - Adventuring Duo",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/99_bc248b16a65df4329e9d10148bbbcec454defada.jpg"
+  },
+  {
+    "id": 3209,
+    "name": "Mickey Mouse & Minnie Mouse - Adventuring Duo",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/238_bbc5cfe06474615656dcc3053826ea1aeddd2393.jpg"
+  },
+  {
+    "id": 3090,
+    "name": "Sun Yee - Red Panda Spirit",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/119_fc75d56c25c43bee46892880af4273ec9403d727.jpg"
+  },
+  {
+    "id": 3189,
+    "name": "Sun Yee - Red Panda Spirit",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/218_98d7626dc3b5eead268f4ead5006100dbc287e93.jpg"
+  },
+  {
+    "id": 1456,
+    "name": "Thunderbolt - Wonder Dog",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/23_6f254b2f397a1467c195fd3ef6192b6d285ab9cd.jpg"
+  },
+  {
+    "id": 1537,
+    "name": "Baymax - Giant Robot",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/104_f8b2a44dc47c948971321993bf4b423d66a9bb5a.jpg"
+  },
+  {
+    "id": 3062,
+    "name": "Posey - Vampire Potato",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/91_25ced769d8a0b0733a2a057f743efb43641db946.jpg"
+  },
+  {
+    "id": 3168,
+    "name": "The Vine - Towering Stalk",
+    "type": "Character",
+    "cost": 10,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/197_fe68c980fa492a3c986df6efe401085aab0bd807.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Ariel - On Human Legs",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/1_ea50bda8825b4ccdf7e71c7052ee9688f92e75ab.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Maximus - Relentless Pursuer",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/11_1fba564483f4871868283f8ef95ffad19329a28e.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Moana - Of Motunui",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/14_6e23726ff80e639dbbd0a763015da4bdbd757d44.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Lantern",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/33_0387aaa8150e80c49743e0a7fd898eb3f4ea2816.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Hades - Lord of the Underworld",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/6_1e2a2bc538f4f745ecfcbfd30dc3d4606da1a00a.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Rapunzel - Gifted with Healing",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/18_71f25a859f742e0d2c7cb96fa115542072d77583.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Ursula's Shell Necklace",
+    "type": "Item",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/34_172c16efcf5b644bfe18dc49e3a096efea555286.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Timon - Grub Rustler",
+    "type": "Character",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/24_f5c1d20a4a59bed1d14f849b9f70b71e1eab4bc0.jpg"
+  },
+  {
+    "id": 8,
+    "name": "LeFou - Bumbler",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/8_788a1c9776d68562703065ecc6c62f0e61e8918f.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Stitch - Carefree Surfer",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/21_c9313d800707f408e740502a15578f53314c125a.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Anna - Heir to Arendelle",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/35_4f4f468ca40d2e14bc796485687cf51a5405c27e.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Dr. Facilier - Remarkable Gentleman",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/39_80a78a0409453d0ad2d9fd175eac2568f3335383.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Yzma - Alchemist",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/60_c6fb6765f7fce2f027f36efbd1997d017ab16e26.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Magic Broom - Bucket Brigade",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/47_794a43e655cb2f3c22b5958c6e82f11ac820164b.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Marshmallow - Persistent Guardian",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/50_079213f302aeb3fc38697cd80ad01e3470fd17aa.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Mickey Mouse - Wayward Sorcerer",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/51_b6973a7151c12abc277263413ef2fcac7e6c7842.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Pascal - Rapunzel's Companion",
+    "type": "Character",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/53_c42d7487384171487a54f1d15fa70ed692b2716e.jpg"
+  },
+  {
+    "id": 90,
+    "name": "Mother Gothel - Selfish Manipulator",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/90_c09264be0480a4de7eb38d1c6c74569d2cd8b556.jpg"
+  },
+  {
+    "id": 76,
+    "name": "Genie - Powers Unleashed",
+    "type": "Character",
+    "cost": 8,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/76_f12b02a2e706990ad795ec5bfef7015328232ff8.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Jafar - Keeper of Secrets",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/44_d054199f3b8fdfa625617b562603e27009bedf41.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Lady Tremaine - Wicked Stepmother",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/85_b6d99764db2e156e9e590a2354d75b09a32891fb.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Iago - Loud-Mouthed Parrot",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/80_43fa1f57b139165f51d0728db6fb6f708f7b41ef.jpg"
+  },
+  {
+    "id": 81,
+    "name": "Jasper - Common Crook",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/81_a813889ebfb95d7f6a85c802b2cae1350a1f5f56.jpg"
+  },
+  {
+    "id": 82,
+    "name": "John Silver - Alien Pirate",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/82_1963c3f4996931b82f779d628bc2ae799190d96d.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Elsa - Snow Queen",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/41_23da670a1d0bf54139cdea9af6f33f1bad868970.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Beast - Wolfsbane",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/70_c04b24978225b24bf1390924255d27f6ad87faa2.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Be Our Guest",
+    "type": "Action",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/25_70ed49868782fed4a347083366d534f041af88a6.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Hakuna Matata",
+    "type": "Action",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/27_c91f6c65d9c24c8b9a6856a83b8b78d5d8ee3b2a.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Part of Your World",
+    "type": "Action",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/30_74e15b02eabfce2b19b02c8f59350194a47a7edc.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Ursula - Power Hungry",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/59_b59872707809054646bd32972fb3cd6f7b14e2a7.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Aladdin - Heroic Outlaw",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/104_62c0a24d2543a91bd50dc0d844c5c46c56eb413e.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Aladdin - Street Rat",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/105_85c0935f0055b45491c0c3923b3a718c53dbd1f9.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Elsa - Spirit of Winter",
+    "type": "Character",
+    "cost": 8,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/42_9ccb155ad39736f056e2dd4604aff781f3c9cb90.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Captain Hook - Ruthless Pirate",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/107_2fbb618b715d80521c400c4bfd44a8a5e1311b6e.jpg"
+  },
+  {
+    "id": 146,
+    "name": "Gramma Tala - Storyteller",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/146_aed4523d5c7c2e4f2f3629e91b41606e27c7adf0.jpg"
+  },
+  {
+    "id": 68,
+    "name": "White Rabbit's Pocket Watch",
+    "type": "Item",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/68_ec47886e41f84e9c0330e5c6f596ab928305da5a.jpg"
+  },
+  {
+    "id": 137,
+    "name": "Ariel - Whoseit Collector",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/137_5f976c5684f8c582713fd448953563f270b5a087.jpg"
+  },
+  {
+    "id": 141,
+    "name": "Belle - Inventive Engineer",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/141_4878350abd9be95ae7fff58201d1e102718582df.jpg"
+  },
+  {
+    "id": 152,
+    "name": "Maurice - World-Famous Inventor",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/152_e877ea735e34835a08ce9376f87dd9c475073ff0.jpg"
+  },
+  {
+    "id": 207,
+    "name": "Elsa - Spirit of Winter",
+    "type": "Character",
+    "cost": 8,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/207_f7f97a6f31c8a2bdcf13a332f37aed5d45cde3ba.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Tinker Bell - Most Helpful",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/93_cf5436c5af3096b15dc6822aef9269c1537822e8.jpg"
+  },
+  {
+    "id": 139,
+    "name": "Aurora - Dreaming Guardian",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/139_4e37ba93dd8d0282dbad80c4441f042729f1c817.jpg"
+  },
+  {
+    "id": 188,
+    "name": "Simba - Future King",
+    "type": "Character",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/188_775e579d9dc6e94085cadab3fb54b5974f50bdff.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Prince Phillip - Dragonslayer",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/16_1de77daae839a915d1c06ee89f8d282379b3f412.jpg"
+  },
+  {
+    "id": 467,
+    "name": "Wildcat's Wrench",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/31_084929ac02d652d1666254a57d009fe8decf7194.jpg"
+  },
+  {
+    "id": 482,
+    "name": "Magic Broom - The Big Sweeper",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/46_3b8944856cc02964ba563c928ad94afbe925b932.jpg"
+  },
+  {
+    "id": 483,
+    "name": "Magic Carpet - Flying Rug",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/47_c4efc3efba4b259d08f9a5065212cacf5f71c8a8.jpg"
+  },
+  {
+    "id": 142,
+    "name": "Belle - Strange but Special",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/142_ce86e79a408434b4e04ab4e0dbe97d8977551753.jpg"
+  },
+  {
+    "id": 147,
+    "name": "Hades - Infernal Schemer",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/147_55f1492b85c035af729264807395ef60343a70b1.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Cheshire Cat - Not All There",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/71_87b77611d9b78712c1ded7679cb69a4fc711d02c.jpg"
+  },
+  {
+    "id": 118,
+    "name": "Mulan - Imperial Soldier",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/118_b801158d8685ed9aa64e0655984c51761fe7c8c0.jpg"
+  },
+  {
+    "id": 186,
+    "name": "Mickey Mouse - Musketeer",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/186_98c4c5fda21f0e1ca2742618ecaa91ad0a963869.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Cruella De Vil - Miserable as Usual",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/72_a1f414ad52ab4fbdb046a1b6d760c96e2c21967a.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Flynn Rider - Charming Rogue",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/74_63f5524ea2b0678268fa4196f63207a629421785.jpg"
+  },
+  {
+    "id": 180,
+    "name": "Hans - Thirteenth in Line",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/180_42e52655e69051b8a99a759093daba25057657de.jpg"
+  },
+  {
+    "id": 193,
+    "name": "Tinker Bell - Giant Fairy",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/193_f8e077a83c8d685b85aed7136239642118d640e6.jpg"
+  },
+  {
+    "id": 204,
+    "name": "Plasma Blaster",
+    "type": "Item",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/204_3140fba5401b8f697a3cc6abf89bebd6d6748981.jpg"
+  },
+  {
+    "id": 222,
+    "name": "Dopey - Always Playful",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/6_03aac1bf2c06db3ac67bb5665f8d3f5f0bcee2df.jpg"
+  },
+  {
+    "id": 404,
+    "name": "Magic Broom - Industrial Model",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/188_25e7ccc72fdb157da1ec9ee0d4d31fa8d3dee8f8.jpg"
+  },
+  {
+    "id": 419,
+    "name": "Mouse Armor",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/203_583c266e003cb804d09ca91d893b7ee8674b1232.jpg"
+  },
+  {
+    "id": 469,
+    "name": "Pride Lands - Pride Rock",
+    "type": "Location",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/33_671d300c0b1ea780bca6ba7b7957db587b8723e9.jpg"
+  },
+  {
+    "id": 470,
+    "name": "Tiana's Palace - Jazz Restaurant",
+    "type": "Location",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/34_68c48c0a2209de65aef9063ac3cff4e74d7c03d3.jpg"
+  },
+  {
+    "id": 503,
+    "name": "The Queen's Castle - Mirror Chamber",
+    "type": "Location",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/67_a5fabe0970d5c13e68c5c8893e06d04db0890285.jpg"
+  },
+  {
+    "id": 154,
+    "name": "Mickey Mouse - Detective",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/154_f3a950ac7004c8aa5e950cf1cd2ecdd9daf7ba08.jpg"
+  },
+  {
+    "id": 1529,
+    "name": "Hiro Hamada - Armor Designer",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/96_20c10e312579dfaaa459271cfeefc21058276687.jpg"
+  },
+  {
+    "id": 1647,
+    "name": "Hiro Hamada - Armor Designer",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/214_8bd879ac681588e3481cd473d58b6b74fbd3228f.jpg"
+  },
+  {
+    "id": 1661,
+    "name": "Hiro Hamada - Armor Designer",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo2/24A_e61d0cc08440d0623274b0c69fef33dc32a5f64b.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Elsa - Ice Surfer",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/109_29022cdd235b2b0c0f9c62d45ca99d8f55dc8d64.jpg"
+  },
+  {
+    "id": 358,
+    "name": "Cogsworth - Grandfather Clock",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/142_932d2bae289eac7c6a9a98b292b24d2e8a8b4bde.jpg"
+  },
+  {
+    "id": 371,
+    "name": "Noi - Orphaned Thief",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/155_03e7c1d5562b90431a85f99ef99be5440167b6e7.jpg"
+  },
+  {
+    "id": 388,
+    "name": "Beast - Selfless Protector",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/172_6384f0e7503a46b8c6fc78cf8701b3bf9f7aea09.jpg"
+  },
+  {
+    "id": 88,
+    "name": "Mickey Mouse - Artful Rogue",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/88_dc6d6fc63bc38fc5897c21a424c4d8c251125a89.jpg"
+  },
+  {
+    "id": 336,
+    "name": "Queen of Hearts - Sensing Weakness",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/120_84cdd2e62348bfc5d5db503a03681d958e8696ce.jpg"
+  },
+  {
+    "id": 339,
+    "name": "Raya - Leader of Heart",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/123_05a441daa43dde917a80a206003165062c357a89.jpg"
+  },
+  {
+    "id": 230,
+    "name": "Mufasa - Betrayed Leader",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/14_65e58dd193dad4bca35c786674adcd24995084eb.jpg"
+  },
+  {
+    "id": 232,
+    "name": "Mulan - Reflecting",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/16_68466fe0c384c87289f2d5f7375625fe255c7058.jpg"
+  },
+  {
+    "id": 157,
+    "name": "Robin Hood - Unrivaled Archer",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/157_2059458714902968dc2d8ae835ce0a61c54a321e.jpg"
+  },
+  {
+    "id": 287,
+    "name": "Belle - Bookworm",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/71_4a690500b44c1cf71cda5e80b5bdce57d158ac6b.jpg"
+  },
+  {
+    "id": 302,
+    "name": "Pain - Underworld Imp",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/86_7206c319d1007a1b0b973b3bc67c566dc1c91894.jpg"
+  },
+  {
+    "id": 487,
+    "name": "Maleficent - Mistress of All Evil",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/51_c7cd12f9a37367dcfe0e095c530dc0e9f1c142cc.jpg"
+  },
+  {
+    "id": 488,
+    "name": "Mama Odie - Voice of Wisdom",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/52_3d85e271e060b3af7ffdab29ae0773c8c203cfef.jpg"
+  },
+  {
+    "id": 455,
+    "name": "Pongo - Determined Father",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/19_7ee71b1a2e3f106db2f4ed8c812fa2124293c31b.jpg"
+  },
+  {
+    "id": 518,
+    "name": "Peter Pan - Lost Boy Leader",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/82_668defbb77459d311696f235d7b56ba2b6b5ce17.jpg"
+  },
+  {
+    "id": 543,
+    "name": "HeiHei - Accidental Explorer",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/107_061c760073a3e3f26a69240ed321c5232f68145e.jpg"
+  },
+  {
+    "id": 250,
+    "name": "Sleepy's Flute",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/34_3c28591b07ea14106f4e509bb98407d6bc642456.jpg"
+  },
+  {
+    "id": 264,
+    "name": "Madam Mim - Rival of Merlin",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/48_f97f3d5bb1dc92f65d5f2bbc459add3a048d5541.jpg"
+  },
+  {
+    "id": 527,
+    "name": "Ursula - Deceiver of All",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/91_18ac0619af9350bae55674a7f27cc5f9e912ec75.jpg"
+  },
+  {
+    "id": 648,
+    "name": "Ursula - Deceiver of All",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/212_d06e2c2d5fa64920e072bba29e91f7fe1087f5cb.jpg"
+  },
+  {
+    "id": 1308,
+    "name": "John Silver - Ferocious Friend",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/109_9c95f5198c79f424e3c5292681d79ecd502cb513.jpg"
+  },
+  {
+    "id": 291,
+    "name": "Cheshire Cat - From the Shadows",
+    "type": "Character",
+    "cost": 8,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/75_ab852020a0dfde4eb721d1317cd91f7c7f8c6f8f.jpg"
+  },
+  {
+    "id": 306,
+    "name": "Queen of Hearts - Quick-Tempered",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/90_1539223387dcbadc5b22247a525f6785b51d8a8d.jpg"
+  },
+  {
+    "id": 213,
+    "name": "Aurora - Dreaming Guardian",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/213_bfdfe33ec2d500915837a8d6e937ba387aa0245c.jpg"
+  },
+  {
+    "id": 298,
+    "name": "Flynn Rider - His Own Biggest Fan",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/82_b566bc527366a7edf8e1ca631e5631fe7368be89.jpg"
+  },
+  {
+    "id": 190,
+    "name": "Simba - Rightful Heir",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/190_16dd76c86bb49cbb3af6da69e74027cc272875e2.jpg"
+  },
+  {
+    "id": 289,
+    "name": "Bucky - Squirrel Squeak Tutor",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/73_b1dc94aefdd957f901847db58af0d2649f3d76ee.jpg"
+  },
+  {
+    "id": 354,
+    "name": "Basil - Great Mouse Detective",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/138_34d12ae36e65c7429c89603ae49c6208664304dc.jpg"
+  },
+  {
+    "id": 517,
+    "name": "Morph - Space Goo",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/81_66823f502e0bca3e750658ed31e17296a7ee259a.jpg"
+  },
+  {
+    "id": 292,
+    "name": "Daisy Duck - Secret Agent",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/76_b0decd4d8b4002f6d25130c3841fcf179aad524f.jpg"
+  },
+  {
+    "id": 288,
+    "name": "Belle - Hidden Archer",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/72_ab5884aa01a1c5e48784f56442124b5e2059b4b2.jpg"
+  },
+  {
+    "id": 363,
+    "name": "Gaston - Intellectual Powerhouse",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/147_c04aef292ea26fe5230c62f974ccd2dfa1db232e.jpg"
+  },
+  {
+    "id": 375,
+    "name": "Sisu - Divine Water Dragon",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/159_0dde67043126d79701b8de87ad9ca861a37d0861.jpg"
+  },
+  {
+    "id": 257,
+    "name": "Fairy Godmother - Mystic Armorer",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/41_25df7c5293adc1a81fa2ff40d0edbe9242131098.jpg"
+  },
+  {
+    "id": 266,
+    "name": "Merlin - Crab",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/50_64808ffe282196d4f4cb06e8bc04046a2bf16373.jpg"
+  },
+  {
+    "id": 537,
+    "name": "Fang - River City",
+    "type": "Location",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/101_6cecbccc68f235e7f48cf8129e73b1d2c5e725f8.jpg"
+  },
+  {
+    "id": 568,
+    "name": "Maui's Fish Hook",
+    "type": "Item",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/132_ae4eb03026efdfa0bc1554fb85c171ba4513555b.jpg"
+  },
+  {
+    "id": 233,
+    "name": "Nana - Darling Family Pet",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/17_263a88acd583cd2b711d1181e8e779bd61df9da1.jpg"
+  },
+  {
+    "id": 252,
+    "name": "Blue Fairy - Rewarding Good Deeds",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/36_957b79cc93c3ec31924c3060721c0456c424b241.jpg"
+  },
+  {
+    "id": 434,
+    "name": "Bernard - Brand-New Agent",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/2_3fb620d33317153669744a7b5de397af549cd87c.jpg"
+  },
+  {
+    "id": 620,
+    "name": "Mr. Smee - Bumbling Mate",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/184_a8f16a643ab83555e16ecfe0ac7a36460c426231.jpg"
+  },
+  {
+    "id": 237,
+    "name": "Sleepy - Nodding Off",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/21_fa3773856f8edc5e07083861a985143df282504a.jpg"
+  },
+  {
+    "id": 332,
+    "name": "Mother Gothel - Withered and Wicked",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/116_2a76a999ffba0a88ab68179eb3e754872123484a.jpg"
+  },
+  {
+    "id": 134,
+    "name": "Poisoned Apple",
+    "type": "Item",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/134_99fbc726452a235038eb970a8e9370d9eb5d7bd0.jpg"
+  },
+  {
+    "id": 545,
+    "name": "Jim Hawkins - Space Traveler",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/109_a3e8fcab86bd12846337b6bd931894b6e6fe9956.jpg"
+  },
+  {
+    "id": 918,
+    "name": "Gaston - Egotistical Bully",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/quest1/5_8b3295f149a241ae8ee4586307b8a795b0a0f3bf.jpg"
+  },
+  {
+    "id": 1462,
+    "name": "Pongo - Dear Old Dad",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/29_80a91813764b21cdff3f5da5a86529749093d18d.jpg"
+  },
+  {
+    "id": 603,
+    "name": "Vault Door",
+    "type": "Item",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/167_7caecf464769c84a474afd59d4b4e1c1163fe0a5.jpg"
+  },
+  {
+    "id": 851,
+    "name": "Triton - Young Prince",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/160_b3e3fdeccd6822c5e624c7ea4dbd8b0bdcc12c02.jpg"
+  },
+  {
+    "id": 894,
+    "name": "The Wall - Border Fortress",
+    "type": "Location",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/203_699078572099adb609581c6349beda065441d2cd.jpg"
+  },
+  {
+    "id": 309,
+    "name": "The Queen - Disguised Peddler",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/93_08afbfb7f2691c24189d42a3188fde0ba13f47fd.jpg"
+  },
+  {
+    "id": 350,
+    "name": "Dinner Bell",
+    "type": "Item",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/134_674e1cac81a78c2535b00f594baeeaec9ad3ad0b.jpg"
+  },
+  {
+    "id": 485,
+    "name": "Magica De Spell - The Midas Touch",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/49_0bf73917e1bb8a753aa7a4d77244824255ee45b1.jpg"
+  },
+  {
+    "id": 389,
+    "name": "Beast - Tragic Hero",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/173_786f2a4a98f56936e53c52702a2e1bb2ed5e6d2d.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Stolen Scimitar",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/102_87369f5fd314535328257a61c938f3c04d1f4ea3.jpg"
+  },
+  {
+    "id": 303,
+    "name": "Panic - Underworld Imp",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/87_8617b8a8f58f8a9846e00511c2ea558dea9fa8a6.jpg"
+  },
+  {
+    "id": 556,
+    "name": "Peter Pan - Pirate's Bane",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/120_d4740336984b08d6740d1d925f2edcadc1893f67.jpg"
+  },
+  {
+    "id": 571,
+    "name": "Jolly Roger - Hook's Ship",
+    "type": "Location",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/135_076ad6eb93a3cf12555209e8de00cac45d775a52.jpg"
+  },
+  {
+    "id": 651,
+    "name": "Peter Pan - Pirate's Bane",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/215_0646084b0ffc61f897e00bfa98fbbed170201d5e.jpg"
+  },
+  {
+    "id": 282,
+    "name": "Croquet Mallet",
+    "type": "Item",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/66_8102bc16b40931bc0a669cba3f9d83ecbab1e5e8.jpg"
+  },
+  {
+    "id": 673,
+    "name": "Bucky - Squirrel Squeak Tutor",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo1/15_e2ea8cfa4607bf59aed9f6ed7c40e640f659deaa.jpg"
+  },
+  {
+    "id": 491,
+    "name": "Stratos - Tornado Titan",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/55_9ebd974a674fa08202b36aad345a3c622e775e84.jpg"
+  },
+  {
+    "id": 878,
+    "name": "Mickey Mouse - Playful Sorcerer",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/187_bd47c3209b1ccb3a852481a262f1faa0bd8a72d7.jpg"
+  },
+  {
+    "id": 949,
+    "name": "Mickey Mouse - Playful Sorcerer",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/225_44a290f5da5fe2fe6c244f7917612b529bd0cc76.jpg"
+  },
+  {
+    "id": 238,
+    "name": "Sneezy - Very Allergic",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/22_1499ef8e75015af2a54f9c27149a87107f1f8604.jpg"
+  },
+  {
+    "id": 696,
+    "name": "Cogsworth - Majordomo",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/5_bc404ad812410f07dbbf6d072f5963b574107840.jpg"
+  },
+  {
+    "id": 1032,
+    "name": "Merryweather - Good Fairy",
+    "type": "Character",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/76_e2db0795b732d956e6a1ede69676b43eedf90850.jpg"
+  },
+  {
+    "id": 779,
+    "name": "Prince Phillip - Warden of the Woods",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/88_480349ca7346df53d6bc68eb508459059090951d.jpg"
+  },
+  {
+    "id": 824,
+    "name": "The Plank",
+    "type": "Item",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/133_baca40a0974cc034749ba8d9a4b8ec4095340743.jpg"
+  },
+  {
+    "id": 828,
+    "name": "Anna - Braving the Storm",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/137_e5f1c1eaebec8b5a6884c15f978cfe974c422fce.jpg"
+  },
+  {
+    "id": 170,
+    "name": "Scepter of Arendelle",
+    "type": "Item",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/170_f07c278ba9ecd7b0a69c3de758c6cbe83d75ffe0.jpg"
+  },
+  {
+    "id": 249,
+    "name": "Dragon Gem",
+    "type": "Item",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/33_30216e373945bc7bcd69c2f2f109213bebdd8ebf.jpg"
+  },
+  {
+    "id": 353,
+    "name": "Alice - Growing Girl",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/137_b6825011bd49bc5a510afc3ca4b9d63bd29c9e50.jpg"
+  },
+  {
+    "id": 365,
+    "name": "Hiram Flaversham - Toymaker",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/149_e1015f9e276e726ddd4333ebee57c12d5019a37f.jpg"
+  },
+  {
+    "id": 573,
+    "name": "Audrey Ramirez - The Engineer",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/137_ad802287043f70df2c78a43c5a9369e4703b6e35.jpg"
+  },
+  {
+    "id": 436,
+    "name": "Dalmatian Puppy - Tail Wagger",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/4a_515320f9bcecb1bc02487ee7ddea903c936dd83e.jpg"
+  },
+  {
+    "id": 437,
+    "name": "Dalmatian Puppy - Tail Wagger",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/4b_401e05960ed49ce88e6e6dfc3742706269fd3ba7.jpg"
+  },
+  {
+    "id": 438,
+    "name": "Dalmatian Puppy - Tail Wagger",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/4c_fc2b4f1d17aaafa16be7a54aeded7dbb51fcf76f.jpg"
+  },
+  {
+    "id": 704,
+    "name": "Julieta Madrigal - Excellent Cook",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/13_078f27880f8df17d0353628d9fba420fa444bfe4.jpg"
+  },
+  {
+    "id": 203,
+    "name": "Musketeer Tabard",
+    "type": "Item",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/203_cc94998f969292ad0dcc76feaeaa2911d3e9c50d.jpg"
+  },
+  {
+    "id": 445,
+    "name": "Minnie Mouse - Musical Artist",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/9_a8594620264e13adb7ce6ecee37e41b9ed17add6.jpg"
+  },
+  {
+    "id": 614,
+    "name": "Little John - Resourceful Outlaw",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/178_96a6c5725f50f3968b3ba28abeccf924144d4ce2.jpg"
+  },
+  {
+    "id": 217,
+    "name": "Bashful - Hopeless Romantic",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/1_1e38ef5974bbcb4bd38af1df1c050cd8018f5f3e.jpg"
+  },
+  {
+    "id": 494,
+    "name": "Treasure Guardian - Protector of the Cave",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/58_8c40116000963836b9e01fec5b864cf1f0ec5d28.jpg"
+  },
+  {
+    "id": 744,
+    "name": "Pepa Madrigal - Weather Maker",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/53_cdb056d03d03bca8c1b3007dd005dc20693397b0.jpg"
+  },
+  {
+    "id": 286,
+    "name": "Beast - Relentless",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/70_94730ced469b0b1d444a5090cd5de9b09fb69bbc.jpg"
+  },
+  {
+    "id": 426,
+    "name": "Beast - Relentless",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/210_e2776457c8df91327dbb0fd3fb21efd6ac63bd87.jpg"
+  },
+  {
+    "id": 276,
+    "name": "Yzma - Scary Beyond All Reason",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/60_55566c6822922de1b3ea70043ab4b44145cf1ed7.jpg"
+  },
+  {
+    "id": 435,
+    "name": "Chernabog - Evildoer",
+    "type": "Character",
+    "cost": 10,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/3_502319a6bd7e70517b4fb18bf68de240221c1558.jpg"
+  },
+  {
+    "id": 270,
+    "name": "Merlin - Squirrel",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/54_7e7ea15127e1b224c9ca24848098dd4bd052c7b3.jpg"
+  },
+  {
+    "id": 301,
+    "name": "Lucifer - Cunning Cat",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/85_ad3384a79d38b01b9053570c38b1ab9b2b7bed44.jpg"
+  },
+  {
+    "id": 790,
+    "name": "Signed Contract",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/99_e0c5eddf5eabf3b5f3084e9cf262d5704e1afcbc.jpg"
+  },
+  {
+    "id": 1126,
+    "name": "Merlin's Cottage - The Wizard's Home",
+    "type": "Location",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/170_684e330d94c4d294fa14b442410012e2837a5f9c.jpg"
+  },
+  {
+    "id": 1727,
+    "name": "Bambi - Little Prince",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set8/63_4bc96b78fb2ba12dff226ea9d12415dc98846835.jpg"
+  },
+  {
+    "id": 1160,
+    "name": "Seven Dwarfs' Mine - Secure Fortress",
+    "type": "Location",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/204_b7a1ca2b244bd6fe7e6a8eb283dee088bbe97d6c.jpg"
+  },
+  {
+    "id": 1301,
+    "name": "Owl Island - Secluded Entrance",
+    "type": "Location",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/102_a0ce986f37d104a8ddad71a60607b885646ce9f9.jpg"
+  },
+  {
+    "id": 2488,
+    "name": "Angel - Siren Singer",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set11/25_d1eaf89d900c5a7b62464741c2375a5a91e59afe.jpg"
+  },
+  {
+    "id": 136,
+    "name": "Sword of Truth",
+    "type": "Item",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/136_6cdc460b4433323583efeedba9e6b08c6f393882.jpg"
+  },
+  {
+    "id": 205,
+    "name": "Hades - King of Olympus",
+    "type": "Character",
+    "cost": 8,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/205_b39a86f5b11b007683bbdc7d0f181d8a94134581.jpg"
+  },
+  {
+    "id": 500,
+    "name": "The Lamp",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/64_b1756faed785aeaf44ad6eda0190e303db57c525.jpg"
+  },
+  {
+    "id": 1622,
+    "name": "Razoul - Menacing Guard",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/189_bbb1751591b2f33661cb68a3214a3bed5a28846e.jpg"
+  },
+  {
+    "id": 1896,
+    "name": "Metal Scorpion - Deadly Statue",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/quest2/1_973b9d3242abfb4c83bc71dc5aafd6365ff2421e.jpg"
+  },
+  {
+    "id": 2730,
+    "name": "Woody - Jungle Guide",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set12/15_c8b3f1a594fad65bd571a0dac0a61eb4a59cad2f.jpg"
+  },
+  {
+    "id": 2735,
+    "name": "Jessie - Lively Cowgirl",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set12/20_fd7315e215a10d7e80219ccd28b6adc40f7722ae.jpg"
+  },
+  {
+    "id": 2736,
+    "name": "Woody - Leader of the Toys",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set12/21_300a1537ad2fa0f2a32b0bfcfb661d7d84dcec98.jpg"
+  },
+  {
+    "id": 1422,
+    "name": "Oswald - The Lucky Rabbit",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/d23/6_f8c77d582d04d29a2891cc2c2609f3347d197e78.jpg"
+  },
+  {
+    "id": 1726,
+    "name": "Jiminy Cricket - Level-Headed and Wise",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set8/62_e662995e14c5b3332380f657cd6226c886381c8e.jpg"
+  },
+  {
+    "id": 368,
+    "name": "Judy Hopps - Optimistic Officer",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/152_89eac50238152912a16944009b35d1b2cc0d2506.jpg"
+  },
+  {
+    "id": 997,
+    "name": "Earth Giant - Living Mountain",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/41_0108a399a6725f627754abaa3e9cb6be4e30d17e.jpg"
+  },
+  {
+    "id": 645,
+    "name": "Maleficent - Mistress of All Evil",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/209_029d3489e1259c2f3eed6d407836633496e6ba4a.jpg"
+  },
+  {
+    "id": 728,
+    "name": "Belle - Untrained Mystic",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/37_2b82f4c3af98de1aca97d55c9391bc6962892cad.jpg"
+  },
+  {
+    "id": 723,
+    "name": "Record Player",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/32_92ebde1cfe024a9a325670b3ad3f0becc1c0cb6f.jpg"
+  },
+  {
+    "id": 724,
+    "name": "Atlantica - Concert Hall",
+    "type": "Location",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/33_178cc2d193182fccf9304ea7770a4f6d6a916792.jpg"
+  },
+  {
+    "id": 429,
+    "name": "Alice - Growing Girl",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/213_af6ecfcbea56db8f248122eb6d23edfd73264839.jpg"
+  },
+  {
+    "id": 791,
+    "name": "Vision Slab",
+    "type": "Item",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/100_ef3a9291d4bcdc5954e6c8a8ab9b886f390f8969.jpg"
+  },
+  {
+    "id": 208,
+    "name": "Mickey Mouse - Wayward Sorcerer",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/208_a6e23aff2ad2da8178b942be816452d9af7ecdd8.jpg"
+  },
+  {
+    "id": 481,
+    "name": "Magic Broom - Swift Cleaner",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/45_3c98c7ad2e06ffce2ef3ba2ab4d6710b2536a2fa.jpg"
+  },
+  {
+    "id": 526,
+    "name": "Ursula - Deceiver",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/90_8aa9e56603c8fc0d2576cf26339f41169b064481.jpg"
+  },
+  {
+    "id": 715,
+    "name": "Ursula - Eric's Bride",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/24_acbb9fe133d2ca7a1489bc26fae295e77ccaa868.jpg"
+  },
+  {
+    "id": 972,
+    "name": "Daisy Duck - Donald's Date",
+    "type": "Character",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/16_f2ca72a2430774c1e4904d419a35ab482bcbbbea.jpg"
+  },
+  {
+    "id": 2976,
+    "name": "Rabbit - Hunny Paladin",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/5_1c29e8e20d5be1533b792248d8165e16f6d81ff2.jpg"
+  },
+  {
+    "id": 3011,
+    "name": "Winnie the Pooh - Hunny Archmage",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/40_078fa7478c47366913298522274c68ceff104930.jpg"
+  },
+  {
+    "id": 3032,
+    "name": "Christopher Robin - Hunny Sage",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/61_cdd6f969c4085ec3d6eccab7536cb4ad192baf22.jpg"
+  },
+  {
+    "id": 225,
+    "name": "Grand Duke - Advisor to the King",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/9_30851d144b392148c5c09ecd16dad7a274e3c7ad.jpg"
+  },
+  {
+    "id": 837,
+    "name": "Hans - Noble Scoundrel",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/146_07ad274f7c465bacb862956e5c4da5e1b082b91d.jpg"
+  },
+  {
+    "id": 987,
+    "name": "Queen's Sensor Core",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/31_3d122d9007200afa8f963336d3f6aa3a30cd1376.jpg"
+  },
+  {
+    "id": 727,
+    "name": "Belle - Accomplished Mystic",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/36_66f51e2ad57502d131d259db472b0d782a04d052.jpg"
+  },
+  {
+    "id": 509,
+    "name": "Friar Tuck - Priest of Nottingham",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/73_4924c749d55f0782001274cbbc36ef043f0accfb.jpg"
+  },
+  {
+    "id": 516,
+    "name": "Milo Thatch - King of Atlantis",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/80_5cf2390f3701b5f3294866ae47b80e1d03c60529.jpg"
+  },
+  {
+    "id": 693,
+    "name": "Alma Madrigal - Family Matriarch",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/2_9a959522a1d5a83fb0ba56e61e957173fe76df6a.jpg"
+  },
+  {
+    "id": 695,
+    "name": "Cinderella - Melody Weaver",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/4_7c5a22f69a9b61ceaeb65ebda1a2fca4c64b598f.jpg"
+  },
+  {
+    "id": 2203,
+    "name": "Flash - Records Specialist",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/14_d2e6581496a0a7545f0ef3ccb7fcf288e54f0b69.jpg"
+  },
+  {
+    "id": 2326,
+    "name": "Judy Hopps - On the Case",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/137_30d8cb2cb3712386a7bc680212e469af140f807e.jpg"
+  },
+  {
+    "id": 2339,
+    "name": "Judy Hopps - Lead Detective",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/150_722eaaa57d6bd69ab2ae31afc40958db763fb56c.jpg"
+  },
+  {
+    "id": 805,
+    "name": "Mulan - Elite Archer",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/114_31adafa3c32af84300598451367e412e1b0d0c35.jpg"
+  },
+  {
+    "id": 808,
+    "name": "Namaari - Heir of Fang",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/117_58069d8f14e751daf77e5d535eae7a3a7cfa7927.jpg"
+  },
+  {
+    "id": 948,
+    "name": "Mulan - Elite Archer",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/224_416a3e861939dc49524df1fdba2a1c9412717f6e.jpg"
+  },
+  {
+    "id": 1606,
+    "name": "Jasmine - Inspired Researcher",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/173_48390cae8f6bb04f8e38a2caee5fae40dae161f7.jpg"
+  },
+  {
+    "id": 1609,
+    "name": "Maid Marian - Badminton Ace",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/176_391a9717a66e5c0f64b45e7bc1f8a32d65b751c1.jpg"
+  },
+  {
+    "id": 1628,
+    "name": "Miss Bianca - Unwavering Agent",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/195_5d348391988650c37556f203fbd7acb12064a699.jpg"
+  },
+  {
+    "id": 471,
+    "name": "Alice - Tea Alchemist",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/35_3f6f8329a061a59f060014bbb3d1880f32c21046.jpg"
+  },
+  {
+    "id": 501,
+    "name": "The Sorcerer's Hat",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/65_854548866844b4a2b4bc657fe76e3dcd7178b67c.jpg"
+  },
+  {
+    "id": 533,
+    "name": "Airfoil",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/97_24bfd0c36ccb38d8021d181c14756bb3d101fa7f.jpg"
+  },
+  {
+    "id": 1102,
+    "name": "Chicha - Dedicated Mother",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/146_50bdfc2eed644f4bfae1ba231742e4e73635a287.jpg"
+  },
+  {
+    "id": 1184,
+    "name": "Chicha - Dedicated Mother",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo2/5_71e3440e9e4739ca6ea21b8fe8038697a0fa2351.jpg"
+  },
+  {
+    "id": 647,
+    "name": "Morph - Space Goo",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/211_5e4e75f4eaff01598d71860524a9b0ace4a48bec.jpg"
+  },
+  {
+    "id": 2247,
+    "name": "Merlin - Completing His Research",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/58_7069520af6d9e30c00156a48a752dec71a142165.jpg"
+  },
+  {
+    "id": 1437,
+    "name": "Bolt - Superdog",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/4_a6c4e11c660a169a3bd52d4348c13407ad478831.jpg"
+  },
+  {
+    "id": 1480,
+    "name": "Treasure Guardian - Foreboding Sentry",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/47_cd97ef81d0cb8ce52586f3c708f3e7914d14ff12.jpg"
+  },
+  {
+    "id": 1484,
+    "name": "Jafar - Newly Crowned",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/51_8d0063140b03da1f6d122567108789aa8a74938e.jpg"
+  },
+  {
+    "id": 305,
+    "name": "Prince John - Greediest of All",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/89_0f990c45966eb92587a21c8de0b0b306285501c8.jpg"
+  },
+  {
+    "id": 1371,
+    "name": "Kakamora - Pirate Chief",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/172_e9d7159f91ef6bb9db8f667e8080d733785f0226.jpg"
+  },
+  {
+    "id": 1193,
+    "name": "Ursula - Deceiver",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/d23/3_569cc7920299a66496b9db5894b5e1f8ab3ffa5f.jpg"
+  },
+  {
+    "id": 2207,
+    "name": "Scrooge McDuck - Cavern Prospector",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/18_88d1ffb5f9377cafbb835c2b073fae10b1f57488.jpg"
+  },
+  {
+    "id": 2211,
+    "name": "Della Duck - Returning Mother",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/22_6d5b4c4f9ac67ba4cd517ccb08dd9603c29ed367.jpg"
+  },
+  {
+    "id": 2219,
+    "name": "Recovered Page",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/30_5c6cf73f8ac67e7e87965928e8900ef6e9ae53bd.jpg"
+  },
+  {
+    "id": 2768,
+    "name": "Mirage - Super Recruiter",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set12/53_e9157ba8aa867c13ffdcdc9eafecbc1b04fbdf9e.jpg"
+  },
+  {
+    "id": 2769,
+    "name": "Edna Mode - Fashion Designer",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set12/54_095936119618f5173c249035dd814c980756b3f5.jpg"
+  },
+  {
+    "id": 2774,
+    "name": "Frozone - Super Cool",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set12/59_ec18a425ab0ca9997749a3934132e91a2847785e.jpg"
+  },
+  {
+    "id": 412,
+    "name": "Tiana - Celebrating Princess",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/196_955163f8c8b42b156832734d304e29adbb9a8668.jpg"
+  },
+  {
+    "id": 1151,
+    "name": "Pete - Games Referee",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/195_5c2f5c4fb88891829ea80d6aa45f792080517c4f.jpg"
+  },
+  {
+    "id": 1509,
+    "name": "Archimedes - Exceptional Owl",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/76_d8de52733a8054a9f1829b6eebbbfbb3437a031a.jpg"
+  },
+  {
+    "id": 1530,
+    "name": "Yokai - Intellectual Schemer",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/97_6b7b5ebb530c33c54ccd3b58316390c2de25acd2.jpg"
+  },
+  {
+    "id": 1344,
+    "name": "Hiro Hamada - Robotics Prodigy",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/145_f4af426ec29f7892c5e2c1c1e8bf4d9415c9e600.jpg"
+  },
+  {
+    "id": 1365,
+    "name": "Baymax's Healthcare Chip",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/166_bd9549783ab07daa6a0907d0c306db72d4b948fc.jpg"
+  },
+  {
+    "id": 1403,
+    "name": "Galactic Council Chamber - Courtroom",
+    "type": "Location",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/204_7985fc2b0fd85c241a2c957f94d8ee701754e878.jpg"
+  },
+  {
+    "id": 1488,
+    "name": "Elsa - Trusted Sister",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/55_d3a24d75c07b0d8f97fb4b74ba03f6e1bbe8cb07.jpg"
+  },
+  {
+    "id": 1502,
+    "name": "Elsa - Ice Maker",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/69_da878569faef159d2ceb17b01c10cc41dbcbd3e8.jpg"
+  },
+  {
+    "id": 226,
+    "name": "Grumpy - Bad-Tempered",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/10_128b6bddc558c76371fb2a684a78cf09984192f2.jpg"
+  },
+  {
+    "id": 267,
+    "name": "Merlin - Goat",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/51_7d977eefd791bc8c448fdbfa607e58b53688d1bb.jpg"
+  },
+  {
+    "id": 268,
+    "name": "Merlin - Rabbit",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/52_40161ef659387e7a361ffc7b69c03bfc9a98856a.jpg"
+  },
+  {
+    "id": 505,
+    "name": "Cubby - Mighty Lost Boy",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/69_472dccf85d7e139be5f055ab7cf355c233ac7638.jpg"
+  },
+  {
+    "id": 971,
+    "name": "Minnie Mouse - Drum Major",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/15_0c6bb18f8d9024415934e652cffc5ba03d9dd29f.jpg"
+  },
+  {
+    "id": 1115,
+    "name": "Merlin - Intellectual Visionary",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/159_02e7ce1b9d19279236e6ab0fe1d200b3420c2e73.jpg"
+  },
+  {
+    "id": 735,
+    "name": "Flotsam & Jetsam - Entangling Eels",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/44_7cf0030e12a95755e5c405650595b2e09b91bedb.jpg"
+  },
+  {
+    "id": 956,
+    "name": "Flotsam & Jetsam - Entangling Eels",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo1/40_453a4b21074eb029138e74e81d7a5ebc036707c7.jpg"
+  },
+  {
+    "id": 1062,
+    "name": "Turbo - Royal Hack",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/106_f7f6f188c5c4725624975b142b5c94911f808d3f.jpg"
+  },
+  {
+    "id": 1216,
+    "name": "Grand Councilwoman - Federation Leader",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/17_d11e2c2c689b7b58ab17a535d079de5757c73f9d.jpg"
+  },
+  {
+    "id": 2110,
+    "name": "Lilo - Best Explorer Ever",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set9/174_c0e0bda04ec895d21fd17276e75fb34350cd9df5.jpg"
+  },
+  {
+    "id": 1009,
+    "name": "Magica De Spell - Cruel Sorceress",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/53_8db0c830525efb1a73ab8a3c3a09d5bc4c02b972.jpg"
+  },
+  {
+    "id": 1496,
+    "name": "Kronk - Laid Back",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/63_9fd498c7e2f2ee3275f63fbf9905b8f30de1cc64.jpg"
+  },
+  {
+    "id": 1671,
+    "name": "Ludwig Von Drake - All-Around Expert",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set8/7_146aa30159bd0b2674af16ebc9a8e40ef175ddf7.jpg"
+  },
+  {
+    "id": 2208,
+    "name": "Mowgli - Man Cub",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/19_536ca4c600928a45bc8095a3badf0ded88cbfcb6.jpg"
+  },
+  {
+    "id": 915,
+    "name": "Bruno Madrigal - Unspeakable Seer",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/quest1/2_012219f15033c7c06817bc372f78d77e364192c9.jpg"
+  },
+  {
+    "id": 1265,
+    "name": "Mad Hatter's Teapot",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/66_844bcfdf82ccf97a95e811327cbc1a0b21986bab.jpg"
+  },
+  {
+    "id": 1731,
+    "name": "Kuzco - Impulsive Llama",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set8/67_c48d584577b7e6e10f7b42e4667ff335e8284955.jpg"
+  },
+  {
+    "id": 1136,
+    "name": "Sneezy - Noisy Knight",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/180_deece49f2eb747454635bda4de22d028be3bb240.jpg"
+  },
+  {
+    "id": 1137,
+    "name": "Dopey - Knight Apprentice",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/181_35304622f518a62de0a427bfbcfec36485739f39.jpg"
+  },
+  {
+    "id": 1139,
+    "name": "Snow White - Fair-Hearted",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/183_6f513e3a00a526b04615a9d0d50cb02ce56a2e6b.jpg"
+  },
+  {
+    "id": 1453,
+    "name": "King Candy - Royal Racer",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/20_0516f82fa67fd803c7e06f91e40103e8b4e418e6.jpg"
+  },
+  {
+    "id": 1455,
+    "name": "Fix-It Felix, Jr. - Pint-Sized Hero",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/22_b3166aa76da11cb92ef2d86adab161c20cd054d5.jpg"
+  },
+  {
+    "id": 1459,
+    "name": "Calhoun - Courageous Rescuer",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/26_4951787263e9fa937983ae194442e7a219671ffe.jpg"
+  },
+  {
+    "id": 2358,
+    "name": "Inkrunner",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/169_bc1aa6c1102b14e98f2a6082c64f2ac7f2d1477e.jpg"
+  },
+  {
+    "id": 2370,
+    "name": "Minnie Mouse - Ghost Hunter",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/181_bd75c4906fb7d992b91c698fba9dd4bda9d12cc5.jpg"
+  },
+  {
+    "id": 2518,
+    "name": "Christopher Robin - Joining the Fun",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set11/55_a858de14558b5308d12beeb688208b4560da515d.jpg"
+  },
+  {
+    "id": 2552,
+    "name": "White Rabbit - Late Again",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set11/89_7711c75e2e200b32e7346a6c6af5dad5e74a8c17.jpg"
+  },
+  {
+    "id": 214,
+    "name": "Belle - Strange but Special",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/214_52e0da8b5ca3a5eac6175e7221d284cbca650c54.jpg"
+  },
+  {
+    "id": 2618,
+    "name": "Moana - Curious Explorer",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set11/155_02c48a20c00faeccae34b1d0cee3e82fcfd1b5ba.jpg"
+  },
+  {
+    "id": 643,
+    "name": "Pride Lands - Pride Rock",
+    "type": "Location",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/207_030ceda861ef69b97ce6fcd848e081911792408c.jpg"
+  },
+  {
+    "id": 330,
+    "name": "Minnie Mouse - Wide-Eyed Diver",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/114_3b421010cd1d4404727373123ca2786a830baccb.jpg"
+  },
+  {
+    "id": 674,
+    "name": "Minnie Mouse - Wide-Eyed Diver",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo1/16_cc712e95716400617a57e2740b9bcd0a760403c5.jpg"
+  },
+  {
+    "id": 709,
+    "name": "Mirabel Madrigal - Gift of the Family",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/18_511a3648909b2b51e137c2503bb8f89f8dc8a905.jpg"
+  },
+  {
+    "id": 1449,
+    "name": "Mariano Guzman - Handsome Suitor",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/16_98bed1dab51868ff81a390c032a3aa9ca57e629a.jpg"
+  },
+  {
+    "id": 789,
+    "name": "Hidden Inkcaster",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/98_d31394ef2ddf61ee3db5279f4f56f5636749bf85.jpg"
+  },
+  {
+    "id": 847,
+    "name": "The Queen - Diviner",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/156_b17050b80fa3ac51c1eef4ca35c3bc1d05eba854.jpg"
+  },
+  {
+    "id": 909,
+    "name": "The Queen - Diviner",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/218_a0f882bdc4d12c5997803a3ff3d50f2f70eaa709.jpg"
+  },
+  {
+    "id": 2993,
+    "name": "The Horned King - Merciless Master",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/22_7e7239515f1639f8ee416f11640cb31576705d02.jpg"
+  },
+  {
+    "id": 957,
+    "name": "Koda - Talkative Cub",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/1_91b50444e296a71032e64adb2e9fca7c927a8063.jpg"
+  },
+  {
+    "id": 1056,
+    "name": "Emerald Chromicon",
+    "type": "Item",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/100_c81e1759aa2a42df4659cb0ea92592148c668dab.jpg"
+  },
+  {
+    "id": 1337,
+    "name": "Aunt Cass - Biggest Fan",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/138_0192e14d24e4a57a463956e43a4751ed2c03ef55.jpg"
+  },
+  {
+    "id": 1339,
+    "name": "Gadget Hackwrench - Brilliant Bosun",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/140_5a91cc88eeae019847ce356151a99f54e392c844.jpg"
+  },
+  {
+    "id": 1353,
+    "name": "Hiro Hamada - Team Leader",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/154_43ed9ac134b7bd2b024c7f03f07571a420c4b057.jpg"
+  },
+  {
+    "id": 177,
+    "name": "Donald Duck - Musketeer",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/177_89b4a737a27d82851cab677e70616e9e306431eb.jpg"
+  },
+  {
+    "id": 299,
+    "name": "Gaston - Scheming Suitor",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/83_6796e22e12ab04bcad8e25ba43184c391d865492.jpg"
+  },
+  {
+    "id": 1012,
+    "name": "Anna - Eager Acolyte",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/56_9e690b1189e20cff2e7b5a867a77c151ae12800c.jpg"
+  },
+  {
+    "id": 1483,
+    "name": "Chernabog - Creature of the Night",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/50_d7ea60f6095211e6eb7f253bca164e43db3b34c0.jpg"
+  },
+  {
+    "id": 2226,
+    "name": "Gwythaint - Savage Hunter",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/37_febee1e8aec13e84c2509693dc8dd201c3fb7f04.jpg"
+  },
+  {
+    "id": 1106,
+    "name": "Mufasa - Ruler of Pride Rock",
+    "type": "Character",
+    "cost": 8,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/150_54e52d32300e0f21420511844471b6b2ecbf5069.jpg"
+  },
+  {
+    "id": 1173,
+    "name": "Mufasa - Ruler of Pride Rock",
+    "type": "Character",
+    "cost": 8,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/217_2fd0a79f18347b88f5fb974b284f2619a3481770.jpg"
+  },
+  {
+    "id": 1501,
+    "name": "Yzma - Above It All",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/68_e63d07afef43c18a354824da04ff9b46fe5d1fed.jpg"
+  },
+  {
+    "id": 1255,
+    "name": "Yzma - Conniving Chemist",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/56_ea303cb22a42e854fbc6af0fa7014805455ed534.jpg"
+  },
+  {
+    "id": 1408,
+    "name": "Yzma - Conniving Chemist",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/209_b5225d8d38cb38e609fdafa737726bea42070f8c.jpg"
+  },
+  {
+    "id": 2244,
+    "name": "Demona - Scourge of the Wyvern Clan",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/55_151723f186d73ed6952e22783cac041e2acfd50a.jpg"
+  },
+  {
+    "id": 1708,
+    "name": "The Nephews' Piggy Bank",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set8/44_6f3c2ad1837f2a60a79c4e919fac98342d29d859.jpg"
+  },
+  {
+    "id": 2606,
+    "name": "Honker Muddlefoot - Timid Genius",
+    "type": "Character",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set11/143_dd793313a758e8fab7f6e7c0216e627531006d2b.jpg"
+  },
+  {
+    "id": 2629,
+    "name": "Blue Smoke",
+    "type": "Item",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set11/166_eda537b464bab67a8cfe8cb67bc7626e6b70764e.jpg"
+  },
+  {
+    "id": 1902,
+    "name": "Genie - Towering Phantasm",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/quest2/7_70d96b7b215ca030af34b243d25ce5f7f8359c2a.jpg"
+  },
+  {
+    "id": 1903,
+    "name": "The Sultan - Spectral Ruler",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/quest2/8_8478e5e7e8038781d6ead3872bc40629678a2cee.jpg"
+  },
+  {
+    "id": 508,
+    "name": "Flotsam - Riffraff",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/72_6620f7b992c425467599806853fde2f3db138639.jpg"
+  },
+  {
+    "id": 734,
+    "name": "Flotsam - Ursula's \"Baby\"",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/43_ecd848fb412bf586fc32afccf886ed9531ff6d37.jpg"
+  },
+  {
+    "id": 512,
+    "name": "Jetsam - Riffraff",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/76_e98ee528b2d503046ddbb6123de8506df8764e5f.jpg"
+  },
+  {
+    "id": 191,
+    "name": "Starkey - Hook's Henchman",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/191_84503fd43de7bf08f348150df0f90da932778145.jpg"
+  },
+  {
+    "id": 635,
+    "name": "Captain Hook's Rapier",
+    "type": "Item",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/199_06785880a17b833d75fffad298d3a6dd9660f97d.jpg"
+  },
+  {
+    "id": 504,
+    "name": "The Sorcerer's Tower - Wondrous Workspace",
+    "type": "Location",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/68_2c544e953317469282258111fd4b34287f2b150c.jpg"
+  },
+  {
+    "id": 750,
+    "name": "Yen Sid - Powerful Sorcerer",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/59_cd2eb92f03707b21839b99139a247725ffa98db9.jpg"
+  },
+  {
+    "id": 877,
+    "name": "Magic Broom - Brigade Commander",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/186_b23983de39b77e69ddbacba97288590ce7208cac.jpg"
+  },
+  {
+    "id": 541,
+    "name": "Captain Hook - Master Swordsman",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/105_ec1ab7b0bb047a39a7ea20304489e98f065a822d.jpg"
+  },
+  {
+    "id": 650,
+    "name": "Captain Hook - Master Swordsman",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/214_38a70821a10bb6201555b037986ecb886eb99481.jpg"
+  },
+  {
+    "id": 592,
+    "name": "The Queen - Mirror Seeker",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/156_007f03c83c5d39bff6540d974ae64132b2f37b2d.jpg"
+  },
+  {
+    "id": 842,
+    "name": "Pascal - Inquisitive Pet",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/151_b784169da21742d9dcf34985b59636f87ef1ad3f.jpg"
+  },
+  {
+    "id": 2085,
+    "name": "The Queen - Mirror Seeker",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set9/149_070547b24760c4078c903ee170103e30a016af0d.jpg"
+  },
+  {
+    "id": 920,
+    "name": "Hercules - Manipulated Hero",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/quest1/7_e8ff8640eb47816a8fc406077327c96ffefef674.jpg"
+  },
+  {
+    "id": 928,
+    "name": "Tamatoa - Grabby Crab",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/quest1/15_8031d363e6d98d37893044b37ee89107acc08239.jpg"
+  },
+  {
+    "id": 2978,
+    "name": "Meilin Lee - Lead Vocalist",
+    "type": "Character",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/7_70135cd3ea2d66bf436658a27a5e0fc769fa4e95.jpg"
+  },
+  {
+    "id": 2192,
+    "name": "Rapunzel - Ready for Adventure",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/3_fb52ab7e41b32692bcf120fb7760b0eb4f2c0af3.jpg"
+  },
+  {
+    "id": 2658,
+    "name": "Lilo - Bundled Up",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set11/195_d87db74760ed0da6d1f2c4f284e84c7c381779e1.jpg"
+  },
+  {
+    "id": 1320,
+    "name": "Moana - Kakamora Leader",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/121_13a07f2dfea670d05a5845b88d50858451d29ac5.jpg"
+  },
+  {
+    "id": 1507,
+    "name": "The Queen - Jealous Beauty",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/74_c75ea5cc49e416f7fcb65a8ca991a77c78871fb0.jpg"
+  },
+  {
+    "id": 1522,
+    "name": "Pete - Pirate Scoundrel",
+    "type": "Character",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/89_931e95f32bd80c0a7a7e21ad84df333aa31b8d92.jpg"
+  },
+  {
+    "id": 1531,
+    "name": "Donald Duck - Lively Pirate",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/98_b3121447453546699455af1300c7531e7b6cef8a.jpg"
+  },
+  {
+    "id": 1540,
+    "name": "Mr. Smee - Efficient Captain",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/107_a68134179e1b7e01f811ac798cff39fd1c0514a9.jpg"
+  },
+  {
+    "id": 1542,
+    "name": "John Silver - Vengeful Pirate",
+    "type": "Character",
+    "cost": 8,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/109_deb7bd8364b2621f4bb95bf6435e4f113af931c2.jpg"
+  },
+  {
+    "id": 1585,
+    "name": "Devil's Eye Diamond",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/152_b000694fe41606d494295fbbf28439a6b7b9d155.jpg"
+  },
+  {
+    "id": 1651,
+    "name": "Devil's Eye Diamond",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/218_7fb97a05fafb9d5829326517d5388443bf514fc7.jpg"
+  },
+  {
+    "id": 2478,
+    "name": "John Smith - Snow Tracker",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set11/15_3859657f7eb792e18722b6ec996819ad37e99a2e.jpg"
+  },
+  {
+    "id": 2485,
+    "name": "Pocahontas - Peacekeeper",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set11/22_e196eff470b7530713f5aac72742ec590514ec07.jpg"
+  },
+  {
+    "id": 2496,
+    "name": "John Smith's Compass",
+    "type": "Item",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set11/33_c7ae1635343a310041cd97f6c3022eded0a7d6a2.jpg"
+  },
+  {
+    "id": 2631,
+    "name": "Darkwing's Chair Set",
+    "type": "Item",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set11/168_be035d812029ef2046fdefad590cada4ac0e0e6d.jpg"
+  },
+  {
+    "id": 2836,
+    "name": "Jack-Jack Parr - Incredible Potential",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set12/121_5be0c6e34af28b7ae21b074c7a7efb5ba210c5b5.jpg"
+  },
+  {
+    "id": 2947,
+    "name": "Jack-Jack Parr - Incredible Potential",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set12/232_087e77730b575f70cfa5ee3835f844b2ceb28b5b.jpg"
+  },
+  {
+    "id": 1736,
+    "name": "Anna - Magical Mission",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set8/72_9ee84ec10a2d5ae8462eefdf386b37fb99e3cf59.jpg"
+  },
+  {
+    "id": 1821,
+    "name": "Anna - Trusting Sister",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set8/157_d78685317d1d1413d89b102f2117712f66e9cd30.jpg"
+  },
+  {
+    "id": 560,
+    "name": "Slightly - Lost Boy",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/124_18073a115712da41b07f4c89586a012d099fe706.jpg"
+  },
+  {
+    "id": 1089,
+    "name": "The Sword Released",
+    "type": "Item",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/133_a4199d3d57f8b271b61f1759a8f267aaa26aaf04.jpg"
+  },
+  {
+    "id": 1334,
+    "name": "Flotilla - Coconut Armada",
+    "type": "Location",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/135_b64d3707388cbb7737face52395265afe2634fea.jpg"
+  },
+  {
+    "id": 490,
+    "name": "Rafiki - Mystical Fighter",
+    "type": "Character",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/54_0c28da289205b40362be9844bf4a847d6d884f29.jpg"
+  },
+  {
+    "id": 1047,
+    "name": "Shenzi - Head Hyena",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/91_855e456b88c754f7a26db0b02f30781da891f140.jpg"
+  },
+  {
+    "id": 1972,
+    "name": "Rafiki - Mystical Fighter",
+    "type": "Character",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set9/36_21a8ed5f4478b139968938bbe5d7c75cbff96084.jpg"
+  },
+  {
+    "id": 943,
+    "name": "Ursula's Contract",
+    "type": "Item",
+    "cost": 0,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/quest1/30_ca798fd081e19acbdf22ff9dd471b0f1fe667ba6.jpg"
+  },
+  {
+    "id": 1900,
+    "name": "Treasure Guardian - Illusionary Protector",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/quest2/5_53c5c1bb06327c8c5d8208fb7c460dd4bcb0733c.jpg"
+  },
+  {
+    "id": 831,
+    "name": "Aurora - Lore Guardian",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/140_94b8631ee86aeadc15bb491ed649cc1c5c8ffc6c.jpg"
+  },
+  {
+    "id": 1253,
+    "name": "Sisu - Uniting Dragon",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/54_3b6de9866ec87dac17ed2234c9e8e3aa248faf67.jpg"
+  },
+  {
+    "id": 1571,
+    "name": "Maurice - Unconventional Inventor",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/138_e2e9c96413dbc43bc3ef6bd3997c9c3252e7daf7.jpg"
+  },
+  {
+    "id": 2892,
+    "name": "Incrediboy - Buddy Pine",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set12/177_e4aa1089c87df07fc059313e48a7fc799193c4c3.jpg"
+  },
+  {
+    "id": 1068,
+    "name": "Mickey Mouse - Enthusiastic Dancer",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/112_a50884659495f48eaa11a7bd3185770897effb61.jpg"
+  },
+  {
+    "id": 1082,
+    "name": "Minnie Mouse - Dazzling Dancer",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/126_185e721984b7426ba1de5a6152f62823e1343e2b.jpg"
+  },
+  {
+    "id": 1941,
+    "name": "Minnie Mouse - Sweetheart Princess",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set9/5_ec67c18527d4a2e80bf8eb4240c7539b955d18b3.jpg"
+  },
+  {
+    "id": 1206,
+    "name": "Dale - Friend in Need",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/7_4f1d79aa10a9bfdbbf1bbc081ef11d82c841dfca.jpg"
+  },
+  {
+    "id": 1213,
+    "name": "Chip 'n' Dale - Recovery Rangers",
+    "type": "Character",
+    "cost": 8,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/14_7ccada71dd4c1757c78323736f3297b31d4e083b.jpg"
+  },
+  {
+    "id": 1404,
+    "name": "Chip 'n' Dale - Recovery Rangers",
+    "type": "Character",
+    "cost": 8,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/205_558de9c855ba2af29aa69353b537bc046fc3b6a1.jpg"
+  },
+  {
+    "id": 1211,
+    "name": "Chip - Ranger Leader",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/12_2c17857cac806e8cbf00c400e3fd002348158000.jpg"
+  },
+  {
+    "id": 1215,
+    "name": "Tiana - Restaurant Owner",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/16_83df6a895b52dbe759a03d58855c7fa4d212a078.jpg"
+  },
+  {
+    "id": 1405,
+    "name": "Tiana - Restaurant Owner",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/206_13132bdef6ad7631b71e290abed923515d41502a.jpg"
+  },
+  {
+    "id": 1632,
+    "name": "Gantu - Experienced Enforcer",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/199_80b183a0c9c5d056607d94d5708a092115e96c91.jpg"
+  },
+  {
+    "id": 1829,
+    "name": "Nani - Heist Mastermind",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set8/165_d685d6c6821424eeb1b6b9d8fd7f731af4eccf24.jpg"
+  },
+  {
+    "id": 2466,
+    "name": "Pudge - Controls the Weather",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set11/3_4b3f7a73e8debaf01c79a2b404e5577b4494f5d6.jpg"
+  },
+  {
+    "id": 2648,
+    "name": "Stitch - High Badness Level",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set11/185_b3c393b6bfca44d3859b915b5bd3b2647b791030.jpg"
+  },
+  {
+    "id": 2221,
+    "name": "The Black Cauldron",
+    "type": "Item",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/32_c046ddff8d5b9967cdbdc4ef674539a441d451ad.jpg"
+  },
+  {
+    "id": 2414,
+    "name": "The Black Cauldron",
+    "type": "Item",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/225_93a72dee2c81ec12a40403a1cec156d8beed79b5.jpg"
+  },
+  {
+    "id": 3116,
+    "name": "Roz - Always Watching",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/145_891b2e749c54b00d11fb040efa8510cf4044c6ed.jpg"
+  },
+  {
+    "id": 2238,
+    "name": "The Horned King - Triumphant Ghoul",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/49_e60881faefdef07ea469cfd7493b74753f0a99ec.jpg"
+  },
+  {
+    "id": 2399,
+    "name": "The Horned King - Triumphant Ghoul",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/210_d20dc0fdf50c283405676fb6ff15961ca8026ecf.jpg"
+  },
+  {
+    "id": 2513,
+    "name": "Anna - Soothing Sister",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set11/50_6e65881329b48f2c0e51f2d9f1c95b9b008d4085.jpg"
+  },
+  {
+    "id": 2280,
+    "name": "Goofy - Emerald Champion",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/91_a45c71be705e9e73c49c19025ad077b67e552337.jpg"
+  },
+  {
+    "id": 2446,
+    "name": "Goofy - Emerald Champion",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo3/25_9aebfd6e6296ef4b8e397042c49905ec1f5bd147.jpg"
+  },
+  {
+    "id": 2355,
+    "name": "Detective's Badge",
+    "type": "Item",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/166_8edffd0fa57df4bed9ea1cf0186cd46efc231477.jpg"
+  },
+  {
+    "id": 2374,
+    "name": "Chief Bogo - Calling the Shots",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/185_a37fe8ccddb230a1e9e28514b99f80b83bdbef08.jpg"
+  },
+  {
+    "id": 2665,
+    "name": "The Thunderquack",
+    "type": "Item",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set11/202_89b365db40f15b6bf6675fce7378a81fd8bfd955.jpg"
+  },
+  {
+    "id": 2972,
+    "name": "Woody - Helping a Friend",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/1_9e5034ef64dbfe30344c5dace27116d15a8cf47f.jpg"
+  },
+  {
+    "id": 3048,
+    "name": "Buzz Lightyear - Providing Cover",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/77_9a8a149f4ca3e5fa0032e39ed58238efd931c043.jpg"
+  },
+  {
+    "id": 3229,
+    "name": "Buzz Lightyear - Providing Cover",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/pd1/5_f8c0f84264b21ad2e9b51839779a715662f3a358.jpg"
+  },
+  {
+    "id": 269,
+    "name": "Merlin - Shapeshifter",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/53_4b55e87cc112c81b72db52a6b2f1473f7aa09bf8.jpg"
+  },
+  {
+    "id": 1264,
+    "name": "Maleficent's Staff",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/65_3005ec2b6de8a7d22369156e67d38ef13380298c.jpg"
+  },
+  {
+    "id": 1409,
+    "name": "Maleficent's Staff",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/210_ec49b96cb5fe46a6dc2f1dc510da5b80debb8cdf.jpg"
+  },
+  {
+    "id": 382,
+    "name": "Fang Crossbow",
+    "type": "Item",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set2/166_a1dfec87ed1c971139386554d851d526375b23f7.jpg"
+  },
+  {
+    "id": 1039,
+    "name": "Prince Phillip - Swordsman of the Realm",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/83_0b2262111f51962dd63dce5c7f30d97deb126c12.jpg"
+  },
+  {
+    "id": 473,
+    "name": "Diablo - Faithful Pet",
+    "type": "Character",
+    "cost": 1,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/37_265636653b64809be45a3f5a0b6e0abee8c3d309.jpg"
+  },
+  {
+    "id": 991,
+    "name": "Maleficent - Formidable Queen",
+    "type": "Character",
+    "cost": 8,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/35_7b8bee02252ad3bb7c45cba4fb9dd379c4381c03.jpg"
+  },
+  {
+    "id": 3164,
+    "name": "Diablo - Protecting His Mistress",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/193_cfca3a1743ef2c84b4d2e0cc3baaca5eeaed8a51.jpg"
+  },
+  {
+    "id": 713,
+    "name": "Prince Eric - Ursula's Groom",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/22_2f80d272cb2815edfdfb16fb763cb397072ed3de.jpg"
+  },
+  {
+    "id": 759,
+    "name": "Ursula's Lair - Eye of the Storm",
+    "type": "Location",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/68_8ac3476209293257d728147567ce295371fe8de2.jpg"
+  },
+  {
+    "id": 951,
+    "name": "Ursula's Lair - Eye of the Storm",
+    "type": "Location",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo1/35_adc777e002d92bf953458dd05e4a47a5eec688b1.jpg"
+  },
+  {
+    "id": 763,
+    "name": "Gunther - Interior Designer",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/72_f63aac1261fc4f4a92725c4d1a588826c854dd5d.jpg"
+  },
+  {
+    "id": 1048,
+    "name": "Mother Gothel - Unwavering Schemer",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set5/92_af5271b79eee5c4a4c1820245b7ea1029df9e795.jpg"
+  },
+  {
+    "id": 1541,
+    "name": "Daisy Duck - Multitalented Pirate",
+    "type": "Character",
+    "cost": 8,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/108_076a421ee82e403f98d7c873bea1093fabeb50bb.jpg"
+  },
+  {
+    "id": 1657,
+    "name": "Kronk - Laid Back",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo2/20_ff8ac1a7af00b552b6fde33574e6f873522a3ce6.jpg"
+  },
+  {
+    "id": 2177,
+    "name": "Minnie Mouse - Sweetheart Princess",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set9/241_d01293c17e2cb0a97a66ffc326ee15171fecac3b.jpg"
+  },
+  {
+    "id": 1210,
+    "name": "Chief Bogo - Gazelle Fan",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/11_249b897e4380a87e4ed18f18ea0a2e97085f6695.jpg"
+  },
+  {
+    "id": 2049,
+    "name": "Roxanne - Powerline Fan",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set9/113_be1d05ec2fc69763b9716ed6973d819b1d971f91.jpg"
+  },
+  {
+    "id": 2212,
+    "name": "Mickey Mouse - Amber Champion",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/23_a41c6f05dcf3ec6424b3b0fd1eba13b9aba199d1.jpg"
+  },
+  {
+    "id": 1359,
+    "name": "Yokai - Scientific Supervillain",
+    "type": "Character",
+    "cost": 9,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/160_19ac5bad6e4236fd167842fdf378c756065edb2c.jpg"
+  },
+  {
+    "id": 1366,
+    "name": "Microbots",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/167_bbbfb414057bb3a294a53972547e12ee699dbfd8.jpg"
+  },
+  {
+    "id": 1640,
+    "name": "Bolt - Superdog",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/207_a60da4f004616648f8987adea08e14923c986b5a.jpg"
+  },
+  {
+    "id": 1931,
+    "name": "Bolt - Superdog",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/223_42a106dbb09a4673c7f9b8cacdf2d2c51383cb86.jpg"
+  },
+  {
+    "id": 1448,
+    "name": "Cinderella - The Right One",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/15_a4ffde1d414494ef00d0ec3dd3cf322077c8b780.jpg"
+  },
+  {
+    "id": 1477,
+    "name": "The Glass Slipper",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/44_a03991f910e6352eba1df7a8f48e41461c154c0a.jpg"
+  },
+  {
+    "id": 1641,
+    "name": "The Glass Slipper",
+    "type": "Item",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/208_9b7eb9a653edde3848a72292d70ecb57b72bebd8.jpg"
+  },
+  {
+    "id": 1559,
+    "name": "Belle - Mechanic Extraordinaire",
+    "type": "Character",
+    "cost": 9,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/126_d4339341b8598b5594457f4e41e1b959bb36da9b.jpg"
+  },
+  {
+    "id": 1650,
+    "name": "Belle - Mechanic Extraordinaire",
+    "type": "Character",
+    "cost": 9,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/217_5a1cd28e4d7f4cb3a5e9f3fd2064b4ea3951a225.jpg"
+  },
+  {
+    "id": 1543,
+    "name": "Tramp - Enterprising Dog",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/110_004d69a7c08bacb8060eb2abff7722a149601be5.jpg"
+  },
+  {
+    "id": 1645,
+    "name": "Tramp - Enterprising Dog",
+    "type": "Character",
+    "cost": 2,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/212_e8e10a458d266ff80a9fd7fd55efc9e1f8297c75.jpg"
+  },
+  {
+    "id": 1897,
+    "name": "Palace Guard - Crown Hunter",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/quest2/2_46680613f95f004b371819a0c6c3bec14ef2414e.jpg"
+  },
+  {
+    "id": 1906,
+    "name": "Iago - Crown Seeker",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/quest2/11_a71bd8a2834d3c9455da21411200b894f282b3f8.jpg"
+  },
+  {
+    "id": 1920,
+    "name": "Mechanical Snake",
+    "type": "Item",
+    "cost": 0,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/quest2/25_479856691c7249baa119eaefb307f8d9d2e14884.jpg"
+  },
+  {
+    "id": 1907,
+    "name": "Monumental Scarab - Skittering Statue",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/quest2/12_ae6ef8e10f6c08e7e14a5540eaac3589fbaa118e.jpg"
+  },
+  {
+    "id": 1924,
+    "name": "Endless Staircase - Perilous Ascent",
+    "type": "Location",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/quest2/29_0cf634d738e6a348ca4d957d8f78c7efe5e296c1.jpg"
+  },
+  {
+    "id": 2240,
+    "name": "Coldstone - Reincarnated Cyborg",
+    "type": "Character",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/51_80c592a3ca699c3374da65654ef4a9cbb5dfe491.jpg"
+  },
+  {
+    "id": 2308,
+    "name": "Goliath - Guardian of Castle Wyvern",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/119_34d313f6d81a1d0cf5da56a6c080bdc05268518f.jpg"
+  },
+  {
+    "id": 2650,
+    "name": "Angela - Night Warrior",
+    "type": "Character",
+    "cost": 3,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set11/187_e06c7ed9431f69f68b3129ec101b33e3c2a6d57c.jpg"
+  },
+  {
+    "id": 2343,
+    "name": "Daisy Duck - Paranormal Investigator",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set10/154_e1c0ac9fb3b7916778f8ed93ba3b4cfacd650893.jpg"
+  },
+  {
+    "id": 2444,
+    "name": "Daisy Duck - Paranormal Investigator",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo3/23_40885d217657ebbe74c23bda7bd66478fefa0155.jpg"
+  },
+  {
+    "id": 2445,
+    "name": "Daisy Duck - Paranormal Investigator",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo3/24_a83fa383af201bad1d84858cdfdcceaa2b19187d.jpg"
+  },
+  {
+    "id": 173,
+    "name": "Captain Hook - Captain of the Jolly Roger",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set1/173_5c417856d666b8cae960cba2dddde5699085950f.jpg"
+  },
+  {
+    "id": 2126,
+    "name": "Captain Hook - Captain of the Jolly Roger",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set9/190_4f11091a8568101a24ea3caa231677f3ffc57ef7.jpg"
+  },
+  {
+    "id": 773,
+    "name": "Panic - Immortal Sidekick",
+    "type": "Character",
+    "cost": 4,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set4/82_e08366b249553121d53bfcc5e5076905e3ee1daf.jpg"
+  },
+  {
+    "id": 1443,
+    "name": "Tramp - Street-Smart Dog",
+    "type": "Character",
+    "cost": 7,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set7/10_a91391a45451cc81f07955eafae55ea04b2957c9.jpg"
+  },
+  {
+    "id": 480,
+    "name": "Magic Broom - Dancing Duster",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/44_b27126346493031f979051dd0ab435a4e26d602b.jpg"
+  },
+  {
+    "id": 1263,
+    "name": "Seeking the Half Crown",
+    "type": "Action",
+    "cost": 5,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set6/64_85082444f8d9f9ed35213960a27b90d7517120cd.jpg"
+  },
+  {
+    "id": 610,
+    "name": "Hades - Hotheaded Ruler",
+    "type": "Character",
+    "cost": 6,
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set3/174_7b74d10e39cf31109672a49b58611bf4f1567130.jpg"
+  }
+]

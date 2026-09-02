@@ -1,1 +1,5378 @@
-[]
+[
+  {
+    "term": "Shift",
+    "category": "keyword",
+    "translation": "Metamorfose",
+    "frequency": 311,
+    "examples": [
+      {
+        "cardId": 5,
+        "textSnippet": "Shift 6 (You may pay 6 ⬡ to play this on top of\none of your characters named Hades.)"
+      },
+      {
+        "cardId": 23,
+        "textSnippet": "Shift 4 (You may pay 4 ⬡ to play this on top of one of\nyour characters named Stitch.)"
+      },
+      {
+        "cardId": 37,
+        "textSnippet": "Shift 5 (You may pay 5 ⬡ to play this on top of\none of your characters named Dr. Facilier.)"
+      }
+    ]
+  },
+  {
+    "term": "Evasive",
+    "category": "keyword",
+    "translation": "Evasivo",
+    "frequency": 184,
+    "examples": [
+      {
+        "cardId": 46,
+        "textSnippet": "Evasive (Only characters with Evasive can\nchallenge this character.)"
+      },
+      {
+        "cardId": 58,
+        "textSnippet": "Evasive (Only characters with Evasive can\nchallenge this character.)"
+      },
+      {
+        "cardId": 75,
+        "textSnippet": "Evasive (Only characters with Evasive can challenge this\ncharacter.)"
+      }
+    ]
+  },
+  {
+    "term": "Bodyguard",
+    "category": "keyword",
+    "translation": "Guarda-costas",
+    "frequency": 78,
+    "examples": [
+      {
+        "cardId": 4,
+        "textSnippet": "Bodyguard (This character may enter play exerted. An\nopposing character who challenges one of your characters\nmust choose one with Bodyguard if able.)"
+      },
+      {
+        "cardId": 10,
+        "textSnippet": "Bodyguard (This character may enter play exerted.\nAn opposing character who challenges one of your\ncharacters must choose one with Bodyguard if able.)"
+      },
+      {
+        "cardId": 20,
+        "textSnippet": "Bodyguard (This character may enter play exerted.\nAn opposing character who challenges one of\nyour characters must choose one with Bodyguard\nif able.)"
+      }
+    ]
+  },
+  {
+    "term": "Support",
+    "category": "keyword",
+    "translation": "Apoio",
+    "frequency": 71,
+    "examples": [
+      {
+        "cardId": 7,
+        "textSnippet": "Support (Whenever this character quests, you\nmay add their ¤ to another chosen character's\n¤ this turn.)"
+      },
+      {
+        "cardId": 10,
+        "textSnippet": "Support (Whenever this character quests, you may\nadd their ¤ to another chosen character's ¤ this\nturn.)"
+      },
+      {
+        "cardId": 143,
+        "textSnippet": "Support (Whenever this character quests, you\nmay add their ¤ to another chosen character's\n¤ this turn.)"
+      }
+    ]
+  },
+  {
+    "term": "Ward",
+    "category": "keyword",
+    "translation": "Proteção",
+    "frequency": 70,
+    "examples": [
+      {
+        "cardId": 69,
+        "textSnippet": "Ward (Opponents can't choose this character\nexcept to challenge.)"
+      },
+      {
+        "cardId": 84,
+        "textSnippet": "Ward (Opponents can't choose this character except to\nchallenge.)"
+      },
+      {
+        "cardId": 144,
+        "textSnippet": "Ward (Opponents can't choose this character\nexcept to challenge.)"
+      }
+    ]
+  },
+  {
+    "term": "Rush",
+    "category": "keyword",
+    "translation": "Investida",
+    "frequency": 63,
+    "examples": [
+      {
+        "cardId": 43,
+        "textSnippet": "Rush (This character can challenge the turn they're\nplayed.)"
+      },
+      {
+        "cardId": 54,
+        "textSnippet": "Rush (This character can challenge the turn\nthey're played.)"
+      },
+      {
+        "cardId": 61,
+        "textSnippet": "Rush (This character can challenge the turn they're\nplayed.)"
+      }
+    ]
+  },
+  {
+    "term": "Resist",
+    "category": "keyword",
+    "translation": "Resistência",
+    "frequency": 51,
+    "examples": [
+      {
+        "cardId": 393,
+        "textSnippet": "Resist +2 (Damage dealt to this character is reduced by 2.)"
+      },
+      {
+        "cardId": 397,
+        "textSnippet": "Resist +2 (Damage dealt to this character is reduced by 2.)"
+      },
+      {
+        "cardId": 401,
+        "textSnippet": "Resist +1 (Damage dealt to this character is\nreduced by 1.)"
+      }
+    ]
+  },
+  {
+    "term": "Boost",
+    "category": "keyword",
+    "translation": "impulso",
+    "frequency": 50,
+    "examples": [
+      {
+        "cardId": 2191,
+        "textSnippet": "Boost 2 ⬡ (Once during your turn, you may pay 2 ⬡\nto put the top card of your deck facedown under this\ncharacter.)"
+      },
+      {
+        "cardId": 2206,
+        "textSnippet": "Boost 1 ⬡ (Once during your turn, you may pay\n1 ⬡ to put the top card of your deck facedown\nunder this character.)"
+      },
+      {
+        "cardId": 2209,
+        "textSnippet": "Boost 3 ⬡ (Once during your turn, you may pay 3 ⬡ to put\nthe top card of your deck facedown under this character.)"
+      }
+    ]
+  },
+  {
+    "term": "Challenger",
+    "category": "keyword",
+    "translation": "Desafiante",
+    "frequency": 46,
+    "examples": [
+      {
+        "cardId": 38,
+        "textSnippet": "Challenger +2 (While challenging, this character\ngets +2 ¤.)"
+      },
+      {
+        "cardId": 45,
+        "textSnippet": "Challenger +3 (While challenging, this character\ngets +3 ¤.)"
+      },
+      {
+        "cardId": 61,
+        "textSnippet": "Challenger +4 (While challenging, this character gets\n+4 ¤.)"
+      }
+    ]
+  },
+  {
+    "term": "Singer",
+    "category": "keyword",
+    "translation": "Cantor(a)",
+    "frequency": 41,
+    "examples": [
+      {
+        "cardId": 2,
+        "textSnippet": "Singer 5 (This character counts as cost 5 to sing songs.)"
+      },
+      {
+        "cardId": 3,
+        "textSnippet": "Singer 5 (This character counts as cost 5 to sing\nsongs.)"
+      },
+      {
+        "cardId": 19,
+        "textSnippet": "Singer 4 (This character counts as cost 4 to sing songs.)"
+      }
+    ]
+  },
+  {
+    "term": "Sing Together",
+    "category": "keyword",
+    "translation": "Cantar Junto",
+    "frequency": 30,
+    "examples": [
+      {
+        "cardId": 719,
+        "textSnippet": "Sing Together 7 (Any number of your or your teammates'\ncharacters with total cost 7 or more may ⟳ to sing this\nsong for free.)"
+      },
+      {
+        "cardId": 752,
+        "textSnippet": "Sing Together 10 (Any number of your or your\nteammates' characters with total cost 10 or more may\n⟳ to sing this song for free.)"
+      },
+      {
+        "cardId": 786,
+        "textSnippet": "Sing Together 8 (Any number of your or your teammates'\ncharacters with total cost 8 or more may ⟳ to sing this song\nfor free.)"
+      }
+    ]
+  },
+  {
+    "term": "Reckless",
+    "category": "keyword",
+    "translation": "Imprudente",
+    "frequency": 27,
+    "examples": [
+      {
+        "cardId": 110,
+        "textSnippet": "Reckless (This character can't quest and must\nchallenge each turn if able.)"
+      },
+      {
+        "cardId": 114,
+        "textSnippet": "Reckless (This character can't quest and must\nchallenge each turn if able.)"
+      },
+      {
+        "cardId": 126,
+        "textSnippet": "Reckless (This character can't quest and must\nchallenge each turn if able.)"
+      }
+    ]
+  },
+  {
+    "term": "Alert",
+    "category": "keyword",
+    "translation": "alerta",
+    "frequency": 9,
+    "examples": [
+      {
+        "cardId": 2331,
+        "textSnippet": "Alert (This character can challenge as if they had\nEvasive.)"
+      },
+      {
+        "cardId": 2372,
+        "textSnippet": "Alert (This character can challenge as if they\nhad Evasive.)"
+      },
+      {
+        "cardId": 2605,
+        "textSnippet": "Alert (This character can challenge as if they had\nEvasive.)"
+      }
+    ]
+  },
+  {
+    "term": "Vanish",
+    "category": "keyword",
+    "translation": "Desvanecer",
+    "frequency": 7,
+    "examples": [
+      {
+        "cardId": 1482,
+        "textSnippet": "Vanish (When an opponent chooses this character\nfor an action, banish them.)"
+      },
+      {
+        "cardId": 1490,
+        "textSnippet": "Vanish (When an opponent chooses this character\nfor an action, banish them.)"
+      },
+      {
+        "cardId": 1495,
+        "textSnippet": "Vanish (When an opponent chooses this character\nfor an action, banish them.)"
+      }
+    ]
+  },
+  {
+    "term": "Combo Shift",
+    "category": "keyword",
+    "translation": "metamorfose combo",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 3000,
+        "textSnippet": "Combo Shift 4 ⬡ (You may pay 4 ⬡ to play this on top\nof one of your characters named Sulley, one named Boo,\nor one of each.)"
+      },
+      {
+        "cardId": 3104,
+        "textSnippet": "Combo Shift 6 ⬡ (You may pay 6 ⬡ to play this on\ntop of one of your characters named Dash Parr, one\nnamed Violet Parr, or one of each.)"
+      },
+      {
+        "cardId": 3200,
+        "textSnippet": "Combo Shift 4 ⬡"
+      }
+    ]
+  },
+  {
+    "term": "Temporary Shift",
+    "category": "keyword",
+    "translation": "metamorfose temporária",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 3091,
+        "textSnippet": "Temporary Shift 4 ⬡ (You may pay 4 ⬡ to play this on\ntop of one of your characters named Grandma Wu. At the\nend of your turn, remove all damage from this character\nand return only this card to your hand.)"
+      },
+      {
+        "cardId": 3096,
+        "textSnippet": "Temporary Shift 3 ⬡ (You may pay 3 ⬡ to play this\non top of one of your characters named Meilin Lee.\nAt the end of your turn, remove all damage from this\ncharacter and return only this card to your hand.)"
+      },
+      {
+        "cardId": 3100,
+        "textSnippet": "Temporary Shift 7 ⬡ (You may pay 7 ⬡ to play this on\ntop of one of your characters named Ming Lee. At the\nend of your turn, remove all damage from this character\nand return only this card to your hand.)"
+      }
+    ]
+  },
+  {
+    "term": "Madrigal Shift",
+    "category": "keyword",
+    "translation": "metamorfose madrigal",
+    "frequency": 2,
+    "examples": [
+      {
+        "cardId": 3001,
+        "textSnippet": "Madrigal Shift 3 ⬡ (You may pay 3 ⬡ to play this\non top of one of your Madrigal characters.)"
+      },
+      {
+        "cardId": 3201,
+        "textSnippet": "Madrigal Shift 3 ⬡"
+      }
+    ]
+  },
+  {
+    "term": "Duo Shift",
+    "category": "keyword",
+    "translation": "metamorfose dupla",
+    "frequency": 2,
+    "examples": [
+      {
+        "cardId": 3070,
+        "textSnippet": "Duo Shift 0 ⬡ (You may pay 0 ⬡ to play this on\ntop of two of your characters, one named Mickey\nMouse and one named Minnie Mouse.)"
+      },
+      {
+        "cardId": 3209,
+        "textSnippet": "Duo Shift 0 ⬡"
+      }
+    ]
+  },
+  {
+    "term": "Temporary Red Panda Shift",
+    "category": "keyword",
+    "translation": "metamorfose temporária (panda vermelho)",
+    "frequency": 2,
+    "examples": [
+      {
+        "cardId": 3090,
+        "textSnippet": "Temporary Red Panda Shift 2 ⬡ (You may pay\n2 ⬡ to play this on top of one of your Red Panda\ncharacters. At the end of your turn, remove all\ndamage from this character and return only this\ncard to your hand.)"
+      },
+      {
+        "cardId": 3189,
+        "textSnippet": "Temporary Red Panda Shift 2 ⬡ (You may pay\n2 ⬡ to play this on top of one of your Red Panda\ncharacters. At the end of your turn, remove all\ndamage from this character and return only this\ncard to your hand.)"
+      }
+    ]
+  },
+  {
+    "term": "Puppy Shift",
+    "category": "keyword",
+    "translation": "metamorfose filhote",
+    "frequency": 1,
+    "examples": [
+      {
+        "cardId": 1456,
+        "textSnippet": "Puppy Shift 3 (You may pay 3 ⬡ to play this on\ntop of one of your Puppy characters.)"
+      }
+    ]
+  },
+  {
+    "term": "Universal Shift",
+    "category": "keyword",
+    "translation": "metamorfose universal",
+    "frequency": 1,
+    "examples": [
+      {
+        "cardId": 1537,
+        "textSnippet": "Universal Shift 4 (You may pay 4 ⬡ to play this on\ntop of any one of your characters.)"
+      }
+    ]
+  },
+  {
+    "term": "Potato Shift",
+    "category": "keyword",
+    "translation": "metamorfose batata",
+    "frequency": 1,
+    "examples": [
+      {
+        "cardId": 3062,
+        "textSnippet": "Potato Shift 5 ⬡ (You may pay 5 ⬡ to play this\non top of one of your items named Potato.)"
+      }
+    ]
+  },
+  {
+    "term": "Floodborn Shift",
+    "category": "keyword",
+    "translation": "metamorfose floodborn",
+    "frequency": 1,
+    "examples": [
+      {
+        "cardId": 3168,
+        "textSnippet": "Floodborn Shift 7 ⬡ (You may pay 7 ⬡ to play this on top\nof one of your Floodborn characters.)"
+      }
+    ]
+  },
+  {
+    "term": "character",
+    "category": "geral",
+    "translation": "personagem",
+    "frequency": 3284,
+    "examples": [
+      {
+        "cardId": 1,
+        "textSnippet": "This character can't ⟳ to sing songs."
+      },
+      {
+        "cardId": 2,
+        "textSnippet": "When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order."
+      },
+      {
+        "cardId": 3,
+        "textSnippet": "Remove up to 3 damage from chosen Princess character."
+      }
+    ]
+  },
+  {
+    "term": "play",
+    "category": "geral",
+    "translation": "jogar",
+    "frequency": 1315,
+    "examples": [
+      {
+        "cardId": 2,
+        "textSnippet": "When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order."
+      },
+      {
+        "cardId": 4,
+        "textSnippet": "When you play this character, you may remove up to 2 damage from each of your Musketeer characters."
+      },
+      {
+        "cardId": 5,
+        "textSnippet": "This character gets +1 ◊ for each other Villain character you have in play."
+      }
+    ]
+  },
+  {
+    "term": "turn",
+    "category": "geral",
+    "translation": "turno",
+    "frequency": 1008,
+    "examples": [
+      {
+        "cardId": 11,
+        "textSnippet": "When you play this character, chosen character gets -2 ¤ this turn."
+      },
+      {
+        "cardId": 14,
+        "textSnippet": "Whenever this character quests, you may ready your other Princess characters. They can't quest for the rest of this turn."
+      },
+      {
+        "cardId": 33,
+        "textSnippet": "You pay 1 ⬡ less for the next character you play this turn."
+      }
+    ]
+  },
+  {
+    "term": "card",
+    "category": "geral",
+    "translation": "carta",
+    "frequency": 937,
+    "examples": [
+      {
+        "cardId": 2,
+        "textSnippet": "When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order."
+      },
+      {
+        "cardId": 6,
+        "textSnippet": "When you play this character, return a character card from your discard to your hand."
+      },
+      {
+        "cardId": 18,
+        "textSnippet": "When you play this character, remove up to 3 damage from one of your characters. Draw a card for each 1 damage removed this way."
+      }
+    ]
+  },
+  {
+    "term": "may",
+    "category": "geral",
+    "translation": "pode",
+    "frequency": 876,
+    "examples": [
+      {
+        "cardId": 2,
+        "textSnippet": "When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order."
+      },
+      {
+        "cardId": 4,
+        "textSnippet": "When you play this character, you may remove up to 2 damage from each of your Musketeer characters."
+      },
+      {
+        "cardId": 14,
+        "textSnippet": "Whenever this character quests, you may ready your other Princess characters. They can't quest for the rest of this turn."
+      }
+    ]
+  },
+  {
+    "term": "whenever",
+    "category": "geral",
+    "translation": "sempre que",
+    "frequency": 803,
+    "examples": [
+      {
+        "cardId": 14,
+        "textSnippet": "Whenever this character quests, you may ready your other Princess characters. They can't quest for the rest of this turn."
+      },
+      {
+        "cardId": 23,
+        "textSnippet": "Whenever you play a character with cost 2 or less, you may exert them to draw a card."
+      },
+      {
+        "cardId": 34,
+        "textSnippet": "Whenever you play a song, you may pay 1 ⬡ to draw a card."
+      }
+    ]
+  },
+  {
+    "term": "chosen",
+    "category": "geral",
+    "translation": "escolhido",
+    "frequency": 788,
+    "examples": [
+      {
+        "cardId": 3,
+        "textSnippet": "Remove up to 3 damage from chosen Princess character."
+      },
+      {
+        "cardId": 11,
+        "textSnippet": "When you play this character, chosen character gets -2 ¤ this turn."
+      },
+      {
+        "cardId": 24,
+        "textSnippet": "When you play this character, you may remove up to 1 damage from chosen character."
+      }
+    ]
+  },
+  {
+    "term": "when",
+    "category": "geral",
+    "translation": "quando",
+    "frequency": 738,
+    "examples": [
+      {
+        "cardId": 2,
+        "textSnippet": "When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order."
+      },
+      {
+        "cardId": 4,
+        "textSnippet": "When you play this character, you may remove up to 2 damage from each of your Musketeer characters."
+      },
+      {
+        "cardId": 6,
+        "textSnippet": "When you play this character, return a character card from your discard to your hand."
+      }
+    ]
+  },
+  {
+    "term": "characters",
+    "category": "geral",
+    "translation": "personagens",
+    "frequency": 639,
+    "examples": [
+      {
+        "cardId": 4,
+        "textSnippet": "When you play this character, you may remove up to 2 damage from each of your Musketeer characters."
+      },
+      {
+        "cardId": 14,
+        "textSnippet": "Whenever this character quests, you may ready your other Princess characters. They can't quest for the rest of this turn."
+      },
+      {
+        "cardId": 18,
+        "textSnippet": "When you play this character, remove up to 3 damage from one of your characters. Draw a card for each 1 damage removed this way."
+      }
+    ]
+  },
+  {
+    "term": "if",
+    "category": "geral",
+    "translation": "se",
+    "frequency": 495,
+    "examples": [
+      {
+        "cardId": 8,
+        "textSnippet": "If you have a character named Gaston in play, you pay 1 ⬡ less to play this character."
+      },
+      {
+        "cardId": 21,
+        "textSnippet": "When you play this character, if you have 2 or more other characters in play, you may draw 2 cards."
+      },
+      {
+        "cardId": 35,
+        "textSnippet": "When you play this character, if you have a character named Elsa in play, choose an opposing character. The chosen character doesn't ready at the start of their next turn."
+      }
+    ]
+  },
+  {
+    "term": "damage",
+    "category": "geral",
+    "translation": "dano",
+    "frequency": 459,
+    "examples": [
+      {
+        "cardId": 3,
+        "textSnippet": "Remove up to 3 damage from chosen Princess character."
+      },
+      {
+        "cardId": 4,
+        "textSnippet": "When you play this character, you may remove up to 2 damage from each of your Musketeer characters."
+      },
+      {
+        "cardId": 18,
+        "textSnippet": "When you play this character, remove up to 3 damage from one of your characters. Draw a card for each 1 damage removed this way."
+      }
+    ]
+  },
+  {
+    "term": "put",
+    "category": "geral",
+    "translation": "colocar",
+    "frequency": 401,
+    "examples": [
+      {
+        "cardId": 2,
+        "textSnippet": "When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order."
+      },
+      {
+        "cardId": 39,
+        "textSnippet": "Whenever you play a song, you may look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom."
+      },
+      {
+        "cardId": 60,
+        "textSnippet": "Whenever this character quests, look at the top card of your deck. Put it on either the top or the bottom of your deck."
+      }
+    ]
+  },
+  {
+    "term": "deck",
+    "category": "geral",
+    "translation": "baralho",
+    "frequency": 353,
+    "examples": [
+      {
+        "cardId": 2,
+        "textSnippet": "When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order."
+      },
+      {
+        "cardId": 39,
+        "textSnippet": "Whenever you play a song, you may look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom."
+      },
+      {
+        "cardId": 47,
+        "textSnippet": "When you play this character, you may shuffle a card from any discard into its player's deck."
+      }
+    ]
+  },
+  {
+    "term": "challenge",
+    "category": "geral",
+    "translation": "desafiar",
+    "frequency": 337,
+    "examples": [
+      {
+        "cardId": 37,
+        "textSnippet": "Whenever one of your other characters is banished in a challenge, you may return that card to your hand."
+      },
+      {
+        "cardId": 50,
+        "textSnippet": "When this character is banished in a challenge, you may return this card to your hand."
+      },
+      {
+        "cardId": 51,
+        "textSnippet": "Whenever one of your Broom characters is banished in a challenge, you may return that card to your hand."
+      }
+    ]
+  },
+  {
+    "term": "have",
+    "category": "geral",
+    "translation": "ter",
+    "frequency": 335,
+    "examples": [
+      {
+        "cardId": 5,
+        "textSnippet": "This character gets +1 ◊ for each other Villain character you have in play."
+      },
+      {
+        "cardId": 8,
+        "textSnippet": "If you have a character named Gaston in play, you pay 1 ⬡ less to play this character."
+      },
+      {
+        "cardId": 21,
+        "textSnippet": "When you play this character, if you have 2 or more other characters in play, you may draw 2 cards."
+      }
+    ]
+  },
+  {
+    "term": "hand",
+    "category": "geral",
+    "translation": "mão",
+    "frequency": 331,
+    "examples": [
+      {
+        "cardId": 2,
+        "textSnippet": "When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order."
+      },
+      {
+        "cardId": 6,
+        "textSnippet": "When you play this character, return a character card from your discard to your hand."
+      },
+      {
+        "cardId": 37,
+        "textSnippet": "Whenever one of your other characters is banished in a challenge, you may return that card to your hand."
+      }
+    ]
+  },
+  {
+    "term": "gain",
+    "category": "geral",
+    "translation": "ganhar",
+    "frequency": 325,
+    "examples": [
+      {
+        "cardId": 43,
+        "textSnippet": "Your characters named Jetsam gain Rush."
+      },
+      {
+        "cardId": 46,
+        "textSnippet": "Your characters named Flotsam gain Evasive."
+      },
+      {
+        "cardId": 58,
+        "textSnippet": "Your characters named Peter Pan gain Challenger +1. (They get +1 ¤ while challenging.)"
+      }
+    ]
+  },
+  {
+    "term": "while",
+    "category": "geral",
+    "translation": "enquanto",
+    "frequency": 323,
+    "examples": [
+      {
+        "cardId": 53,
+        "textSnippet": "While you have another character in play, this character gains Evasive. (Only characters with Evasive can challenge them.)"
+      },
+      {
+        "cardId": 58,
+        "textSnippet": "Your characters named Peter Pan gain Challenger +1. (They get +1 ¤ while challenging.)"
+      },
+      {
+        "cardId": 90,
+        "textSnippet": "While this character is exerted, opposing characters can't quest."
+      }
+    ]
+  },
+  {
+    "term": "quests",
+    "category": "geral",
+    "translation": "explora (3ª pessoa)",
+    "frequency": 320,
+    "examples": [
+      {
+        "cardId": 14,
+        "textSnippet": "Whenever this character quests, you may ready your other Princess characters. They can't quest for the rest of this turn."
+      },
+      {
+        "cardId": 60,
+        "textSnippet": "Whenever this character quests, look at the top card of your deck. Put it on either the top or the bottom of your deck."
+      },
+      {
+        "cardId": 76,
+        "textSnippet": "Whenever this character quests, you may play an action with cost 5 or less for free."
+      }
+    ]
+  },
+  {
+    "term": "gets",
+    "category": "geral",
+    "translation": "recebe",
+    "frequency": 317,
+    "examples": [
+      {
+        "cardId": 5,
+        "textSnippet": "This character gets +1 ◊ for each other Villain character you have in play."
+      },
+      {
+        "cardId": 11,
+        "textSnippet": "When you play this character, chosen character gets -2 ¤ this turn."
+      },
+      {
+        "cardId": 44,
+        "textSnippet": "This character gets +1 ¤ for each card in your hand."
+      }
+    ]
+  },
+  {
+    "term": "discard",
+    "category": "geral",
+    "translation": "descartar",
+    "frequency": 297,
+    "examples": [
+      {
+        "cardId": 6,
+        "textSnippet": "When you play this character, return a character card from your discard to your hand."
+      },
+      {
+        "cardId": 47,
+        "textSnippet": "When you play this character, you may shuffle a card from any discard into its player's deck."
+      },
+      {
+        "cardId": 85,
+        "textSnippet": "When you play this character, you may return an action card from your discard to your hand."
+      }
+    ]
+  },
+  {
+    "term": "during",
+    "category": "geral",
+    "translation": "durante",
+    "frequency": 296,
+    "examples": [
+      {
+        "cardId": 80,
+        "textSnippet": "Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)"
+      },
+      {
+        "cardId": 81,
+        "textSnippet": "Whenever this character quests, chosen opposing character can't quest during their next turn."
+      },
+      {
+        "cardId": 82,
+        "textSnippet": "When you play this character and whenever he quests, chosen opposing character gains Reckless during their next turn. (They can't quest and must challenge if able.)"
+      }
+    ]
+  },
+  {
+    "term": "draw",
+    "category": "geral",
+    "translation": "comprar",
+    "frequency": 292,
+    "examples": [
+      {
+        "cardId": 18,
+        "textSnippet": "When you play this character, remove up to 3 damage from one of your characters. Draw a card for each 1 damage removed this way."
+      },
+      {
+        "cardId": 21,
+        "textSnippet": "When you play this character, if you have 2 or more other characters in play, you may draw 2 cards."
+      },
+      {
+        "cardId": 23,
+        "textSnippet": "Whenever you play a character with cost 2 or less, you may exert them to draw a card."
+      }
+    ]
+  },
+  {
+    "term": "opposing",
+    "category": "geral",
+    "translation": "adversário (adjetivo)",
+    "frequency": 282,
+    "examples": [
+      {
+        "cardId": 35,
+        "textSnippet": "When you play this character, if you have a character named Elsa in play, choose an opposing character. The chosen character doesn't ready at the start of their next turn."
+      },
+      {
+        "cardId": 41,
+        "textSnippet": "Exert chosen opposing character."
+      },
+      {
+        "cardId": 70,
+        "textSnippet": "When you play this character, exert all opposing damaged characters."
+      }
+    ]
+  },
+  {
+    "term": "can",
+    "category": "geral",
+    "translation": "pode / consegue",
+    "frequency": 277,
+    "examples": [
+      {
+        "cardId": 25,
+        "textSnippet": "A character with cost 2 or more can ⟳ to sing this song for free."
+      },
+      {
+        "cardId": 27,
+        "textSnippet": "A character with cost 4 or more can ⟳ to sing this song for free."
+      },
+      {
+        "cardId": 30,
+        "textSnippet": "A character with cost 3 or more can ⟳ to sing this song for free."
+      }
+    ]
+  },
+  {
+    "term": "cards",
+    "category": "geral",
+    "translation": "cartas",
+    "frequency": 267,
+    "examples": [
+      {
+        "cardId": 2,
+        "textSnippet": "When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order."
+      },
+      {
+        "cardId": 21,
+        "textSnippet": "When you play this character, if you have 2 or more other characters in play, you may draw 2 cards."
+      },
+      {
+        "cardId": 39,
+        "textSnippet": "Whenever you play a song, you may look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom."
+      }
+    ]
+  },
+  {
+    "term": "lore",
+    "category": "geral",
+    "translation": "lore (pontos de vitória)",
+    "frequency": 260,
+    "examples": [
+      {
+        "cardId": 59,
+        "textSnippet": "When you play this character, each opponent loses 1 lore. You may draw a card for each 1 lore lost this way."
+      },
+      {
+        "cardId": 104,
+        "textSnippet": "During your turn, whenever this character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore."
+      },
+      {
+        "cardId": 105,
+        "textSnippet": "When you play this character, each opponent loses 1 lore."
+      }
+    ]
+  },
+  {
+    "term": "free",
+    "category": "geral",
+    "translation": "grátis / livre",
+    "frequency": 252,
+    "examples": [
+      {
+        "cardId": 25,
+        "textSnippet": "A character with cost 2 or more can ⟳ to sing this song for free."
+      },
+      {
+        "cardId": 27,
+        "textSnippet": "A character with cost 4 or more can ⟳ to sing this song for free."
+      },
+      {
+        "cardId": 30,
+        "textSnippet": "A character with cost 3 or more can ⟳ to sing this song for free."
+      }
+    ]
+  },
+  {
+    "term": "can't",
+    "category": "geral",
+    "translation": "não pode",
+    "frequency": 251,
+    "examples": [
+      {
+        "cardId": 1,
+        "textSnippet": "This character can't ⟳ to sing songs."
+      },
+      {
+        "cardId": 14,
+        "textSnippet": "Whenever this character quests, you may ready your other Princess characters. They can't quest for the rest of this turn."
+      },
+      {
+        "cardId": 42,
+        "textSnippet": "When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn."
+      }
+    ]
+  },
+  {
+    "term": "cost",
+    "category": "geral",
+    "translation": "custo",
+    "frequency": 248,
+    "examples": [
+      {
+        "cardId": 23,
+        "textSnippet": "Whenever you play a character with cost 2 or less, you may exert them to draw a card."
+      },
+      {
+        "cardId": 25,
+        "textSnippet": "A character with cost 2 or more can ⟳ to sing this song for free."
+      },
+      {
+        "cardId": 27,
+        "textSnippet": "A character with cost 4 or more can ⟳ to sing this song for free."
+      }
+    ]
+  },
+  {
+    "term": "less",
+    "category": "geral",
+    "translation": "menos",
+    "frequency": 244,
+    "examples": [
+      {
+        "cardId": 8,
+        "textSnippet": "If you have a character named Gaston in play, you pay 1 ⬡ less to play this character."
+      },
+      {
+        "cardId": 23,
+        "textSnippet": "Whenever you play a character with cost 2 or less, you may exert them to draw a card."
+      },
+      {
+        "cardId": 33,
+        "textSnippet": "You pay 1 ⬡ less for the next character you play this turn."
+      }
+    ]
+  },
+  {
+    "term": "top",
+    "category": "geral",
+    "translation": "topo",
+    "frequency": 230,
+    "examples": [
+      {
+        "cardId": 2,
+        "textSnippet": "When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order."
+      },
+      {
+        "cardId": 39,
+        "textSnippet": "Whenever you play a song, you may look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom."
+      },
+      {
+        "cardId": 60,
+        "textSnippet": "Whenever this character quests, look at the top card of your deck. Put it on either the top or the bottom of your deck."
+      }
+    ]
+  },
+  {
+    "term": "one",
+    "category": "geral",
+    "translation": "um",
+    "frequency": 224,
+    "examples": [
+      {
+        "cardId": 18,
+        "textSnippet": "When you play this character, remove up to 3 damage from one of your characters. Draw a card for each 1 damage removed this way."
+      },
+      {
+        "cardId": 37,
+        "textSnippet": "Whenever one of your other characters is banished in a challenge, you may return that card to your hand."
+      },
+      {
+        "cardId": 39,
+        "textSnippet": "Whenever you play a song, you may look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom."
+      }
+    ]
+  },
+  {
+    "term": "exerted",
+    "category": "geral",
+    "translation": "exaurido",
+    "frequency": 219,
+    "examples": [
+      {
+        "cardId": 90,
+        "textSnippet": "While this character is exerted, opposing characters can't quest."
+      },
+      {
+        "cardId": 107,
+        "textSnippet": "While this character is exerted, opposing characters with Evasive gain Reckless. (They can't quest and must challenge if able.)"
+      },
+      {
+        "cardId": 146,
+        "textSnippet": "When this character is banished, you may put this card into your inkwell facedown and exerted."
+      }
+    ]
+  },
+  {
+    "term": "gains",
+    "category": "geral",
+    "translation": "ganha",
+    "frequency": 214,
+    "examples": [
+      {
+        "cardId": 53,
+        "textSnippet": "While you have another character in play, this character gains Evasive. (Only characters with Evasive can challenge them.)"
+      },
+      {
+        "cardId": 68,
+        "textSnippet": "Chosen character gains Rush this turn. (They can challenge the turn they're played.)"
+      },
+      {
+        "cardId": 80,
+        "textSnippet": "Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)"
+      }
+    ]
+  },
+  {
+    "term": "song",
+    "category": "geral",
+    "translation": "canção",
+    "frequency": 213,
+    "examples": [
+      {
+        "cardId": 2,
+        "textSnippet": "When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order."
+      },
+      {
+        "cardId": 25,
+        "textSnippet": "A character with cost 2 or more can ⟳ to sing this song for free."
+      },
+      {
+        "cardId": 27,
+        "textSnippet": "A character with cost 4 or more can ⟳ to sing this song for free."
+      }
+    ]
+  },
+  {
+    "term": "next",
+    "category": "geral",
+    "translation": "próximo",
+    "frequency": 211,
+    "examples": [
+      {
+        "cardId": 33,
+        "textSnippet": "You pay 1 ⬡ less for the next character you play this turn."
+      },
+      {
+        "cardId": 35,
+        "textSnippet": "When you play this character, if you have a character named Elsa in play, choose an opposing character. The chosen character doesn't ready at the start of their next turn."
+      },
+      {
+        "cardId": 42,
+        "textSnippet": "When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn."
+      }
+    ]
+  },
+  {
+    "term": "item",
+    "category": "geral",
+    "translation": "item",
+    "frequency": 202,
+    "examples": [
+      {
+        "cardId": 137,
+        "textSnippet": "Whenever you play an item, you may ready this character."
+      },
+      {
+        "cardId": 141,
+        "textSnippet": "Whenever this character quests, you pay 1 ⬡ less for the next item you play this turn."
+      },
+      {
+        "cardId": 152,
+        "textSnippet": "Whenever this character quests, you pay 2 ⬡ less for the next item you play this turn."
+      }
+    ]
+  },
+  {
+    "term": "start",
+    "category": "geral",
+    "translation": "início",
+    "frequency": 197,
+    "examples": [
+      {
+        "cardId": 35,
+        "textSnippet": "When you play this character, if you have a character named Elsa in play, choose an opposing character. The chosen character doesn't ready at the start of their next turn."
+      },
+      {
+        "cardId": 42,
+        "textSnippet": "When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn."
+      },
+      {
+        "cardId": 207,
+        "textSnippet": "When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn."
+      }
+    ]
+  },
+  {
+    "term": "evasive",
+    "category": "geral",
+    "translation": "Evasivo",
+    "frequency": 197,
+    "examples": [
+      {
+        "cardId": 46,
+        "textSnippet": "Your characters named Flotsam gain Evasive."
+      },
+      {
+        "cardId": 53,
+        "textSnippet": "While you have another character in play, this character gains Evasive. (Only characters with Evasive can challenge them.)"
+      },
+      {
+        "cardId": 93,
+        "textSnippet": "When you play this character, chosen character gains Evasive this turn."
+      }
+    ]
+  },
+  {
+    "term": "ready",
+    "category": "geral",
+    "translation": "pronto / desvirar",
+    "frequency": 171,
+    "examples": [
+      {
+        "cardId": 14,
+        "textSnippet": "Whenever this character quests, you may ready your other Princess characters. They can't quest for the rest of this turn."
+      },
+      {
+        "cardId": 35,
+        "textSnippet": "When you play this character, if you have a character named Elsa in play, choose an opposing character. The chosen character doesn't ready at the start of their next turn."
+      },
+      {
+        "cardId": 42,
+        "textSnippet": "When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn."
+      }
+    ]
+  },
+  {
+    "term": "pay",
+    "category": "geral",
+    "translation": "pagar",
+    "frequency": 168,
+    "examples": [
+      {
+        "cardId": 8,
+        "textSnippet": "If you have a character named Gaston in play, you pay 1 ⬡ less to play this character."
+      },
+      {
+        "cardId": 33,
+        "textSnippet": "You pay 1 ⬡ less for the next character you play this turn."
+      },
+      {
+        "cardId": 34,
+        "textSnippet": "Whenever you play a song, you may pay 1 ⬡ to draw a card."
+      }
+    ]
+  },
+  {
+    "term": "opponent",
+    "category": "geral",
+    "translation": "oponente",
+    "frequency": 167,
+    "examples": [
+      {
+        "cardId": 59,
+        "textSnippet": "When you play this character, each opponent loses 1 lore. You may draw a card for each 1 lore lost this way."
+      },
+      {
+        "cardId": 104,
+        "textSnippet": "During your turn, whenever this character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore."
+      },
+      {
+        "cardId": 105,
+        "textSnippet": "When you play this character, each opponent loses 1 lore."
+      }
+    ]
+  },
+  {
+    "term": "choose",
+    "category": "geral",
+    "translation": "escolher",
+    "frequency": 166,
+    "examples": [
+      {
+        "cardId": 35,
+        "textSnippet": "When you play this character, if you have a character named Elsa in play, choose an opposing character. The chosen character doesn't ready at the start of their next turn."
+      },
+      {
+        "cardId": 139,
+        "textSnippet": "Your other characters gain Ward. (Opponents can't choose them except to challenge.)"
+      },
+      {
+        "cardId": 188,
+        "textSnippet": "When you play this character, you may draw a card, then choose and discard a card."
+      }
+    ]
+  },
+  {
+    "term": "named",
+    "category": "geral",
+    "translation": "chamado",
+    "frequency": 161,
+    "examples": [
+      {
+        "cardId": 8,
+        "textSnippet": "If you have a character named Gaston in play, you pay 1 ⬡ less to play this character."
+      },
+      {
+        "cardId": 35,
+        "textSnippet": "When you play this character, if you have a character named Elsa in play, choose an opposing character. The chosen character doesn't ready at the start of their next turn."
+      },
+      {
+        "cardId": 43,
+        "textSnippet": "Your characters named Jetsam gain Rush."
+      }
+    ]
+  },
+  {
+    "term": "return",
+    "category": "geral",
+    "translation": "retornar",
+    "frequency": 159,
+    "examples": [
+      {
+        "cardId": 6,
+        "textSnippet": "When you play this character, return a character card from your discard to your hand."
+      },
+      {
+        "cardId": 37,
+        "textSnippet": "Whenever one of your other characters is banished in a challenge, you may return that card to your hand."
+      },
+      {
+        "cardId": 50,
+        "textSnippet": "When this character is banished in a challenge, you may return this card to your hand."
+      }
+    ]
+  },
+  {
+    "term": "banished",
+    "category": "geral",
+    "translation": "banido",
+    "frequency": 159,
+    "examples": [
+      {
+        "cardId": 16,
+        "textSnippet": "When this character challenges and is banished, you may banish the challenged character."
+      },
+      {
+        "cardId": 37,
+        "textSnippet": "Whenever one of your other characters is banished in a challenge, you may return that card to your hand."
+      },
+      {
+        "cardId": 50,
+        "textSnippet": "When this character is banished in a challenge, you may return this card to your hand."
+      }
+    ]
+  },
+  {
+    "term": "location",
+    "category": "geral",
+    "translation": "localização",
+    "frequency": 158,
+    "examples": [
+      {
+        "cardId": 467,
+        "textSnippet": "Remove up to 2 damage from chosen location."
+      },
+      {
+        "cardId": 482,
+        "textSnippet": "While this character is at a location, it gets +2 ¤."
+      },
+      {
+        "cardId": 483,
+        "textSnippet": "Move a character of yours to a location for free."
+      }
+    ]
+  },
+  {
+    "term": "inkwell",
+    "category": "geral",
+    "translation": "poço de tinta",
+    "frequency": 157,
+    "examples": [
+      {
+        "cardId": 142,
+        "textSnippet": "While you have 10 or more cards in your inkwell, this character gets +4 ◊."
+      },
+      {
+        "cardId": 146,
+        "textSnippet": "When this character is banished, you may put this card into your inkwell facedown and exerted."
+      },
+      {
+        "cardId": 147,
+        "textSnippet": "When you play this character, you may put chosen opposing character into their player's inkwell facedown."
+      }
+    ]
+  },
+  {
+    "term": "sing",
+    "category": "geral",
+    "translation": "cantar",
+    "frequency": 154,
+    "examples": [
+      {
+        "cardId": 1,
+        "textSnippet": "This character can't ⟳ to sing songs."
+      },
+      {
+        "cardId": 25,
+        "textSnippet": "A character with cost 2 or more can ⟳ to sing this song for free."
+      },
+      {
+        "cardId": 27,
+        "textSnippet": "A character with cost 4 or more can ⟳ to sing this song for free."
+      }
+    ]
+  },
+  {
+    "term": "banish",
+    "category": "geral",
+    "translation": "banir",
+    "frequency": 141,
+    "examples": [
+      {
+        "cardId": 16,
+        "textSnippet": "When this character challenges and is banished, you may banish the challenged character."
+      },
+      {
+        "cardId": 71,
+        "textSnippet": "When this character is challenged and banished, banish the challenging character."
+      },
+      {
+        "cardId": 84,
+        "textSnippet": "When this character is challenged and banished, you may banish the challenging character."
+      }
+    ]
+  },
+  {
+    "term": "get",
+    "category": "geral",
+    "translation": "receber",
+    "frequency": 132,
+    "examples": [
+      {
+        "cardId": 58,
+        "textSnippet": "Your characters named Peter Pan gain Challenger +1. (They get +1 ¤ while challenging.)"
+      },
+      {
+        "cardId": 118,
+        "textSnippet": "During your turn, whenever this character banishes another character in a challenge, your other characters get +1 ◊ this turn."
+      },
+      {
+        "cardId": 186,
+        "textSnippet": "Your other Musketeer characters get +1 ¤."
+      }
+    ]
+  },
+  {
+    "term": "player",
+    "category": "geral",
+    "translation": "jogador",
+    "frequency": 129,
+    "examples": [
+      {
+        "cardId": 47,
+        "textSnippet": "When you play this character, you may shuffle a card from any discard into its player's deck."
+      },
+      {
+        "cardId": 72,
+        "textSnippet": "When this character is challenged and banished, you may return chosen character to their player's hand."
+      },
+      {
+        "cardId": 74,
+        "textSnippet": "Whenever this character is challenged, the challenging player chooses and discards a card."
+      }
+    ]
+  },
+  {
+    "term": "deal",
+    "category": "geral",
+    "translation": "causar (dano)",
+    "frequency": 128,
+    "examples": [
+      {
+        "cardId": 180,
+        "textSnippet": "Whenever this character quests, you may deal 1 damage to chosen character."
+      },
+      {
+        "cardId": 193,
+        "textSnippet": "When you play this character, deal 1 damage to each opposing character."
+      },
+      {
+        "cardId": 204,
+        "textSnippet": "Deal 1 damage to chosen character."
+      }
+    ]
+  },
+  {
+    "term": "until",
+    "category": "geral",
+    "translation": "até",
+    "frequency": 128,
+    "examples": [
+      {
+        "cardId": 222,
+        "textSnippet": "When this character is banished, your other Seven Dwarfs characters get +2 ¤ until the start of your next turn."
+      },
+      {
+        "cardId": 404,
+        "textSnippet": "When you play this character, chosen character gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)"
+      },
+      {
+        "cardId": 419,
+        "textSnippet": "Chosen character gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)"
+      }
+    ]
+  },
+  {
+    "term": "up",
+    "category": "geral",
+    "translation": "para cima",
+    "frequency": 119,
+    "examples": [
+      {
+        "cardId": 3,
+        "textSnippet": "Remove up to 3 damage from chosen Princess character."
+      },
+      {
+        "cardId": 4,
+        "textSnippet": "When you play this character, you may remove up to 2 damage from each of your Musketeer characters."
+      },
+      {
+        "cardId": 18,
+        "textSnippet": "When you play this character, remove up to 3 damage from one of your characters. Draw a card for each 1 damage removed this way."
+      }
+    ]
+  },
+  {
+    "term": "bottom",
+    "category": "geral",
+    "translation": "fundo",
+    "frequency": 117,
+    "examples": [
+      {
+        "cardId": 2,
+        "textSnippet": "When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order."
+      },
+      {
+        "cardId": 39,
+        "textSnippet": "Whenever you play a song, you may look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom."
+      },
+      {
+        "cardId": 60,
+        "textSnippet": "Whenever this character quests, look at the top card of your deck. Put it on either the top or the bottom of your deck."
+      }
+    ]
+  },
+  {
+    "term": "quest",
+    "category": "geral",
+    "translation": "explorar (ação de ganhar lore)",
+    "frequency": 112,
+    "examples": [
+      {
+        "cardId": 14,
+        "textSnippet": "Whenever this character quests, you may ready your other Princess characters. They can't quest for the rest of this turn."
+      },
+      {
+        "cardId": 80,
+        "textSnippet": "Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)"
+      },
+      {
+        "cardId": 81,
+        "textSnippet": "Whenever this character quests, chosen opposing character can't quest during their next turn."
+      }
+    ]
+  },
+  {
+    "term": "here",
+    "category": "geral",
+    "translation": "aqui",
+    "frequency": 108,
+    "examples": [
+      {
+        "cardId": 469,
+        "textSnippet": "Characters get +2 ⛉ while here."
+      },
+      {
+        "cardId": 470,
+        "textSnippet": "Characters can't be challenged while here."
+      },
+      {
+        "cardId": 503,
+        "textSnippet": "At the start of your turn, for each character you have here, you may draw a card."
+      }
+    ]
+  },
+  {
+    "term": "facedown",
+    "category": "geral",
+    "translation": "virado para baixo",
+    "frequency": 104,
+    "examples": [
+      {
+        "cardId": 146,
+        "textSnippet": "When this character is banished, you may put this card into your inkwell facedown and exerted."
+      },
+      {
+        "cardId": 147,
+        "textSnippet": "When you play this character, you may put chosen opposing character into their player's inkwell facedown."
+      },
+      {
+        "cardId": 154,
+        "textSnippet": "When you play this character, you may put the top card of your deck into your inkwell facedown and exerted."
+      }
+    ]
+  },
+  {
+    "term": "under",
+    "category": "geral",
+    "translation": "sob / embaixo de",
+    "frequency": 101,
+    "examples": [
+      {
+        "cardId": 1529,
+        "textSnippet": "Your Floodborn characters that have a card under them gain Evasive and Ward. (Only characters with Evasive can challenge them. Opponents can't choose them except to challenge.)"
+      },
+      {
+        "cardId": 1647,
+        "textSnippet": "Your Floodborn characters that have a card under them gain Evasive and Ward. (Only characters with Evasive can challenge them. Opponents can't choose them except to challenge.)"
+      },
+      {
+        "cardId": 1661,
+        "textSnippet": "Your Floodborn characters that have a card under them gain Evasive and Ward. (Only characters with Evasive can challenge them. Opponents can't choose them except to challenge.)"
+      }
+    ]
+  },
+  {
+    "term": "remove",
+    "category": "geral",
+    "translation": "remover",
+    "frequency": 96,
+    "examples": [
+      {
+        "cardId": 3,
+        "textSnippet": "Remove up to 3 damage from chosen Princess character."
+      },
+      {
+        "cardId": 4,
+        "textSnippet": "When you play this character, you may remove up to 2 damage from each of your Musketeer characters."
+      },
+      {
+        "cardId": 18,
+        "textSnippet": "When you play this character, remove up to 3 damage from one of your characters. Draw a card for each 1 damage removed this way."
+      }
+    ]
+  },
+  {
+    "term": "rest",
+    "category": "geral",
+    "translation": "descanso / restante",
+    "frequency": 93,
+    "examples": [
+      {
+        "cardId": 2,
+        "textSnippet": "When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order."
+      },
+      {
+        "cardId": 14,
+        "textSnippet": "Whenever this character quests, you may ready your other Princess characters. They can't quest for the rest of this turn."
+      },
+      {
+        "cardId": 109,
+        "textSnippet": "Whenever you play a character named Anna, ready this character. This character can't quest for the rest of this turn."
+      }
+    ]
+  },
+  {
+    "term": "dealt",
+    "category": "geral",
+    "translation": "causado",
+    "frequency": 84,
+    "examples": [
+      {
+        "cardId": 358,
+        "textSnippet": "Your other characters gain Resist +1 (Damage dealt to them is reduced by 1.)"
+      },
+      {
+        "cardId": 371,
+        "textSnippet": "While you have an item in play, this character gains Resist +1 and Ward. (Damage dealt to this character is reduced by 1. Opponents can't choose this character except to challenge.)"
+      },
+      {
+        "cardId": 388,
+        "textSnippet": "Whenever one of your other characters would be dealt damage, put that many damage counters on this character instead."
+      }
+    ]
+  },
+  {
+    "term": "challenged",
+    "category": "geral",
+    "translation": "desafiado",
+    "frequency": 80,
+    "examples": [
+      {
+        "cardId": 16,
+        "textSnippet": "When this character challenges and is banished, you may banish the challenged character."
+      },
+      {
+        "cardId": 71,
+        "textSnippet": "When this character is challenged and banished, banish the challenging character."
+      },
+      {
+        "cardId": 72,
+        "textSnippet": "When this character is challenged and banished, you may return chosen character to their player's hand."
+      }
+    ]
+  },
+  {
+    "term": "resist",
+    "category": "geral",
+    "translation": "Resistência",
+    "frequency": 79,
+    "examples": [
+      {
+        "cardId": 358,
+        "textSnippet": "Your other characters gain Resist +1 (Damage dealt to them is reduced by 1.)"
+      },
+      {
+        "cardId": 371,
+        "textSnippet": "While you have an item in play, this character gains Resist +1 and Ward. (Damage dealt to this character is reduced by 1. Opponents can't choose this character except to challenge.)"
+      },
+      {
+        "cardId": 404,
+        "textSnippet": "When you play this character, chosen character gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)"
+      }
+    ]
+  },
+  {
+    "term": "reduced",
+    "category": "geral",
+    "translation": "reduzido",
+    "frequency": 76,
+    "examples": [
+      {
+        "cardId": 358,
+        "textSnippet": "Your other characters gain Resist +1 (Damage dealt to them is reduced by 1.)"
+      },
+      {
+        "cardId": 371,
+        "textSnippet": "While you have an item in play, this character gains Resist +1 and Ward. (Damage dealt to this character is reduced by 1. Opponents can't choose this character except to challenge.)"
+      },
+      {
+        "cardId": 404,
+        "textSnippet": "When you play this character, chosen character gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)"
+      }
+    ]
+  },
+  {
+    "term": "look",
+    "category": "geral",
+    "translation": "olhar",
+    "frequency": 75,
+    "examples": [
+      {
+        "cardId": 2,
+        "textSnippet": "When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order."
+      },
+      {
+        "cardId": 39,
+        "textSnippet": "Whenever you play a song, you may look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom."
+      },
+      {
+        "cardId": 60,
+        "textSnippet": "Whenever this character quests, look at the top card of your deck. Put it on either the top or the bottom of your deck."
+      }
+    ]
+  },
+  {
+    "term": "action",
+    "category": "geral",
+    "translation": "ação",
+    "frequency": 75,
+    "examples": [
+      {
+        "cardId": 76,
+        "textSnippet": "Whenever this character quests, you may play an action with cost 5 or less for free."
+      },
+      {
+        "cardId": 85,
+        "textSnippet": "When you play this character, you may return an action card from your discard to your hand."
+      },
+      {
+        "cardId": 88,
+        "textSnippet": "Whenever you play an action, chosen opposing character can't quest during their next turn."
+      }
+    ]
+  },
+  {
+    "term": "challenges",
+    "category": "geral",
+    "translation": "desafia",
+    "frequency": 74,
+    "examples": [
+      {
+        "cardId": 16,
+        "textSnippet": "When this character challenges and is banished, you may banish the challenged character."
+      },
+      {
+        "cardId": 336,
+        "textSnippet": "Whenever one of your characters challenges another character, you may draw a card."
+      },
+      {
+        "cardId": 339,
+        "textSnippet": "Whenever this character challenges a damaged character, she takes no damage from the challenge."
+      }
+    ]
+  },
+  {
+    "term": "exert",
+    "category": "geral",
+    "translation": "exaurir",
+    "frequency": 74,
+    "examples": [
+      {
+        "cardId": 23,
+        "textSnippet": "Whenever you play a character with cost 2 or less, you may exert them to draw a card."
+      },
+      {
+        "cardId": 41,
+        "textSnippet": "Exert chosen opposing character."
+      },
+      {
+        "cardId": 42,
+        "textSnippet": "When you play this character, exert up to 2 chosen characters. They can't ready at the start of their next turn."
+      }
+    ]
+  },
+  {
+    "term": "reveal",
+    "category": "geral",
+    "translation": "revelar",
+    "frequency": 72,
+    "examples": [
+      {
+        "cardId": 2,
+        "textSnippet": "When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order."
+      },
+      {
+        "cardId": 230,
+        "textSnippet": "When this character is banished, you may reveal the top card of your deck. If it's a character card, you may play that character for free and they enter play exerted. Otherwise, put it on the top of your deck."
+      },
+      {
+        "cardId": 232,
+        "textSnippet": "Whenever this character quests, you may reveal the top card of your deck. If it's a song card, you may play it for free. Otherwise, put it on the top of your deck."
+      }
+    ]
+  },
+  {
+    "term": "has",
+    "category": "geral",
+    "translation": "tem",
+    "frequency": 72,
+    "examples": [
+      {
+        "cardId": 157,
+        "textSnippet": "When you play this character, if an opponent has more cards in their hand than you, draw a card."
+      },
+      {
+        "cardId": 287,
+        "textSnippet": "While an opponent has no cards in their hand, this character gets +2 ◊."
+      },
+      {
+        "cardId": 302,
+        "textSnippet": "While this character has 5 ¤ or more, he gets +2 ◊."
+      }
+    ]
+  },
+  {
+    "term": "move",
+    "category": "geral",
+    "translation": "mover",
+    "frequency": 70,
+    "examples": [
+      {
+        "cardId": 483,
+        "textSnippet": "Move a character of yours to a location for free."
+      },
+      {
+        "cardId": 487,
+        "textSnippet": "During your turn, whenever you draw a card, you may move 1 damage counter from chosen character to chosen opposing character."
+      },
+      {
+        "cardId": 488,
+        "textSnippet": "Whenever this character quests, you may move up to 2 damage counters from chosen character to chosen opposing character."
+      }
+    ]
+  },
+  {
+    "term": "once",
+    "category": "geral",
+    "translation": "uma vez",
+    "frequency": 68,
+    "examples": [
+      {
+        "cardId": 455,
+        "textSnippet": "Once per turn, you may pay 2 ⬡ to reveal the top card of your deck. If it's a character card, put it into your hand. Otherwise, put it on the bottom of your deck."
+      },
+      {
+        "cardId": 518,
+        "textSnippet": "Once per turn, when this character moves to a location, gain lore equal to that location's ◊."
+      },
+      {
+        "cardId": 543,
+        "textSnippet": "Once per turn, when this character moves to a location, each opponent loses 1 lore."
+      }
+    ]
+  },
+  {
+    "term": "challenging",
+    "category": "geral",
+    "translation": "desafiando",
+    "frequency": 65,
+    "examples": [
+      {
+        "cardId": 58,
+        "textSnippet": "Your characters named Peter Pan gain Challenger +1. (They get +1 ¤ while challenging.)"
+      },
+      {
+        "cardId": 71,
+        "textSnippet": "When this character is challenged and banished, banish the challenging character."
+      },
+      {
+        "cardId": 74,
+        "textSnippet": "Whenever this character is challenged, the challenging player chooses and discards a card."
+      }
+    ]
+  },
+  {
+    "term": "played",
+    "category": "geral",
+    "translation": "jogado",
+    "frequency": 61,
+    "examples": [
+      {
+        "cardId": 68,
+        "textSnippet": "Chosen character gains Rush this turn. (They can challenge the turn they're played.)"
+      },
+      {
+        "cardId": 250,
+        "textSnippet": "If you played a song this turn, gain 1 lore."
+      },
+      {
+        "cardId": 264,
+        "textSnippet": "Play a character with cost 4 or less for free. They gain Rush. At the end of the turn, banish them. (They can challenge the turn they're played.)"
+      }
+    ]
+  },
+  {
+    "term": "do",
+    "category": "geral",
+    "translation": "fazer",
+    "frequency": 61,
+    "examples": [
+      {
+        "cardId": 527,
+        "textSnippet": "Whenever this character sings a song, you may play that song again from your discard for free. If you do, put that card on the bottom of your deck instead of into your discard."
+      },
+      {
+        "cardId": 648,
+        "textSnippet": "Whenever this character sings a song, you may play that song again from your discard for free. If you do, put that card on the bottom of your deck instead of into your discard."
+      },
+      {
+        "cardId": 1308,
+        "textSnippet": "Whenever this character quests, you may deal 1 damage to another chosen character of yours. If you do, ready that character. They can't quest for the rest of this turn."
+      }
+    ]
+  },
+  {
+    "term": "damaged",
+    "category": "geral",
+    "translation": "danificado",
+    "frequency": 58,
+    "examples": [
+      {
+        "cardId": 70,
+        "textSnippet": "When you play this character, exert all opposing damaged characters."
+      },
+      {
+        "cardId": 291,
+        "textSnippet": "Banish chosen damaged character."
+      },
+      {
+        "cardId": 306,
+        "textSnippet": "When you play this character, deal 1 damage to chosen damaged opposing character."
+      }
+    ]
+  },
+  {
+    "term": "opponents",
+    "category": "geral",
+    "translation": "oponentes",
+    "frequency": 58,
+    "examples": [
+      {
+        "cardId": 139,
+        "textSnippet": "Your other characters gain Ward. (Opponents can't choose them except to challenge.)"
+      },
+      {
+        "cardId": 213,
+        "textSnippet": "Your other characters gain Ward. (Opponents can't choose them except to challenge.)"
+      },
+      {
+        "cardId": 298,
+        "textSnippet": "This character gets -1 ◊ for each card in your opponents' hands."
+      }
+    ]
+  },
+  {
+    "term": "banishes",
+    "category": "geral",
+    "translation": "bane",
+    "frequency": 56,
+    "examples": [
+      {
+        "cardId": 104,
+        "textSnippet": "During your turn, whenever this character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore."
+      },
+      {
+        "cardId": 118,
+        "textSnippet": "During your turn, whenever this character banishes another character in a challenge, your other characters get +1 ◊ this turn."
+      },
+      {
+        "cardId": 190,
+        "textSnippet": "During your turn, whenever this character banishes another character in a challenge, you gain 1 lore."
+      }
+    ]
+  },
+  {
+    "term": "shift",
+    "category": "geral",
+    "translation": "Metamorfose",
+    "frequency": 53,
+    "examples": [
+      {
+        "cardId": 289,
+        "textSnippet": "Whenever you play a Floodborn character, if you used Shift to play them, each opponent chooses and discards a card."
+      },
+      {
+        "cardId": 354,
+        "textSnippet": "If you used Shift to play this character, you may draw 2 cards when he enters play."
+      },
+      {
+        "cardId": 517,
+        "textSnippet": "You may play any character with Shift on this character as if this character had any name."
+      }
+    ]
+  },
+  {
+    "term": "chooses",
+    "category": "geral",
+    "translation": "escolhe",
+    "frequency": 51,
+    "examples": [
+      {
+        "cardId": 74,
+        "textSnippet": "Whenever this character is challenged, the challenging player chooses and discards a card."
+      },
+      {
+        "cardId": 289,
+        "textSnippet": "Whenever you play a Floodborn character, if you used Shift to play them, each opponent chooses and discards a card."
+      },
+      {
+        "cardId": 292,
+        "textSnippet": "Whenever this character quests, each opponent chooses and discards a card."
+      }
+    ]
+  },
+  {
+    "term": "discards",
+    "category": "geral",
+    "translation": "descarta",
+    "frequency": 51,
+    "examples": [
+      {
+        "cardId": 74,
+        "textSnippet": "Whenever this character is challenged, the challenging player chooses and discards a card."
+      },
+      {
+        "cardId": 288,
+        "textSnippet": "Whenever this character is challenged, the challenging character's player discards all cards in their hand."
+      },
+      {
+        "cardId": 289,
+        "textSnippet": "Whenever you play a Floodborn character, if you used Shift to play them, each opponent chooses and discards a card."
+      }
+    ]
+  },
+  {
+    "term": "order",
+    "category": "geral",
+    "translation": "ordem",
+    "frequency": 48,
+    "examples": [
+      {
+        "cardId": 2,
+        "textSnippet": "When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order."
+      },
+      {
+        "cardId": 363,
+        "textSnippet": "When you play this character, look at the top 3 cards of your deck. You may put one into your hand. Put the rest on the bottom of your deck in any order."
+      },
+      {
+        "cardId": 375,
+        "textSnippet": "Whenever this character quests, look at the top 2 cards of your deck. You may put one into your hand. Put the rest on the bottom of your deck in any order."
+      }
+    ]
+  },
+  {
+    "term": "challenger",
+    "category": "geral",
+    "translation": "Desafiante",
+    "frequency": 48,
+    "examples": [
+      {
+        "cardId": 58,
+        "textSnippet": "Your characters named Peter Pan gain Challenger +1. (They get +1 ¤ while challenging.)"
+      },
+      {
+        "cardId": 257,
+        "textSnippet": "Whenever this character quests, your characters gain Challenger +3 and “When this character is banished in a challenge, return this card to your hand” this turn. (They get +3 ¤ while challenging.)"
+      },
+      {
+        "cardId": 266,
+        "textSnippet": "When you play this character and when he leaves play, chosen character gains Challenger +3 this turn. (They get +3 ¤ while challenging.)"
+      }
+    ]
+  },
+  {
+    "term": "only",
+    "category": "geral",
+    "translation": "apenas",
+    "frequency": 47,
+    "examples": [
+      {
+        "cardId": 53,
+        "textSnippet": "While you have another character in play, this character gains Evasive. (Only characters with Evasive can challenge them.)"
+      },
+      {
+        "cardId": 537,
+        "textSnippet": "Characters gain Ward and Evasive while here. (Opponents can't choose them except to challenge. Only characters with Evasive can challenge them.)"
+      },
+      {
+        "cardId": 568,
+        "textSnippet": "Choose one: • Chosen character gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.) • Chosen character gets +3 ¤ this turn."
+      }
+    ]
+  },
+  {
+    "term": "floodborn",
+    "category": "geral",
+    "translation": "floodborn (personagem transformado)",
+    "frequency": 45,
+    "examples": [
+      {
+        "cardId": 233,
+        "textSnippet": "Whenever you play a Floodborn character, you may remove all damage from chosen character."
+      },
+      {
+        "cardId": 252,
+        "textSnippet": "Whenever you play a Floodborn character, you may draw a card."
+      },
+      {
+        "cardId": 289,
+        "textSnippet": "Whenever you play a Floodborn character, if you used Shift to play them, each opponent chooses and discards a card."
+      }
+    ]
+  },
+  {
+    "term": "end",
+    "category": "geral",
+    "translation": "fim",
+    "frequency": 42,
+    "examples": [
+      {
+        "cardId": 264,
+        "textSnippet": "Play a character with cost 4 or less for free. They gain Rush. At the end of the turn, banish them. (They can challenge the turn they're played.)"
+      },
+      {
+        "cardId": 434,
+        "textSnippet": "At the end of your turn, if this character is exerted, you may ready another chosen character of yours."
+      },
+      {
+        "cardId": 620,
+        "textSnippet": "At the end of your turn, if this character is exerted and you don't have a Captain character in play, deal 1 damage to this character."
+      }
+    ]
+  },
+  {
+    "term": "enters",
+    "category": "geral",
+    "translation": "entra",
+    "frequency": 41,
+    "examples": [
+      {
+        "cardId": 237,
+        "textSnippet": "This character enters play exerted."
+      },
+      {
+        "cardId": 332,
+        "textSnippet": "This character enters play with 3 damage."
+      },
+      {
+        "cardId": 354,
+        "textSnippet": "If you used Shift to play this character, you may draw 2 cards when he enters play."
+      }
+    ]
+  },
+  {
+    "term": "loses",
+    "category": "geral",
+    "translation": "perde",
+    "frequency": 40,
+    "examples": [
+      {
+        "cardId": 59,
+        "textSnippet": "When you play this character, each opponent loses 1 lore. You may draw a card for each 1 lore lost this way."
+      },
+      {
+        "cardId": 104,
+        "textSnippet": "During your turn, whenever this character banishes another character in a challenge, you gain 2 lore and each opponent loses 2 lore."
+      },
+      {
+        "cardId": 105,
+        "textSnippet": "When you play this character, each opponent loses 1 lore."
+      }
+    ]
+  },
+  {
+    "term": "ward",
+    "category": "geral",
+    "translation": "Proteção",
+    "frequency": 40,
+    "examples": [
+      {
+        "cardId": 139,
+        "textSnippet": "Your other characters gain Ward. (Opponents can't choose them except to challenge.)"
+      },
+      {
+        "cardId": 213,
+        "textSnippet": "Your other characters gain Ward. (Opponents can't choose them except to challenge.)"
+      },
+      {
+        "cardId": 371,
+        "textSnippet": "While you have an item in play, this character gains Resist +1 and Ward. (Damage dealt to this character is reduced by 1. Opponents can't choose this character except to challenge.)"
+      }
+    ]
+  },
+  {
+    "term": "princess",
+    "category": "geral",
+    "translation": "princesa",
+    "frequency": 36,
+    "examples": [
+      {
+        "cardId": 3,
+        "textSnippet": "Remove up to 3 damage from chosen Princess character."
+      },
+      {
+        "cardId": 14,
+        "textSnippet": "Whenever this character quests, you may ready your other Princess characters. They can't quest for the rest of this turn."
+      },
+      {
+        "cardId": 134,
+        "textSnippet": "Exert chosen character. If a Princess character is chosen, banish her instead."
+      }
+    ]
+  },
+  {
+    "term": "there",
+    "category": "geral",
+    "translation": "lá / há",
+    "frequency": 35,
+    "examples": [
+      {
+        "cardId": 545,
+        "textSnippet": "Whenever you play a location, this character may move there for free."
+      },
+      {
+        "cardId": 918,
+        "textSnippet": "When you play this character, deal 4 damage to the opposing character with the lowest cost. (If there's a tie, the opposing players choose from the tied characters.)"
+      },
+      {
+        "cardId": 1462,
+        "textSnippet": "At the start of your turn, look at the cards in your inkwell. You may play a Puppy character from there for free."
+      }
+    ]
+  },
+  {
+    "term": "locations",
+    "category": "geral",
+    "translation": "localizações",
+    "frequency": 35,
+    "examples": [
+      {
+        "cardId": 603,
+        "textSnippet": "Your locations and characters at locations gain Resist +1. (Damage dealt to them is reduced by 1.)"
+      },
+      {
+        "cardId": 851,
+        "textSnippet": "Whenever one of your locations is banished, you may put that card into your inkwell facedown and exerted."
+      },
+      {
+        "cardId": 894,
+        "textSnippet": "While you have an exerted character here, your other locations can't be challenged."
+      }
+    ]
+  },
+  {
+    "term": "equal",
+    "category": "geral",
+    "translation": "igual",
+    "frequency": 34,
+    "examples": [
+      {
+        "cardId": 309,
+        "textSnippet": "Gain lore equal to the discarded character's ◊."
+      },
+      {
+        "cardId": 350,
+        "textSnippet": "Draw cards equal to the damage on chosen character of yours, then banish them."
+      },
+      {
+        "cardId": 485,
+        "textSnippet": "Whenever this character quests, gain lore equal to the cost of one of your items in play."
+      }
+    ]
+  },
+  {
+    "term": "except",
+    "category": "geral",
+    "translation": "exceto",
+    "frequency": 33,
+    "examples": [
+      {
+        "cardId": 139,
+        "textSnippet": "Your other characters gain Ward. (Opponents can't choose them except to challenge.)"
+      },
+      {
+        "cardId": 213,
+        "textSnippet": "Your other characters gain Ward. (Opponents can't choose them except to challenge.)"
+      },
+      {
+        "cardId": 371,
+        "textSnippet": "While you have an item in play, this character gains Resist +1 and Ward. (Damage dealt to this character is reduced by 1. Opponents can't choose this character except to challenge.)"
+      }
+    ]
+  },
+  {
+    "term": "otherwise",
+    "category": "geral",
+    "translation": "caso contrário",
+    "frequency": 33,
+    "examples": [
+      {
+        "cardId": 230,
+        "textSnippet": "When this character is banished, you may reveal the top card of your deck. If it's a character card, you may play that character for free and they enter play exerted. Otherwise, put it on the top of your deck."
+      },
+      {
+        "cardId": 232,
+        "textSnippet": "Whenever this character quests, you may reveal the top card of your deck. If it's a song card, you may play it for free. Otherwise, put it on the top of your deck."
+      },
+      {
+        "cardId": 389,
+        "textSnippet": "At the start of your turn, if this character has no damage, draw a card. Otherwise, he gets +4 ¤ this turn."
+      }
+    ]
+  },
+  {
+    "term": "instead",
+    "category": "geral",
+    "translation": "em vez disso",
+    "frequency": 32,
+    "examples": [
+      {
+        "cardId": 102,
+        "textSnippet": "Chosen character gets +1 ¤ this turn. If a character named Aladdin is chosen, he gets +2 ¤ instead."
+      },
+      {
+        "cardId": 134,
+        "textSnippet": "Exert chosen character. If a Princess character is chosen, banish her instead."
+      },
+      {
+        "cardId": 303,
+        "textSnippet": "When you play this character, chosen character gets +2 ¤ this turn. If the chosen character is named Pain, he gets +4 ¤ instead."
+      }
+    ]
+  },
+  {
+    "term": "rush",
+    "category": "geral",
+    "translation": "Investida",
+    "frequency": 31,
+    "examples": [
+      {
+        "cardId": 43,
+        "textSnippet": "Your characters named Jetsam gain Rush."
+      },
+      {
+        "cardId": 68,
+        "textSnippet": "Chosen character gains Rush this turn. (They can challenge the turn they're played.)"
+      },
+      {
+        "cardId": 264,
+        "textSnippet": "Play a character with cost 4 or less for free. They gain Rush. At the end of the turn, banish them. (They can challenge the turn they're played.)"
+      }
+    ]
+  },
+  {
+    "term": "must",
+    "category": "geral",
+    "translation": "deve",
+    "frequency": 31,
+    "examples": [
+      {
+        "cardId": 80,
+        "textSnippet": "Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)"
+      },
+      {
+        "cardId": 82,
+        "textSnippet": "When you play this character and whenever he quests, chosen opposing character gains Reckless during their next turn. (They can't quest and must challenge if able.)"
+      },
+      {
+        "cardId": 107,
+        "textSnippet": "While this character is exerted, opposing characters with Evasive gain Reckless. (They can't quest and must challenge if able.)"
+      }
+    ]
+  },
+  {
+    "term": "able",
+    "category": "geral",
+    "translation": "capaz",
+    "frequency": 31,
+    "examples": [
+      {
+        "cardId": 80,
+        "textSnippet": "Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)"
+      },
+      {
+        "cardId": 82,
+        "textSnippet": "When you play this character and whenever he quests, chosen opposing character gains Reckless during their next turn. (They can't quest and must challenge if able.)"
+      },
+      {
+        "cardId": 107,
+        "textSnippet": "While this character is exerted, opposing characters with Evasive gain Reckless. (They can't quest and must challenge if able.)"
+      }
+    ]
+  },
+  {
+    "term": "pirate",
+    "category": "geral",
+    "translation": "pirata",
+    "frequency": 28,
+    "examples": [
+      {
+        "cardId": 556,
+        "textSnippet": "Whenever he challenges a Pirate character, this character takes no damage from the challenge."
+      },
+      {
+        "cardId": 571,
+        "textSnippet": "Your Pirate characters may move here for free."
+      },
+      {
+        "cardId": 651,
+        "textSnippet": "Whenever he challenges a Pirate character, this character takes no damage from the challenge."
+      }
+    ]
+  },
+  {
+    "term": "they're",
+    "category": "geral",
+    "translation": "eles são/estão",
+    "frequency": 27,
+    "examples": [
+      {
+        "cardId": 68,
+        "textSnippet": "Chosen character gains Rush this turn. (They can challenge the turn they're played.)"
+      },
+      {
+        "cardId": 264,
+        "textSnippet": "Play a character with cost 4 or less for free. They gain Rush. At the end of the turn, banish them. (They can challenge the turn they're played.)"
+      },
+      {
+        "cardId": 282,
+        "textSnippet": "Chosen character gains Rush this turn. (They can challenge the turn they're played.)"
+      }
+    ]
+  },
+  {
+    "term": "used",
+    "category": "geral",
+    "translation": "usado",
+    "frequency": 27,
+    "examples": [
+      {
+        "cardId": 289,
+        "textSnippet": "Whenever you play a Floodborn character, if you used Shift to play them, each opponent chooses and discards a card."
+      },
+      {
+        "cardId": 354,
+        "textSnippet": "If you used Shift to play this character, you may draw 2 cards when he enters play."
+      },
+      {
+        "cardId": 673,
+        "textSnippet": "Whenever you play a Floodborn character, if you used Shift to play them, each opponent chooses and discards a card."
+      }
+    ]
+  },
+  {
+    "term": "number",
+    "category": "geral",
+    "translation": "número",
+    "frequency": 27,
+    "examples": [
+      {
+        "cardId": 491,
+        "textSnippet": "Gain lore equal to the number of Titan characters you have in play."
+      },
+      {
+        "cardId": 878,
+        "textSnippet": "When you play this character, deal damage to chosen character equal to the number of Broom characters you have in play."
+      },
+      {
+        "cardId": 949,
+        "textSnippet": "When you play this character, deal damage to chosen character equal to the number of Broom characters you have in play."
+      }
+    ]
+  },
+  {
+    "term": "give",
+    "category": "geral",
+    "translation": "dar",
+    "frequency": 26,
+    "examples": [
+      {
+        "cardId": 238,
+        "textSnippet": "Whenever you play this character or another Seven Dwarfs character, you may give chosen character -1 ¤ this turn."
+      },
+      {
+        "cardId": 696,
+        "textSnippet": "Whenever this character quests, you may give chosen character -2 ¤ until the start of your next turn."
+      },
+      {
+        "cardId": 1032,
+        "textSnippet": "When you play this character, you may pay 1 ⬡ to give chosen character +2 ¤ this turn."
+      }
+    ]
+  },
+  {
+    "term": "hero",
+    "category": "geral",
+    "translation": "herói",
+    "frequency": 26,
+    "examples": [
+      {
+        "cardId": 779,
+        "textSnippet": "Your other Hero characters gain Ward. (Opponents can't choose them except to challenge.)"
+      },
+      {
+        "cardId": 824,
+        "textSnippet": "Choose one: • Banish chosen Hero character. • Ready chosen Villain character. They can't quest for the rest of this turn."
+      },
+      {
+        "cardId": 828,
+        "textSnippet": "If you have another Hero character in play, this character gets +1 ◊."
+      }
+    ]
+  },
+  {
+    "term": "support",
+    "category": "geral",
+    "translation": "Apoio",
+    "frequency": 25,
+    "examples": [
+      {
+        "cardId": 170,
+        "textSnippet": "Chosen character gains Support this turn. (Whenever they quest, you may add their ¤ to another chosen character's ¤ this turn.)"
+      },
+      {
+        "cardId": 249,
+        "textSnippet": "Return a character card with Support from your discard to your hand."
+      },
+      {
+        "cardId": 353,
+        "textSnippet": "Your other characters gain Support. (Whenever they quest, you may add their ¤ to another chosen character's ¤ this turn.)"
+      }
+    ]
+  },
+  {
+    "term": "items",
+    "category": "geral",
+    "translation": "itens",
+    "frequency": 25,
+    "examples": [
+      {
+        "cardId": 365,
+        "textSnippet": "When you play this character and whenever he quests, you may banish one of your items to draw 2 cards."
+      },
+      {
+        "cardId": 485,
+        "textSnippet": "Whenever this character quests, gain lore equal to the cost of one of your items in play."
+      },
+      {
+        "cardId": 573,
+        "textSnippet": "Whenever this character quests, ready one of your items."
+      }
+    ]
+  },
+  {
+    "term": "reckless",
+    "category": "geral",
+    "translation": "Imprudente",
+    "frequency": 23,
+    "examples": [
+      {
+        "cardId": 80,
+        "textSnippet": "Chosen character gains Reckless during their next turn. (They can't quest and must challenge if able.)"
+      },
+      {
+        "cardId": 82,
+        "textSnippet": "When you play this character and whenever he quests, chosen opposing character gains Reckless during their next turn. (They can't quest and must challenge if able.)"
+      },
+      {
+        "cardId": 107,
+        "textSnippet": "While this character is exerted, opposing characters with Evasive gain Reckless. (They can't quest and must challenge if able.)"
+      }
+    ]
+  },
+  {
+    "term": "puppy",
+    "category": "geral",
+    "translation": "filhote",
+    "frequency": 23,
+    "examples": [
+      {
+        "cardId": 436,
+        "textSnippet": "You may have up to 99 copies of Dalmatian Puppy - Tail Wagger in your deck."
+      },
+      {
+        "cardId": 437,
+        "textSnippet": "You may have up to 99 copies of Dalmatian Puppy - Tail Wagger in your deck."
+      },
+      {
+        "cardId": 438,
+        "textSnippet": "You may have up to 99 copies of Dalmatian Puppy - Tail Wagger in your deck."
+      }
+    ]
+  },
+  {
+    "term": "way",
+    "category": "geral",
+    "translation": "maneira",
+    "frequency": 22,
+    "examples": [
+      {
+        "cardId": 18,
+        "textSnippet": "When you play this character, remove up to 3 damage from one of your characters. Draw a card for each 1 damage removed this way."
+      },
+      {
+        "cardId": 59,
+        "textSnippet": "When you play this character, each opponent loses 1 lore. You may draw a card for each 1 lore lost this way."
+      },
+      {
+        "cardId": 704,
+        "textSnippet": "When you play this character, you may remove up to 2 damage from chosen character. If you removed damage this way, you may draw a card."
+      }
+    ]
+  },
+  {
+    "term": "bodyguard",
+    "category": "geral",
+    "translation": "Guarda-costas",
+    "frequency": 21,
+    "examples": [
+      {
+        "cardId": 203,
+        "textSnippet": "Whenever one of your characters with Bodyguard is banished, you may draw a card."
+      },
+      {
+        "cardId": 445,
+        "textSnippet": "Whenever you play a character with Bodyguard, you may remove up to 2 damage from chosen character."
+      },
+      {
+        "cardId": 614,
+        "textSnippet": "While this character is exerted, your characters with Bodyguard gain Resist +1 and get +1 ◊. (Damage dealt to them is reduced by 1.)"
+      }
+    ]
+  },
+  {
+    "term": "unless",
+    "category": "geral",
+    "translation": "a menos que",
+    "frequency": 21,
+    "examples": [
+      {
+        "cardId": 217,
+        "textSnippet": "This character can't quest unless you have another Seven Dwarfs character in play."
+      },
+      {
+        "cardId": 494,
+        "textSnippet": "This character can't challenge or quest unless it is at a location."
+      },
+      {
+        "cardId": 744,
+        "textSnippet": "When you play this character, you may exert chosen opposing character. That character can't ready at the start of their next turn unless they're at a location."
+      }
+    ]
+  },
+  {
+    "term": "takes",
+    "category": "geral",
+    "translation": "pega",
+    "frequency": 21,
+    "examples": [
+      {
+        "cardId": 286,
+        "textSnippet": "Whenever an opposing character takes damage, you may ready this character."
+      },
+      {
+        "cardId": 339,
+        "textSnippet": "Whenever this character challenges a damaged character, she takes no damage from the challenge."
+      },
+      {
+        "cardId": 426,
+        "textSnippet": "Whenever an opposing character takes damage, you may ready this character."
+      }
+    ]
+  },
+  {
+    "term": "shuffle",
+    "category": "geral",
+    "translation": "embaralhar",
+    "frequency": 20,
+    "examples": [
+      {
+        "cardId": 47,
+        "textSnippet": "When you play this character, you may shuffle a card from any discard into its player's deck."
+      },
+      {
+        "cardId": 276,
+        "textSnippet": "When you play this character, shuffle another chosen character card into their player's deck. That player draws 2 cards."
+      },
+      {
+        "cardId": 435,
+        "textSnippet": "When you play this character, shuffle all character cards from your discard into your deck."
+      }
+    ]
+  },
+  {
+    "term": "either",
+    "category": "geral",
+    "translation": "qualquer um / ou",
+    "frequency": 20,
+    "examples": [
+      {
+        "cardId": 60,
+        "textSnippet": "Whenever this character quests, look at the top card of your deck. Put it on either the top or the bottom of your deck."
+      },
+      {
+        "cardId": 270,
+        "textSnippet": "When you play this character and when he leaves play, look at the top card of your deck. Put it on either the top or the bottom of your deck."
+      },
+      {
+        "cardId": 301,
+        "textSnippet": "When you play this character, each opponent chooses and discards either 2 cards or 1 action card."
+      }
+    ]
+  },
+  {
+    "term": "plays",
+    "category": "geral",
+    "translation": "joga",
+    "frequency": 20,
+    "examples": [
+      {
+        "cardId": 790,
+        "textSnippet": "Whenever an opponent plays a song, you may draw a card."
+      },
+      {
+        "cardId": 1126,
+        "textSnippet": "Each player plays with the top card of their deck face up."
+      },
+      {
+        "cardId": 1727,
+        "textSnippet": "When an opponent plays a character, return this character to your hand."
+      }
+    ]
+  },
+  {
+    "term": "first",
+    "category": "geral",
+    "translation": "primeiro",
+    "frequency": 20,
+    "examples": [
+      {
+        "cardId": 1160,
+        "textSnippet": "During your turn, the first time you move a character here, you may deal 1 damage to chosen character. If the moved character is a Knight, deal 2 damage instead."
+      },
+      {
+        "cardId": 1301,
+        "textSnippet": "For each character you have here, you pay 1 ⬡ less for the first action you play each turn."
+      },
+      {
+        "cardId": 2488,
+        "textSnippet": "If this is your first turn and you're not the first player, you pay 1 ⬡ less to play this character."
+      }
+    ]
+  },
+  {
+    "term": "villain",
+    "category": "geral",
+    "translation": "vilão",
+    "frequency": 19,
+    "examples": [
+      {
+        "cardId": 5,
+        "textSnippet": "This character gets +1 ◊ for each other Villain character you have in play."
+      },
+      {
+        "cardId": 136,
+        "textSnippet": "Banish chosen Villain character."
+      },
+      {
+        "cardId": 205,
+        "textSnippet": "This character gets +1 ◊ for each other Villain character you have in play."
+      }
+    ]
+  },
+  {
+    "term": "jafar",
+    "category": "geral",
+    "translation": "Jafar (personagem)",
+    "frequency": 19,
+    "examples": [
+      {
+        "cardId": 500,
+        "textSnippet": "If you have a character named Jafar in play, draw 2 cards. If you have a character named Genie in play, return chosen character with cost 4 or less to their player's hand."
+      },
+      {
+        "cardId": 1622,
+        "textSnippet": "When you play this character, if you have a character named Jafar in play, you may banish chosen item."
+      },
+      {
+        "cardId": 1896,
+        "textSnippet": "When Jafar plays this character, each Illumineer chooses and banishes one of their characters, one of their items, and one of their locations."
+      }
+    ]
+  },
+  {
+    "term": "toy",
+    "category": "geral",
+    "translation": "brinquedo",
+    "frequency": 19,
+    "examples": [
+      {
+        "cardId": 2730,
+        "textSnippet": "Your other Toy characters get +1 ⛉."
+      },
+      {
+        "cardId": 2735,
+        "textSnippet": "Whenever this character quests, if you have 2 or more other Toy characters in play, you may draw a card."
+      },
+      {
+        "cardId": 2736,
+        "textSnippet": "When you play this character, look at the top 4 cards of your deck. You may reveal a Toy character card or a location card named Andy's Room and put it into your hand. Put the rest on the bottom of your deck in any order."
+      }
+    ]
+  },
+  {
+    "term": "enter",
+    "category": "geral",
+    "translation": "entrar",
+    "frequency": 18,
+    "examples": [
+      {
+        "cardId": 230,
+        "textSnippet": "When this character is banished, you may reveal the top card of your deck. If it's a character card, you may play that character for free and they enter play exerted. Otherwise, put it on the top of your deck."
+      },
+      {
+        "cardId": 1422,
+        "textSnippet": "During your turn, whenever a card is put into your inkwell, you may reveal the top card of your deck. If it's an item card, you may play that item for free and they enter play exerted. Otherwise, put it on the bottom of your deck."
+      },
+      {
+        "cardId": 1726,
+        "textSnippet": "While this character is exerted, opposing characters with Rush enter play exerted."
+      }
+    ]
+  },
+  {
+    "term": "draws",
+    "category": "geral",
+    "translation": "compra (3ª pessoa)",
+    "frequency": 18,
+    "examples": [
+      {
+        "cardId": 276,
+        "textSnippet": "When you play this character, shuffle another chosen character card into their player's deck. That player draws 2 cards."
+      },
+      {
+        "cardId": 368,
+        "textSnippet": "When you play this character, you may banish chosen item. Its player draws a card."
+      },
+      {
+        "cardId": 997,
+        "textSnippet": "When you play this character, each opponent draws a card."
+      }
+    ]
+  },
+  {
+    "term": "counter",
+    "category": "geral",
+    "translation": "marcador",
+    "frequency": 18,
+    "examples": [
+      {
+        "cardId": 487,
+        "textSnippet": "During your turn, whenever you draw a card, you may move 1 damage counter from chosen character to chosen opposing character."
+      },
+      {
+        "cardId": 645,
+        "textSnippet": "During your turn, whenever you draw a card, you may move 1 damage counter from chosen character to chosen opposing character."
+      },
+      {
+        "cardId": 728,
+        "textSnippet": "When you play this character, move up to 1 damage counter from chosen character to chosen opposing character."
+      }
+    ]
+  },
+  {
+    "term": "songs",
+    "category": "geral",
+    "translation": "canções",
+    "frequency": 17,
+    "examples": [
+      {
+        "cardId": 1,
+        "textSnippet": "This character can't ⟳ to sing songs."
+      },
+      {
+        "cardId": 723,
+        "textSnippet": "Your characters named Stitch count as having +1 cost to sing songs."
+      },
+      {
+        "cardId": 724,
+        "textSnippet": "Characters count as having +2 cost to sing songs while here."
+      }
+    ]
+  },
+  {
+    "term": "add",
+    "category": "geral",
+    "translation": "adicionar",
+    "frequency": 17,
+    "examples": [
+      {
+        "cardId": 170,
+        "textSnippet": "Chosen character gains Support this turn. (Whenever they quest, you may add their ¤ to another chosen character's ¤ this turn.)"
+      },
+      {
+        "cardId": 353,
+        "textSnippet": "Your other characters gain Support. (Whenever they quest, you may add their ¤ to another chosen character's ¤ this turn.)"
+      },
+      {
+        "cardId": 429,
+        "textSnippet": "Your other characters gain Support. (Whenever they quest, you may add their ¤ to another chosen character's ¤ this turn.)"
+      }
+    ]
+  },
+  {
+    "term": "removed",
+    "category": "geral",
+    "translation": "removido",
+    "frequency": 16,
+    "examples": [
+      {
+        "cardId": 18,
+        "textSnippet": "When you play this character, remove up to 3 damage from one of your characters. Draw a card for each 1 damage removed this way."
+      },
+      {
+        "cardId": 704,
+        "textSnippet": "When you play this character, you may remove up to 2 damage from chosen character. If you removed damage this way, you may draw a card."
+      },
+      {
+        "cardId": 791,
+        "textSnippet": "Damage counters can't be removed."
+      }
+    ]
+  },
+  {
+    "term": "broom",
+    "category": "geral",
+    "translation": "vassoura",
+    "frequency": 16,
+    "examples": [
+      {
+        "cardId": 51,
+        "textSnippet": "You pay 1 ⬡ less to play Broom characters."
+      },
+      {
+        "cardId": 208,
+        "textSnippet": "You pay 1 ⬡ less to play Broom characters."
+      },
+      {
+        "cardId": 481,
+        "textSnippet": "When you play this character, you may shuffle all Broom cards from your discard into your deck."
+      }
+    ]
+  },
+  {
+    "term": "reveals",
+    "category": "geral",
+    "translation": "revela",
+    "frequency": 16,
+    "examples": [
+      {
+        "cardId": 526,
+        "textSnippet": "When you play this character, chosen opponent reveals their hand and discards a song card of your choice."
+      },
+      {
+        "cardId": 715,
+        "textSnippet": "Whenever this character quests, chosen opponent reveals their hand and discards a non-character card of your choice."
+      },
+      {
+        "cardId": 972,
+        "textSnippet": "Whenever this character quests, each opponent reveals the top card of their deck. If it's a character card, they may put it into their hand. Otherwise, they put it on the bottom of their deck."
+      }
+    ]
+  },
+  {
+    "term": "hunny",
+    "category": "geral",
+    "translation": "mel (pote de mel do Ursinho Puff)",
+    "frequency": 16,
+    "examples": [
+      {
+        "cardId": 2976,
+        "textSnippet": "When you play this character, chosen Hunny character gets +1 ◊ this turn."
+      },
+      {
+        "cardId": 3011,
+        "textSnippet": "While you have 2 or more other Hunny characters in play, this character gets +2 ◊."
+      },
+      {
+        "cardId": 3032,
+        "textSnippet": "You can have other Hunny characters in your deck regardless of ink type."
+      }
+    ]
+  },
+  {
+    "term": "queen",
+    "category": "geral",
+    "translation": "rainha",
+    "frequency": 15,
+    "examples": [
+      {
+        "cardId": 225,
+        "textSnippet": "Your Prince, Princess, King, and Queen characters get +1 ¤."
+      },
+      {
+        "cardId": 837,
+        "textSnippet": "When you play this character, if a Princess or Queen character is in play, gain 1 lore."
+      },
+      {
+        "cardId": 987,
+        "textSnippet": "At the start of your turn, if you have a Princess or Queen character in play, gain 1 lore."
+      }
+    ]
+  },
+  {
+    "term": "counters",
+    "category": "geral",
+    "translation": "marcadores",
+    "frequency": 15,
+    "examples": [
+      {
+        "cardId": 388,
+        "textSnippet": "Whenever one of your other characters would be dealt damage, put that many damage counters on this character instead."
+      },
+      {
+        "cardId": 488,
+        "textSnippet": "Whenever this character quests, you may move up to 2 damage counters from chosen character to chosen opposing character."
+      },
+      {
+        "cardId": 727,
+        "textSnippet": "When you play this character, move up to 3 damage counters from chosen character to chosen opposing character."
+      }
+    ]
+  },
+  {
+    "term": "players",
+    "category": "geral",
+    "translation": "jogadores",
+    "frequency": 15,
+    "examples": [
+      {
+        "cardId": 509,
+        "textSnippet": "When you play this character, the player or players with the most cards in their hand chooses and discards a card."
+      },
+      {
+        "cardId": 516,
+        "textSnippet": "When this character is banished, return all opposing characters to their players' hands."
+      },
+      {
+        "cardId": 693,
+        "textSnippet": "When you play this character, you may search your deck for a Madrigal character card and reveal that card to all players. Shuffle your deck and put that card on top of it."
+      }
+    ]
+  },
+  {
+    "term": "sings",
+    "category": "geral",
+    "translation": "canta",
+    "frequency": 15,
+    "examples": [
+      {
+        "cardId": 527,
+        "textSnippet": "Whenever this character sings a song, you may play that song again from your discard for free. If you do, put that card on the bottom of your deck instead of into your discard."
+      },
+      {
+        "cardId": 648,
+        "textSnippet": "Whenever this character sings a song, you may play that song again from your discard for free. If you do, put that card on the bottom of your deck instead of into your discard."
+      },
+      {
+        "cardId": 695,
+        "textSnippet": "Whenever this character sings a song, your other Princess characters get +1 ◊ this turn."
+      }
+    ]
+  },
+  {
+    "term": "detective",
+    "category": "geral",
+    "translation": "detetive",
+    "frequency": 15,
+    "examples": [
+      {
+        "cardId": 2203,
+        "textSnippet": "Whenever this character quests, you may give chosen Detective character +2 ¤ this turn."
+      },
+      {
+        "cardId": 2326,
+        "textSnippet": "When you play this character, if you have another Detective character in play, you may put chosen item into its player's inkwell facedown and exerted."
+      },
+      {
+        "cardId": 2339,
+        "textSnippet": "During your turn, your Detective characters gain Alert and Resist +2. (They can challenge as if they had Evasive. Damage dealt to them is reduced by 2.)"
+      }
+    ]
+  },
+  {
+    "term": "deals",
+    "category": "geral",
+    "translation": "causa",
+    "frequency": 14,
+    "examples": [
+      {
+        "cardId": 805,
+        "textSnippet": "During your turn, whenever this character deals damage to another character in a challenge, deal the same amount of damage to up to 2 other chosen characters."
+      },
+      {
+        "cardId": 808,
+        "textSnippet": "During your turn, whenever this character deals damage to another character in a challenge, you may deal the same amount of damage to another chosen character."
+      },
+      {
+        "cardId": 948,
+        "textSnippet": "During your turn, whenever this character deals damage to another character in a challenge, deal the same amount of damage to up to 2 other chosen characters."
+      }
+    ]
+  },
+  {
+    "term": "ally",
+    "category": "geral",
+    "translation": "aliado",
+    "frequency": 14,
+    "examples": [
+      {
+        "cardId": 1606,
+        "textSnippet": "Whenever this character quests, if you have no cards in your hand, draw a card for each Ally character you have in play."
+      },
+      {
+        "cardId": 1609,
+        "textSnippet": "During an opponent's turn, whenever one of your Ally characters takes damage, deal 1 damage to chosen opposing character."
+      },
+      {
+        "cardId": 1628,
+        "textSnippet": "If you have an Ally character in play, you pay 2 ⬡ less to play this character."
+      }
+    ]
+  },
+  {
+    "term": "name",
+    "category": "geral",
+    "translation": "nome",
+    "frequency": 13,
+    "examples": [
+      {
+        "cardId": 471,
+        "textSnippet": "Exert chosen opposing character and all other opposing characters with the same name."
+      },
+      {
+        "cardId": 501,
+        "textSnippet": "Name a card, then reveal the top card of your deck. If it's the named card, put that card into your hand. Otherwise, put it on the top of your deck."
+      },
+      {
+        "cardId": 517,
+        "textSnippet": "You may play any character with Shift on this character as if this character had any name."
+      }
+    ]
+  },
+  {
+    "term": "you've",
+    "category": "geral",
+    "translation": "você tem",
+    "frequency": 13,
+    "examples": [
+      {
+        "cardId": 533,
+        "textSnippet": "If you've played 2 or more actions this turn, draw a card."
+      },
+      {
+        "cardId": 1102,
+        "textSnippet": "During your turn, when you put a card into your inkwell, if it's the second card you've put into your inkwell this turn, you may draw a card."
+      },
+      {
+        "cardId": 1184,
+        "textSnippet": "During your turn, when you put a card into your inkwell, if it's the second card you've put into your inkwell this turn, you may draw a card."
+      }
+    ]
+  },
+  {
+    "term": "had",
+    "category": "geral",
+    "translation": "tinha",
+    "frequency": 12,
+    "examples": [
+      {
+        "cardId": 517,
+        "textSnippet": "You may play any character with Shift on this character as if this character had any name."
+      },
+      {
+        "cardId": 647,
+        "textSnippet": "You may play any character with Shift on this character as if this character had any name."
+      },
+      {
+        "cardId": 2247,
+        "textSnippet": "When this character is banished in a challenge, if he had a card under him, draw 2 cards."
+      }
+    ]
+  },
+  {
+    "term": "illusion",
+    "category": "geral",
+    "translation": "ilusão",
+    "frequency": 12,
+    "examples": [
+      {
+        "cardId": 1437,
+        "textSnippet": "Banish chosen Illusion character."
+      },
+      {
+        "cardId": 1480,
+        "textSnippet": "When you play this character, if you have an Illusion character in play, you may draw a card."
+      },
+      {
+        "cardId": 1484,
+        "textSnippet": "During an opponent's turn, whenever one of your Illusion characters is banished, you may return that card to your hand."
+      }
+    ]
+  },
+  {
+    "term": "discarded",
+    "category": "geral",
+    "translation": "descartado",
+    "frequency": 11,
+    "examples": [
+      {
+        "cardId": 305,
+        "textSnippet": "Whenever your opponent discards 1 or more cards, you may draw a card for each card discarded."
+      },
+      {
+        "cardId": 309,
+        "textSnippet": "Gain lore equal to the discarded character's ◊."
+      },
+      {
+        "cardId": 1371,
+        "textSnippet": "Whenever this character quests, you may draw a card, then choose and discard a card to deal 1 damage to chosen character or location. If you discarded a Pirate character card, deal 3 damage instead."
+      }
+    ]
+  },
+  {
+    "term": "choice",
+    "category": "geral",
+    "translation": "escolha",
+    "frequency": 11,
+    "examples": [
+      {
+        "cardId": 526,
+        "textSnippet": "When you play this character, chosen opponent reveals their hand and discards a song card of your choice."
+      },
+      {
+        "cardId": 715,
+        "textSnippet": "Whenever this character quests, chosen opponent reveals their hand and discards a non-character card of your choice."
+      },
+      {
+        "cardId": 1193,
+        "textSnippet": "When you play this card, chosen opponent reveals their hand and discards a song card of your choice."
+      }
+    ]
+  },
+  {
+    "term": "boost",
+    "category": "geral",
+    "translation": "impulso",
+    "frequency": 11,
+    "examples": [
+      {
+        "cardId": 2207,
+        "textSnippet": "Whenever you play a character or location with Boost, you may put the top card of your deck facedown under them."
+      },
+      {
+        "cardId": 2211,
+        "textSnippet": "When you play this character, you may ready chosen character with Boost. If you do, they can't quest or challenge for the rest of this turn."
+      },
+      {
+        "cardId": 2219,
+        "textSnippet": "Put the top card of your deck facedown under one of your characters or locations with Boost."
+      }
+    ]
+  },
+  {
+    "term": "super",
+    "category": "geral",
+    "translation": "super",
+    "frequency": 11,
+    "examples": [
+      {
+        "cardId": 2768,
+        "textSnippet": "When you play this character, if you have a Super or Hero character in play, you may draw a card."
+      },
+      {
+        "cardId": 2769,
+        "textSnippet": "Whenever this character quests, your Super characters get +1 ◊ this turn."
+      },
+      {
+        "cardId": 2774,
+        "textSnippet": "When you play this character, if you have another Super character in play, you may exert chosen opposing character."
+      }
+    ]
+  },
+  {
+    "term": "actions",
+    "category": "geral",
+    "translation": "ações",
+    "frequency": 10,
+    "examples": [
+      {
+        "cardId": 412,
+        "textSnippet": "While this character is exerted and you have no cards in your hand, opponents can't play actions."
+      },
+      {
+        "cardId": 533,
+        "textSnippet": "If you've played 2 or more actions this turn, draw a card."
+      },
+      {
+        "cardId": 1151,
+        "textSnippet": "When you play this character, opponents can't play actions until the start of your next turn."
+      }
+    ]
+  },
+  {
+    "term": "ability",
+    "category": "geral",
+    "translation": "habilidade",
+    "frequency": 10,
+    "examples": [
+      {
+        "cardId": 568,
+        "textSnippet": "If you have a character named Maui in play, you may use this item's Shapeshift ability for free."
+      },
+      {
+        "cardId": 1509,
+        "textSnippet": "Whenever an opponent chooses this character for an action or ability, you may draw a card."
+      },
+      {
+        "cardId": 1530,
+        "textSnippet": "You pay 1 ⬡ less to play characters using their Shift ability."
+      }
+    ]
+  },
+  {
+    "term": "robot",
+    "category": "geral",
+    "translation": "robô",
+    "frequency": 10,
+    "examples": [
+      {
+        "cardId": 1344,
+        "textSnippet": "Search your deck for an item card or a Robot character card and reveal it to all players. Shuffle your deck and put that card on top of it."
+      },
+      {
+        "cardId": 1365,
+        "textSnippet": "Choose one: • Remove up to 1 damage from chosen character. • If you have a Robot character in play, remove up to 3 damage from chosen character."
+      },
+      {
+        "cardId": 1403,
+        "textSnippet": "While you have an Alien or Robot character here, this location can't be challenged."
+      }
+    ]
+  },
+  {
+    "term": "anna",
+    "category": "geral",
+    "translation": "Anna (personagem)",
+    "frequency": 9,
+    "examples": [
+      {
+        "cardId": 109,
+        "textSnippet": "Whenever you play a character named Anna, ready this character. This character can't quest for the rest of this turn."
+      },
+      {
+        "cardId": 1488,
+        "textSnippet": "Whenever this character quests, if you have a character named Anna in play, gain 1 lore."
+      },
+      {
+        "cardId": 1502,
+        "textSnippet": "Whenever this character quests, you may exert chosen character. If you do and you have a character named Anna in play, the chosen character can't ready at the start of their next turn."
+      }
+    ]
+  },
+  {
+    "term": "seven",
+    "category": "geral",
+    "translation": "sete",
+    "frequency": 9,
+    "examples": [
+      {
+        "cardId": 217,
+        "textSnippet": "This character can't quest unless you have another Seven Dwarfs character in play."
+      },
+      {
+        "cardId": 222,
+        "textSnippet": "When this character is banished, your other Seven Dwarfs characters get +2 ¤ until the start of your next turn."
+      },
+      {
+        "cardId": 226,
+        "textSnippet": "Your other Seven Dwarfs characters get +1 ¤."
+      }
+    ]
+  },
+  {
+    "term": "dwarfs",
+    "category": "geral",
+    "translation": "anões",
+    "frequency": 9,
+    "examples": [
+      {
+        "cardId": 217,
+        "textSnippet": "This character can't quest unless you have another Seven Dwarfs character in play."
+      },
+      {
+        "cardId": 222,
+        "textSnippet": "When this character is banished, your other Seven Dwarfs characters get +2 ¤ until the start of your next turn."
+      },
+      {
+        "cardId": 226,
+        "textSnippet": "Your other Seven Dwarfs characters get +1 ¤."
+      }
+    ]
+  },
+  {
+    "term": "leaves",
+    "category": "geral",
+    "translation": "sai",
+    "frequency": 9,
+    "examples": [
+      {
+        "cardId": 266,
+        "textSnippet": "When you play this character and when he leaves play, chosen character gains Challenger +3 this turn. (They get +3 ¤ while challenging.)"
+      },
+      {
+        "cardId": 267,
+        "textSnippet": "When you play this character and when he leaves play, gain 1 lore."
+      },
+      {
+        "cardId": 268,
+        "textSnippet": "When you play this character and when he leaves play, you may draw a card."
+      }
+    ]
+  },
+  {
+    "term": "moves",
+    "category": "geral",
+    "translation": "move",
+    "frequency": 9,
+    "examples": [
+      {
+        "cardId": 505,
+        "textSnippet": "Whenever this character moves to a location, he gets +3 ¤ this turn."
+      },
+      {
+        "cardId": 518,
+        "textSnippet": "Once per turn, when this character moves to a location, gain lore equal to that location's ◊."
+      },
+      {
+        "cardId": 543,
+        "textSnippet": "Once per turn, when this character moves to a location, each opponent loses 1 lore."
+      }
+    ]
+  },
+  {
+    "term": "search",
+    "category": "geral",
+    "translation": "procurar",
+    "frequency": 9,
+    "examples": [
+      {
+        "cardId": 693,
+        "textSnippet": "When you play this character, you may search your deck for a Madrigal character card and reveal that card to all players. Shuffle your deck and put that card on top of it."
+      },
+      {
+        "cardId": 971,
+        "textSnippet": "When you play this character, if you used Shift to play her, you may search your deck for a character card and reveal that card to all players. Shuffle your deck and put that card on top of it."
+      },
+      {
+        "cardId": 1115,
+        "textSnippet": "When you play this character, if you used Shift to play him, you may search your deck for any card, put that card into your hand, then shuffle your deck."
+      }
+    ]
+  },
+  {
+    "term": "counts",
+    "category": "geral",
+    "translation": "conta",
+    "frequency": 9,
+    "examples": [
+      {
+        "cardId": 735,
+        "textSnippet": "This character counts as being named both Flotsam and Jetsam."
+      },
+      {
+        "cardId": 956,
+        "textSnippet": "This character counts as being named both Flotsam and Jetsam."
+      },
+      {
+        "cardId": 1062,
+        "textSnippet": "This character also counts as being named King Candy for Shift."
+      }
+    ]
+  },
+  {
+    "term": "alien",
+    "category": "geral",
+    "translation": "alienígena",
+    "frequency": 9,
+    "examples": [
+      {
+        "cardId": 1216,
+        "textSnippet": "Whenever this character quests, your other Alien characters get +1 ◊ this turn."
+      },
+      {
+        "cardId": 1403,
+        "textSnippet": "While you have an Alien or Robot character here, this location can't be challenged."
+      },
+      {
+        "cardId": 2110,
+        "textSnippet": "Whenever this character quests, chosen Alien character gains Challenger +2 and “This character can challenge ready characters” this turn."
+      }
+    ]
+  },
+  {
+    "term": "would",
+    "category": "geral",
+    "translation": "(condicional de will)",
+    "frequency": 8,
+    "examples": [
+      {
+        "cardId": 388,
+        "textSnippet": "Whenever one of your other characters would be dealt damage, put that many damage counters on this character instead."
+      },
+      {
+        "cardId": 1009,
+        "textSnippet": "During opponents' turns, if an effect would cause you to discard one or more cards from your hand, you don't discard."
+      },
+      {
+        "cardId": 1496,
+        "textSnippet": "If an effect would cause you to discard one or more cards, you don't discard."
+      }
+    ]
+  },
+  {
+    "term": "copies",
+    "category": "geral",
+    "translation": "cópias",
+    "frequency": 8,
+    "examples": [
+      {
+        "cardId": 436,
+        "textSnippet": "You may have up to 99 copies of Dalmatian Puppy - Tail Wagger in your deck."
+      },
+      {
+        "cardId": 437,
+        "textSnippet": "You may have up to 99 copies of Dalmatian Puppy - Tail Wagger in your deck."
+      },
+      {
+        "cardId": 438,
+        "textSnippet": "You may have up to 99 copies of Dalmatian Puppy - Tail Wagger in your deck."
+      }
+    ]
+  },
+  {
+    "term": "non",
+    "category": "geral",
+    "translation": "não",
+    "frequency": 8,
+    "examples": [
+      {
+        "cardId": 715,
+        "textSnippet": "Whenever this character quests, chosen opponent reveals their hand and discards a non-character card of your choice."
+      },
+      {
+        "cardId": 1671,
+        "textSnippet": "When you play this character, chosen opponent reveals their hand and discards a non-character card of your choice."
+      },
+      {
+        "cardId": 2208,
+        "textSnippet": "When you play this character, chosen opponent reveals their hand and discards a non-character card of their choice."
+      }
+    ]
+  },
+  {
+    "term": "puts",
+    "category": "geral",
+    "translation": "coloca",
+    "frequency": 8,
+    "examples": [
+      {
+        "cardId": 915,
+        "textSnippet": "When you play this character, each opposing player puts the top 3 cards of their deck into their discard."
+      },
+      {
+        "cardId": 1265,
+        "textSnippet": "Each opponent puts the top card of their deck into their discard."
+      },
+      {
+        "cardId": 1731,
+        "textSnippet": "When you play this character, each opponent chooses one of their characters and puts that card on the bottom of their deck. Then, each opponent may draw a card."
+      }
+    ]
+  },
+  {
+    "term": "knight",
+    "category": "geral",
+    "translation": "cavaleiro",
+    "frequency": 8,
+    "examples": [
+      {
+        "cardId": 1136,
+        "textSnippet": "When you play this character, chosen Knight character gains Challenger +2 this turn. (They get +2 ¤ while challenging.)"
+      },
+      {
+        "cardId": 1137,
+        "textSnippet": "When you play this character, if you have another Knight character in play, you may deal 1 damage to chosen character or location."
+      },
+      {
+        "cardId": 1139,
+        "textSnippet": "This character gains Resist +1 for each other Knight character you have in play. (Damage dealt to this character is reduced by 1 for each other Knight.)"
+      }
+    ]
+  },
+  {
+    "term": "racer",
+    "category": "geral",
+    "translation": "corredor",
+    "frequency": 8,
+    "examples": [
+      {
+        "cardId": 1453,
+        "textSnippet": "Whenever one of your other Racer characters is banished, each opponent chooses and banishes one of their characters."
+      },
+      {
+        "cardId": 1455,
+        "textSnippet": "Whenever you return a Racer character card from your discard to your hand, you may ready chosen Racer character. They can't quest for the rest of this turn."
+      },
+      {
+        "cardId": 1459,
+        "textSnippet": "Whenever this character challenges another character, you may return a Racer character card from your discard to your hand."
+      }
+    ]
+  },
+  {
+    "term": "alert",
+    "category": "geral",
+    "translation": "alerta",
+    "frequency": 8,
+    "examples": [
+      {
+        "cardId": 2339,
+        "textSnippet": "During your turn, your Detective characters gain Alert and Resist +2. (They can challenge as if they had Evasive. Damage dealt to them is reduced by 2.)"
+      },
+      {
+        "cardId": 2358,
+        "textSnippet": "Chosen character gains Alert this turn. (They can challenge as if they had Evasive.)"
+      },
+      {
+        "cardId": 2370,
+        "textSnippet": "When you play this character, chosen Detective character gains Alert this turn. (They can challenge as if they had Evasive.)"
+      }
+    ]
+  },
+  {
+    "term": "you're",
+    "category": "geral",
+    "translation": "você é/está",
+    "frequency": 8,
+    "examples": [
+      {
+        "cardId": 2488,
+        "textSnippet": "If this is your first turn and you're not the first player, you pay 1 ⬡ less to play this character."
+      },
+      {
+        "cardId": 2518,
+        "textSnippet": "If this is your first turn and you're not the first player, you pay 1 ⬡ less to play this character."
+      },
+      {
+        "cardId": 2552,
+        "textSnippet": "If this is your first turn and you're not the first player, you pay 1 ⬡ less to play this character."
+      }
+    ]
+  },
+  {
+    "term": "ink",
+    "category": "geral",
+    "translation": "tinta",
+    "frequency": 7,
+    "examples": [
+      {
+        "cardId": 142,
+        "textSnippet": "During your turn, you may ink an additional card."
+      },
+      {
+        "cardId": 214,
+        "textSnippet": "During your turn, you may ink an additional card."
+      },
+      {
+        "cardId": 2618,
+        "textSnippet": "You can ink cards from your discard."
+      }
+    ]
+  },
+  {
+    "term": "prince",
+    "category": "geral",
+    "translation": "príncipe",
+    "frequency": 7,
+    "examples": [
+      {
+        "cardId": 225,
+        "textSnippet": "Your Prince, Princess, King, and Queen characters get +1 ¤."
+      },
+      {
+        "cardId": 469,
+        "textSnippet": "If you have a Prince or King character here, you pay 1 ⬡ less to play characters."
+      },
+      {
+        "cardId": 643,
+        "textSnippet": "If you have a Prince or King character here, you pay 1 ⬡ less to play characters."
+      }
+    ]
+  },
+  {
+    "term": "king",
+    "category": "geral",
+    "translation": "rei",
+    "frequency": 7,
+    "examples": [
+      {
+        "cardId": 225,
+        "textSnippet": "Your Prince, Princess, King, and Queen characters get +1 ¤."
+      },
+      {
+        "cardId": 469,
+        "textSnippet": "If you have a Prince or King character here, you pay 1 ⬡ less to play characters."
+      },
+      {
+        "cardId": 643,
+        "textSnippet": "If you have a Prince or King character here, you pay 1 ⬡ less to play characters."
+      }
+    ]
+  },
+  {
+    "term": "second",
+    "category": "geral",
+    "translation": "segundo",
+    "frequency": 7,
+    "examples": [
+      {
+        "cardId": 330,
+        "textSnippet": "Whenever you play a second action in a turn, this character gets +2 ◊ this turn."
+      },
+      {
+        "cardId": 674,
+        "textSnippet": "Whenever you play a second action in a turn, this character gets +2 ◊ this turn."
+      },
+      {
+        "cardId": 1102,
+        "textSnippet": "During your turn, when you put a card into your inkwell, if it's the second card you've put into your inkwell this turn, you may draw a card."
+      }
+    ]
+  },
+  {
+    "term": "madrigal",
+    "category": "geral",
+    "translation": "Madrigal (família, Encanto)",
+    "frequency": 7,
+    "examples": [
+      {
+        "cardId": 693,
+        "textSnippet": "When you play this character, you may search your deck for a Madrigal character card and reveal that card to all players. Shuffle your deck and put that card on top of it."
+      },
+      {
+        "cardId": 709,
+        "textSnippet": "Whenever this character quests, your other Madrigal characters get +1 ◊ this turn."
+      },
+      {
+        "cardId": 1449,
+        "textSnippet": "While you have a character named Dolores Madrigal in play, this character gets +1 ◊."
+      }
+    ]
+  },
+  {
+    "term": "count",
+    "category": "geral",
+    "translation": "contar",
+    "frequency": 7,
+    "examples": [
+      {
+        "cardId": 723,
+        "textSnippet": "Your characters named Stitch count as having +1 cost to sing songs."
+      },
+      {
+        "cardId": 724,
+        "textSnippet": "Characters count as having +2 cost to sing songs while here."
+      },
+      {
+        "cardId": 789,
+        "textSnippet": "All cards in your hand count as having ◉."
+      }
+    ]
+  },
+  {
+    "term": "having",
+    "category": "geral",
+    "translation": "tendo",
+    "frequency": 7,
+    "examples": [
+      {
+        "cardId": 723,
+        "textSnippet": "Your characters named Stitch count as having +1 cost to sing songs."
+      },
+      {
+        "cardId": 724,
+        "textSnippet": "Characters count as having +2 cost to sing songs while here."
+      },
+      {
+        "cardId": 789,
+        "textSnippet": "All cards in your hand count as having ◉."
+      }
+    ]
+  },
+  {
+    "term": "costs",
+    "category": "geral",
+    "translation": "custa / custos",
+    "frequency": 7,
+    "examples": [
+      {
+        "cardId": 847,
+        "textSnippet": "Look at the top 4 cards of your deck. You may reveal an item card and put it into your hand. If that item costs 3 or less, you may play it for free instead and it enters play exerted. Put the rest on the bottom of your deck in any order."
+      },
+      {
+        "cardId": 909,
+        "textSnippet": "Look at the top 4 cards of your deck. You may reveal an item card and put it into your hand. If that item costs 3 or less, you may play it for free instead and it enters play exerted. Put the rest on the bottom of your deck in any order."
+      },
+      {
+        "cardId": 2993,
+        "textSnippet": "While this character is exerted, you may play characters from your discard. If you do, they enter play exerted. (You pay all costs.)"
+      }
+    ]
+  },
+  {
+    "term": "turns",
+    "category": "geral",
+    "translation": "turnos",
+    "frequency": 7,
+    "examples": [
+      {
+        "cardId": 957,
+        "textSnippet": "During opponents' turns, you can't lose lore."
+      },
+      {
+        "cardId": 1009,
+        "textSnippet": "During opponents' turns, if an effect would cause you to discard one or more cards from your hand, you don't discard."
+      },
+      {
+        "cardId": 1056,
+        "textSnippet": "During opponents' turns, whenever one of your characters is banished, you may return chosen character to their player's hand."
+      }
+    ]
+  },
+  {
+    "term": "inventor",
+    "category": "geral",
+    "translation": "inventor",
+    "frequency": 7,
+    "examples": [
+      {
+        "cardId": 1337,
+        "textSnippet": "Whenever this character quests, chosen Inventor character gets +1 ◊ this turn."
+      },
+      {
+        "cardId": 1339,
+        "textSnippet": "While you have 3 or more items in play, you pay 1 ⬡ less to play Inventor characters."
+      },
+      {
+        "cardId": 1353,
+        "textSnippet": "Your other Inventor characters gain Resist +1. (Damage dealt to them is reduced by 1.)"
+      }
+    ]
+  },
+  {
+    "term": "musketeer",
+    "category": "geral",
+    "translation": "mosqueteiro",
+    "frequency": 6,
+    "examples": [
+      {
+        "cardId": 4,
+        "textSnippet": "When you play this character, you may remove up to 2 damage from each of your Musketeer characters."
+      },
+      {
+        "cardId": 177,
+        "textSnippet": "During your turn, your Musketeer characters gain Evasive. (They can challenge characters with Evasive.)"
+      },
+      {
+        "cardId": 186,
+        "textSnippet": "Your other Musketeer characters get +1 ¤."
+      }
+    ]
+  },
+  {
+    "term": "hands",
+    "category": "geral",
+    "translation": "mãos",
+    "frequency": 6,
+    "examples": [
+      {
+        "cardId": 298,
+        "textSnippet": "This character gets -1 ◊ for each card in your opponents' hands."
+      },
+      {
+        "cardId": 299,
+        "textSnippet": "While one or more opponents have no cards in their hands, this character gets +3 ¤."
+      },
+      {
+        "cardId": 516,
+        "textSnippet": "When this character is banished, return all opposing characters to their players' hands."
+      }
+    ]
+  },
+  {
+    "term": "dalmatian",
+    "category": "geral",
+    "translation": "dálmata",
+    "frequency": 6,
+    "examples": [
+      {
+        "cardId": 436,
+        "textSnippet": "You may have up to 99 copies of Dalmatian Puppy - Tail Wagger in your deck."
+      },
+      {
+        "cardId": 437,
+        "textSnippet": "You may have up to 99 copies of Dalmatian Puppy - Tail Wagger in your deck."
+      },
+      {
+        "cardId": 438,
+        "textSnippet": "You may have up to 99 copies of Dalmatian Puppy - Tail Wagger in your deck."
+      }
+    ]
+  },
+  {
+    "term": "tail",
+    "category": "geral",
+    "translation": "cauda",
+    "frequency": 6,
+    "examples": [
+      {
+        "cardId": 436,
+        "textSnippet": "You may have up to 99 copies of Dalmatian Puppy - Tail Wagger in your deck."
+      },
+      {
+        "cardId": 437,
+        "textSnippet": "You may have up to 99 copies of Dalmatian Puppy - Tail Wagger in your deck."
+      },
+      {
+        "cardId": 438,
+        "textSnippet": "You may have up to 99 copies of Dalmatian Puppy - Tail Wagger in your deck."
+      }
+    ]
+  },
+  {
+    "term": "wagger",
+    "category": "geral",
+    "translation": "Wagger (personagem)",
+    "frequency": 6,
+    "examples": [
+      {
+        "cardId": 436,
+        "textSnippet": "You may have up to 99 copies of Dalmatian Puppy - Tail Wagger in your deck."
+      },
+      {
+        "cardId": 437,
+        "textSnippet": "You may have up to 99 copies of Dalmatian Puppy - Tail Wagger in your deck."
+      },
+      {
+        "cardId": 438,
+        "textSnippet": "You may have up to 99 copies of Dalmatian Puppy - Tail Wagger in your deck."
+      }
+    ]
+  },
+  {
+    "term": "exerts",
+    "category": "geral",
+    "translation": "exaure (3ª pessoa)",
+    "frequency": 6,
+    "examples": [
+      {
+        "cardId": 1012,
+        "textSnippet": "When you play this character, each opponent chooses and exerts one of their ready characters."
+      },
+      {
+        "cardId": 1483,
+        "textSnippet": "When you play this character, each opponent chooses and exerts one of their ready characters. They can't ready at the start of their next turn."
+      },
+      {
+        "cardId": 2226,
+        "textSnippet": "Whenever this character quests, each opponent chooses and exerts one of their ready characters."
+      }
+    ]
+  },
+  {
+    "term": "random",
+    "category": "geral",
+    "translation": "aleatório",
+    "frequency": 6,
+    "examples": [
+      {
+        "cardId": 1106,
+        "textSnippet": "When you play this character, exert all cards in your inkwell, then return 2 cards at random from your inkwell to your hand."
+      },
+      {
+        "cardId": 1173,
+        "textSnippet": "When you play this character, exert all cards in your inkwell, then return 2 cards at random from your inkwell to your hand."
+      },
+      {
+        "cardId": 1501,
+        "textSnippet": "Whenever another character is banished in a challenge, return that card to its player's hand, then that player discards a card at random."
+      }
+    ]
+  },
+  {
+    "term": "fewer",
+    "category": "geral",
+    "translation": "menos (quantidade)",
+    "frequency": 6,
+    "examples": [
+      {
+        "cardId": 1255,
+        "textSnippet": "If you have fewer than 3 cards in your hand, draw until you have 3 cards in your hand."
+      },
+      {
+        "cardId": 1408,
+        "textSnippet": "If you have fewer than 3 cards in your hand, draw until you have 3 cards in your hand."
+      },
+      {
+        "cardId": 2244,
+        "textSnippet": "When you play this character, exert all opposing characters. Then, each player with fewer than 3 cards in their hand draws until they have 3."
+      }
+    ]
+  },
+  {
+    "term": "duck",
+    "category": "geral",
+    "translation": "pato",
+    "frequency": 6,
+    "examples": [
+      {
+        "cardId": 1708,
+        "textSnippet": "If you have a character named Donald Duck in play, you pay 1 ⬡ less to play this item."
+      },
+      {
+        "cardId": 2606,
+        "textSnippet": "Your characters named Darkwing Duck gain Resist +1. (Damage dealt to them is reduced by 1.)"
+      },
+      {
+        "cardId": 2629,
+        "textSnippet": "If you have a character named Darkwing Duck in play, you pay 1 ⬡ less to play this item."
+      }
+    ]
+  },
+  {
+    "term": "illumineer",
+    "category": "geral",
+    "translation": "Illumineer (o jogador)",
+    "frequency": 6,
+    "examples": [
+      {
+        "cardId": 1896,
+        "textSnippet": "When Jafar plays this character, each Illumineer chooses and banishes one of their characters, one of their items, and one of their locations."
+      },
+      {
+        "cardId": 1902,
+        "textSnippet": "When Jafar plays this character, if each Illumineer has an exerted character in play, he gains 3 lore."
+      },
+      {
+        "cardId": 1903,
+        "textSnippet": "When Jafar plays this character, each Illumineer chooses and discards a card."
+      }
+    ]
+  },
+  {
+    "term": "jetsam",
+    "category": "geral",
+    "translation": "Jetsam (enguia da Úrsula)",
+    "frequency": 5,
+    "examples": [
+      {
+        "cardId": 43,
+        "textSnippet": "Your characters named Jetsam gain Rush."
+      },
+      {
+        "cardId": 508,
+        "textSnippet": "Your characters named Jetsam get +3 ¤."
+      },
+      {
+        "cardId": 734,
+        "textSnippet": "Your characters named Jetsam gain “When this character is banished in a challenge, return this card to your hand.”"
+      }
+    ]
+  },
+  {
+    "term": "flotsam",
+    "category": "geral",
+    "translation": "Flotsam (enguia da Úrsula)",
+    "frequency": 5,
+    "examples": [
+      {
+        "cardId": 46,
+        "textSnippet": "Your characters named Flotsam gain Evasive."
+      },
+      {
+        "cardId": 512,
+        "textSnippet": "Your characters named Flotsam gain Ward."
+      },
+      {
+        "cardId": 735,
+        "textSnippet": "This character counts as being named both Flotsam and Jetsam."
+      }
+    ]
+  },
+  {
+    "term": "captain",
+    "category": "geral",
+    "translation": "capitão",
+    "frequency": 5,
+    "examples": [
+      {
+        "cardId": 191,
+        "textSnippet": "While you have a Captain character in play, this character gets +1 ◊."
+      },
+      {
+        "cardId": 620,
+        "textSnippet": "At the end of your turn, if this character is exerted and you don't have a Captain character in play, deal 1 damage to this character."
+      },
+      {
+        "cardId": 635,
+        "textSnippet": "Your characters named Captain Hook gain Challenger +1. (They get +1 ¤ while challenging.)"
+      }
+    ]
+  },
+  {
+    "term": "per",
+    "category": "geral",
+    "translation": "por",
+    "frequency": 5,
+    "examples": [
+      {
+        "cardId": 455,
+        "textSnippet": "Once per turn, you may pay 2 ⬡ to reveal the top card of your deck. If it's a character card, put it into your hand. Otherwise, put it on the bottom of your deck."
+      },
+      {
+        "cardId": 518,
+        "textSnippet": "Once per turn, when this character moves to a location, gain lore equal to that location's ◊."
+      },
+      {
+        "cardId": 543,
+        "textSnippet": "Once per turn, when this character moves to a location, each opponent loses 1 lore."
+      }
+    ]
+  },
+  {
+    "term": "magic",
+    "category": "geral",
+    "translation": "magia",
+    "frequency": 5,
+    "examples": [
+      {
+        "cardId": 504,
+        "textSnippet": "Your characters named Magic Broom may move here for free."
+      },
+      {
+        "cardId": 750,
+        "textSnippet": "When you play this character, if you have a character named Magic Broom in play, you may draw a card."
+      },
+      {
+        "cardId": 877,
+        "textSnippet": "This character gets +2 ¤ for each other character named Magic Broom you have in play."
+      }
+    ]
+  },
+  {
+    "term": "lose",
+    "category": "geral",
+    "translation": "perder",
+    "frequency": 5,
+    "examples": [
+      {
+        "cardId": 541,
+        "textSnippet": "Characters named Peter Pan lose Evasive and can't gain Evasive."
+      },
+      {
+        "cardId": 650,
+        "textSnippet": "Characters named Peter Pan lose Evasive and can't gain Evasive."
+      },
+      {
+        "cardId": 957,
+        "textSnippet": "During opponents' turns, you can't lose lore."
+      }
+    ]
+  },
+  {
+    "term": "back",
+    "category": "geral",
+    "translation": "de volta / verso",
+    "frequency": 5,
+    "examples": [
+      {
+        "cardId": 592,
+        "textSnippet": "Whenever this character quests, you may look at the top 3 cards of your deck and put them back in any order."
+      },
+      {
+        "cardId": 842,
+        "textSnippet": "When you play this character, look at the top 3 cards of your deck and put them back in any order."
+      },
+      {
+        "cardId": 2085,
+        "textSnippet": "Whenever this character quests, you may look at the top 3 cards of your deck and put them back in any order."
+      }
+    ]
+  },
+  {
+    "term": "don't",
+    "category": "geral",
+    "translation": "não (fazem)",
+    "frequency": 5,
+    "examples": [
+      {
+        "cardId": 620,
+        "textSnippet": "At the end of your turn, if this character is exerted and you don't have a Captain character in play, deal 1 damage to this character."
+      },
+      {
+        "cardId": 1009,
+        "textSnippet": "During opponents' turns, if an effect would cause you to discard one or more cards from your hand, you don't discard."
+      },
+      {
+        "cardId": 1496,
+        "textSnippet": "If an effect would cause you to discard one or more cards, you don't discard."
+      }
+    ]
+  },
+  {
+    "term": "amount",
+    "category": "geral",
+    "translation": "quantidade",
+    "frequency": 5,
+    "examples": [
+      {
+        "cardId": 805,
+        "textSnippet": "During your turn, whenever this character deals damage to another character in a challenge, deal the same amount of damage to up to 2 other chosen characters."
+      },
+      {
+        "cardId": 808,
+        "textSnippet": "During your turn, whenever this character deals damage to another character in a challenge, you may deal the same amount of damage to another chosen character."
+      },
+      {
+        "cardId": 948,
+        "textSnippet": "During your turn, whenever this character deals damage to another character in a challenge, deal the same amount of damage to up to 2 other chosen characters."
+      }
+    ]
+  },
+  {
+    "term": "together",
+    "category": "geral",
+    "translation": "juntos",
+    "frequency": 5,
+    "examples": [
+      {
+        "cardId": 920,
+        "textSnippet": "During the opposing players' turn, they may together pay 3 lore to banish this character."
+      },
+      {
+        "cardId": 928,
+        "textSnippet": "When you play this character, the opposing players together choose an item or location of theirs and banish it."
+      },
+      {
+        "cardId": 2978,
+        "textSnippet": "This character can't sing songs without Sing Together."
+      }
+    ]
+  },
+  {
+    "term": "time",
+    "category": "geral",
+    "translation": "tempo",
+    "frequency": 5,
+    "examples": [
+      {
+        "cardId": 1160,
+        "textSnippet": "During your turn, the first time you move a character here, you may deal 1 damage to chosen character. If the moved character is a Knight, deal 2 damage instead."
+      },
+      {
+        "cardId": 2192,
+        "textSnippet": "Whenever one of your characters is chosen for Support, until the start of your next turn, the next time they would be dealt damage they take no damage instead."
+      },
+      {
+        "cardId": 2658,
+        "textSnippet": "During each opponent's turn, the first time this character would take damage, she takes no damage instead."
+      }
+    ]
+  },
+  {
+    "term": "moved",
+    "category": "geral",
+    "translation": "movido",
+    "frequency": 5,
+    "examples": [
+      {
+        "cardId": 1160,
+        "textSnippet": "During your turn, the first time you move a character here, you may deal 1 damage to chosen character. If the moved character is a Knight, deal 2 damage instead."
+      },
+      {
+        "cardId": 1320,
+        "textSnippet": "When you play this character, you may move any number of your characters to the same location for free. Gain 1 lore for each character you moved."
+      },
+      {
+        "cardId": 1507,
+        "textSnippet": "Choose 3 cards from chosen opponent's discard and put them on the bottom of their deck to gain 3 lore. If any Princess cards were moved this way, gain 4 lore instead."
+      }
+    ]
+  },
+  {
+    "term": "isn't",
+    "category": "geral",
+    "translation": "não é",
+    "frequency": 5,
+    "examples": [
+      {
+        "cardId": 1522,
+        "textSnippet": "Whenever you play an action that isn't a song, you may banish chosen item."
+      },
+      {
+        "cardId": 1531,
+        "textSnippet": "Whenever this character is challenged, you may return an action card that isn't a song card from your discard to your hand."
+      },
+      {
+        "cardId": 1540,
+        "textSnippet": "Whenever you play an action that isn't a song, you may ready chosen Pirate character."
+      }
+    ]
+  },
+  {
+    "term": "took",
+    "category": "geral",
+    "translation": "pegou",
+    "frequency": 5,
+    "examples": [
+      {
+        "cardId": 1542,
+        "textSnippet": "If an opposing character took damage this turn, you pay 2 ⬡ less to play this character."
+      },
+      {
+        "cardId": 1585,
+        "textSnippet": "If one of your characters took damage this turn, gain 1 lore."
+      },
+      {
+        "cardId": 1651,
+        "textSnippet": "If one of your characters took damage this turn, gain 1 lore."
+      }
+    ]
+  },
+  {
+    "term": "none",
+    "category": "geral",
+    "translation": "nenhum",
+    "frequency": 5,
+    "examples": [
+      {
+        "cardId": 2478,
+        "textSnippet": "At the end of your turn, if this character is exerted and none of your characters challenged this turn, gain 1 lore."
+      },
+      {
+        "cardId": 2485,
+        "textSnippet": "When you play this character, if you used Shift to play her and none of your characters challenged this turn, characters can't challenge until the start of your next turn."
+      },
+      {
+        "cardId": 2496,
+        "textSnippet": "At the end of your turn, if none of your characters challenged this turn, reveal the top card of your deck. If it's a character card with cost 3 or less or named Pocahontas, you may put it into your hand. Otherwise, put it on the bottom of your deck."
+      }
+    ]
+  },
+  {
+    "term": "darkwing",
+    "category": "geral",
+    "translation": "Darkwing (personagem)",
+    "frequency": 5,
+    "examples": [
+      {
+        "cardId": 2606,
+        "textSnippet": "Your characters named Darkwing Duck gain Resist +1. (Damage dealt to them is reduced by 1.)"
+      },
+      {
+        "cardId": 2629,
+        "textSnippet": "If you have a character named Darkwing Duck in play, you pay 1 ⬡ less to play this item."
+      },
+      {
+        "cardId": 2631,
+        "textSnippet": "Remove up to 2 damage from chosen character. If a character named Darkwing Duck is chosen, remove up to 4 damage instead."
+      }
+    ]
+  },
+  {
+    "term": "type",
+    "category": "geral",
+    "translation": "tipo",
+    "frequency": 5,
+    "examples": [
+      {
+        "cardId": 2836,
+        "textSnippet": "At the start of your turn, you may put the top card of your deck into your discard. If its card type is: • character, this character gets +2 ¤ this turn. • action or item, this character gets +2 ◊ this turn. • location, banish chosen character."
+      },
+      {
+        "cardId": 2947,
+        "textSnippet": "At the start of your turn, you may put the top card of your deck into your discard. If its card type is: • character, this character gets +2 ¤ this turn. • action or item, this character gets +2 ◊ this turn. • location, banish chosen character."
+      },
+      {
+        "cardId": 3032,
+        "textSnippet": "You can have other Hunny characters in your deck regardless of ink type."
+      }
+    ]
+  },
+  {
+    "term": "elsa",
+    "category": "geral",
+    "translation": "Elsa (personagem)",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 35,
+        "textSnippet": "When you play this character, if you have a character named Elsa in play, choose an opposing character. The chosen character doesn't ready at the start of their next turn."
+      },
+      {
+        "cardId": 1736,
+        "textSnippet": "Whenever this character quests, if you have a character named Elsa in play, you may draw a card."
+      },
+      {
+        "cardId": 1821,
+        "textSnippet": "When you play this character, if you have a character named Elsa in play, you may put the top card of your deck into your inkwell facedown and exerted."
+      }
+    ]
+  },
+  {
+    "term": "peter",
+    "category": "geral",
+    "translation": "Peter (Peter Pan, personagem)",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 58,
+        "textSnippet": "Your characters named Peter Pan gain Challenger +1. (They get +1 ¤ while challenging.)"
+      },
+      {
+        "cardId": 541,
+        "textSnippet": "Characters named Peter Pan lose Evasive and can't gain Evasive."
+      },
+      {
+        "cardId": 560,
+        "textSnippet": "If you have a character named Peter Pan in play, you pay 1 ⬡ less to play this character."
+      }
+    ]
+  },
+  {
+    "term": "pan",
+    "category": "geral",
+    "translation": "Pan (Peter Pan, personagem)",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 58,
+        "textSnippet": "Your characters named Peter Pan gain Challenger +1. (They get +1 ¤ while challenging.)"
+      },
+      {
+        "cardId": 541,
+        "textSnippet": "Characters named Peter Pan lose Evasive and can't gain Evasive."
+      },
+      {
+        "cardId": 560,
+        "textSnippet": "If you have a character named Peter Pan in play, you pay 1 ⬡ less to play this character."
+      }
+    ]
+  },
+  {
+    "term": "lost",
+    "category": "geral",
+    "translation": "perdido",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 59,
+        "textSnippet": "When you play this character, each opponent loses 1 lore. You may draw a card for each 1 lore lost this way."
+      },
+      {
+        "cardId": 1089,
+        "textSnippet": "At the start of your turn, if you have a character in play with more ¤ than each opposing character in play, each opponent loses 1 lore and you gain lore equal to the lore lost."
+      },
+      {
+        "cardId": 1334,
+        "textSnippet": "At the start of your turn, if you have a character here, all opponents lose 1 lore and you gain lore equal to the lore lost this way."
+      }
+    ]
+  },
+  {
+    "term": "hyena",
+    "category": "geral",
+    "translation": "hiena",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 490,
+        "textSnippet": "Whenever he challenges a Hyena character, this character takes no damage from the challenge."
+      },
+      {
+        "cardId": 1047,
+        "textSnippet": "This character gets +1 ¤ for each other Hyena character you have in play."
+      },
+      {
+        "cardId": 1972,
+        "textSnippet": "Whenever he challenges a Hyena character, this character takes no damage from the challenge."
+      }
+    ]
+  },
+  {
+    "term": "use",
+    "category": "geral",
+    "translation": "usar",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 568,
+        "textSnippet": "If you have a character named Maui in play, you may use this item's Shapeshift ability for free."
+      },
+      {
+        "cardId": 943,
+        "textSnippet": "Opposing players can't use battleground abilities."
+      },
+      {
+        "cardId": 1900,
+        "textSnippet": "Illumineers can't use battleground abilities."
+      }
+    ]
+  },
+  {
+    "term": "abilities",
+    "category": "geral",
+    "translation": "habilidades",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 831,
+        "textSnippet": "Opponents can't choose your items for abilities or effects."
+      },
+      {
+        "cardId": 943,
+        "textSnippet": "Opposing players can't use battleground abilities."
+      },
+      {
+        "cardId": 1900,
+        "textSnippet": "Illumineers can't use battleground abilities."
+      }
+    ]
+  },
+  {
+    "term": "effect",
+    "category": "geral",
+    "translation": "efeito",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 1009,
+        "textSnippet": "During opponents' turns, if an effect would cause you to discard one or more cards from your hand, you don't discard."
+      },
+      {
+        "cardId": 1253,
+        "textSnippet": "Whenever this character quests, reveal the top card of your deck. If it's a Dragon character card, put it into your hand and repeat this effect. Otherwise, put it on either the top or the bottom of your deck."
+      },
+      {
+        "cardId": 1496,
+        "textSnippet": "If an effect would cause you to discard one or more cards, you don't discard."
+      }
+    ]
+  },
+  {
+    "term": "also",
+    "category": "geral",
+    "translation": "também",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 1062,
+        "textSnippet": "This character also counts as being named King Candy for Shift."
+      },
+      {
+        "cardId": 1571,
+        "textSnippet": "When you play this character, you may banish chosen item of yours to draw a card. If the banished item is named Maurice's Machine, you may also banish chosen character with 2 ¤ or less."
+      },
+      {
+        "cardId": 2892,
+        "textSnippet": "This character also counts as being named Syndrome for Shift."
+      }
+    ]
+  },
+  {
+    "term": "mouse",
+    "category": "geral",
+    "translation": "camundongo",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 1068,
+        "textSnippet": "While you have a character named Minnie Mouse in play, this character gets +2 ¤."
+      },
+      {
+        "cardId": 1082,
+        "textSnippet": "Whenever this character or one of your characters named Mickey Mouse challenges another character, gain 1 lore."
+      },
+      {
+        "cardId": 1941,
+        "textSnippet": "Your characters named Mickey Mouse gain Support. (Whenever they quest, you may add their ¤ to another chosen character's ¤ this turn.)"
+      }
+    ]
+  },
+  {
+    "term": "chip",
+    "category": "geral",
+    "translation": "Chip (personagem) / lasca",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 1206,
+        "textSnippet": "This character enters play exerted unless you have a character named Chip in play."
+      },
+      {
+        "cardId": 1213,
+        "textSnippet": "This character counts as being named both Chip and Dale."
+      },
+      {
+        "cardId": 1404,
+        "textSnippet": "This character counts as being named both Chip and Dale."
+      }
+    ]
+  },
+  {
+    "term": "dale",
+    "category": "geral",
+    "translation": "Dale (personagem)",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 1211,
+        "textSnippet": "While you have a character named Dale in play, this character gains Support. (Whenever they quest, you may add their ¤ to another chosen character's ¤ this turn.)"
+      },
+      {
+        "cardId": 1213,
+        "textSnippet": "This character counts as being named both Chip and Dale."
+      },
+      {
+        "cardId": 1404,
+        "textSnippet": "This character counts as being named both Chip and Dale."
+      }
+    ]
+  },
+  {
+    "term": "pays",
+    "category": "geral",
+    "translation": "paga",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 1215,
+        "textSnippet": "Whenever a character of yours is challenged while this character is exerted, the challenging character gets -3 ¤ this turn unless their player pays 3 ⬡."
+      },
+      {
+        "cardId": 1405,
+        "textSnippet": "Whenever a character of yours is challenged while this character is exerted, the challenging character gets -3 ¤ this turn unless their player pays 3 ⬡."
+      },
+      {
+        "cardId": 1632,
+        "textSnippet": "Each player pays 2 ⬡ more to play actions or items. (This doesn't apply to singing songs.)"
+      }
+    ]
+  },
+  {
+    "term": "lilo",
+    "category": "geral",
+    "translation": "Lilo (personagem)",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 1829,
+        "textSnippet": "Your characters named Lilo gain Support. (Whenever they quest, you may add their ¤ to another chosen character's ¤ this turn.)"
+      },
+      {
+        "cardId": 2466,
+        "textSnippet": "If you have a character named Lilo in play, you can play this character for free."
+      },
+      {
+        "cardId": 2648,
+        "textSnippet": "While you have a character named Lilo in play, this character gains Challenger +3. (They get +3 ¤ while challenging.)"
+      }
+    ]
+  },
+  {
+    "term": "faceup",
+    "category": "geral",
+    "translation": "virado para cima",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 2221,
+        "textSnippet": "Put a character card from your discard under this item faceup."
+      },
+      {
+        "cardId": 2414,
+        "textSnippet": "Put a character card from your discard under this item faceup."
+      },
+      {
+        "cardId": 3116,
+        "textSnippet": "Each opponent plays with the top card of their deck faceup."
+      }
+    ]
+  },
+  {
+    "term": "left",
+    "category": "geral",
+    "translation": "restante / esquerda",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 2238,
+        "textSnippet": "During your turn, if 1 or more cards have left a player's discard this turn, this character gets +2 ◊."
+      },
+      {
+        "cardId": 2399,
+        "textSnippet": "During your turn, if 1 or more cards have left a player's discard this turn, this character gets +2 ◊."
+      },
+      {
+        "cardId": 2513,
+        "textSnippet": "If a card left a player's discard this turn, this card gains Shift 0 ⬡. (You may pay 0 ⬡ to play this on top of one of your characters named Anna.)"
+      }
+    ]
+  },
+  {
+    "term": "emerald",
+    "category": "geral",
+    "translation": "esmeralda",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 2280,
+        "textSnippet": "Whenever one of your other Emerald characters is challenged and banished, banish the challenging character."
+      },
+      {
+        "cardId": 2446,
+        "textSnippet": "Whenever one of your other Emerald characters is challenged and banished, banish the challenging character."
+      }
+    ]
+  },
+  {
+    "term": "classification",
+    "category": "geral",
+    "translation": "classificação (subtipo de carta)",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 2355,
+        "textSnippet": "Chosen character gains Resist +1 and the Detective classification until the start of your next turn. (Damage dealt to them is reduced by 1.)"
+      },
+      {
+        "cardId": 2374,
+        "textSnippet": "Your other characters gain the Detective classification."
+      },
+      {
+        "cardId": 2665,
+        "textSnippet": "All opposing characters gain the Villain classification."
+      }
+    ]
+  },
+  {
+    "term": "following",
+    "category": "geral",
+    "translation": "seguinte",
+    "frequency": 4,
+    "examples": [
+      {
+        "cardId": 2972,
+        "textSnippet": "When you play this character, choose one of the following. If you have another Toy character in play, choose both instead: • You may return a character card with cost 2 or less from your discard to your hand. • You may play a character with cost 2 or less for free."
+      },
+      {
+        "cardId": 3048,
+        "textSnippet": "When you play this character, choose one of the following. If you have another Toy character in play, choose both instead: • You may return an action card with cost 2 or less from your discard to your hand. • You may play an action with cost 2 or less for free."
+      },
+      {
+        "cardId": 3229,
+        "textSnippet": "When you play this character, choose one of the following. If you have another Toy character in play, choose both instead: • You may return an action card with cost 2 or less from your discard to your hand. • You may play an action with cost 2 or less for free."
+      }
+    ]
+  },
+  {
+    "term": "returned",
+    "category": "geral",
+    "translation": "retornado",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 269,
+        "textSnippet": "Whenever one of your other characters is returned to your hand from play, this character gets +1 ◊ this turn."
+      },
+      {
+        "cardId": 1264,
+        "textSnippet": "Whenever one of your opponents' characters, items, or locations is returned to their hand from play, gain 1 lore."
+      },
+      {
+        "cardId": 1409,
+        "textSnippet": "Whenever one of your opponents' characters, items, or locations is returned to their hand from play, gain 1 lore."
+      }
+    ]
+  },
+  {
+    "term": "dragon",
+    "category": "geral",
+    "translation": "dragão",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 382,
+        "textSnippet": "Banish chosen Dragon character."
+      },
+      {
+        "cardId": 1039,
+        "textSnippet": "When you play this character, banish chosen opposing Dragon character."
+      },
+      {
+        "cardId": 1253,
+        "textSnippet": "Whenever this character quests, reveal the top card of your deck. If it's a Dragon character card, put it into your hand and repeat this effect. Otherwise, put it on either the top or the bottom of your deck."
+      }
+    ]
+  },
+  {
+    "term": "maleficent",
+    "category": "geral",
+    "translation": "Malévola (personagem)",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 473,
+        "textSnippet": "Whenever you play a character named Maleficent, you may look at the top card of your deck. Put it on either the top or the bottom of your deck."
+      },
+      {
+        "cardId": 991,
+        "textSnippet": "When you play this character, for each of your characters named Maleficent in play, return a chosen opposing character, item, or location with cost 3 or less to their player's hand."
+      },
+      {
+        "cardId": 3164,
+        "textSnippet": "Your characters named Maleficent gain Resist +1. (Damage dealt to them is reduced by 1.)"
+      }
+    ]
+  },
+  {
+    "term": "ursula",
+    "category": "geral",
+    "translation": "Úrsula (personagem)",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 713,
+        "textSnippet": "While you have a character named Ursula in play, this character gains Bodyguard and gets +2 ⛉. (An opposing character who challenges one of your characters must choose one with Bodyguard if able.)"
+      },
+      {
+        "cardId": 759,
+        "textSnippet": "Characters named Ursula get +1 ◊ while here."
+      },
+      {
+        "cardId": 951,
+        "textSnippet": "Characters named Ursula get +1 ◊ while here."
+      }
+    ]
+  },
+  {
+    "term": "returns",
+    "category": "geral",
+    "translation": "retorna",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 763,
+        "textSnippet": "When this character is challenged and banished, each opponent chooses one of their characters and returns that card to their hand."
+      },
+      {
+        "cardId": 1048,
+        "textSnippet": "When you play this character, each opponent chooses one of their characters and returns that card to their hand."
+      },
+      {
+        "cardId": 1541,
+        "textSnippet": "Once during your turn, whenever a card is put into your inkwell, chosen opponent chooses one of their characters and returns that card to their hand."
+      }
+    ]
+  },
+  {
+    "term": "cause",
+    "category": "geral",
+    "translation": "causar",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 1009,
+        "textSnippet": "During opponents' turns, if an effect would cause you to discard one or more cards from your hand, you don't discard."
+      },
+      {
+        "cardId": 1496,
+        "textSnippet": "If an effect would cause you to discard one or more cards, you don't discard."
+      },
+      {
+        "cardId": 1657,
+        "textSnippet": "If an effect would cause you to discard one or more cards, you don't discard."
+      }
+    ]
+  },
+  {
+    "term": "mickey",
+    "category": "geral",
+    "translation": "Mickey (personagem)",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 1082,
+        "textSnippet": "Whenever this character or one of your characters named Mickey Mouse challenges another character, gain 1 lore."
+      },
+      {
+        "cardId": 1941,
+        "textSnippet": "Your characters named Mickey Mouse gain Support. (Whenever they quest, you may add their ¤ to another chosen character's ¤ this turn.)"
+      },
+      {
+        "cardId": 2177,
+        "textSnippet": "Your characters named Mickey Mouse gain Support."
+      }
+    ]
+  },
+  {
+    "term": "singer",
+    "category": "geral",
+    "translation": "Cantor(a)",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 1210,
+        "textSnippet": "While you have a character named Gazelle in play, this character gains Singer 6. (This character counts as cost 6 to sing songs.)"
+      },
+      {
+        "cardId": 2049,
+        "textSnippet": "While you have a character with Singer in play, this character gets +1 ¤ and +1 ◊."
+      },
+      {
+        "cardId": 2212,
+        "textSnippet": "While you have 2 or more other Amber characters in play, this character gains Singer 8. (They count as cost 8 to sing songs.)"
+      }
+    ]
+  },
+  {
+    "term": "microbots",
+    "category": "geral",
+    "translation": "microbots (robôs pequenos)",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 1359,
+        "textSnippet": "You may play items named Microbots for free."
+      },
+      {
+        "cardId": 1366,
+        "textSnippet": "You may have any number of cards named Microbots in your deck."
+      }
+    ]
+  },
+  {
+    "term": "undamaged",
+    "category": "geral",
+    "translation": "sem dano",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 1437,
+        "textSnippet": "Whenever you ready this character, gain 1 lore for each other undamaged character you have in play."
+      },
+      {
+        "cardId": 1640,
+        "textSnippet": "Whenever you ready this character, gain 1 lore for each other undamaged character you have in play."
+      },
+      {
+        "cardId": 1931,
+        "textSnippet": "Whenever you ready this character, gain 1 lore for each other undamaged character you have in play."
+      }
+    ]
+  },
+  {
+    "term": "glass",
+    "category": "geral",
+    "translation": "vidro",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 1448,
+        "textSnippet": "When you play this character, you may put an item card named The Glass Slipper from your discard on the bottom of your deck to gain 3 lore."
+      },
+      {
+        "cardId": 1477,
+        "textSnippet": "You may only have 2 copies of The Glass Slipper in your deck."
+      },
+      {
+        "cardId": 1641,
+        "textSnippet": "You may only have 2 copies of The Glass Slipper in your deck."
+      }
+    ]
+  },
+  {
+    "term": "slipper",
+    "category": "geral",
+    "translation": "sapatinho",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 1448,
+        "textSnippet": "When you play this character, you may put an item card named The Glass Slipper from your discard on the bottom of your deck to gain 3 lore."
+      },
+      {
+        "cardId": 1477,
+        "textSnippet": "You may only have 2 copies of The Glass Slipper in your deck."
+      },
+      {
+        "cardId": 1641,
+        "textSnippet": "You may only have 2 copies of The Glass Slipper in your deck."
+      }
+    ]
+  },
+  {
+    "term": "using",
+    "category": "geral",
+    "translation": "usando",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 1530,
+        "textSnippet": "You pay 1 ⬡ less to play characters using their Shift ability."
+      },
+      {
+        "cardId": 1559,
+        "textSnippet": "For each item card in your discard, you pay 1 ⬡ less to play this character using her Shift ability."
+      },
+      {
+        "cardId": 1650,
+        "textSnippet": "For each item card in your discard, you pay 1 ⬡ less to play this character using her Shift ability."
+      }
+    ]
+  },
+  {
+    "term": "lady",
+    "category": "geral",
+    "translation": "dama",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 1543,
+        "textSnippet": "If you have a character named Lady in play, you pay 1 ⬡ less to play this character."
+      },
+      {
+        "cardId": 1609,
+        "textSnippet": "Your characters named Lady Kluck gain Resist +1. (Damage dealt to them is reduced by 1.)"
+      },
+      {
+        "cardId": 1645,
+        "textSnippet": "If you have a character named Lady in play, you pay 1 ⬡ less to play this character."
+      }
+    ]
+  },
+  {
+    "term": "steals",
+    "category": "geral",
+    "translation": "rouba",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 1897,
+        "textSnippet": "When Jafar plays this character, he steals The Reforged Crown."
+      },
+      {
+        "cardId": 1906,
+        "textSnippet": "Whenever this character quests, Jafar steals The Reforged Crown."
+      },
+      {
+        "cardId": 1920,
+        "textSnippet": "When Jafar plays this item, he steals The Reforged Crown."
+      }
+    ]
+  },
+  {
+    "term": "reforged",
+    "category": "geral",
+    "translation": "reforjado",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 1897,
+        "textSnippet": "When Jafar plays this character, he steals The Reforged Crown."
+      },
+      {
+        "cardId": 1906,
+        "textSnippet": "Whenever this character quests, Jafar steals The Reforged Crown."
+      },
+      {
+        "cardId": 1920,
+        "textSnippet": "When Jafar plays this item, he steals The Reforged Crown."
+      }
+    ]
+  },
+  {
+    "term": "crown",
+    "category": "geral",
+    "translation": "coroa",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 1897,
+        "textSnippet": "When Jafar plays this character, he steals The Reforged Crown."
+      },
+      {
+        "cardId": 1906,
+        "textSnippet": "Whenever this character quests, Jafar steals The Reforged Crown."
+      },
+      {
+        "cardId": 1920,
+        "textSnippet": "When Jafar plays this item, he steals The Reforged Crown."
+      }
+    ]
+  },
+  {
+    "term": "illumineers",
+    "category": "geral",
+    "translation": "Illumineers (jogadores)",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 1900,
+        "textSnippet": "Illumineers can't use battleground abilities."
+      },
+      {
+        "cardId": 1907,
+        "textSnippet": "During the Illumineers' turn, they may pay 3 ⬡ each to banish this character."
+      },
+      {
+        "cardId": 1924,
+        "textSnippet": "When Jafar plays this location, he deals 3 damage to the character with the highest cost each Illumineer has in play. (If there's a tie, the Illumineers choose from the tied characters.)"
+      }
+    ]
+  },
+  {
+    "term": "gargoyle",
+    "category": "geral",
+    "translation": "gárgula",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 2240,
+        "textSnippet": "When you play this character, if you have 2 or more Gargoyle character cards in your discard, gain 2 lore."
+      },
+      {
+        "cardId": 2308,
+        "textSnippet": "Whenever one of your Gargoyle characters challenges another character, gain 1 lore."
+      },
+      {
+        "cardId": 2650,
+        "textSnippet": "Your Gargoyle characters lose the Stone by Day ability."
+      }
+    ]
+  },
+  {
+    "term": "inkwells",
+    "category": "geral",
+    "translation": "poços de tinta",
+    "frequency": 3,
+    "examples": [
+      {
+        "cardId": 2343,
+        "textSnippet": "While this character is exerted, cards enter opponents' inkwells exerted."
+      },
+      {
+        "cardId": 2444,
+        "textSnippet": "While this character is exerted, cards enter opponents' inkwells exerted."
+      },
+      {
+        "cardId": 2445,
+        "textSnippet": "While this character is exerted, cards enter opponents' inkwells exerted."
+      }
+    ]
+  },
+  {
+    "term": "doesn't",
+    "category": "geral",
+    "translation": "não (faz)",
+    "frequency": 2,
+    "examples": [
+      {
+        "cardId": 35,
+        "textSnippet": "When you play this character, if you have a character named Elsa in play, choose an opposing character. The chosen character doesn't ready at the start of their next turn."
+      },
+      {
+        "cardId": 1632,
+        "textSnippet": "Each player pays 2 ⬡ more to play actions or items. (This doesn't apply to singing songs.)"
+      }
+    ]
+  },
+  {
+    "term": "additional",
+    "category": "geral",
+    "translation": "adicional",
+    "frequency": 2,
+    "examples": [
+      {
+        "cardId": 142,
+        "textSnippet": "During your turn, you may ink an additional card."
+      },
+      {
+        "cardId": 214,
+        "textSnippet": "During your turn, you may ink an additional card."
+      }
+    ]
+  },
+  {
+    "term": "fire",
+    "category": "geral",
+    "translation": "fogo",
+    "frequency": 2,
+    "examples": [
+      {
+        "cardId": 173,
+        "textSnippet": "When you play this character, you may return an action card named Fire the Cannons! from your discard to your hand."
+      },
+      {
+        "cardId": 2126,
+        "textSnippet": "When you play this character, you may return an action card named Fire the Cannons! from your discard to your hand."
+      }
+    ]
+  },
+  {
+    "term": "cannons",
+    "category": "geral",
+    "translation": "canhões",
+    "frequency": 2,
+    "examples": [
+      {
+        "cardId": 173,
+        "textSnippet": "When you play this character, you may return an action card named Fire the Cannons! from your discard to your hand."
+      },
+      {
+        "cardId": 2126,
+        "textSnippet": "When you play this character, you may return an action card named Fire the Cannons! from your discard to your hand."
+      }
+    ]
+  },
+  {
+    "term": "pain",
+    "category": "geral",
+    "translation": "dor",
+    "frequency": 2,
+    "examples": [
+      {
+        "cardId": 303,
+        "textSnippet": "When you play this character, chosen character gets +2 ¤ this turn. If the chosen character is named Pain, he gets +4 ¤ instead."
+      },
+      {
+        "cardId": 773,
+        "textSnippet": "While this character is exerted, if you have a character named Pain in play, your Villain characters can't be challenged."
+      }
+    ]
+  },
+  {
+    "term": "many",
+    "category": "geral",
+    "translation": "muitos",
+    "frequency": 2,
+    "examples": [
+      {
+        "cardId": 388,
+        "textSnippet": "Whenever one of your other characters would be dealt damage, put that many damage counters on this character instead."
+      },
+      {
+        "cardId": 1443,
+        "textSnippet": "When you play this character, you may draw a card for each other character you have in play, then choose and discard that many cards."
+      }
+    ]
+  },
+  {
+    "term": "sorcerer",
+    "category": "geral",
+    "translation": "feiticeiro",
+    "frequency": 2,
+    "examples": [
+      {
+        "cardId": 480,
+        "textSnippet": "When you play this character, if you have a Sorcerer character in play, you may exert chosen opposing character. They can't ready at the start of their next turn."
+      },
+      {
+        "cardId": 1263,
+        "textSnippet": "For each Sorcerer character you have in play, you pay 1 ⬡ less to play this action."
+      }
+    ]
+  },
+  {
+    "term": "titan",
+    "category": "geral",
+    "translation": "titã",
+    "frequency": 2,
+    "examples": [
+      {
+        "cardId": 491,
+        "textSnippet": "Gain lore equal to the number of Titan characters you have in play."
+      },
+      {
+        "cardId": 610,
+        "textSnippet": "Ready your Titan characters."
+      }
+    ]
+  }
+]

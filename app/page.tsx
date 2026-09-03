@@ -16,7 +16,7 @@ export default function HomePage() {
         </Link>
         <Link
           href="/advanced-session"
-          className="inline-block rounded-md border border-slate-900 px-6 py-3 text-slate-900"
+          className="inline-block rounded-md border border-slate-900 px-6 py-3 text-slate-900 dark:border-slate-100 dark:text-slate-100"
         >
           Avançado
         </Link>

@@ -15,7 +15,9 @@ const cardById = new Map<number, CardSummary>(
 );
 
 export default function SessionPage() {
-  const [session] = useState(() => buildSession(vocabulary, loadProgress()));
+  const [session] = useState(() =>
+    buildSession(vocabulary, loadProgress(), (entry) => entry.term)
+  );
   const [index, setIndex] = useState(0);
   const [results, setResults] = useState({ known: 0, unknown: 0 });
 

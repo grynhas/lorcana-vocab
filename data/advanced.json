@@ -1,0 +1,1710 @@
+[
+  {
+    "cardId": 2972,
+    "name": "Woody - Helping a Friend",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/1_9e5034ef64dbfe30344c5dace27116d15a8cf47f.jpg",
+    "textEn": "HANG ON! When you play this character, choose\none of the following. If you have another Toy\ncharacter in play, choose both instead:\n• You may return a character card with cost 2 or less\nfrom your discard to your hand.\n• You may play a character with cost 2 or less for free.",
+    "textPt": "AGUENTE FIRME! Quando você jogar este personagem, escolha\numa das opções a seguir. Se você tiver outro personagem\nBrinquedo em jogo, escolha as duas em vez disso:\n• Você pode retornar uma carta de personagem com custo 2 ou menos\ndo seu descarte para sua mão.\n• Você pode jogar um personagem com custo 2 ou menos de graça."
+  },
+  {
+    "cardId": 2973,
+    "name": "Ming Lee - Proud Parent",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/2_a09aeefa6521d5f02037233d0f64e6d1fa7c11c7.jpg",
+    "textEn": "BIGGEST FAN If you have a character named\nMeilin Lee in play, you pay 1 ⬡ less to play this\ncharacter.\nFOLLOW THE MUSIC If you played a song this turn,\nyou pay 1 ⬡ less to play this character.",
+    "textPt": "MAIOR FÃ Se você tiver um personagem chamado\nMeilin Lee em jogo, você paga 1 ⬡ a menos para jogar este\npersonagem.\nSIGA A MÚSICA Se você jogou uma canção neste turno,\nvocê paga 1 ⬡ a menos para jogar este personagem."
+  },
+  {
+    "cardId": 2976,
+    "name": "Rabbit - Hunny Paladin",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/5_1c29e8e20d5be1533b792248d8165e16f6d81ff2.jpg",
+    "textEn": "Bodyguard (This character may enter play exerted.\nAn opposing character who challenges one of your\ncharacters must choose one with Bodyguard if able.)\nHUNNY AURA When you play this character,\nchosen Hunny character gets +1 ◊ this turn.",
+    "textPt": "Guarda-costas (Este personagem pode entrar em jogo exaurido.\nUm personagem adversário que desafiar um dos seus\npersonagens deve escolher um com Guarda-costas se puder.)\nAURA DE MEL Quando você jogar este personagem,\num personagem Mel escolhido recebe +1 ◊ neste turno."
+  },
+  {
+    "cardId": 2977,
+    "name": "Celia Mae - Friendly Receptionist",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/6_6db706b498ae02482cea2124208d7503566ba595.jpg",
+    "textEn": "PLEASE HOLD When you play this character, you may\npay 1 ⬡ to ready chosen character of yours. They\ncan't quest or challenge for the rest of this turn.",
+    "textPt": "AGUARDE UM MOMENTO Quando você jogar este personagem, você pode\npagar 1 ⬡ para desvirar um personagem seu escolhido. Ele\nnão pode explorar nem desafiar pelo restante deste turno."
+  },
+  {
+    "cardId": 2978,
+    "name": "Meilin Lee - Lead Vocalist",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/7_70135cd3ea2d66bf436658a27a5e0fc769fa4e95.jpg",
+    "textEn": "Singer 3 (This character counts as cost 3 to sing\nsongs.)\nBAND LOYALTY This character can't sing songs\nwithout Sing Together.",
+    "textPt": "Cantor(a) 3 (Este personagem conta como custo 3 para cantar\ncanções.)\nLEALDADE À BANDA Este personagem não pode cantar canções\nsem Cantar Junto."
+  },
+  {
+    "cardId": 2979,
+    "name": "Priya Mangal - Serious Music Lover",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/8_0cefdbbdbd75c1fa094a8a583547b13e02b104ce.jpg",
+    "textEn": "THIS IS MY JAM When you play this character, if\nthere's a song card in your discard, gain 1 lore.",
+    "textPt": "ESSA É A MINHA MÚSICA Quando você jogar este personagem, se\nhouver uma carta de canção no seu descarte, ganhe 1 lore."
+  },
+  {
+    "cardId": 2980,
+    "name": "Miriam Mendelsohn - Ticket Holder",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/9_762ac4d598f4c28d0f24df1258c217e3868f9b34.jpg",
+    "textEn": "I GOT 'EM! When you play this character, each\nplayer draws a card.",
+    "textPt": "EU CONSEGUI! Quando você jogar este personagem, cada\njogador compra uma carta."
+  },
+  {
+    "cardId": 2981,
+    "name": "Lilo - Patient Weaver",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/10_42fa3c96675dfe1cfdfb45efead07e2c08f69a15.jpg",
+    "textEn": "Support (Whenever this character quests, you may\nadd their ¤ to another chosen character's ¤\nthis turn.)",
+    "textPt": "Apoio (Sempre que este personagem explorar, você pode\nadicionar sua ¤ à ¤ de outro personagem escolhido\nneste turno.)"
+  },
+  {
+    "cardId": 2982,
+    "name": "Kocoum - Defender of the Tribe",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/11_a15af611d4b88d7000f84700c113c8327823056b.jpg",
+    "textEn": "Bodyguard (This character may enter play exerted.\nAn opposing character who challenges one of your\ncharacters must choose one with Bodyguard if able.)",
+    "textPt": "Guarda-costas (Este personagem pode entrar em jogo exaurido.\nUm personagem adversário que desafiar um dos seus\npersonagens deve escolher um com Guarda-costas se puder.)"
+  },
+  {
+    "cardId": 2983,
+    "name": "Pocahontas - Guiding the Tribe",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/12_5733e5f146b516c8be9c8f30c9f057ca0bc0ec96.jpg",
+    "textEn": "STAY CLOSE When you play this character, you\nmay play a character with cost 1 for free.",
+    "textPt": "FIQUE PERTO Quando você jogar este personagem, você\npode jogar um personagem com custo 1 de graça."
+  },
+  {
+    "cardId": 2984,
+    "name": "Woody - Town Sheriff",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/13_297e372fea81b1821f8a2c0d613ab8fdfd3d5239.jpg",
+    "textEn": "MOVE ALONG When you play this character,\nuntil the start of your next turn, chosen opposing\ncharacter can't challenge and must quest if able.",
+    "textPt": "CIRCULANDO Quando você jogar este personagem,\naté o início do seu próximo turno, o personagem adversário\nescolhido não pode desafiar e deve explorar se puder."
+  },
+  {
+    "cardId": 2985,
+    "name": "Abby Park - Over the Top",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/14_5be06f75885b3d029c0bca418801acc424acfa1d.jpg",
+    "textEn": "ROCK THE MIC Once during your turn, whenever\nyou play a song, you may ready this character. If\nyou do, she can't quest or challenge for the rest\nof this turn.",
+    "textPt": "ARRASE NO MICROFONE Uma vez durante o seu turno, sempre que\nvocê jogar uma canção, você pode desvirar este personagem. Se\nvocê fizer isso, ela não pode explorar nem desafiar pelo restante\ndeste turno."
+  },
+  {
+    "cardId": 2986,
+    "name": "Gaston - Superior Archer",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/15_6679b94cd9d9b9cc537a68d8599ba8d8433080c0.jpg",
+    "textEn": "WATCH THIS! When you play this character, you\nmay banish chosen character with 5 ¤ or more.",
+    "textPt": "OLHA SÓ ISSO! Quando você jogar este personagem, você\npode banir um personagem escolhido com 5 ¤ ou mais."
+  },
+  {
+    "cardId": 2987,
+    "name": "Meilin Lee - Losing Control",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/16_a2dd12a01c8eca1a95fbfa2f82df46f769b02637.jpg",
+    "textEn": "RED PANDA POWER When you play this character,\nlook at the top 4 cards of your deck. You may\nreveal a Red Panda character card or a song card\nand put it into your hand. Put the rest on the\nbottom of your deck in any order.",
+    "textPt": "PODER DO PANDA VERMELHO Quando você jogar este personagem,\nolhe as 4 cartas do topo do seu baralho. Você pode\nrevelar uma carta de personagem Panda Vermelho ou uma carta de canção\ne colocá-la na sua mão. Coloque o restante no\nfundo do seu baralho em qualquer ordem."
+  },
+  {
+    "cardId": 2988,
+    "name": "4*Town - Hottest Band of the Year",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/17_d8e08473f913b0405a40b64c9f7f01db162b1ab1.jpg",
+    "textEn": "Singer 5 (This character counts as cost 5 to sing\nsongs.)\nSTAR PERFORMANCE Whenever this character\nsings a song with Sing Together, draw a card.",
+    "textPt": "Cantor(a) 5 (Este personagem conta como custo 5 para cantar\ncanções.)\nATUAÇÃO DE ESTRELA Sempre que este personagem\ncantar uma canção com Cantar Junto, compre uma carta."
+  },
+  {
+    "cardId": 2989,
+    "name": "Mike Wazowski - Heroic Climber",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/18_d80fbe56a150d179ca2d6bad815b53da62c6b72e.jpg",
+    "textEn": "FIND A FRIEND When you play this character and\nwhenever he quests, each player reveals the top\ncard of their deck. If it's a character card, they\nmay put it into their hand. Otherwise, put it on\nthe bottom of their deck.",
+    "textPt": "ENCONTRE UM AMIGO Quando você jogar este personagem e\nsempre que ele explorar, cada jogador revela a carta do\ntopo do seu baralho. Se for uma carta de personagem, ele\npode colocá-la na sua mão. Caso contrário, coloque-a no\nfundo do seu baralho."
+  },
+  {
+    "cardId": 2990,
+    "name": "Boo - In Disguise",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/19_28161840a02117011c26935ebde3e9c045745974.jpg",
+    "textEn": "YOU'RE SAFE NOW While you have an exerted character\nnamed Sulley in play, this character can't be challenged.",
+    "textPt": "VOCÊ ESTÁ A SALVO AGORA Enquanto você tiver um personagem exaurido\nchamado Sulley em jogo, este personagem não pode ser desafiado."
+  },
+  {
+    "cardId": 2991,
+    "name": "Jasmine - Vine Expert",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/20_ab49ac1f9fbd72e3bfb3827bf650f8ebeb5ac0ce.jpg",
+    "textEn": "SHARED RESOURCES When you play this character,\neach player draws a card.",
+    "textPt": "RECURSOS COMPARTILHADOS Quando você jogar este personagem,\ncada jogador compra uma carta."
+  },
+  {
+    "cardId": 2992,
+    "name": "Mike Wazowski - Well-Rounded Entertainer",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/21_c667d51e92914ccc5f534f82cc179453143c6639.jpg",
+    "textEn": "MAKE 'EM LAUGH When you play this character, you\nmay pay 2 ⬡ to give chosen character +1 ◊ this turn.",
+    "textPt": "FAÇA ELES RIREM Quando você jogar este personagem, você\npode pagar 2 ⬡ para dar a um personagem escolhido +1 ◊ neste turno."
+  },
+  {
+    "cardId": 2993,
+    "name": "The Horned King - Merciless Master",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/22_7e7239515f1639f8ee416f11640cb31576705d02.jpg",
+    "textEn": "CAULDRON'S POWER While this character is\nexerted, you may play characters from your\ndiscard. If you do, they enter play exerted. (You\npay all costs.)",
+    "textPt": "PODER DO CALDEIRÃO Enquanto este personagem estiver\nexaurido, você pode jogar personagens do seu\ndescarte. Se você fizer isso, eles entram em jogo exauridos. (Você\npaga todos os custos.)"
+  },
+  {
+    "cardId": 2994,
+    "name": "Kanga - Hunny Bard",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/23_185139199fa41a3cc3d43f247c5262b560f100ad.jpg",
+    "textEn": "Singer 5 (This character counts as cost 5 to sing\nsongs.)",
+    "textPt": "Cantor(a) 5 (Este personagem conta como custo 5 para cantar\ncanções.)"
+  },
+  {
+    "cardId": 2995,
+    "name": "Sulley - The New Boss",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/24_56e41871d37e4a1fa20821f8e2bdbe97a6c383d5.jpg",
+    "textEn": "Bodyguard (This character may enter play exerted.\nAn opposing character who challenges one of your\ncharacters must choose one with Bodyguard if able.)\nREHIRE When you play this character, you may return\na character card from your discard to your hand.",
+    "textPt": "Guarda-costas (Este personagem pode entrar em jogo exaurido.\nUm personagem adversário que desafiar um dos seus\npersonagens deve escolher um com Guarda-costas se puder.)\nRECONTRATAR Quando você jogar este personagem, você pode retornar\numa carta de personagem do seu descarte para sua mão."
+  },
+  {
+    "cardId": 2996,
+    "name": "Mirabel Madrigal - Family Guardian",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/25_b64e6ab60b510802aef883f905655f54eef0e072.jpg",
+    "textEn": "MIRACULOUS PROTECTION Whenever you remove\ndamage from one of your characters, you may\nready them. If you do, they can't quest or challenge\nfor the rest of this turn.",
+    "textPt": "PROTEÇÃO MILAGROSA Sempre que você remover\ndano de um dos seus personagens, você pode\ndesvirá-lo. Se você fizer isso, ele não pode explorar nem desafiar\npelo restante deste turno."
+  },
+  {
+    "cardId": 2997,
+    "name": "Ursula - Created by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/26_99019126dbd2e1bb4548784b31abf011c69cb23f.jpg",
+    "textEn": "ENERGY SAP Whenever one of your Floodborn\ncharacters quests, chosen opposing character\ngets -1 ¤ until the start of your next turn.",
+    "textPt": "DRENO DE ENERGIA Sempre que um dos seus personagens\nFloodborn explorar, o personagem adversário escolhido\nrecebe -1 ¤ até o início do seu próximo turno."
+  },
+  {
+    "cardId": 2998,
+    "name": "Pocahontas & Meeko - Adventurous Friends",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/27_647beff879fce116a5925bf02159f01f5f8609b8.jpg",
+    "textEn": "Shift 2 ⬡ (You may pay 2 ⬡ to play this on top of one\nof your characters named Pocahontas or Meeko.)\nEvasive\nWELCOME RETURN Whenever this character quests, you\nmay return chosen character of yours with cost 1 to your\nhand. If you do, you may play a character with cost 1\nfor free.",
+    "textPt": "Metamorfose 2 ⬡ (Você pode pagar 2 ⬡ para jogar esta carta sobre um\ndos seus personagens chamados Pocahontas ou Meeko.)\nEvasivo\nRETORNO BEM-VINDO Sempre que este personagem explorar, você\npode retornar um personagem seu escolhido com custo 1 para sua\nmão. Se você fizer isso, você pode jogar um personagem com custo 1\nde graça."
+  },
+  {
+    "cardId": 2999,
+    "name": "Woody & Buzz Lightyear - Best Buddies",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/28_92f5934378d084c729421c88ce6571950d8f2dca.jpg",
+    "textEn": "Shift 5 ⬡ (You may pay 5 ⬡ to play this on top of one\nof your characters named Woody or Buzz Lightyear.)\nTO INFINITY... When you play this character, if chosen\nopponent has more cards in their hand than you, draw\ncards until you have the same number.\n...AND BEYOND! Whenever this character quests, you\nmay play a card with cost 2 or less for free.",
+    "textPt": "Metamorfose 5 ⬡ (Você pode pagar 5 ⬡ para jogar esta carta sobre um\ndos seus personagens chamados Woody ou Buzz Lightyear.)\nATÉ O INFINITO... Quando você jogar este personagem, se o\noponente escolhido tiver mais cartas na mão do que você, compre\ncartas até ter o mesmo número.\n...E ALÉM! Sempre que este personagem explorar, você\npode jogar uma carta com custo 2 ou menos de graça."
+  },
+  {
+    "cardId": 3000,
+    "name": "Sulley & Boo - Scare Buddies",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/29_dcc88e064a75fd559313192857bf43fd0a76c7e0.jpg",
+    "textEn": "Combo Shift 4 ⬡ (You may pay 4 ⬡ to play this on top\nof one of your characters named Sulley, one named Boo,\nor one of each.)\nTHE POWER OF FRIENDSHIP When this character is\nbanished, if any of the cards that were under them are\ncharacter cards, you may play those characters from\nyour discard for free.",
+    "textPt": "Metamorfose Combo 4 ⬡ (Você pode pagar 4 ⬡ para jogar esta carta sobre\num dos seus personagens chamados Sulley, um chamado Boo,\nou um de cada.)\nO PODER DA AMIZADE Quando este personagem for\nbanido, se alguma das cartas que estavam sob ele forem\ncartas de personagem, você pode jogar esses personagens do\nseu descarte de graça."
+  },
+  {
+    "cardId": 3001,
+    "name": "The Madrigal Family - Every Generation",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/30_f7ca307a27cde6cea7aee31a8b931d6d48858cd5.jpg",
+    "textEn": "Madrigal Shift 3 ⬡ (You may pay 3 ⬡ to play this\non top of one of your Madrigal characters.)\nFAMILY BLESSINGS Once during your turn,\nwhenever you remove 1 or more damage from\none of your characters, put the top card of your\ndeck into your inkwell facedown and exerted.",
+    "textPt": "Metamorfose Madrigal 3 ⬡ (Você pode pagar 3 ⬡ para jogar esta carta\nsobre um dos seus personagens Madrigal.)\nBÊNÇÃOS DA FAMÍLIA Uma vez durante o seu turno,\nsempre que você remover 1 ou mais de dano de\num dos seus personagens, coloque a carta do topo do seu\nbaralho no seu poço de tinta virada para baixo e exaurida."
+  },
+  {
+    "cardId": 3002,
+    "name": "Lilo & Stitch - Fun-Loving Friends",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/31_a807d4805fd8339ebcc67677dd5c52e205565ea6.jpg",
+    "textEn": "Shift 3 ⬡ (You may pay 3 ⬡ to play this on top of one\nof your characters named Lilo or Stitch.)\nResist +1 (Damage dealt to this character is\nreduced by 1.)\nSupport (Whenever this character quests, you may add\ntheir ¤ to another chosen character's ¤ this turn.)",
+    "textPt": "Metamorfose 3 ⬡ (Você pode pagar 3 ⬡ para jogar esta carta sobre um\ndos seus personagens chamados Lilo ou Stitch.)\nResistência +1 (O dano causado a este personagem é\nreduzido em 1.)\nApoio (Sempre que este personagem explorar, você pode adicionar\nsua ¤ à ¤ de outro personagem escolhido neste turno.)"
+  },
+  {
+    "cardId": 3003,
+    "name": "If I Didn't Have You",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/32_e1770411820f14be5b5e0875f6be1364e616df0c.jpg",
+    "textEn": "(A character with cost 3 or more can ⟳ to sing this\nsong for free.)\nYou and another chosen player each draw 2 cards.",
+    "textPt": "(Um personagem com custo 3 ou mais pode ⟳ para cantar esta\ncanção de graça.)\nVocê e outro jogador escolhido compram 2 cartas cada."
+  },
+  {
+    "cardId": 3004,
+    "name": "I'm Never Not by Your Side",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/33_4fdf49e09dec815cd2ceafd4f5d59f5dd3f1c8e5.jpg",
+    "textEn": "Sing Together 5 (Any number of your or your teammates'\ncharacters with total cost 5 or more may ⟳ to sing this\nsong for free.)\nRemove up to 4 damage total from any number of your\ncharacters. You gain 1 lore for each 1 damage removed\nthis way.",
+    "textPt": "Cantar Junto 5 (Qualquer número de personagens seus ou dos seus\ncolegas de equipe com custo total 5 ou mais pode ⟳ para cantar esta\ncanção de graça.)\nRemova até 4 de dano no total de qualquer número dos seus\npersonagens. Você ganha 1 lore para cada 1 de dano removido\ndessa forma."
+  },
+  {
+    "cardId": 3005,
+    "name": "Besties, Assemble!",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/34_b9a805e70ed1e1d5c633c9197f07ee3774a60b96.jpg",
+    "textEn": "Look at the top 4 cards of your deck. You may reveal a\ncharacter card and put it into your hand. Put the rest\non the bottom of your deck in any order.",
+    "textPt": "Olhe as 4 cartas do topo do seu baralho. Você pode revelar uma\ncarta de personagem e colocá-la na sua mão. Coloque o restante\nno fundo do seu baralho em qualquer ordem."
+  },
+  {
+    "cardId": 3006,
+    "name": "Nobody Like U",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/35_ba22ac8a1f9734bc0d387a15f935ce52055dfead.jpg",
+    "textEn": "Sing Together 5 (Any number of your or your teammates'\ncharacters with total cost 5 or more may ⟳ to sing this\nsong for free.)\nPlay a character with cost 4 or less for free.",
+    "textPt": "Cantar Junto 5 (Qualquer número de personagens seus ou dos seus\ncolegas de equipe com custo total 5 ou mais pode ⟳ para cantar esta\ncanção de graça.)\nJogue um personagem com custo 4 ou menos de graça."
+  },
+  {
+    "cardId": 3007,
+    "name": "Powhatan's Staff",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/36_06e08d15ccdd9a92cf196a1c4827d56c42a5c7cc.jpg",
+    "textEn": "STEP FORWARD ⟳, 1 ⬡ — The next character you play\nthis turn enters play exerted and gains Bodyguard until\nthe start of your next turn. (An opposing character who\nchallenges one of your characters must choose one with\nBodyguard if able.)",
+    "textPt": "DÊ UM PASSO À FRENTE ⟳, 1 ⬡ — O próximo personagem que você jogar\nneste turno entra em jogo exaurido e ganha Guarda-costas até\no início do seu próximo turno. (Um personagem adversário que\ndesafiar um dos seus personagens deve escolher um com\nGuarda-costas se puder.)"
+  },
+  {
+    "cardId": 3008,
+    "name": "Rapunzel's Tower - Taken by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/37_54656f68ee54fe009961b38da44421804c46a7d3.jpg",
+    "textEn": "EMBRACING CHANGE Your Floodborn characters get +2 ⛉.",
+    "textPt": "ABRAÇANDO A MUDANÇA Seus personagens Floodborn recebem +2 ⛉."
+  },
+  {
+    "cardId": 3009,
+    "name": "Fflewddur Fflam - Luckless Bard",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/38_7a646f6053b11a5a32211f5167d565e5d28aceae.jpg",
+    "textEn": "CHASING ADVENTURE When you play this character,\nif a character of yours quested this turn, draw a card.",
+    "textPt": "EM BUSCA DE AVENTURA Quando você jogar este personagem,\nse um personagem seu explorou neste turno, compre uma carta."
+  },
+  {
+    "cardId": 3011,
+    "name": "Winnie the Pooh - Hunny Archmage",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/40_078fa7478c47366913298522274c68ceff104930.jpg",
+    "textEn": "STICK TOGETHER While you have 2 or more other\nHunny characters in play, this character gets +2 ◊.",
+    "textPt": "FIQUEM JUNTOS Enquanto você tiver 2 ou mais outros\npersonagens Mel em jogo, este personagem recebe +2 ◊."
+  },
+  {
+    "cardId": 3012,
+    "name": "Panic - Hammer Enthusiast",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/41_f281166deaba66f4d7bcf74d0da004beab20d496.jpg",
+    "textEn": "Rush (This character can challenge the turn\nthey're played.)",
+    "textPt": "Investida (Este personagem pode desafiar no turno\nem que for jogado.)"
+  },
+  {
+    "cardId": 3013,
+    "name": "Lumpy - Hunny Druid",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/42_78888c40d1dcc4e81cb12af44fed3ff60281a443.jpg",
+    "textEn": "WELCOME HEALING When you play this character,\nyou may move up to 2 damage from chosen\ncharacter to chosen opposing character.",
+    "textPt": "CURA BEM-VINDA Quando você jogar este personagem,\nvocê pode mover até 2 de dano de um personagem\nescolhido para um personagem adversário escolhido."
+  },
+  {
+    "cardId": 3014,
+    "name": "Abu - Wise Sultan",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/43_1a5534554b0f31dc275436703807d479e0e44e3a.jpg",
+    "textEn": "RULER FOR A DAY When this character quests,\nbanish him.",
+    "textPt": "GOVERNANTE POR UM DIA Quando este personagem explorar,\nbana-o."
+  },
+  {
+    "cardId": 3015,
+    "name": "Meilin Lee - Superficially Obedient",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/44_5333e02deeed1b2da656d234307a392362edfe6f.jpg",
+    "textEn": "NEWFOUND CONFIDENCE When you shift a\ncharacter on top of her, this character gains\nEvasive until the start of your next turn. (Only\ncharacters with Evasive can challenge them.)",
+    "textPt": "CONFIANÇA RECÉM-DESCOBERTA Quando você fizer a metamorfose de um\npersonagem sobre ela, este personagem ganha\nEvasivo até o início do seu próximo turno. (Apenas\npersonagens com Evasivo podem desafiá-lo.)"
+  },
+  {
+    "cardId": 3016,
+    "name": "Genie - Hard to Grasp",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/45_05353a9d7a74c714973ff3f7c4568f898b8dd5ad.jpg",
+    "textEn": "Evasive (Only characters with Evasive can challenge\nthis character.)",
+    "textPt": "Evasivo (Apenas personagens com Evasivo podem desafiar\neste personagem.)"
+  },
+  {
+    "cardId": 3017,
+    "name": "Vixey - Expert Fisher",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/46_a2e783f19b3b1ffba152235544645b7184cf1bfc.jpg",
+    "textEn": "STEALING IN When you play this character, if you\nhave a character with Evasive in play, you may\nreturn chosen character, item, or location with\ncost 2 or less to their player's hand.",
+    "textPt": "ENTRANDO DE FININHO Quando você jogar este personagem, se você\ntiver um personagem com Evasivo em jogo, você pode\nretornar um personagem, item ou localização escolhido com\ncusto 2 ou menos para a mão do jogador dele."
+  },
+  {
+    "cardId": 3019,
+    "name": "Pain - Running with Scissors",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/48_6d67cf1440c698648897a965eb814478b8851039.jpg",
+    "textEn": "MULTIPURPOSE TOOL When you play this character,\nif you have a character card named Panic in your\ndiscard, gain 2 lore.",
+    "textPt": "FERRAMENTA MULTIUSO Quando você jogar este personagem,\nse você tiver uma carta de personagem chamada Panic no seu\ndescarte, ganhe 2 lore."
+  },
+  {
+    "cardId": 3020,
+    "name": "Ming Lee - Overprotective Parent",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/49_20e12a421ca147ead6dfe7d167aff7a4d0b00e09.jpg",
+    "textEn": "YOU'RE GROUNDED When you shift a character\non top of this character, chosen opposing exerted\ncharacter can't ready at the start of their next turn.",
+    "textPt": "VOCÊ ESTÁ DE CASTIGO Quando você fizer a metamorfose de um personagem\nsobre este personagem, o personagem adversário exaurido\nescolhido não pode desvirar no início do seu próximo turno."
+  },
+  {
+    "cardId": 3021,
+    "name": "Merida - Wisp Conjurer",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/50_c9d7d488e96d6041344689777ac42a9c963a6d35.jpg",
+    "textEn": "FOCUSED ENERGY This character may enter play\nexerted to draw a card.\nBECKON During your turn, whenever another\ncharacter of yours enters play exerted, you may\ndraw a card.",
+    "textPt": "ENERGIA FOCADA Este personagem pode entrar em jogo\nexaurido para comprar uma carta.\nCHAMADO Durante o seu turno, sempre que outro\npersonagem seu entrar em jogo exaurido, você pode\ncomprar uma carta."
+  },
+  {
+    "cardId": 3022,
+    "name": "Mrs. Incredible - Created by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/51_7be12fb816b1bf1851bee4358ddfeee45932b3c5.jpg",
+    "textEn": "TORRENT Whenever one of your Floodborn\ncharacters quests, you pay 1 ⬡ less for the next\ncharacter you shift this turn.",
+    "textPt": "TORRENTE Sempre que um dos seus personagens\nFloodborn explorar, você paga 1 ⬡ a menos pelo próximo\npersonagem que fizer a metamorfose neste turno."
+  },
+  {
+    "cardId": 3023,
+    "name": "Pete - Created by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/52_9521351e22e27955e4e41acfcea7d0c71ade9c3a.jpg",
+    "textEn": "THORNY OVERGROWTH Your Floodborn characters\ngain Challenger +1. (They get +1 ¤ while challenging.)",
+    "textPt": "EMARANHADO DE ESPINHOS Seus personagens Floodborn\nganham Desafiante +1. (Eles recebem +1 ¤ enquanto desafiam.)"
+  },
+  {
+    "cardId": 3024,
+    "name": "Grandma Wu - Wise Grandmother",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/53_94cf3b65ae2aac5aab6673264b5058c6f7d20563.jpg",
+    "textEn": "Challenger +2 (While challenging, this character\ngets +2 ¤.)\nANCESTRAL UNDERSTANDING When you shift a\ncharacter on top of this character, gain 1 lore.",
+    "textPt": "Desafiante +2 (Enquanto desafia, este personagem\nrecebe +2 ¤.)\nENTENDIMENTO ANCESTRAL Quando você fizer a metamorfose de um\npersonagem sobre este personagem, ganhe 1 lore."
+  },
+  {
+    "cardId": 3025,
+    "name": "HeiHei - Created by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/54_a2b145a0537d1a816bf3dcb5c0fc1d87b7dd824d.jpg",
+    "textEn": "BOTANICAL REMEDY Whenever one of your Floodborn\ncharacters quests, you may move 1 damage from\nchosen character to chosen opposing character.",
+    "textPt": "REMÉDIO BOTÂNICO Sempre que um dos seus personagens Floodborn explorar, você pode mover 1 dano do personagem escolhido para o personagem adversário escolhido."
+  },
+  {
+    "cardId": 3026,
+    "name": "Hera - Created by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/55_37269aa026fa1bfc48d6a6f82ea62c3825f8d639.jpg",
+    "textEn": "MYSTICAL BOON Whenever you play this or\nanother Floodborn character, gain 1 lore.",
+    "textPt": "BÊNÇÃO MÍSTICA Sempre que você jogar este personagem ou outro personagem Floodborn, ganhe 1 lore."
+  },
+  {
+    "cardId": 3028,
+    "name": "Morph - Little Imitator",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/57_cdb46a0a151a524a01007e18799a15297cf12a5a.jpg",
+    "textEn": "ADVANCED MIMICRY You can shift any character\non top of this character. (This includes all Shift\nvariants.)",
+    "textPt": "MIMETISMO AVANÇADO Você pode fazer a Metamorfose de qualquer personagem sobre este personagem. (Isso inclui todas as variantes de Metamorfose.)"
+  },
+  {
+    "cardId": 3029,
+    "name": "Peter Pan - Playful Prankster",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/58_680777a38ad15a76536ee2f778dc00cbea1328fe.jpg",
+    "textEn": "STAY RIGHT THERE When you play this character,\nchosen opposing character can't ready at the\nstart of their next turn.",
+    "textPt": "FIQUE BEM AÍ Quando você jogar este personagem, o personagem adversário escolhido não pode ficar pronto no início do próximo turno dele."
+  },
+  {
+    "cardId": 3030,
+    "name": "Aladdin & Genie - Mischievous Pals",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/59_8817c8e89cc714fee3c78a9acc5a12160173e450.jpg",
+    "textEn": "Shift 3 ⬡ (You may pay 3 ⬡ to play this on top of\none of your characters named Aladdin or Genie.)\nSLEIGHT OF HAND When you play this character,\nyou may put any number of cards from your hand\non the bottom of your deck in any order. If you\ndo, draw that number of cards plus 1.",
+    "textPt": "Metamorfose 3 ⬡ (Você pode pagar 3 ⬡ para jogar esta carta sobre um dos seus personagens chamados Aladdin ou Genie.)\nPASSE DE MÁGICA Quando você jogar este personagem, você pode colocar qualquer quantidade de cartas da sua mão no fundo do seu baralho, na ordem que quiser. Se fizer isso, compre essa quantidade de cartas mais 1."
+  },
+  {
+    "cardId": 3031,
+    "name": "Peter Pan & Tinker Bell - Fast Friends",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/60_887057a9f7e1bb30bfcc93222966d02c4cc7a94f.jpg",
+    "textEn": "Shift 4 ⬡ (You may pay 4 ⬡ to play this on top\nof one of your characters named Peter Pan or\nTinker Bell.)\nYOU CAN FLY! Your characters gain Evasive. (Only\ncharacters with Evasive can challenge them.)",
+    "textPt": "Metamorfose 4 ⬡ (Você pode pagar 4 ⬡ para jogar esta carta sobre um dos seus personagens chamados Peter Pan ou Tinker Bell.)\nVOCÊ CONSEGUE VOAR! Seus personagens ganham Evasivo. (Somente personagens com Evasivo podem desafiá-los.)"
+  },
+  {
+    "cardId": 3032,
+    "name": "Christopher Robin - Hunny Sage",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/61_cdd6f969c4085ec3d6eccab7536cb4ad192baf22.jpg",
+    "textEn": "GATHER THE PARTY You can have other Hunny\ncharacters in your deck regardless of ink type.\nMAGICAL SUMMONS When you play this character,\nyou may search your deck for a Hunny card, reveal it,\nand put it in your hand. If you do, shuffle your deck.",
+    "textPt": "REÚNA O GRUPO Você pode ter outros personagens Mel no seu baralho, independentemente do tipo de tinta.\nINVOCAÇÕES MÁGICAS Quando você jogar este personagem, você pode procurar no seu baralho uma carta Mel, revelá-la e colocá-la na sua mão. Se fizer isso, embaralhe seu baralho."
+  },
+  {
+    "cardId": 3033,
+    "name": "Winnie the Pooh & Piglet - Hunny Mages",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/62_58b82b554d57e38a36ccb9e6b2c956b01d52097c.jpg",
+    "textEn": "Shift 3 ⬡ (You may pay 3 ⬡ to play this on top\nof one of your characters named Winnie the Pooh\nor Piglet.)\nMAGICAL MIX This character gets +1 ◊ for each\ndifferent ink type of characters you have in play.",
+    "textPt": "Metamorfose 3 ⬡ (Você pode pagar 3 ⬡ para jogar esta carta sobre um dos seus personagens chamados Winnie the Pooh ou Piglet.)\nMISTURA MÁGICA Este personagem recebe +1 ◊ para cada tipo diferente de tinta entre os personagens que você tem em jogo."
+  },
+  {
+    "cardId": 3034,
+    "name": "Maleficent & Diablo - Evil Incarnate",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/63_3657556db9953ceb0910fb69f9f5df3e879498ba.jpg",
+    "textEn": "Shift 5 ⬡ (You may pay 5 ⬡ to play this on top of one\nof your characters named Maleficent or Diablo.)\nFOOLS! You may put 5 character cards from your discard\non the bottom of your deck in any order to shift this\ncharacter for free.\nRAVEN'S CALL During your turn, whenever this character\nexerts, draw a card.",
+    "textPt": "Metamorfose 5 ⬡ (Você pode pagar 5 ⬡ para jogar esta carta sobre um dos seus personagens chamados Maleficent ou Diablo.)\nTOLOS! Você pode colocar 5 cartas de personagem do seu descarte no fundo do seu baralho, na ordem que quiser, para fazer a metamorfose deste personagem de graça.\nCHAMADO DO CORVO Durante o seu turno, sempre que este personagem exaurir, compre uma carta."
+  },
+  {
+    "cardId": 3035,
+    "name": "You've Got Some Punch",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/64_7afbd83b4c2c51c47b8f1f27e19a3d4f2843b3f8.jpg",
+    "textEn": "(A character with cost 2 or more can ⟳ to sing this\nsong for free.)\nChosen character gains Rush and Challenger +2 this\nturn. (They can challenge the turn they're played. They\nget +2 ¤ while challenging.)",
+    "textPt": "(Um personagem com custo 2 ou mais pode ⟳ para cantar esta canção de graça.)\nO personagem escolhido ganha Investida e Desafiante +2 neste turno. (Ele pode desafiar no turno em que for jogado. Ele recebe +2 ¤ enquanto desafia.)"
+  },
+  {
+    "cardId": 3036,
+    "name": "With a Few Good Friends",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/65_71c198c76b5bc463e89a26fa1cec9381548abe08.jpg",
+    "textEn": "Sing Together 6 (Any number of your or your teammates'\ncharacters with total cost 6 or more may ⟳ to sing this\nsong for free.)\nChosen player draws a card for each different ink type\nof characters you have in play.",
+    "textPt": "Cantar Junto 6 (Qualquer quantidade de personagens seus ou dos seus companheiros de equipe, com custo total 6 ou mais, pode ⟳ para cantar esta canção de graça.)\nO jogador escolhido compra uma carta para cada tipo diferente de tinta entre os personagens que você tem em jogo."
+  },
+  {
+    "cardId": 3037,
+    "name": "Petrify",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/66_9bb1f1f4ddb1a49c8a1760543f604bfbc2af01c5.jpg",
+    "textEn": "Exert chosen opposing character.",
+    "textPt": "Exaura o personagem adversário escolhido."
+  },
+  {
+    "cardId": 3038,
+    "name": "One and Only",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/67_f744254fed5f8dc6dd015919075103c6cedb1509.jpg",
+    "textEn": "Choose a character. Banish all other characters with\nthe same name as that character.",
+    "textPt": "Escolha um personagem. Bana todos os outros personagens com o mesmo nome que esse personagem."
+  },
+  {
+    "cardId": 3039,
+    "name": "Protective Aura",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/68_746c8386fa908ab5375d98acb933da4f56d7c453.jpg",
+    "textEn": "Your Floodborn characters gain Evasive until the start\nof your next turn. (Only characters with Evasive can\nchallenge them.)",
+    "textPt": "Seus personagens Floodborn ganham Evasivo até o início do seu próximo turno. (Somente personagens com Evasivo podem desafiá-los.)"
+  },
+  {
+    "cardId": 3040,
+    "name": "Narrow Escape",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/69_4de85e1ecd1a6b3ad9a9000792fd10c2ee8d7398.jpg",
+    "textEn": "Return up to 2 chosen characters, items, or locations\nwith cost 2 or less each to their player's hand.",
+    "textPt": "Retorne até 2 personagens, itens ou localizações escolhidos, cada um com custo 2 ou menos, para a mão do respectivo jogador."
+  },
+  {
+    "cardId": 3041,
+    "name": "Broken Pod",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/70_5c98cb04e2a044f49812a8c828cd3d58e7614a3b.jpg",
+    "textEn": "RENEWAL PROCESS ⟳, 1 ⬡ — Put a card from chosen\nplayer's discard on the bottom of their deck.",
+    "textPt": "PROCESSO DE RENOVAÇÃO ⟳, 1 ⬡ — Coloque uma carta do descarte do jogador escolhido no fundo do baralho dele."
+  },
+  {
+    "cardId": 3042,
+    "name": "Magical Hunny Staff",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/71_4cdf478c4f45b08593fefd68053d412d12e3380b.jpg",
+    "textEn": "GIFT OF THE HIVE Once during your turn, you may pay 1 ⬡\nto give chosen character of yours the Hunny classification\nuntil the start of your next turn.\nSPELL OF SWIFTNESS ⟳, 2 ⬡ — Chosen Hunny character\nof yours gains Evasive until the start of your next turn.\n(Only characters with Evasive can challenge them.)",
+    "textPt": "PRESENTE DA COLMEIA Uma vez durante o seu turno, você pode pagar 1 ⬡ para dar a um personagem escolhido seu a classificação Mel até o início do seu próximo turno.\nFEITIÇO DA AGILIDADE ⟳, 2 ⬡ — Um personagem Mel escolhido seu ganha Evasivo até o início do seu próximo turno. (Somente personagens com Evasivo podem desafiá-lo.)"
+  },
+  {
+    "cardId": 3043,
+    "name": "Source of the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/72_8f415d30033bab9e40e9b1b44c4f1cc6d16f6a20.jpg",
+    "textEn": "SIPHON Whenever an opposing character quests, you\ngain 1 lore unless their player pays 1 ⬡.\nRADIANT BLOOM ⟳, 2 ⬡ — Gain 1 lore.",
+    "textPt": "DRENAGEM Sempre que um personagem adversário explorar, você ganha 1 lore, a menos que o jogador dele pague 1 ⬡.\nFLORESCER RADIANTE ⟳, 2 ⬡ — Ganhe 1 lore."
+  },
+  {
+    "cardId": 3044,
+    "name": "Ring of Stones - Taken by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/73_b0e84336eefb8e061e55d29f4680523d34705fba.jpg",
+    "textEn": "DEEP WISDOM Your Floodborn characters get +1 ◊.",
+    "textPt": "SABEDORIA PROFUNDA Seus personagens Floodborn recebem +1 ◊."
+  },
+  {
+    "cardId": 3045,
+    "name": "Carl Fredricksen - Loving Husband",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/74_53f05a5535ae0efdb49e78f771d112cbcefac2ef.jpg",
+    "textEn": "TAKE MY HAND When you play this character, you\npay 2 ⬡ less for the next character named Ellie\nFredricksen you play this turn.",
+    "textPt": "SEGURE MINHA MÃO Quando você jogar este personagem, você paga 2 ⬡ a menos pelo próximo personagem chamado Ellie Fredricksen que jogar neste turno."
+  },
+  {
+    "cardId": 3046,
+    "name": "Ellie Fredricksen - Loving Wife",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/75_16b6019b80497fb29e694e5e68669d1a58ccd917.jpg",
+    "textEn": "ADVENTUROUS HEART Whenever you play a\nlocation, gain 1 lore.",
+    "textPt": "CORAÇÃO AVENTUREIRO Sempre que você jogar uma localização, ganhe 1 lore."
+  },
+  {
+    "cardId": 3047,
+    "name": "Buzz Lightyear - Grounded",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/76_805aabb2b3becc231079f119f6c472191172c4db.jpg",
+    "textEn": "NOT A FLYING TOY This character can't gain Evasive.",
+    "textPt": "NÃO É UM BRINQUEDO VOADOR Este personagem não pode ganhar Evasivo."
+  },
+  {
+    "cardId": 3048,
+    "name": "Buzz Lightyear - Providing Cover",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/77_9a8a149f4ca3e5fa0032e39ed58238efd931c043.jpg",
+    "textEn": "ACTION FIGURE When you play this character,\nchoose one of the following. If you have another Toy\ncharacter in play, choose both instead:\n• You may return an action card with cost 2 or less\nfrom your discard to your hand.\n• You may play an action with cost 2 or less for free.",
+    "textPt": "BONECO DE AÇÃO Quando você jogar este personagem, escolha uma das opções a seguir. Se você tiver outro personagem Brinquedo em jogo, escolha as duas em vez disso:\n• Você pode retornar uma carta de ação com custo 2 ou menos do seu descarte para sua mão.\n• Você pode jogar uma ação com custo 2 ou menos de graça."
+  },
+  {
+    "cardId": 3049,
+    "name": "Gopher - Hunny Cook",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/78_13526800e9e432d9164ed2aee3761c4df3492bae.jpg",
+    "textEn": "DOWN THE HOLE This character may enter play\nexerted.\nFORTIFYING MEAL During an opponent's turn,\nwhile this character is exerted, your other Hunny\ncharacters gain Resist +1. (Damage dealt to them\nis reduced by 1.)",
+    "textPt": "PARA DENTRO DO BURACO Este personagem pode entrar em jogo exaurido.\nREFEIÇÃO FORTIFICANTE Durante o turno de um oponente, enquanto este personagem estiver exaurido, seus outros personagens Mel ganham Resistência +1. (O dano causado a eles é reduzido em 1.)"
+  },
+  {
+    "cardId": 3050,
+    "name": "Russell - Senior Wilderness Explorer",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/79_f0ae6966cfb7be786c62e79dc7947c1fbccbc1df.jpg",
+    "textEn": "Shift 3 ⬡ (You may pay 3 ⬡ to play this on top of\none of your characters named Russell.)\nBASE CAMP Your characters at locations get +1 ¤.\nGOOD LEADERSHIP Whenever one of your\ncharacters with 4 ¤ or more quests, gain 1 lore.",
+    "textPt": "Metamorfose 3 ⬡ (Você pode pagar 3 ⬡ para jogar esta carta sobre um dos seus personagens chamados Russell.)\nACAMPAMENTO BASE Seus personagens em localizações recebem +1 ¤.\nBOA LIDERANÇA Sempre que um dos seus personagens com 4 ¤ ou mais explorar, ganhe 1 lore."
+  },
+  {
+    "cardId": 3051,
+    "name": "Rapunzel - Tower Defender",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/80_fc794daabd8619965e63813d742551832fcaaf12.jpg",
+    "textEn": "THE FATES' DESIGN When you play this character,\nyou may choose and discard a card. If you do,\nreturn chosen character to their player's hand.",
+    "textPt": "O DESÍGNIO DO DESTINO Quando você jogar este personagem, você pode escolher e descartar uma carta. Se fizer isso, retorne o personagem escolhido para a mão do respectivo jogador."
+  },
+  {
+    "cardId": 3052,
+    "name": "Tod - Clever Fox",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/81_503baee0d5930c9644c9b62f1714b4c3194bf3ac.jpg",
+    "textEn": "PROBLEM SOLVING When you play this character,\ndraw 2 cards, then choose and discard a card.",
+    "textPt": "RESOLVENDO PROBLEMAS Quando você jogar este personagem, compre 2 cartas, depois escolha e descarte uma carta."
+  },
+  {
+    "cardId": 3053,
+    "name": "Russell - Junior Wilderness Explorer",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/82_38785b3ac7c90bffcb57fd6f43fdff1f5cdd6577.jpg",
+    "textEn": "ASSISTING THE ELDERLY BADGE Whenever this\ncharacter quests, you may move him and one of your\nother characters to the same location for free.",
+    "textPt": "INSÍGNIA DE AJUDA AOS IDOSOS Sempre que este personagem explorar, você pode mover ele e um dos seus outros personagens para a mesma localização de graça."
+  },
+  {
+    "cardId": 3054,
+    "name": "Roo - Hunny Rogue",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/83_2cfb09fc54a7e2e3caaed5396aed03972c3c9a4b.jpg",
+    "textEn": "Ward (Opponents can't choose this character except\nto challenge.)\nELUSIVE EXPERTISE While you have another Hunny\ncharacter in play, this character gains Evasive. (Only\ncharacters with Evasive can challenge them.)",
+    "textPt": "Proteção (Oponentes não podem escolher este personagem, exceto para desafiar.)\nPERÍCIA ELUSIVA Enquanto você tiver outro personagem Mel em jogo, este personagem ganha Evasivo. (Somente personagens com Evasivo podem desafiá-lo.)"
+  },
+  {
+    "cardId": 3055,
+    "name": "Winifred - Exasperated Elephant",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/84_a468c08102e229603d71fb2ad5213b99c727ba47.jpg",
+    "textEn": "Ward (Opponents can't choose this character\nexcept to challenge.)",
+    "textPt": "Proteção (Oponentes não podem escolher este personagem, exceto para desafiar.)"
+  },
+  {
+    "cardId": 3056,
+    "name": "Aladdin - Doing His Part",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/85_ef45f4f203ad290ffd10e8454b550ab146953811.jpg",
+    "textEn": "CLEAR IT OUT When you play this character, you\nmay pay 1 ⬡ to banish chosen item.",
+    "textPt": "LIMPANDO O CAMINHO Quando você jogar este personagem, você pode pagar 1 ⬡ para banir o item escolhido."
+  },
+  {
+    "cardId": 3057,
+    "name": "Madam Mim - Hummingbird",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/86_75a3895057dd29e24fb36ac25381e3c35e981fba.jpg",
+    "textEn": "Evasive (Only characters with Evasive can challenge\nthis character.)\nJUST HOW I LIKE IT All cards in your hand count as\nhaving ◉.",
+    "textPt": "Evasivo (Somente personagens com Evasivo podem desafiar este personagem.)\nDO JEITO QUE EU GOSTO Todas as cartas na sua mão contam como tendo ◉."
+  },
+  {
+    "cardId": 3059,
+    "name": "Kevin - Flightless Bird",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/88_207b5fe7cea520bffb958f71a35ff91533bc9105.jpg",
+    "textEn": "BACK TO THE NEST Whenever this character\nquests, put this card on the top of your deck.",
+    "textPt": "DE VOLTA AO NINHO Sempre que este personagem explorar, coloque esta carta no topo do seu baralho."
+  },
+  {
+    "cardId": 3060,
+    "name": "Peter Pan - Created by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/89_aeea6929a6613eeb1c2b1a7e74814d9cd6a0ea11.jpg",
+    "textEn": "CLEVER TRICK Whenever one of your Floodborn\ncharacters is challenged, the challenging player\nchooses and discards a card.",
+    "textPt": "TRUQUE ESPERTO Sempre que um dos seus personagens Floodborn for desafiado, o jogador que desafiou escolhe e descarta uma carta."
+  },
+  {
+    "cardId": 3062,
+    "name": "Posey - Vampire Potato",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/91_25ced769d8a0b0733a2a057f743efb43641db946.jpg",
+    "textEn": "Potato Shift 5 ⬡ (You may pay 5 ⬡ to play this\non top of one of your items named Potato.)",
+    "textPt": "Metamorfose Batata 5 ⬡ (Você pode pagar 5 ⬡ para jogar esta carta sobre um dos seus itens chamados Potato.)"
+  },
+  {
+    "cardId": 3063,
+    "name": "Dr. Bushroot - Evil Botanist",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/92_5b01500baee2c639b130e5bc678b5eab6b776f01.jpg",
+    "textEn": "Ward (Opponents can't choose this character\nexcept to challenge.)\nFAIR IS FAIR Whenever this character is challenged,\nchosen opponent chooses and discards a card.",
+    "textPt": "Proteção (Oponentes não podem escolher este personagem, exceto para desafiar.)\nJUSTO É JUSTO Sempre que este personagem for desafiado, o oponente escolhido escolhe e descarta uma carta."
+  },
+  {
+    "cardId": 3064,
+    "name": "Mother Gothel - Evil as Ever",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/93_04afd9bcb30bf82e79d69d9e2f2d1ad3807379b5.jpg",
+    "textEn": "MUMMY'S BACK During your turn, when you\ndiscard this card, you may play this character\nfrom your discard. (You pay all costs.)",
+    "textPt": "MAMÃE VOLTOU Durante o seu turno, quando você descartar esta carta, você pode jogar este personagem a partir do seu descarte. (Você paga todos os custos.)"
+  },
+  {
+    "cardId": 3065,
+    "name": "Tod & Copper - Best of Friends",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/94_ec4561043fcabed63adac56ea09f88ec15860699.jpg",
+    "textEn": "Shift 2 ⬡ (You may pay 2 ⬡ to play this on top of\none of your characters named Tod or Copper.)\nEvasive (Only characters with Evasive can challenge\nthis character.)",
+    "textPt": "Metamorfose 2 ⬡ (Você pode pagar 2 ⬡ para jogar esta carta sobre um dos seus personagens chamados Tod ou Copper.)\nEvasivo (Somente personagens com Evasivo podem desafiar este personagem.)"
+  },
+  {
+    "cardId": 3066,
+    "name": "Rapunzel - Escaping the Tower",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/95_a6084799fe578a9b35abf14ce34534ece761e555.jpg",
+    "textEn": "THE CALL OF ADVENTURE Once during your turn,\nyou may discard a card to give this character +1 ◊\nand Evasive until the start of your next turn. (Only\ncharacters with Evasive can challenge them.)",
+    "textPt": "O CHAMADO DA AVENTURA Uma vez durante o seu turno, você pode descartar uma carta para dar a este personagem +1 ◊ e Evasivo até o início do seu próximo turno. (Somente personagens com Evasivo podem desafiá-lo.)"
+  },
+  {
+    "cardId": 3068,
+    "name": "Mushu - Stealthy Dragon",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/97_1dd87ef6c68d2c98c3b01637d1a27bfd5fb074f9.jpg",
+    "textEn": "Evasive (Only characters with Evasive can challenge\nthis character.)\nTIP THE SCALES Whenever this character quests,\nif an opponent has more cards in their hand than\nyou, you may draw a card.",
+    "textPt": "Evasivo (Somente personagens com Evasivo podem desafiar este personagem.)\nINCLINANDO A BALANÇA Sempre que este personagem explorar, se um oponente tiver mais cartas na mão do que você, você pode comprar uma carta."
+  },
+  {
+    "cardId": 3069,
+    "name": "Carl Fredricksen & Russell - Intrepid Explorers",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/98_931f5aa98f7a9d4dba193fe4c6c7bc0ae210d49d.jpg",
+    "textEn": "Shift 4 ⬡ (You may pay 4 ⬡ to play this on top of one\nof your characters named Carl Fredricksen or Russell.)\nOUTDOOR SKILLS While this character is at a location,\nall characters at that location get +1 ◊ and gain Evasive.\n(Only characters with Evasive can challenge them.)",
+    "textPt": "Metamorfose 4 ⬡ (Você pode pagar 4 ⬡ para jogar esta carta sobre um dos seus personagens chamados Carl Fredricksen ou Russell.)\nHABILIDADES DE SOBREVIVÊNCIA Enquanto este personagem estiver em uma localização, todos os personagens naquela localização recebem +1 ◊ e ganham Evasivo. (Somente personagens com Evasivo podem desafiá-los.)"
+  },
+  {
+    "cardId": 3070,
+    "name": "Mickey Mouse & Minnie Mouse - Adventuring Duo",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/99_bc248b16a65df4329e9d10148bbbcec454defada.jpg",
+    "textEn": "Duo Shift 0 ⬡ (You may pay 0 ⬡ to play this on\ntop of two of your characters, one named Mickey\nMouse and one named Minnie Mouse.)\nTHINKING OF YOU If this character would be\nbanished, put them into your inkwell facedown\nand exerted instead.",
+    "textPt": "Metamorfose Dupla 0 ⬡ (Você pode pagar 0 ⬡ para jogar esta carta sobre dois dos seus personagens, um chamado Mickey Mouse e outro chamado Minnie Mouse.)\nPENSANDO EM VOCÊ Se este personagem fosse banido, coloque-o no seu poço de tinta virado para baixo e exaurido em vez disso."
+  },
+  {
+    "cardId": 3071,
+    "name": "Rapunzel & Flynn Rider - Unlikely Pair",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/100_5b63363e4fa4f528904f619ed76ac21b0324bb68.jpg",
+    "textEn": "Shift 3 ⬡ (You may pay 3 ⬡ to play this on top of one\nof your characters named Rapunzel or Flynn Rider.)\nCLEVER SWAP Whenever this character quests, you may\ndraw a card, then choose and discard a card.\nFRESH START During your turn, whenever you discard\na character card, you may play that character from your\ndiscard. (You pay all costs.)",
+    "textPt": "Metamorfose 3 ⬡ (Você pode pagar 3 ⬡ para jogar esta carta sobre um dos seus personagens chamados Rapunzel ou Flynn Rider.)\nTROCA ESPERTA Sempre que este personagem explorar, você pode comprar uma carta e depois escolher e descartar uma carta.\nRECOMEÇO Durante o seu turno, sempre que você descartar uma carta de personagem, você pode jogar aquele personagem a partir do seu descarte. (Você paga todos os custos.)"
+  },
+  {
+    "cardId": 3072,
+    "name": "To Wither a Flower",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/101_48a1cc7ad039377b42f08fd06db7e3b3bc2cdf4f.jpg",
+    "textEn": "(A character with cost 4 or more can ⟳ to sing this\nsong for free.)\nDeal 2 damage to each opposing damaged character.",
+    "textPt": "(Um personagem com custo 4 ou mais pode ⟳ para cantar esta canção de graça.)\nCause 2 de dano a cada personagem adversário danificado."
+  },
+  {
+    "cardId": 3073,
+    "name": "Piercing Attack",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/102_fb93e1edc0a58fdc819618b1c92acce5a4728c89.jpg",
+    "textEn": "Deal 2 damage to chosen character. This damage can't\nbe reduced by Resist.",
+    "textPt": "Cause 2 de dano ao personagem escolhido. Esse dano não pode ser reduzido por Resistência."
+  },
+  {
+    "cardId": 3074,
+    "name": "Put That Thing Back",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/103_c600e4345ed6983fc517bd9a17987e851c10aa11.jpg",
+    "textEn": "(A character with cost 4 or more can ⟳ to sing this\nsong for free.)\nReturn chosen character or item to their player's hand.",
+    "textPt": "(Um personagem com custo 4 ou mais pode ⟳ para cantar esta canção de graça.)\nRetorne o personagem ou item escolhido para a mão do respectivo jogador."
+  },
+  {
+    "cardId": 3075,
+    "name": "Scout Ahead",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/104_48b30b5dd0be37f341b406d9933bfb1b84f38b49.jpg",
+    "textEn": "If an opponent has more lore than you, gain 2 lore.",
+    "textPt": "Se um oponente tiver mais lore do que você, ganhe 2 lore."
+  },
+  {
+    "cardId": 3076,
+    "name": "Potato",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/105_583cf3e17e99fd77c701e2efbf30f14ce157cefc.jpg",
+    "textEn": "FULL OF POTENTIAL This item enters play exerted.",
+    "textPt": "CHEIO DE POTENCIAL Este item entra em jogo exaurido."
+  },
+  {
+    "cardId": 3077,
+    "name": "My Adventure Book",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/106_a2600780829b99fd4334ddc5eb767be648377b5d.jpg",
+    "textEn": "NEW MEMORIES ⟳, 1 ⬡ — Reveal the top card of your deck.\nIf it's a non-character card or a character card named Kevin,\nput it into your hand. Otherwise, put it on the bottom of\nyour deck.",
+    "textPt": "NOVAS MEMÓRIAS ⟳, 1 ⬡ — Revele a carta do topo do seu baralho. Se for uma carta que não seja de personagem, ou uma carta de personagem chamada Kevin, coloque-a na sua mão. Caso contrário, coloque-a no fundo do seu baralho."
+  },
+  {
+    "cardId": 3078,
+    "name": "Vine Pod",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/107_f3118d237a0d6ce34746846a2483068b9feebd23.jpg",
+    "textEn": "FRAGILE HUSK This item enters play exerted.\nREGENERATE ⟳, 1 ⬡ — Banish chosen character of\nyours. You may play a character with the same name as\nthat character for free.",
+    "textPt": "CASCA FRÁGIL Este item entra em jogo exaurido.\nREGENERAR ⟳, 1 ⬡ — Bane um personagem escolhido\nseu. Você pode jogar um personagem com o mesmo nome\ndaquele personagem de graça."
+  },
+  {
+    "cardId": 3079,
+    "name": "Paradise Falls - Exotic Destination",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/108_23eaad35dccf60ba5e4ab7332f96dc32e77afc3e.jpg",
+    "textEn": "QUITE A SIGHT While you have a character here, this location gets +3 ◊.",
+    "textPt": "QUE VISTA! Enquanto você tiver um personagem aqui, esta localização recebe +3 ◊."
+  },
+  {
+    "cardId": 3080,
+    "name": "Dash Parr - Super Fast",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/109_19439b2df989451f99f34db233270d84cd81a9b1.jpg",
+    "textEn": "Shift 3 ⬡ (You may pay 3 ⬡ to play this on top of one of\nyour characters named Dash Parr.)\nEvasive (Only characters with Evasive can challenge this\ncharacter.)\nFOLLOW ME! Whenever this character quests, you may\nreveal the top card of your deck. If you do, you may play it.\nOtherwise, put it into your discard. (You pay all costs.)",
+    "textPt": "Metamorfose 3 ⬡ (Você pode pagar 3 ⬡ para jogar esta carta sobre\num de seus personagens chamados Dash Parr.)\nEvasivo (Apenas personagens com Evasivo podem desafiar este\npersonagem.)\nSIGAM-ME! Sempre que este personagem explorar, você pode\nrevelar a carta do topo do seu baralho. Se fizer isso, pode jogá-la.\nCaso contrário, coloque-a no seu descarte. (Você paga todos os custos.)"
+  },
+  {
+    "cardId": 3081,
+    "name": "Yzma - Choosy Customer",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/110_dfa5559842799fd0d9dc5136058ae53fa246db8e.jpg",
+    "textEn": "GET THIS RIGHT When you play this character,\neach opponent loses 1 lore.",
+    "textPt": "ENTENDA BEM Quando você jogar este personagem,\ncada oponente perde 1 lore."
+  },
+  {
+    "cardId": 3083,
+    "name": "The Bear - Territorial Animal",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/112_ddffe57c67efa1b17c211c4f2e7ff76a942edf15.jpg",
+    "textEn": "SAVAGE FURY While this character has damage,\nhe gets +3 ¤.",
+    "textPt": "FÚRIA SELVAGEM Enquanto este personagem tiver dano,\nele recebe +3 ¤."
+  },
+  {
+    "cardId": 3084,
+    "name": "Carl Fredricksen - On the Move",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/113_d85bf88916e86fbe6ca57ce847820d8014b8908b.jpg",
+    "textEn": "MOVING PARTNER Whenever you play a location,\nyou may move this character and up to 1 of your\nother characters to that location for free.\nADVENTURE AWAITS Whenever this character\nquests while at a location, draw cards equal to\nthat location's ◊.",
+    "textPt": "PARCEIRO DE MUDANÇA Sempre que você jogar uma localização,\nvocê pode mover este personagem e até 1 de seus\noutros personagens para aquela localização de graça.\nA AVENTURA ESPERA Sempre que este personagem\nexplorar estando em uma localização, compre cartas iguais a\n◊ daquela localização."
+  },
+  {
+    "cardId": 3085,
+    "name": "Dash Parr - Dodgeball Dynamo",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/114_147dd45e884d9728565a3ab0461fbabd04364bb3.jpg",
+    "textEn": "Evasive (Only characters with Evasive can challenge\nthis character.)",
+    "textPt": "Evasivo (Apenas personagens com Evasivo podem desafiar\neste personagem.)"
+  },
+  {
+    "cardId": 3086,
+    "name": "Gaston - Created by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/115_8c09189d4464b15256fd868787621dbb2a7a282f.jpg",
+    "textEn": "DRAWING STRENGTH Your Floodborn characters\nget +1 ¤.",
+    "textPt": "EXTRAINDO FORÇA Seus personagens Floodborn\nrecebem +1 ¤."
+  },
+  {
+    "cardId": 3087,
+    "name": "Colonel Hathi - On the March",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/116_0eb8f99ea7f1746798bdef4badb8e07398bd404b.jpg",
+    "textEn": "HUP, TWO, THREE, FOUR Whenever this character\nquests, you may move him to one of your locations\nfor free.",
+    "textPt": "UM, DOIS, TRÊS, QUATRO Sempre que este personagem\nexplorar, você pode movê-lo para uma de suas localizações\nde graça."
+  },
+  {
+    "cardId": 3089,
+    "name": "Pacha - Panicked Customer",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/118_e9c0b2bf8f9705f072b1d282f1f4667143109195.jpg",
+    "textEn": "Reckless (This character can't quest and must\nchallenge each turn if able.)\nADRENALINE SURGE During your turn, this\ncharacter gets +4 ¤.",
+    "textPt": "Imprudente (Este personagem não pode explorar e deve\ndesafiar a cada turno, se possível.)\nONDA DE ADRENALINA Durante o seu turno, este\npersonagem recebe +4 ¤."
+  },
+  {
+    "cardId": 3090,
+    "name": "Sun Yee - Red Panda Spirit",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/119_fc75d56c25c43bee46892880af4273ec9403d727.jpg",
+    "textEn": "Temporary Red Panda Shift 2 ⬡ (You may pay\n2 ⬡ to play this on top of one of your Red Panda\ncharacters. At the end of your turn, remove all\ndamage from this character and return only this\ncard to your hand.)",
+    "textPt": "Metamorfose Temporária (Panda Vermelho) 2 ⬡ (Você pode pagar\n2 ⬡ para jogar esta carta sobre um de seus personagens\nPanda Vermelho. No final do seu turno, remova todo o\ndano deste personagem e retorne apenas esta\ncarta para sua mão.)"
+  },
+  {
+    "cardId": 3091,
+    "name": "Grandma Wu - Fierce Red Panda",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/120_b110fda573bde9a81d1f5595e025ecf4e72f18d7.jpg",
+    "textEn": "Temporary Shift 4 ⬡ (You may pay 4 ⬡ to play this on\ntop of one of your characters named Grandma Wu. At the\nend of your turn, remove all damage from this character\nand return only this card to your hand.)\nINTIMIDATING CHARGE Whenever this character\nchallenges another character, you gain 2 lore and each\nopponent loses 2 lore.",
+    "textPt": "Metamorfose Temporária 4 ⬡ (Você pode pagar 4 ⬡ para jogar esta\ncarta sobre um de seus personagens chamados Grandma Wu. No\nfinal do seu turno, remova todo o dano deste personagem\ne retorne apenas esta carta para sua mão.)\nCARGA INTIMIDADORA Sempre que este personagem\ndesafiar outro personagem, você ganha 2 lore e cada\noponente perde 2 lore."
+  },
+  {
+    "cardId": 3092,
+    "name": "King Louie - King of Swing",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/121_8edd21c944cd59900d3d2cf3e0ffb63dfde8d02b.jpg",
+    "textEn": "Singer 6 (This character counts as cost 6 to sing\nsongs.)",
+    "textPt": "Cantor(a) 6 (Este personagem conta como custo 6 para cantar\ncanções.)"
+  },
+  {
+    "cardId": 3093,
+    "name": "Beast - Fierce Defender",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/122_d8580ab54c351f3b32b13286225c3e10ff1424ea.jpg",
+    "textEn": "FORMIDABLE LOVE While you have a character named\nBelle in play, this character gets +2 ¤.",
+    "textPt": "AMOR FORMIDÁVEL Enquanto você tiver um personagem chamado\nBelle em jogo, este personagem recebe +2 ¤."
+  },
+  {
+    "cardId": 3094,
+    "name": "Randall Boggs - Envious Coworker",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/123_2580a504093bf4dbc04875e03c6f8aebc378314d.jpg",
+    "textEn": "Evasive (Only characters with Evasive can challenge\nthis character.)\nAFTER-HOURS PROJECT While all cards in your\ninkwell are exerted, this character gets +2 ◊.",
+    "textPt": "Evasivo (Apenas personagens com Evasivo podem desafiar\neste personagem.)\nPROJETO FORA DO EXPEDIENTE Enquanto todas as cartas do seu\npoço de tinta estiverem exauridas, este personagem recebe +2 ◊."
+  },
+  {
+    "cardId": 3095,
+    "name": "Donald Duck - Vineling Rider",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/124_d4ea6aa1f593288699cb18ba1b635ba518d6757c.jpg",
+    "textEn": "Rush (This character can challenge the turn\nthey're played.)",
+    "textPt": "Investida (Este personagem pode desafiar no turno\nem que é jogado.)"
+  },
+  {
+    "cardId": 3096,
+    "name": "Meilin Lee - Popular Red Panda",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/125_0ef2acf14064134cdff932a72918fe81df4accc9.jpg",
+    "textEn": "Temporary Shift 3 ⬡ (You may pay 3 ⬡ to play this\non top of one of your characters named Meilin Lee.\nAt the end of your turn, remove all damage from this\ncharacter and return only this card to your hand.)\nKARAOKE QUEEN Once during your turn, whenever\nthis character sings a song, gain 3 lore.",
+    "textPt": "Metamorfose Temporária 3 ⬡ (Você pode pagar 3 ⬡ para jogar esta\ncarta sobre um de seus personagens chamados Meilin Lee.\nNo final do seu turno, remova todo o dano deste\npersonagem e retorne apenas esta carta para sua mão.)\nRAINHA DO KARAOKÊ Uma vez durante o seu turno, sempre que\neste personagem cantar uma canção, ganhe 3 lore."
+  },
+  {
+    "cardId": 3097,
+    "name": "Tigger - Hunny Barbarian",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/126_45ce1466e1ed78926a708d01f463d369b520f0da.jpg",
+    "textEn": "Reckless (This character can't quest and must challenge\neach turn if able.)\nPROTECTIVE CHARGE Once during your turn, whenever\nthis character challenges another character, you may\nready chosen Hunny character. If you do, that character\ncan't quest for the rest of this turn.",
+    "textPt": "Imprudente (Este personagem não pode explorar e deve desafiar\na cada turno, se possível.)\nCARGA PROTETORA Uma vez durante o seu turno, sempre que\neste personagem desafiar outro personagem, você pode\ndesvirar um personagem de Mel escolhido. Se fizer isso, aquele personagem\nnão poderá explorar pelo restante deste turno."
+  },
+  {
+    "cardId": 3098,
+    "name": "Boo - Energetic Child",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/127_c0786c932e9a3df14e198b4b9c2213beac98560d.jpg",
+    "textEn": "Rush (This character can challenge the turn they're\nplayed.)\nKID-TASTROPHE! Whenever this character challenges\nanother character with 3 ¤ or less, banish that\ncharacter. (No damage is dealt in that challenge.)",
+    "textPt": "Investida (Este personagem pode desafiar no turno em que\né jogado.)\nCRIANÇA-TÁSTROFE! Sempre que este personagem desafiar\noutro personagem com 3 ¤ ou menos, bane aquele\npersonagem. (Nenhum dano é causado naquele desafio.)"
+  },
+  {
+    "cardId": 3099,
+    "name": "Sulley - Protective Monster",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/128_3ccf6d2dd931746307d6c17e3b1019f89ab48a4c.jpg",
+    "textEn": "FEARSOME GLARE When you play this character, you\nmay exert all cards in your inkwell.\nRILED UP While all cards in your inkwell are exerted,\nthis character gains Rush. (They can challenge the\nturn they're played.)",
+    "textPt": "OLHAR APAVORANTE Quando você jogar este personagem, você\npode exaurir todas as cartas do seu poço de tinta.\nIRRITADO Enquanto todas as cartas do seu poço de tinta estiverem\nexauridas, este personagem ganha Investida. (Ele pode desafiar no\nturno em que é jogado.)"
+  },
+  {
+    "cardId": 3100,
+    "name": "Ming Lee - Giant Red Panda",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/129_9003e8044db6aae394757d7eba9c4a2f276297f6.jpg",
+    "textEn": "Temporary Shift 7 ⬡ (You may pay 7 ⬡ to play this on\ntop of one of your characters named Ming Lee. At the\nend of your turn, remove all damage from this character\nand return only this card to your hand.)\nPATH OF DESTRUCTION Whenever this character\nchallenges another character, ready her. She can't quest\nfor the rest of this turn.",
+    "textPt": "Metamorfose Temporária 7 ⬡ (Você pode pagar 7 ⬡ para jogar esta\ncarta sobre um de seus personagens chamados Ming Lee. No\nfinal do seu turno, remova todo o dano deste personagem\ne retorne apenas esta carta para sua mão.)\nCAMINHO DE DESTRUIÇÃO Sempre que este personagem\ndesafiar outro personagem, desvire-a. Ela não pode explorar\npelo restante deste turno."
+  },
+  {
+    "cardId": 3101,
+    "name": "Captain Hook - Conniving Pirate",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/130_1945186f069b586631dce63ccbe3671e063a3ba3.jpg",
+    "textEn": "HAVE AT YOU Whenever this character challenges\nanother character, gain 1 lore.",
+    "textPt": "EN GARDE Sempre que este personagem desafiar\noutro personagem, ganhe 1 lore."
+  },
+  {
+    "cardId": 3103,
+    "name": "Belle & Beast - Certain as the Sun",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/132_846e28c556f1cd67484cea3278b1326ee717c2bd.jpg",
+    "textEn": "Shift 6 ⬡ (You may pay 6 ⬡ to play this on top of\none of your characters named Belle or Beast.)\nINSPIRING DANCE Whenever this character quests,\nready all cards in your inkwell.\nAPPRECIATIVE AUDIENCE 6 ⬡ — Ready your other\ncharacters. They can't quest for the rest of this turn.",
+    "textPt": "Metamorfose 6 ⬡ (Você pode pagar 6 ⬡ para jogar esta carta sobre\num de seus personagens chamados Belle ou Beast.)\nDANÇA INSPIRADORA Sempre que este personagem explorar,\ndesvire todas as cartas do seu poço de tinta.\nPLATEIA GRATA 6 ⬡ — Desvire seus outros\npersonagens. Eles não podem explorar pelo restante deste turno."
+  },
+  {
+    "cardId": 3104,
+    "name": "Dash Parr & Violet Parr - Super Siblings",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/133_e19ae0eff8d825fc639e20799809f55dd1bbb3da.jpg",
+    "textEn": "Combo Shift 6 ⬡ (You may pay 6 ⬡ to play this on\ntop of one of your characters named Dash Parr, one\nnamed Violet Parr, or one of each.)\nEvasive, Resist +1\nINCREDIBLE TACTICS Whenever this character quests\nor challenges, draw a card for each card under them.",
+    "textPt": "Metamorfose Combo 6 ⬡ (Você pode pagar 6 ⬡ para jogar esta\ncarta sobre um de seus personagens chamados Dash Parr, um\nchamado Violet Parr, ou um de cada.)\nEvasivo, Resistência +1\nTÁTICAS INCRÍVEIS Sempre que este personagem explorar\nou desafiar, compre uma carta para cada carta sob ele."
+  },
+  {
+    "cardId": 3105,
+    "name": "Red Moon Ritual",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/134_b6449db775862d0b8e1f73edca82db2930906e4b.jpg",
+    "textEn": "Sing Together 7 (Any number of your or your teammates'\ncharacters with total cost 7 or more may ⟳ to sing this\nsong for free.)\nBanish chosen character.",
+    "textPt": "Cantar Junto 7 (Qualquer número de personagens seus ou de seus\ncolegas de equipe com custo total 7 ou mais pode ⟳ para cantar esta\ncanção de graça.)\nBana o personagem escolhido."
+  },
+  {
+    "cardId": 3106,
+    "name": "Red Alert",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/135_fdec7a9559734bab9c0155bd924560bc1546374d.jpg",
+    "textEn": "Banish chosen character with 3 ¤ or less. If you have\na Monster character in play, chosen opponent loses\n1 lore.",
+    "textPt": "Bana o personagem escolhido com 3 ¤ ou menos. Se você tiver\num personagem Monster em jogo, o oponente escolhido perde\n1 lore."
+  },
+  {
+    "cardId": 3107,
+    "name": "Rahr!",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/136_d2cbf76dee2b0a8726bfd1064420cb92d691c588.jpg",
+    "textEn": "Chosen character gets +3 ¤ this turn.",
+    "textPt": "O personagem escolhido recebe +3 ¤ neste turno."
+  },
+  {
+    "cardId": 3108,
+    "name": "Prophetic Vision",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/137_85e5dc9a54c1fe72acc0e381104a51fcf1ba0b47.jpg",
+    "textEn": "Shuffle your deck, then reveal the top card. If it's an\naction card, you may play it for free. Otherwise, put it on\nthe bottom of your deck, then each opponent loses 1 lore\nand you gain 1 lore.",
+    "textPt": "Embaralhe seu baralho, depois revele a carta do topo. Se for uma\ncarta de ação, você pode jogá-la de graça. Caso contrário, coloque-a no\nfundo do seu baralho, então cada oponente perde 1 lore\ne você ganha 1 lore."
+  },
+  {
+    "cardId": 3109,
+    "name": "It's Gonna Be Great!",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/138_ccee2761cb18fbbe83eb563287a8479d6ab45175.jpg",
+    "textEn": "(A character with cost 2 or more can ⟳ to sing this\nsong for free.)\nReady chosen character. They can't quest for the rest\nof this turn.",
+    "textPt": "(Um personagem com custo 2 ou mais pode ⟳ para cantar esta\ncanção de graça.)\nDesvire o personagem escolhido. Ele não pode explorar pelo restante\ndeste turno."
+  },
+  {
+    "cardId": 3110,
+    "name": "Scream Canister",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/139_be4a2ffd0e6e2bf266bfb2afce94c8fa6c4f117d.jpg",
+    "textEn": "ERRATIC SCREAMS ⟳, 2 ⬡ — Exert all cards in your\ninkwell. Exert chosen opposing character with 2 ¤\nor less.",
+    "textPt": "GRITOS ERRÁTICOS ⟳, 2 ⬡ — Exaura todas as cartas do seu\npoço de tinta. Exaura o personagem adversário escolhido com 2 ¤\nou menos."
+  },
+  {
+    "cardId": 3111,
+    "name": "Bunch of Balloons",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/140_133e8a584d9d761866a75a5033918dd9ec5fb214.jpg",
+    "textEn": "FLOAT AWAY When you play this item, choose a\nlocation of yours. While this item is in play, that\nlocation gains Evasive. (Only characters with Evasive\ncan challenge it.)\nOUT OF SIGHT 3 ⬡ — Return this item to your hand.",
+    "textPt": "FLUTUAR PARA LONGE Quando você jogar este item, escolha uma\nlocalização sua. Enquanto este item estiver em jogo, aquela\nlocalização ganha Evasivo. (Apenas personagens com Evasivo\npodem desafiá-la.)\nFORA DE VISTA 3 ⬡ — Retorne este item para sua mão."
+  },
+  {
+    "cardId": 3112,
+    "name": "Beast's Castle - Overrun by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/141_1e41b298de638a193c866b90bff351d48daead24.jpg",
+    "textEn": "IMMINENT THREAT Your Floodborn characters gain Rush. (They can challenge the turn\nthey're played.)",
+    "textPt": "AMEAÇA IMINENTE Seus personagens Floodborn ganham Investida. (Eles podem desafiar no turno\nem que são jogados.)"
+  },
+  {
+    "cardId": 3113,
+    "name": "Carl's House - Flying High",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/142_bcd8f2d8a4df39da7855d1ba24aeb22552050a88.jpg",
+    "textEn": "MOVING DAY Once during your turn, you may move chosen character\nfrom here to another location for free. If you do, gain 1 lore.",
+    "textPt": "DIA DA MUDANÇA Uma vez durante o seu turno, você pode mover o personagem escolhido\ndaqui para outra localização de graça. Se fizer isso, ganhe 1 lore."
+  },
+  {
+    "cardId": 3114,
+    "name": "Launchpad - Sky Patrol",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/143_73a54be335e2fab27b574b6e7ad0a53725e718ce.jpg",
+    "textEn": "Alert (This character can challenge as if they had\nEvasive.)",
+    "textPt": "Alerta (Este personagem pode desafiar como se tivesse\nEvasivo.)"
+  },
+  {
+    "cardId": 3115,
+    "name": "Dug - Good Boy",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/144_fc650c552020c5a7c109cbfbcf0071161f9fd55d.jpg",
+    "textEn": "FETCH! When you play this character, if you have\nan item in play, draw a card.",
+    "textPt": "BUSCAR! Quando você jogar este personagem, se você tiver\num item em jogo, compre uma carta."
+  },
+  {
+    "cardId": 3116,
+    "name": "Roz - Always Watching",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/145_891b2e749c54b00d11fb040efa8510cf4044c6ed.jpg",
+    "textEn": "ALWAYS Each opponent plays with the top card\nof their deck faceup.",
+    "textPt": "SEMPRE Cada oponente joga com a carta do topo\nde seu baralho virada para cima."
+  },
+  {
+    "cardId": 3117,
+    "name": "Merlin - Envisioning the Future",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/146_ed6d3bbe1bf1a4a72613a5ff63399e40e4eb5aad.jpg",
+    "textEn": "MINOR TRICKERY When you play this character,\nyou may draw a card from the bottom of\nyour deck.\nAGE OF INCONVENIENCE When this character is\nbanished, put this card from your discard on the\nbottom of your deck.",
+    "textPt": "PEQUENO TRUQUE Quando você jogar este personagem,\nvocê pode comprar uma carta do fundo do\nseu baralho.\nERA DO INCÔMODO Quando este personagem for\nbanido, coloque esta carta do seu descarte no\nfundo do seu baralho."
+  },
+  {
+    "cardId": 3118,
+    "name": "Quackerjack - Loony Toymaker",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/147_0ad7aa489ad954cc14a2fa421e895c767b586043.jpg",
+    "textEn": "EVIL DESIGN When you play this character and\nwhenever he quests, put the top 4 cards of your\ndeck into your discard. You may deal 1 damage to\nchosen character for each item card put into your\ndiscard this way.",
+    "textPt": "PLANO MALIGNO Quando você jogar este personagem e\nsempre que ele explorar, coloque as 4 cartas do topo do seu\nbaralho no seu descarte. Você pode causar 1 dano ao\npersonagem escolhido para cada carta de item colocada no seu\ndescarte dessa forma."
+  },
+  {
+    "cardId": 3119,
+    "name": "Belle - Always Reading",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/148_141899b4008ff0771097d6c4604614fb270c5403.jpg",
+    "textEn": "DREAMING OF MORE You pay 1 ⬡ less to shift a\ncharacter on top of this character.",
+    "textPt": "SONHANDO COM MAIS Você paga 1 ⬡ a menos para fazer a metamorfose de um\npersonagem sobre este personagem."
+  },
+  {
+    "cardId": 3120,
+    "name": "Ellie Fredricksen - Adventure Partner",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/149_8ae43c5be6df4e1dac4faad1686a7e31d4d80351.jpg",
+    "textEn": "ALWAYS WITH YOU When this character is banished,\nyou may put this card into your inkwell facedown\nand exerted.",
+    "textPt": "SEMPRE COM VOCÊ Quando este personagem for banido,\nvocê pode colocar esta carta no seu poço de tinta virada para baixo\ne exaurida."
+  },
+  {
+    "cardId": 3122,
+    "name": "Alpha - Pack Leader",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/151_f26d376b548e4a5c081ffc3da2aee984a5ba9e3e.jpg",
+    "textEn": "WHO WANTS A TREAT? Whenever you play an item,\nchosen character gets +1 ¤ and gains Resist +1 this\nturn. (Damage dealt to them is reduced by 1.)",
+    "textPt": "QUEM QUER UM PETISCO? Sempre que você jogar um item,\no personagem escolhido recebe +1 ¤ e ganha Resistência +1 neste\nturno. (O dano causado a ele é reduzido em 1.)"
+  },
+  {
+    "cardId": 3123,
+    "name": "Sulley - Strategic Scarer",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/152_15301e7ea700381bf89742dbad286aa3a56f3e61.jpg",
+    "textEn": "JUMP SCARE While you have 5 or more cards in\nyour inkwell, this character gets +2 ¤.",
+    "textPt": "SUSTO SÚBITO Enquanto você tiver 5 ou mais cartas no\nseu poço de tinta, este personagem recebe +2 ¤."
+  },
+  {
+    "cardId": 3124,
+    "name": "Randall Boggs - Scary Smart",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/153_770b9025dacb052ece62d609e9d27459c2bfd215.jpg",
+    "textEn": "GET OUTTA HERE! When you play this character,\nput chosen character of yours into your inkwell\nfacedown and exerted.\nDEVIOUS PLAN At the end of your turn, if all cards\nin your inkwell are exerted, gain 1 lore.",
+    "textPt": "SAI DAQUI! Quando você jogar este personagem,\ncoloque um personagem escolhido seu no seu poço de tinta\nvirado para baixo e exaurido.\nPLANO ENGENHOSO No final do seu turno, se todas as cartas\ndo seu poço de tinta estiverem exauridas, ganhe 1 lore."
+  },
+  {
+    "cardId": 3127,
+    "name": "Hades - Meticulous Schemer",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/156_7817288bedb18956e1d65f68854e2803d5550b99.jpg",
+    "textEn": "Ward (Opponents can't choose this character\nexcept to challenge.)",
+    "textPt": "Proteção (Oponentes não podem escolher este personagem,\nexceto para desafiá-lo.)"
+  },
+  {
+    "cardId": 3128,
+    "name": "Antonio Madrigal - Animal Doctor",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/157_1b4e90c71de609357bcd4bce5bbc4e94da3ca761.jpg",
+    "textEn": "HEALING HANDS When you play this character,\nyou may remove up to 3 damage from chosen\ncharacter of yours. If you removed damage this\nway, put the top card of your deck into your\ninkwell facedown and exerted.",
+    "textPt": "MÃOS CURATIVAS Quando você jogar este personagem,\nvocê pode remover até 3 de dano de um personagem\nescolhido seu. Se você removeu dano dessa\nforma, coloque a carta do topo do seu baralho no seu\npoço de tinta virada para baixo e exaurida."
+  },
+  {
+    "cardId": 3129,
+    "name": "Maid Marian - Created by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/158_c06e99ccdd15b880649f9ff813213749ce2ec5b6.jpg",
+    "textEn": "INKFLOW Whenever one of your Floodborn characters\nis banished, you may put the top card of your deck into\nyour inkwell facedown and exerted.",
+    "textPt": "FLUXO DE TINTA Sempre que um de seus personagens Floodborn\nfor banido, você pode colocar a carta do topo do seu baralho no\nseu poço de tinta virada para baixo e exaurida."
+  },
+  {
+    "cardId": 3130,
+    "name": "Robin Hood - Created by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/159_d2b71e83df90b2458f4140f03dadf1ac0dcaa3ee.jpg",
+    "textEn": "KEEN-EYED Your Floodborn characters gain Alert.\n(They can challenge as if they had Evasive.)",
+    "textPt": "OLHOS ATENTOS Seus personagens Floodborn ganham Alerta.\n(Eles podem desafiar como se tivessem Evasivo.)"
+  },
+  {
+    "cardId": 3131,
+    "name": "Boo - Human Child",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/160_a09defb55e249d0268dc3b980ce2b5041cf3daee.jpg",
+    "textEn": "MAKING MEMORIES While you have 5 or more\ncards in your inkwell, this character gets +2 ◊.",
+    "textPt": "CRIANDO MEMÓRIAS Enquanto você tiver 5 ou mais\ncartas no seu poço de tinta, este personagem recebe +2 ◊."
+  },
+  {
+    "cardId": 3132,
+    "name": "Pluto - Suspicious Sentry",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/161_052dc8bd5bfbd6732c4c8980fa4c911728bf6121.jpg",
+    "textEn": "Support (Whenever this character quests, you may\nadd their ¤ to another chosen character's ¤\nthis turn.)",
+    "textPt": "Apoio (Sempre que este personagem explorar, você pode\nadicionar sua ¤ à ¤ de outro personagem escolhido\nneste turno.)"
+  },
+  {
+    "cardId": 3133,
+    "name": "Charles Muntz - Obsessive Explorer",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/162_b63fc68137e94c13450656e05c87b8ff3843bd9c.jpg",
+    "textEn": "USEFUL GEAR Whenever you play an item, look at the top\ncard of your deck. Put it on either the top or the bottom of\nyour deck.\nFIND THAT BIRD! Whenever this character quests, look at the\ntop card of your deck. If it's a character card named Kevin,\nyou may reveal it and put it into your hand to gain 3 lore.\nOtherwise, put it on either the top or the bottom of your deck.",
+    "textPt": "EQUIPAMENTO ÚTIL Sempre que você jogar um item, olhe a\ncarta do topo do seu baralho. Coloque-a no topo ou no fundo do\nseu baralho.\nENCONTRE AQUELE PÁSSARO! Sempre que este personagem explorar, olhe a\ncarta do topo do seu baralho. Se for uma carta de personagem chamada Kevin,\nvocê pode revelá-la e colocá-la na sua mão para ganhar 3 de lore.\nCaso contrário, coloque-a no topo ou no fundo do seu baralho."
+  },
+  {
+    "cardId": 3134,
+    "name": "Henry J. Waternoose III - Chief Executive Officer",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/163_dd15904c4cad54e9921774554b2213408410fd42.jpg",
+    "textEn": "THE BOTTOM LINE While you have more cards\nin your inkwell than each opposing player, this\ncharacter gets +2 ◊ and gains Ward. (Opponents\ncan't choose them except to challenge.)",
+    "textPt": "RESULTADO FINAL Enquanto você tiver mais cartas\nno seu poço de tinta do que cada jogador adversário, este\npersonagem recebe +2 ◊ e ganha Proteção. (Oponentes\nnão podem escolhê-lo, exceto para desafiar.)"
+  },
+  {
+    "cardId": 3135,
+    "name": "Eeyore - Hunny Scholar",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/164_0f2d0bc40054571ac3e92427334331f9695f4fb1.jpg",
+    "textEn": "HUNNY TACTICS Whenever this character quests,\nchosen Hunny character of yours gets +1 ◊\nand gains Ward until the start of your next turn.\n(Opponents can't choose them except to challenge.)",
+    "textPt": "TÁTICAS DE MEL Sempre que este personagem explorar,\num personagem de Mel escolhido seu recebe +1 ◊\ne ganha Proteção até o início do seu próximo turno.\n(Oponentes não podem escolhê-lo, exceto para desafiar.)"
+  },
+  {
+    "cardId": 3136,
+    "name": "Darkwing Duck & Launchpad - St. Canard's Finest",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/165_a6e852a15383891c3b3a86d9f7e1473efcf8811b.jpg",
+    "textEn": "Shift 5 ⬡ (You may pay 5 ⬡ to play this on top of one\nof your characters named Darkwing Duck or Launchpad.)\nWard (Opponents can't choose this character except to\nchallenge.)\nVICTORY POSE During your turn, whenever this character\nbanishes another character in a challenge, gain 2 lore.",
+    "textPt": "Metamorfose 5 ⬡ (Você pode pagar 5 ⬡ para jogar esta carta sobre um\nde seus personagens chamados Darkwing Duck ou Launchpad.)\nProteção (Oponentes não podem escolher este personagem, exceto para\ndesafiar.)\nPOSE DE VITÓRIA Durante o seu turno, sempre que este personagem\nbanir outro personagem em um desafio, ganhe 2 de lore."
+  },
+  {
+    "cardId": 3137,
+    "name": "Power Surge",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/166_2000ee48609738f624b8b6d8fb4f8674373c2aa6.jpg",
+    "textEn": "Each player puts the top 2 cards of their deck into their\ninkwell facedown and exerted.",
+    "textPt": "Cada jogador coloca as 2 cartas do topo do seu baralho no seu\npoço de tinta, viradas para baixo e exauridas."
+  },
+  {
+    "cardId": 3138,
+    "name": "Focused Search",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/167_3eaf3541d6e4eb26eb1eb1c6bb17db754e00e675.jpg",
+    "textEn": "Look at the top 4 cards of your deck. You may reveal\na character card named Kevin or an item card and put\nit into your hand. Put the rest on the bottom of your\ndeck in any order.",
+    "textPt": "Olhe as 4 cartas do topo do seu baralho. Você pode revelar\numa carta de personagem chamada Kevin ou uma carta de item e colocá-la\nna sua mão. Coloque o restante no fundo do seu\nbaralho, em qualquer ordem."
+  },
+  {
+    "cardId": 3139,
+    "name": "We've Got a Lot to Do!",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/168_a27cd56f3081c152e780f55577bac5058eebb8d3.jpg",
+    "textEn": "(A character with cost 3 or more can ⟳ to sing this\nsong for free.)\nPut chosen item or location into its player's inkwell\nfacedown and exerted.",
+    "textPt": "(Um personagem com custo 3 ou mais pode ⟳ para cantar esta\ncanção de graça.)\nColoque o item ou localização escolhido no poço de tinta do seu\njogador, virado para baixo e exaurido."
+  },
+  {
+    "cardId": 3140,
+    "name": "Startle",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/169_3f629f4fc23d2ffcf99ec809d175757b823015f8.jpg",
+    "textEn": "Chosen character gets -3 ¤ this turn.",
+    "textPt": "Um personagem escolhido recebe -3 ¤ neste turno."
+  },
+  {
+    "cardId": 3141,
+    "name": "Closet Door Portal",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/170_7dbbb77c0a92d2850cbec056a2296e4f4164dd05.jpg",
+    "textEn": "KNOCK, KNOCK This item enters play exerted.\nWHO'S THERE? ⟳, 2 ⬡ — Look at the top 3 cards of\nyour deck. You may reveal a character, item, or location\ncard with cost 6 or less and play it for free. Put the rest\non the bottom of your deck in any order. Put this card\ninto your inkwell facedown and exerted.",
+    "textPt": "TOC, TOC Este item entra em jogo exaurido.\nQUEM É? ⟳, 2 ⬡ — Olhe as 3 cartas do topo do\nseu baralho. Você pode revelar uma carta de personagem, item ou localização\ncom custo 6 ou menos e jogá-la de graça. Coloque o restante\nno fundo do seu baralho, em qualquer ordem. Coloque esta carta\nno seu poço de tinta, virada para baixo e exaurida."
+  },
+  {
+    "cardId": 3142,
+    "name": "Hana's Inkcaster",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/171_6a5e55d0276a83a7cadffa7905fcf075412651f9.jpg",
+    "textEn": "REJUVENATING FLOURISH ⟳ — Remove up to 2 damage\nfrom chosen character. If there's a card under that\ncharacter, they gain Resist +1 until the start of your next\nturn. (Damage dealt to them is reduced by 1.)",
+    "textPt": "FLORESCER REJUVENESCEDOR ⟳ — Remova até 2 de dano\nde um personagem escolhido. Se houver uma carta sob esse\npersonagem, ele ganha Resistência +1 até o início do seu próximo\nturno. (O dano causado a ele é reduzido em 1.)"
+  },
+  {
+    "cardId": 3143,
+    "name": "Laugh Canister",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/172_c1c307aaceb14203b59560d22adb55103c550ee5.jpg",
+    "textEn": "COPYCAT ⟳ — Put the top card of your deck into\nyour inkwell facedown and exerted. Chosen opponent\nmay put the top card of their deck into their inkwell\nfacedown and exerted.",
+    "textPt": "IMITADOR ⟳ — Coloque a carta do topo do seu baralho no\nseu poço de tinta, virada para baixo e exaurida. Um oponente escolhido\npode colocar a carta do topo do seu baralho no seu poço de tinta,\nvirada para baixo e exaurida."
+  },
+  {
+    "cardId": 3144,
+    "name": "Translation Collar",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/173_f1ace78b86543b39a50c37aeb425007bfb130047.jpg",
+    "textEn": "YOU ARE MY FRIEND ⟳, 1 ⬡ — Chosen character gets\n+1 ◊ and gains Support this turn. (Whenever they quest,\nyou may add their ¤ to another chosen character's ¤\nthis turn.)",
+    "textPt": "VOCÊ É MEU AMIGO ⟳, 1 ⬡ — Um personagem escolhido recebe\n+1 ◊ e ganha Apoio neste turno. (Sempre que ele explorar,\nvocê pode adicionar o ¤ dele ao ¤ de outro personagem escolhido\nneste turno.)"
+  },
+  {
+    "cardId": 3145,
+    "name": "Big Book of Hunny",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/174_2a0dd43aae53acb14f836ab99246c44f5cdcc010.jpg",
+    "textEn": "INVOKE HUNNY ⟳, 2 ⬡ — Reveal the top card of\nyour deck. If it's a Hunny card, put it into your hand.\nOtherwise, put it on the bottom of your deck.",
+    "textPt": "INVOCAR MEL ⟳, 2 ⬡ — Revele a carta do topo do\nseu baralho. Se for uma carta de Mel, coloque-a na sua mão.\nCaso contrário, coloque-a no fundo do seu baralho."
+  },
+  {
+    "cardId": 3146,
+    "name": "Hundred Acre Wood - Hunny Campsite",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/175_9f98682f5c134ce0dd1a4acd2d3102ef7feaaa8e.jpg",
+    "textEn": "HOME AWAY FROM HOME Characters get +1 ⛉ while here.\nHUNNY QUEST Hunny characters get +1 ◊ while here.",
+    "textPt": "UM LAR LONGE DE CASA Personagens recebem +1 ⛉ enquanto estiverem aqui.\nEXPLORAÇÃO DE MEL Personagens de Mel recebem +1 ◊ enquanto estiverem aqui."
+  },
+  {
+    "cardId": 3147,
+    "name": "Violet Parr - Super Resilient",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/176_9bf4a1557513ecfa80484c9d0b39815afcaf2263.jpg",
+    "textEn": "Shift 3 ⬡ (You may pay 3 ⬡ to play this on top of one\nof your characters named Violet Parr.)\nResist +1 (Damage dealt to this character is reduced by 1.)\nHEROIC SYNERGY Whenever you play this or another\nHero character, you may draw a card, then choose and\ndiscard a card.",
+    "textPt": "Metamorfose 3 ⬡ (Você pode pagar 3 ⬡ para jogar esta carta sobre um\nde seus personagens chamados Violet Parr.)\nResistência +1 (O dano causado a este personagem é reduzido em 1.)\nSINERGIA HEROICA Sempre que você jogar este ou outro\npersonagem Herói, você pode comprar uma carta e depois escolher e\ndescartar uma carta."
+  },
+  {
+    "cardId": 3148,
+    "name": "Aladdin - Created by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/177_494714d2a87e823c135039e1bed3cdb1a221eae9.jpg",
+    "textEn": "THE VINE PROVIDES Whenever one of your Floodborn\ncharacters quests, you may draw a card, then choose\nand discard a card.",
+    "textPt": "A VIDEIRA PROVÊ Sempre que um dos seus personagens Floodborn\nexplorar, você pode comprar uma carta e depois escolher\ne descartar uma carta."
+  },
+  {
+    "cardId": 3149,
+    "name": "Willie the Giant - Created by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/178_5ff1422a596ca180de032771ed44104dfa88a933.jpg",
+    "textEn": "DEFEND THE STALK Your Floodborn characters gain\nResist +1. (Damage dealt to them is reduced by 1.)",
+    "textPt": "DEFENDA O CAULE Seus personagens Floodborn ganham\nResistência +1. (O dano causado a eles é reduzido em 1.)"
+  },
+  {
+    "cardId": 3150,
+    "name": "Sprout - Experiment 509",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/179_2eea519f9fa9b3d6f6bc18a76d56cc38db043751.jpg",
+    "textEn": "Resist +1 (Damage dealt to this character is\nreduced by 1.)\nBOTANICAL EVIL When you play this character,\nyou may choose and discard an Alien character\ncard or a location card from your hand. If you do,\ndeal 2 damage to chosen character.",
+    "textPt": "Resistência +1 (O dano causado a este personagem é\nreduzido em 1.)\nMALDADE BOTÂNICA Quando você jogar este personagem,\nvocê pode escolher e descartar uma carta de personagem Alienígena\nou uma carta de localização da sua mão. Se fizer isso,\ncause 2 de dano a um personagem escolhido."
+  },
+  {
+    "cardId": 3152,
+    "name": "Sheriff of Nottingham - Vine Slayer",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/181_69f7d5e235c7e4dc8a25d3330b8b04912bc93d9c.jpg",
+    "textEn": "Challenger +3 (While challenging, this character\ngets +3 ¤.)",
+    "textPt": "Desafiante +3 (Enquanto estiver desafiando, este personagem\nrecebe +3 ¤.)"
+  },
+  {
+    "cardId": 3154,
+    "name": "Violet Parr - Force Field Practice",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/183_440a8df494386dda2548d3b2d73d5a959ca84f39.jpg",
+    "textEn": "Resist +1 (Damage dealt to this character is\nreduced by 1.)",
+    "textPt": "Resistência +1 (O dano causado a este personagem é\nreduzido em 1.)"
+  },
+  {
+    "cardId": 3155,
+    "name": "Dr. Hamsterviel - Evil Observer",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/184_4047e17818bd1accb1a125bc6610d108393ecdfd.jpg",
+    "textEn": "Alert (This character can challenge as if they had\nEvasive.)",
+    "textPt": "Alerta (Este personagem pode desafiar como se tivesse\nEvasivo.)"
+  },
+  {
+    "cardId": 3156,
+    "name": "Owl - Hunny Ranger",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/185_26faf54ccd5c0d37084d8362dfd07886ac95de4d.jpg",
+    "textEn": "HUNNY ALLIANCE While you have another Hunny\ncharacter in play, this character gains Resist +2.\n(Damage dealt to them is reduced by 2.)",
+    "textPt": "ALIANÇA DE MEL Enquanto você tiver outro personagem de Mel\nem jogo, este personagem ganha Resistência +2.\n(O dano causado a ele é reduzido em 2.)"
+  },
+  {
+    "cardId": 3157,
+    "name": "Megavolt - Electrical Menace",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/186_33e581473ba58199b3c3db6534d4e8001023b6b7.jpg",
+    "textEn": "FORCE FIELD While you have no cards in your\nhand, this character gains Resist +2. (Damage\ndealt to them is reduced by 2.)",
+    "textPt": "CAMPO DE FORÇA Enquanto você não tiver cartas na sua\nmão, este personagem ganha Resistência +2. (O dano\ncausado a ele é reduzido em 2.)"
+  },
+  {
+    "cardId": 3158,
+    "name": "Darkwing Duck - Shadowy Superhero",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/187_aae51792a768ba385929130e5c437a57b038ed9f.jpg",
+    "textEn": "PREEMPTIVE STRIKE When you play this character,\nyou may deal 1 damage to chosen character.",
+    "textPt": "ATAQUE PREVENTIVO Quando você jogar este personagem,\nvocê pode causar 1 de dano a um personagem escolhido."
+  },
+  {
+    "cardId": 3159,
+    "name": "Omnidroid - Scanning for Threats",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/188_90e84cd8390155cc854a81d9fbe656aaa5f926ac.jpg",
+    "textEn": "FACTORY SETTINGS While this character has no\ndamage, it gets +2 ¤.",
+    "textPt": "CONFIGURAÇÕES DE FÁBRICA Enquanto este personagem não tiver\ndano, ele recebe +2 ¤."
+  },
+  {
+    "cardId": 3160,
+    "name": "Flynn Rider - High-Climbing Rogue",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/189_71a478c9a9409be9f48e07344c29b0cd62fcd350.jpg",
+    "textEn": "WE CAN WORK THIS OUT Whenever an opponent\nchooses this character for an action or ability,\nthey choose and discard a card.",
+    "textPt": "PODEMOS RESOLVER ISSO Sempre que um oponente\nescolher este personagem para uma ação ou habilidade,\nele escolhe e descarta uma carta."
+  },
+  {
+    "cardId": 3162,
+    "name": "Kronk - Meat Hut Cook",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/191_458f99e4c665ebca5e0ee1e1488065f6e87a7bb6.jpg",
+    "textEn": "Resist +1 (Damage dealt to this character is\nreduced by 1.)\nPICKUP! Once during your turn, you may pay 1 ⬡\nto draw a card, then choose and discard a card.",
+    "textPt": "Resistência +1 (O dano causado a este personagem é\nreduzido em 1.)\nPEGAR! Uma vez durante o seu turno, você pode pagar 1 ⬡\npara comprar uma carta e depois escolher e descartar uma carta."
+  },
+  {
+    "cardId": 3163,
+    "name": "Mulan - Created by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/192_b2b75c5b3434a24afe1855372a5dc588687ec47c.jpg",
+    "textEn": "DEMOLISH Whenever you play this or another\nFloodborn character, you may banish chosen item.",
+    "textPt": "DEMOLIR Sempre que você jogar este ou outro\npersonagem Floodborn, você pode banir um item escolhido."
+  },
+  {
+    "cardId": 3164,
+    "name": "Diablo - Protecting His Mistress",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/193_cfca3a1743ef2c84b4d2e0cc3baaca5eeaed8a51.jpg",
+    "textEn": "FLURRY OF FEATHERS Your characters named\nMaleficent gain Resist +1. (Damage dealt to them\nis reduced by 1.)",
+    "textPt": "TEMPESTADE DE PENAS Seus personagens chamados\nMalévola ganham Resistência +1. (O dano causado a eles\né reduzido em 1.)"
+  },
+  {
+    "cardId": 3165,
+    "name": "Scar - Created by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/194_6a76700d75b1bf042ce6128c23fd0891177ec83d.jpg",
+    "textEn": "VICTOR'S REWARD During your turn, whenever\none of your Floodborn characters banishes\nanother character in a challenge, gain 1 lore.\nFILL THE RANKS During an opponent's turn,\nwhenever one of your Floodborn characters is\nbanished, draw a card.",
+    "textPt": "RECOMPENSA DO VENCEDOR Durante o seu turno, sempre que\num dos seus personagens Floodborn banir\noutro personagem em um desafio, ganhe 1 de lore.\nCOMPLETAR AS FILEIRAS Durante o turno de um oponente,\nsempre que um dos seus personagens Floodborn for\nbanido, compre uma carta."
+  },
+  {
+    "cardId": 3166,
+    "name": "Maximus - Relentless Stallion",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/195_2f4b723900589679c48e377ce48d41e4ff354324.jpg",
+    "textEn": "NO ESCAPE If you discarded a card this turn, this\ncharacter gains Challenger +2 and can challenge\nready characters this turn. (They get +2 ¤ while\nchallenging.)",
+    "textPt": "SEM ESCAPATÓRIA Se você descartou uma carta neste turno, este\npersonagem ganha Desafiante +2 e pode desafiar\npersonagens prontos neste turno. (Eles recebem +2 ¤ enquanto\nestiverem desafiando.)"
+  },
+  {
+    "cardId": 3167,
+    "name": "Omnidroid - Ultimate Iteration",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/196_3e7d0ff852139c7fedc24e529eae67af1485a2e7.jpg",
+    "textEn": "Shift 6 ⬡ (You may pay 6 ⬡ to play this on top of one\nof your characters named Omnidroid.)\nResist +2 (Damage dealt to this character is reduced by 2.)\nRETURN ON INVESTMENT When you shift this character,\nyou may return all cards under it to your hand.",
+    "textPt": "Metamorfose 6 ⬡ (Você pode pagar 6 ⬡ para jogar esta carta sobre um\nde seus personagens chamados Omnidroid.)\nResistência +2 (O dano causado a este personagem é reduzido em 2.)\nRETORNO SOBRE INVESTIMENTO Quando você fizer a metamorfose deste personagem,\nvocê pode retornar todas as cartas sob ele para sua mão."
+  },
+  {
+    "cardId": 3168,
+    "name": "The Vine - Towering Stalk",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/197_fe68c980fa492a3c986df6efe401085aab0bd807.jpg",
+    "textEn": "Floodborn Shift 7 ⬡ (You may pay 7 ⬡ to play this on top\nof one of your Floodborn characters.)\nSATURATE Your other exerted Floodborn characters gain\nBodyguard.\nHOSTILE SWARM During an opponent's turn, whenever one\nof your Floodborn characters is banished, deal 1 damage to\neach opposing character.",
+    "textPt": "Metamorfose Floodborn 7 ⬡ (Você pode pagar 7 ⬡ para jogar esta carta sobre\num de seus personagens Floodborn.)\nSATURAR Seus outros personagens Floodborn exauridos ganham\nGuarda-costas.\nENXAME HOSTIL Durante o turno de um oponente, sempre que um\ndos seus personagens Floodborn for banido, cause 1 de dano a\ncada personagem adversário."
+  },
+  {
+    "cardId": 3169,
+    "name": "Cower Before Me!",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/198_c755ddbd6b6bfdfb41e4a91ec29e39abdae62fe0.jpg",
+    "textEn": "Up to 2 chosen opposing characters can't challenge\nduring their next turn.",
+    "textPt": "Até 2 personagens adversários escolhidos não podem desafiar\ndurante o próximo turno deles."
+  },
+  {
+    "cardId": 3170,
+    "name": "We'll Save Our Village",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/199_c59cc77f017bef2bf617bb581786affbba012cc3.jpg",
+    "textEn": "(A character with cost 2 or more can ⟳ to sing this\nsong for free.)\nYour characters and locations gain Resist +1 until\nthe start of your next turn. (Damage dealt to them is\nreduced by 1.)",
+    "textPt": "(Um personagem com custo 2 ou mais pode ⟳ para cantar esta\ncanção de graça.)\nSeus personagens e localizações ganham Resistência +1 até\no início do seu próximo turno. (O dano causado a eles é\nreduzido em 1.)"
+  },
+  {
+    "cardId": 3171,
+    "name": "Look What You've Done",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/200_3691c2734df564ba7a4063436cbe97222f1117a2.jpg",
+    "textEn": "Deal 2 damage to chosen character. During your turn,\nwhen you discard this card, you may play it from your\ndiscard. (You pay all costs.)",
+    "textPt": "Cause 2 de dano a um personagem escolhido. Durante o seu turno,\nquando você descartar esta carta, você pode jogá-la do seu\ndescarte. (Você paga todos os custos.)"
+  },
+  {
+    "cardId": 3172,
+    "name": "You Broke My Smolder",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/201_a68e37f2c39b61f438bdb5b1d9814420ff7c6d76.jpg",
+    "textEn": "Discard your hand. Draw 2 cards.",
+    "textPt": "Descarte sua mão. Compre 2 cartas."
+  },
+  {
+    "cardId": 3173,
+    "name": "Attack of the Vine!",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/202_b91c90b76e358cda03a2cd8b61bc747ae8bb7046.jpg",
+    "textEn": "Your Floodborn characters gain Resist +2 and can\nchallenge ready characters this turn. (Damage dealt to\nthem is reduced by 2.)",
+    "textPt": "Seus personagens Floodborn ganham Resistência +2 e podem\ndesafiar personagens prontos neste turno. (O dano causado a\neles é reduzido em 2.)"
+  },
+  {
+    "cardId": 3174,
+    "name": "Windstorm",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/203_813167fb1fcbd20bb4defc5fc69b64c7d6d44232.jpg",
+    "textEn": "Deal 1 damage to each opposing character and location.\nThen, deal 2 damage to each opposing character with\nEvasive and each opposing location with Evasive.",
+    "textPt": "Cause 1 de dano a cada personagem e localização adversários.\nDepois, cause 2 de dano a cada personagem adversário com\nEvasivo e cada localização adversária com Evasivo."
+  },
+  {
+    "cardId": 3175,
+    "name": "Discarded Armor",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/204_b38371747474d8862434dbf5daa2084df4ffb0f4.jpg",
+    "textEn": "FOUND EQUIPMENT ⟳ — If you discarded a card this\nturn, chosen character of yours gains Resist +1 until\nthe start of your next turn. (Damage dealt to them is\nreduced by 1.)",
+    "textPt": "EQUIPAMENTO ENCONTRADO ⟳ — Se você descartou uma carta neste\nturno, um personagem escolhido seu ganha Resistência +1 até\no início do seu próximo turno. (O dano causado a ele é\nreduzido em 1.)"
+  },
+  {
+    "cardId": 3176,
+    "name": "The Weedwhacker",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/205_fdd01b495c98a1267da4932730aaf499a2227dde.jpg",
+    "textEn": "FULL POWER ⟳, 1 ⬡ — Chosen character gains Challenger\n+2 this turn. (They get +2 ¤ while challenging.)\nCLEAR-CUT 2 ⬡, Banish this item — Banish chosen\nVineling character.",
+    "textPt": "POTÊNCIA MÁXIMA ⟳, 1 ⬡ — Um personagem escolhido ganha Desafiante\n+2 neste turno. (Ele recebe +2 ¤ enquanto estiver desafiando.)\nCORTE RASO 2 ⬡, Bana este item — Bana um personagem\nVineling escolhido."
+  },
+  {
+    "cardId": 3177,
+    "name": "Absorbing Bloom",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/206_0f4f443c3bf2afe7ddad2d51ee9f256405858b30.jpg",
+    "textEn": "METAMORPHOSIS ⟳, 1 ⬡ — If a character was banished\nin a challenge this turn, draw a card.",
+    "textPt": "TRANSFORMAÇÃO ⟳, 1 ⬡ — Se um personagem foi banido\nem um desafio neste turno, compre uma carta."
+  },
+  {
+    "cardId": 3178,
+    "name": "Vine Entrance - Ominous Passageway",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/207_ae5b9cf92da8d201a7e35e48cbdd355477d1a5db.jpg",
+    "textEn": "ROOT OF POWER The first time a Floodborn character moves here each\nturn, you may deal 1 damage to chosen character.",
+    "textPt": "RAIZ DO PODER Na primeira vez que um personagem Floodborn se mover para cá a cada\nturno, você pode causar 1 de dano a um personagem escolhido."
+  },
+  {
+    "cardId": 3179,
+    "name": "Jasmine - Vine Expert",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/208_ba14e62cb97c30513bdc5418b3bdf37a0890a4ad.jpg",
+    "textEn": "SHARED RESOURCES When you play this character,\neach player draws a card.",
+    "textPt": "RECURSOS COMPARTILHADOS Quando você jogar este personagem,\ncada jogador compra uma carta."
+  },
+  {
+    "cardId": 3180,
+    "name": "Boo - In Disguise",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/209_06cd57a836bc59e97bb2daeecc1ed089985e5589.jpg",
+    "textEn": "YOU'RE SAFE NOW While you have an exerted character\nnamed Sulley in play, this character can't be challenged.",
+    "textPt": "VOCÊ ESTÁ SEGURA AGORA Enquanto você tiver um personagem exaurido\nchamado Sulley em jogo, este personagem não pode ser desafiado."
+  },
+  {
+    "cardId": 3181,
+    "name": "Meilin Lee - Losing Control",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/210_f179204ce448e99f550502350cfa467386110017.jpg",
+    "textEn": "RED PANDA POWER When you play this character,\nlook at the top 4 cards of your deck. You may\nreveal a Red Panda character card or a song card\nand put it into your hand. Put the rest on the\nbottom of your deck in any order.",
+    "textPt": "PODER DO PANDA VERMELHO Quando você jogar este personagem,\nolhe as 4 cartas do topo do seu baralho. Você pode\nrevelar uma carta de personagem Panda Vermelho ou uma carta de canção\ne colocá-la na sua mão. Coloque o restante no\nfundo do seu baralho, em qualquer ordem."
+  },
+  {
+    "cardId": 3182,
+    "name": "HeiHei - Created by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/211_2b57fa4247d76af9aec012ec3e29569163aa6bbd.jpg",
+    "textEn": "BOTANICAL REMEDY Whenever one of your Floodborn\ncharacters quests, you may move 1 damage from\nchosen character to chosen opposing character.",
+    "textPt": "REMÉDIO BOTÂNICO Sempre que um dos seus personagens Floodborn\nexplorar, você pode mover 1 de dano de\num personagem escolhido para um personagem adversário escolhido."
+  },
+  {
+    "cardId": 3183,
+    "name": "Winnie the Pooh - Hunny Archmage",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/212_9a81da89d2fbc2b7d3b6a0ef0829eec6615658b6.jpg",
+    "textEn": "STICK TOGETHER While you have 2 or more other\nHunny characters in play, this character gets +2 ◊.",
+    "textPt": "FIQUEM JUNTOS Enquanto você tiver 2 ou mais outros\npersonagens de Mel em jogo, este personagem recebe +2 ◊."
+  },
+  {
+    "cardId": 3184,
+    "name": "Mrs. Incredible - Created by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/213_af2ae013c58e64d8cb71f731023da177aa69dd21.jpg",
+    "textEn": "TORRENT Whenever one of your Floodborn\ncharacters quests, you pay 1 ⬡ less for the next\ncharacter you shift this turn.",
+    "textPt": "TORRENTE Sempre que um dos seus personagens Floodborn\nexplorar, você paga 1 ⬡ a menos pelo próximo\npersonagem que você fizer a metamorfose neste turno."
+  },
+  {
+    "cardId": 3185,
+    "name": "Mother Gothel - Evil as Ever",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/214_bcef9058e45c33e57312c99b91b349e915ec8c5e.jpg",
+    "textEn": "MUMMY'S BACK During your turn, when you\ndiscard this card, you may play this character\nfrom your discard. (You pay all costs.)",
+    "textPt": "MAMÃE ESTÁ DE VOLTA Durante o seu turno, quando você descarta esta carta, você pode jogar este personagem do seu descarte. (Você paga todos os custos.)"
+  },
+  {
+    "cardId": 3186,
+    "name": "Kevin - Flightless Bird",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/215_4173d957ce9355c2aa47b67d837bec1cbad0827b.jpg",
+    "textEn": "BACK TO THE NEST Whenever this character\nquests, put this card on the top of your deck.",
+    "textPt": "DE VOLTA AO NINHO Sempre que este personagem explora, coloque esta carta no topo do seu baralho."
+  },
+  {
+    "cardId": 3187,
+    "name": "Peter Pan - Created by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/216_394255f90de17bf29f51eeaab41e689c1e1d266c.jpg",
+    "textEn": "CLEVER TRICK Whenever one of your Floodborn\ncharacters is challenged, the challenging player\nchooses and discards a card.",
+    "textPt": "TRUQUE ESPERTO Sempre que um dos seus personagens floodborn é desafiado, o jogador desafiante escolhe e descarta uma carta."
+  },
+  {
+    "cardId": 3188,
+    "name": "Randall Boggs - Envious Coworker",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/217_8a78737c91542b04eb527ef56da7b620edc876aa.jpg",
+    "textEn": "Evasive (Only characters with Evasive can challenge\nthis character.)\nAFTER-HOURS PROJECT While all cards in your\ninkwell are exerted, this character gets +2 ◊.",
+    "textPt": "Evasivo (Apenas personagens com Evasivo podem desafiar este personagem.)\nPROJETO FORA DE HORÁRIO Enquanto todas as cartas no seu poço de tinta estiverem exauridas, este personagem recebe +2 ◊."
+  },
+  {
+    "cardId": 3189,
+    "name": "Sun Yee - Red Panda Spirit",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/218_98d7626dc3b5eead268f4ead5006100dbc287e93.jpg",
+    "textEn": "Temporary Red Panda Shift 2 ⬡ (You may pay\n2 ⬡ to play this on top of one of your Red Panda\ncharacters. At the end of your turn, remove all\ndamage from this character and return only this\ncard to your hand.)",
+    "textPt": "Metamorfose Temporária (Panda Vermelho) 2 ⬡ (Você pode pagar 2 ⬡ para jogar esta carta sobre um dos seus personagens Panda Vermelho. No final do seu turno, remova todo o dano deste personagem e retorne apenas esta carta para sua mão.)"
+  },
+  {
+    "cardId": 3190,
+    "name": "Dash Parr - Dodgeball Dynamo",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/219_4b7b3d67505904da843fe920f14eadf47e14958c.jpg",
+    "textEn": "Evasive (Only characters with Evasive can challenge\nthis character.)",
+    "textPt": "Evasivo (Apenas personagens com Evasivo podem desafiar este personagem.)"
+  },
+  {
+    "cardId": 3191,
+    "name": "Henry J. Waternoose III - Chief Executive Officer",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/220_8869e6c88649b3b166e1e987346ef9aa8e000d7e.jpg",
+    "textEn": "THE BOTTOM LINE While you have more cards\nin your inkwell than each opposing player, this\ncharacter gets +2 ◊ and gains Ward. (Opponents\ncan't choose them except to challenge.)",
+    "textPt": "O RESULTADO FINAL Enquanto você tiver mais cartas no seu poço de tinta do que cada jogador adversário, este personagem recebe +2 ◊ e ganha Proteção. (Oponentes não podem escolhê-lo, exceto para desafiar.)"
+  },
+  {
+    "cardId": 3192,
+    "name": "Roz - Always Watching",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/221_4f45d9831cfb64705747a7d9e5c42873a33915b9.jpg",
+    "textEn": "ALWAYS Each opponent plays with the top card\nof their deck faceup.",
+    "textPt": "SEMPRE Cada oponente joga com a carta do topo do seu baralho virada para cima."
+  },
+  {
+    "cardId": 3193,
+    "name": "Hundred Acre Wood - Hunny Campsite",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/222_f6360e40b0858ec59a825810d573fc9841e66b52.jpg",
+    "textEn": "HOME AWAY FROM HOME Characters get +1 ⛉ while here.\nHUNNY QUEST Hunny characters get +1 ◊ while here.",
+    "textPt": "UM LAR LONGE DE CASA Personagens recebem +1 ⛉ enquanto estiverem aqui.\nEXPLORAÇÃO DO MEL Personagens de mel recebem +1 ◊ enquanto estiverem aqui."
+  },
+  {
+    "cardId": 3194,
+    "name": "Kronk - Meat Hut Cook",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/223_d6e8eadec9ccb694423f630212fb3b27b4173c66.jpg",
+    "textEn": "Resist +1 (Damage dealt to this character is\nreduced by 1.)\nPICKUP! Once during your turn, you may pay 1 ⬡\nto draw a card, then choose and discard a card.",
+    "textPt": "Resistência +1 (O dano causado a este personagem é reduzido em 1.)\nAPANHAR! Uma vez durante o seu turno, você pode pagar 1 ⬡ para comprar uma carta, depois escolher e descartar uma carta."
+  },
+  {
+    "cardId": 3195,
+    "name": "Mulan - Created by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/224_d1e0fbaa0f31f87e28744318c811d517321426dc.jpg",
+    "textEn": "DEMOLISH Whenever you play this or another\nFloodborn character, you may banish chosen item.",
+    "textPt": "DEMOLIR Sempre que você jogar este ou outro personagem floodborn, você pode banir o item escolhido."
+  },
+  {
+    "cardId": 3196,
+    "name": "Megavolt - Electrical Menace",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/225_5f3ccde0bc3abd5564ae21735349ec9e5298b562.jpg",
+    "textEn": "FORCE FIELD While you have no cards in your\nhand, this character gains Resist +2. (Damage\ndealt to them is reduced by 2.)",
+    "textPt": "CAMPO DE FORÇA Enquanto você não tiver cartas na mão, este personagem ganha Resistência +2. (O dano causado a ele é reduzido em 2.)"
+  },
+  {
+    "cardId": 3197,
+    "name": "Mike Wazowski - Heroic Climber",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/226_08614c6a29be9185d7f2a615e5111524dcf55801.jpg",
+    "textEn": "FIND A FRIEND When you play this character and\nwhenever he quests, each player reveals the top\ncard of their deck. If it's a character card, they\nmay put it into their hand. Otherwise, put it on\nthe bottom of their deck.",
+    "textPt": "ENCONTRE UM AMIGO Quando você jogar este personagem e sempre que ele explorar, cada jogador revela a carta do topo do seu baralho. Se for uma carta de personagem, ele pode colocá-la na mão. Caso contrário, coloque-a no fundo do baralho."
+  },
+  {
+    "cardId": 3198,
+    "name": "Pocahontas & Meeko - Adventurous Friends",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/227_6b93ad7d82636b71a439bdecc8a0f2e0049df46e.jpg",
+    "textEn": "Shift 2 ⬡\nEvasive\nWELCOME RETURN Whenever this character quests,\nyou may return chosen character of yours with cost\n1 to your hand. If you do, you may play a character\nwith cost 1 for free.",
+    "textPt": "Metamorfose 2 ⬡\nEvasivo\nBEM-VINDO DE VOLTA Sempre que este personagem explora, você pode retornar um personagem escolhido seu com custo 1 para sua mão. Se fizer isso, você pode jogar um personagem com custo 1 gratuitamente."
+  },
+  {
+    "cardId": 3199,
+    "name": "Woody & Buzz Lightyear - Best Buddies",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/228_95433e3725a1fe64ad6d09a115dc460fdc46a9ba.jpg",
+    "textEn": "Shift 5 ⬡\nTO INFINITY... When you play this character, if\nchosen opponent has more cards in their hand than\nyou, draw cards until you have the same number.\n...AND BEYOND! Whenever this character quests,\nyou may play a card with cost 2 or less for free.",
+    "textPt": "Metamorfose 5 ⬡\nAO INFINITO... Quando você jogar este personagem, se o oponente escolhido tiver mais cartas na mão do que você, compre cartas até ter o mesmo número.\n...E MAIS ALÉM! Sempre que este personagem explora, você pode jogar uma carta com custo 2 ou menos gratuitamente."
+  },
+  {
+    "cardId": 3200,
+    "name": "Sulley & Boo - Scare Buddies",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/229_f1c593b593ea309771e24bf8fecbc6c7872cace0.jpg",
+    "textEn": "Combo Shift 4 ⬡\nTHE POWER OF FRIENDSHIP When this character\nis banished, if any of the cards that were under\nthem are character cards, you may play those\ncharacters from your discard for free.",
+    "textPt": "Metamorfose Combo 4 ⬡\nO PODER DA AMIZADE Quando este personagem é banido, se alguma das cartas que estavam sob ele forem cartas de personagem, você pode jogar esses personagens do seu descarte gratuitamente."
+  },
+  {
+    "cardId": 3201,
+    "name": "The Madrigal Family - Every Generation",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/230_0fa35e34b158b3d132cacc873ddbdb307955b89d.jpg",
+    "textEn": "Madrigal Shift 3 ⬡\nFAMILY BLESSINGS Once during your turn,\nwhenever you remove 1 or more damage from\none of your characters, put the top card of your\ndeck into your inkwell facedown and exerted.",
+    "textPt": "Metamorfose Madrigal 3 ⬡\nBÊNÇÃOS DA FAMÍLIA Uma vez durante o seu turno, sempre que você remover 1 ou mais de dano de um dos seus personagens, coloque a carta do topo do seu baralho no seu poço de tinta virada para baixo e exaurida."
+  },
+  {
+    "cardId": 3202,
+    "name": "Merida - Wisp Conjurer",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/231_514aee0d45652e2fdf5c4e687d1618212abad652.jpg",
+    "textEn": "FOCUSED ENERGY This character may enter\nplay exerted to draw a card.\nBECKON During your turn, whenever another\ncharacter of yours enters play exerted, you\nmay draw a card.",
+    "textPt": "ENERGIA FOCADA Este personagem pode entrar em jogo exaurido para comprar uma carta.\nCHAMADO Durante o seu turno, sempre que outro personagem seu entrar em jogo exaurido, você pode comprar uma carta."
+  },
+  {
+    "cardId": 3203,
+    "name": "Aladdin & Genie - Mischievous Pals",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/232_38db009b8066395e389a3ca562393acdf6913a66.jpg",
+    "textEn": "Shift 3 ⬡\nSLEIGHT OF HAND When you play this character,\nyou may put any number of cards from your\nhand on the bottom of your deck in any order. If\nyou do, draw that number of cards plus 1.",
+    "textPt": "Metamorfose 3 ⬡\nTRUQUE DE MÃO Quando você jogar este personagem, você pode colocar qualquer número de cartas da sua mão no fundo do seu baralho em qualquer ordem. Se fizer isso, compre esse número de cartas mais 1."
+  },
+  {
+    "cardId": 3204,
+    "name": "Peter Pan & Tinker Bell - Fast Friends",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/233_2fcb80f5291d23be00657f2e1d04bc0deb3a637f.jpg",
+    "textEn": "Shift 4 ⬡\nYOU CAN FLY! Your characters gain Evasive.",
+    "textPt": "Metamorfose 4 ⬡\nVOCÊ PODE VOAR! Seus personagens ganham Evasivo."
+  },
+  {
+    "cardId": 3205,
+    "name": "Winnie the Pooh & Piglet - Hunny Mages",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/234_e7777e193f47cfd07396f85fc8dbffdb9350d1bd.jpg",
+    "textEn": "Shift 3 ⬡\nMAGICAL MIX This character gets +1 ◊ for each\ndifferent ink type of characters you have in play.",
+    "textPt": "Metamorfose 3 ⬡\nMISTURA MÁGICA Este personagem recebe +1 ◊ para cada tipo de tinta diferente entre os personagens que você tem em jogo."
+  },
+  {
+    "cardId": 3206,
+    "name": "Maleficent & Diablo - Evil Incarnate",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/235_48c4ba11ab2ff0f3c1a6b0aabff1f304c196c4fd.jpg",
+    "textEn": "Shift 5 ⬡\nFOOLS! You may put 5 character cards from your\ndiscard on the bottom of your deck in any order\nto shift this character for free.\nRAVEN'S CALL During your turn, whenever this\ncharacter exerts, draw a card.",
+    "textPt": "Metamorfose 5 ⬡\nTOLOS! Você pode colocar 5 cartas de personagem do seu descarte no fundo do seu baralho em qualquer ordem para metamorfosear este personagem gratuitamente.\nCHAMADO DO CORVO Durante o seu turno, sempre que este personagem exaurir, compre uma carta."
+  },
+  {
+    "cardId": 3207,
+    "name": "Tod & Copper - Best of Friends",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/236_50764ca6cd2e2f920ae53e92a923d83b8e0b07e4.jpg",
+    "textEn": "Shift 2 ⬡\nEvasive",
+    "textPt": "Metamorfose 2 ⬡\nEvasivo"
+  },
+  {
+    "cardId": 3208,
+    "name": "Carl Fredricksen & Russell - Intrepid Explorers",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/237_3a5d7218284117295a6cff1aef1b4031852cb7d9.jpg",
+    "textEn": "Shift 4 ⬡\nOUTDOOR SKILLS While this character is at\na location, all characters at that location get\n+1 ◊ and gain Evasive.",
+    "textPt": "Metamorfose 4 ⬡\nHABILIDADES AO AR LIVRE Enquanto este personagem estiver em uma localização, todos os personagens naquela localização recebem +1 ◊ e ganham Evasivo."
+  },
+  {
+    "cardId": 3209,
+    "name": "Mickey Mouse & Minnie Mouse - Adventuring Duo",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/238_bbc5cfe06474615656dcc3053826ea1aeddd2393.jpg",
+    "textEn": "Duo Shift 0 ⬡\nTHINKING OF YOU If this character would be\nbanished, put them into your inkwell facedown\nand exerted instead.",
+    "textPt": "Metamorfose Dupla 0 ⬡\nPENSANDO EM VOCÊ Se este personagem for banido, coloque-o no seu poço de tinta virado para baixo e exaurido em vez disso."
+  },
+  {
+    "cardId": 3210,
+    "name": "Rapunzel & Flynn Rider - Unlikely Pair",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/239_d88abf5d4ced335cc3017c2f2abeda23b7e9fb7f.jpg",
+    "textEn": "Shift 3 ⬡\nCLEVER SWAP Whenever this character quests, you\nmay draw a card, then choose and discard a card.\nFRESH START During your turn, whenever you\ndiscard a character card, you may play that\ncharacter from your discard.",
+    "textPt": "Metamorfose 3 ⬡\nTROCA ESPERTA Sempre que este personagem explora, você pode comprar uma carta, depois escolher e descartar uma carta.\nNOVO COMEÇO Durante o seu turno, sempre que você descartar uma carta de personagem, você pode jogar esse personagem do seu descarte."
+  },
+  {
+    "cardId": 3211,
+    "name": "Meilin Lee - Popular Red Panda",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/240_a5e3822c8706dda26eb91bd0e2c0f0fd7f83d7bf.jpg",
+    "textEn": "Temporary Shift 3 ⬡\nKARAOKE QUEEN Once during your turn, whenever\nthis character sings a song, gain 3 lore.",
+    "textPt": "Metamorfose Temporária 3 ⬡\nRAINHA DO KARAOKÊ Uma vez durante o seu turno, sempre que este personagem cantar uma canção, ganhe 3 de lore."
+  },
+  {
+    "cardId": 3212,
+    "name": "Dash Parr & Violet Parr - Super Siblings",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/241_9bdd4e7169a7c51b3cc565c38d86749de429297f.jpg",
+    "textEn": "Combo Shift 6 ⬡\nEvasive, Resist +1\nINCREDIBLE TACTICS Whenever this character\nquests or challenges, draw a card for each\ncard under them.",
+    "textPt": "Metamorfose Combo 6 ⬡\nEvasivo, Resistência +1\nTÁTICAS INCRÍVEIS Sempre que este personagem explora ou desafia, compre uma carta para cada carta sob ele."
+  },
+  {
+    "cardId": 3213,
+    "name": "Darkwing Duck & Launchpad - St. Canard's Finest",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/242_db491c08f5de8edc137823304d6a8130d1a81f37.jpg",
+    "textEn": "Shift 5 ⬡\nWard\nVICTORY POSE During your turn, whenever\nthis character banishes another character in\na challenge, gain 2 lore.",
+    "textPt": "Metamorfose 5 ⬡\nProteção\nPOSE DE VITÓRIA Durante o seu turno, sempre que este personagem banir outro personagem em um desafio, ganhe 2 de lore."
+  },
+  {
+    "cardId": 3214,
+    "name": "Scar - Created by the Vine",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/243_735369ee8fa292a31ecd16cb78c4e9171a13babe.jpg",
+    "textEn": "VICTOR'S REWARD During your turn, whenever\none of your Floodborn characters banishes\nanother character in a challenge, gain 1 lore.\nFILL THE RANKS During an opponent's turn,\nwhenever one of your Floodborn characters is\nbanished, draw a card.",
+    "textPt": "RECOMPENSA DO VENCEDOR Durante o seu turno, sempre que um dos seus personagens floodborn banir outro personagem em um desafio, ganhe 1 de lore.\nPREENCHER AS FILEIRAS Durante o turno de um oponente, sempre que um dos seus personagens floodborn for banido, compre uma carta."
+  },
+  {
+    "cardId": 3215,
+    "name": "Lilo & Stitch - Fun-Loving Friends",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/244_f9111e7a4dede5dc5cd5378b5bb83134d4002e1d.jpg",
+    "textEn": "Shift 3 ⬡\nResist +1\nSupport",
+    "textPt": "Metamorfose 3 ⬡\nResistência +1\nApoio"
+  },
+  {
+    "cardId": 3216,
+    "name": "Belle & Beast - Certain as the Sun",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/set13/245_bd7b519b182ce1d62fcab575e0358623b9aeb140.jpg",
+    "textEn": "Shift 6 ⬡\nINSPIRING DANCE Whenever this character quests,\nready all cards in your inkwell.\nAPPRECIATIVE AUDIENCE 6 ⬡ — Ready your other\ncharacters. They can't quest for the rest of this turn.",
+    "textPt": "Metamorfose 6 ⬡\nDANÇA INSPIRADORA Sempre que este personagem explora, desvire todas as cartas no seu poço de tinta.\nPLATEIA GRATA 6 ⬡ — Desvire seus outros personagens. Eles não podem explorar pelo restante deste turno."
+  },
+  {
+    "cardId": 3217,
+    "name": "Morph - Little Imitator",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo4/9_87e3bb724c9196dcb9aa62166aed5caeee365532.jpg",
+    "textEn": "ADVANCED MIMICRY You can shift any character\non top of this character. (This includes all Shift\nvariants.)",
+    "textPt": "MIMETISMO AVANÇADO Você pode fazer a Metamorfose de qualquer personagem sobre este personagem. (Isso inclui todas as variantes de Metamorfose.)"
+  },
+  {
+    "cardId": 3218,
+    "name": "Meilin Lee - Lead Vocalist",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo4/10_61acd93b69e6eefc6fde8a3dd9f5773e52cf2477.jpg",
+    "textEn": "Singer 3 (This character counts as cost 3 to\nsing songs.)\nBAND LOYALTY This character can't sing songs\nwithout Sing Together.",
+    "textPt": "Cantor(a) 3 (Este personagem conta como custo 3 para cantar canções.)\nLEALDADE À BANDA Este personagem não pode cantar canções sem Cantar Junto."
+  },
+  {
+    "cardId": 3219,
+    "name": "Randall Boggs - Scary Smart",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo4/11_2eea0b44c691911285949a81cab924b2ee38da6e.jpg",
+    "textEn": "GET OUTTA HERE! When you play this character,\nput chosen character of yours into your inkwell\nfacedown and exerted.\nDEVIOUS PLAN At the end of your turn, if all cards\nin your inkwell are exerted, gain 1 lore.",
+    "textPt": "SAIA DAQUI! Quando você jogar este personagem, coloque um personagem escolhido seu no seu poço de tinta virado para baixo e exaurido.\nPLANO ARTEIRO No final do seu turno, se todas as cartas no seu poço de tinta estiverem exauridas, ganhe 1 de lore."
+  },
+  {
+    "cardId": 3220,
+    "name": "Tigger - Hunny Barbarian",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo4/12_57b02ba2f9714c298bf99f895d44a61530638071.jpg",
+    "textEn": "Reckless (This character can't quest and must challenge\neach turn if able.)\nPROTECTIVE CHARGE Once during your turn, whenever\nthis character challenges another character, you may\nready chosen Hunny character. If you do, that character\ncan't quest for the rest of this turn.",
+    "textPt": "Imprudente (Este personagem não pode explorar e deve desafiar a cada turno, se possível.)\nCARGA PROTETORA Uma vez durante o seu turno, sempre que este personagem desafiar outro personagem, você pode desvirar um personagem de mel escolhido. Se fizer isso, esse personagem não pode explorar pelo restante deste turno."
+  },
+  {
+    "cardId": 3221,
+    "name": "Belle - Always Reading",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo4/13_f3a0fbc7abbc6bcb4155e243b425a35f281a8e89.jpg",
+    "textEn": "DREAMING OF MORE You pay 1 ⬡ less to shift a\ncharacter on top of this character.",
+    "textPt": "SONHANDO COM MAIS Você paga 1 ⬡ a menos para fazer a Metamorfose de um personagem sobre este personagem."
+  },
+  {
+    "cardId": 3222,
+    "name": "If I Didn't Have You",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo4/14_6891a2880ea856b94622b710ba1a9c75965aed59.jpg",
+    "textEn": "(A character with cost 3 or more can ⟳ to sing this\nsong for free.)\nYou and another chosen player each draw 2 cards.",
+    "textPt": "(Um personagem com custo 3 ou mais pode ⟳ para cantar esta canção gratuitamente.)\nVocê e outro jogador escolhido compram 2 cartas cada."
+  },
+  {
+    "cardId": 3223,
+    "name": "Rapunzel - Escaping the Tower",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo4/15_0ee58d29417b2d6391d9c8801f1077efc18a7cbc.jpg",
+    "textEn": "THE CALL OF ADVENTURE Once during your turn,\nyou may discard a card to give this character +1 ◊\nand Evasive until the start of your next turn. (Only\ncharacters with Evasive can challenge them.)",
+    "textPt": "O CHAMADO DA AVENTURA Uma vez durante o seu turno, você pode descartar uma carta para dar a este personagem +1 ◊ e Evasivo até o início do seu próximo turno. (Apenas personagens com Evasivo podem desafiá-lo.)"
+  },
+  {
+    "cardId": 3224,
+    "name": "Rapunzel - Escaping the Tower",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo4/16_e486cda0673f321ae77752244b3f8d1d51ff45fc.jpg",
+    "textEn": "THE CALL OF ADVENTURE Once during your turn,\nyou may discard a card to give this character +1 ◊\nand Evasive until the start of your next turn. (Only\ncharacters with Evasive can challenge them.)",
+    "textPt": "O CHAMADO DA AVENTURA Uma vez durante o seu turno, você pode descartar uma carta para dar a este personagem +1 ◊ e Evasivo até o início do seu próximo turno. (Apenas personagens com Evasivo podem desafiá-lo.)"
+  },
+  {
+    "cardId": 3227,
+    "name": "Pocahontas - Guiding the Tribe",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/pd1/3_163ea38182cbc50e2590e349176c2b48ce1cc5e9.jpg",
+    "textEn": "STAY CLOSE When you play this character, you\nmay play a character with cost 1 for free.",
+    "textPt": "FIQUE POR PERTO Quando você jogar este personagem, você pode jogar um personagem com custo 1 gratuitamente."
+  },
+  {
+    "cardId": 3228,
+    "name": "Vixey - Expert Fisher",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/pd1/4_e594abebd61d46162629cec36700f0cde68c3771.jpg",
+    "textEn": "STEALING IN When you play this character, if you\nhave a character with Evasive in play, you may return\nchosen character, item, or location with cost 2 or\nless to their player's hand.",
+    "textPt": "ENTRANDO DE FININHO Quando você jogar este personagem, se você tiver um personagem com Evasivo em jogo, você pode retornar um personagem, item ou localização escolhido com custo 2 ou menos para a mão do seu jogador."
+  },
+  {
+    "cardId": 3229,
+    "name": "Buzz Lightyear - Providing Cover",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/pd1/5_f8c0f84264b21ad2e9b51839779a715662f3a358.jpg",
+    "textEn": "ACTION FIGURE When you play this character, choose\none of the following. If you have another Toy character\nin play, choose both instead:\n• You may return an action card with cost 2 or less\nfrom your discard to your hand.\n• You may play an action with cost 2 or less for free.",
+    "textPt": "FIGURA DE AÇÃO Quando você jogar este personagem, escolha uma das opções a seguir. Se você tiver outro personagem brinquedo em jogo, escolha ambas em vez disso:\n• Você pode retornar uma carta de ação com custo 2 ou menos do seu descarte para sua mão.\n• Você pode jogar uma ação com custo 2 ou menos gratuitamente."
+  },
+  {
+    "cardId": 3230,
+    "name": "Boo - Energetic Child",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/pd1/6_a74ce18f6488d1692cd4fa71a391bd5f3946f7d4.jpg",
+    "textEn": "Rush (This character can challenge the turn\nthey're played.)\nKID-TASTROPHE! Whenever this character challenges\nanother character with 3 ¤ or less, banish that\ncharacter. (No damage is dealt in that challenge.)",
+    "textPt": "Investida (Este personagem pode desafiar no turno em que é jogado.)\nCRIANÇA-TÁSTROFE! Sempre que este personagem desafiar outro personagem com 3 ¤ ou menos, bane esse personagem. (Nenhum dano é causado nesse desafio.)"
+  },
+  {
+    "cardId": 3231,
+    "name": "Merlin - Envisioning the Future",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/pd1/7_de1ae120281ea2d4fa062aa419ce4af4cad3f9d0.jpg",
+    "textEn": "MINOR TRICKERY When you play this character, you\nmay draw a card from the bottom of your deck.\nAGE OF INCONVENIENCE When this character is\nbanished, put this card from your discard on the\nbottom of your deck.",
+    "textPt": "PEQUENA TRAPAÇA Quando você jogar este personagem, você pode comprar uma carta do fundo do seu baralho.\nERA DO INCÔMODO Quando este personagem é banido, coloque esta carta do seu descarte no fundo do seu baralho."
+  },
+  {
+    "cardId": 3232,
+    "name": "Maximus - Relentless Stallion",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/pd1/8_3f3d1c8047e9386a30b9d84efb4d9448c5af9171.jpg",
+    "textEn": "NO ESCAPE If you discarded a card this turn, this\ncharacter gains Challenger +2 and can challenge\nready characters this turn. (They get +2 ¤ while\nchallenging.)",
+    "textPt": "SEM ESCAPATÓRIA Se você descartou uma carta neste turno, este personagem ganha Desafiante +2 e pode desafiar personagens prontos neste turno. (Eles recebem +2 ¤ enquanto desafiam.)"
+  },
+  {
+    "cardId": 3235,
+    "name": "Sulley - The New Boss",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo3/58_f60ef7c18cfad9ebd578cca52d2b6643fc9b2555.jpg",
+    "textEn": "Bodyguard (This character may enter play exerted.\nAn opposing character who challenges one of your\ncharacters must choose one with Bodyguard if able.)\nREHIRE When you play this character, you may return\na character card from your discard to your hand.",
+    "textPt": "Guarda-costas (Este personagem pode entrar em jogo exaurido. Um personagem adversário que desafiar um dos seus personagens deve escolher um com Guarda-costas, se possível.)\nRECONTRATAR Quando você jogar este personagem, você pode retornar uma carta de personagem do seu descarte para sua mão."
+  },
+  {
+    "cardId": 3236,
+    "name": "Woody - Helping a Friend",
+    "imageUrl": "https://api.lorcana.ravensburger.com/images/en/promo3/60_ed2d46869c77f291d299279a5998e4ff9ed3e71e.jpg",
+    "textEn": "HANG ON! When you play this character, choose\none of the following. If you have another Toy\ncharacter in play, choose both instead:\n• You may return a character card with cost 2 or less\nfrom your discard to your hand.\n• You may play a character with cost 2 or less for free.",
+    "textPt": "AGUENTE FIRME! Quando você jogar este personagem, escolha uma das opções a seguir. Se você tiver outro personagem brinquedo em jogo, escolha ambas em vez disso:\n• Você pode retornar uma carta de personagem com custo 2 ou menos do seu descarte para sua mão.\n• Você pode jogar um personagem com custo 2 ou menos gratuitamente."
+  }
+]

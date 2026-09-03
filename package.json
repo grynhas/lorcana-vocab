@@ -9,7 +9,9 @@
     "lint": "eslint",
     "test": "vitest run",
     "test:watch": "vitest",
-    "generate-data": "tsx scripts/generate-data.ts"
+    "generate-data": "tsx scripts/generate-data.ts",
+    "generate-advanced-source": "tsx scripts/generate-advanced-source.ts",
+    "merge-advanced-data": "tsx scripts/merge-advanced-data.ts"
   },
   "dependencies": {
     "next": "16.3.4",

@@ -1,0 +1,198 @@
+[
+  {
+    "cardId": 3025,
+    "textPt": "REMÉDIO BOTÂNICO Sempre que um dos seus personagens Floodborn explorar, você pode mover 1 dano do personagem escolhido para o personagem adversário escolhido."
+  },
+  {
+    "cardId": 3026,
+    "textPt": "BÊNÇÃO MÍSTICA Sempre que você jogar este personagem ou outro personagem Floodborn, ganhe 1 lore."
+  },
+  {
+    "cardId": 3028,
+    "textPt": "MIMETISMO AVANÇADO Você pode fazer a Metamorfose de qualquer personagem sobre este personagem. (Isso inclui todas as variantes de Metamorfose.)"
+  },
+  {
+    "cardId": 3029,
+    "textPt": "FIQUE BEM AÍ Quando você jogar este personagem, o personagem adversário escolhido não pode ficar pronto no início do próximo turno dele."
+  },
+  {
+    "cardId": 3030,
+    "textPt": "Metamorfose 3 ⬡ (Você pode pagar 3 ⬡ para jogar esta carta sobre um dos seus personagens chamados Aladdin ou Genie.)\nPASSE DE MÁGICA Quando você jogar este personagem, você pode colocar qualquer quantidade de cartas da sua mão no fundo do seu baralho, na ordem que quiser. Se fizer isso, compre essa quantidade de cartas mais 1."
+  },
+  {
+    "cardId": 3031,
+    "textPt": "Metamorfose 4 ⬡ (Você pode pagar 4 ⬡ para jogar esta carta sobre um dos seus personagens chamados Peter Pan ou Tinker Bell.)\nVOCÊ CONSEGUE VOAR! Seus personagens ganham Evasivo. (Somente personagens com Evasivo podem desafiá-los.)"
+  },
+  {
+    "cardId": 3032,
+    "textPt": "REÚNA O GRUPO Você pode ter outros personagens Mel no seu baralho, independentemente do tipo de tinta.\nINVOCAÇÕES MÁGICAS Quando você jogar este personagem, você pode procurar no seu baralho uma carta Mel, revelá-la e colocá-la na sua mão. Se fizer isso, embaralhe seu baralho."
+  },
+  {
+    "cardId": 3033,
+    "textPt": "Metamorfose 3 ⬡ (Você pode pagar 3 ⬡ para jogar esta carta sobre um dos seus personagens chamados Winnie the Pooh ou Piglet.)\nMISTURA MÁGICA Este personagem recebe +1 ◊ para cada tipo diferente de tinta entre os personagens que você tem em jogo."
+  },
+  {
+    "cardId": 3034,
+    "textPt": "Metamorfose 5 ⬡ (Você pode pagar 5 ⬡ para jogar esta carta sobre um dos seus personagens chamados Maleficent ou Diablo.)\nTOLOS! Você pode colocar 5 cartas de personagem do seu descarte no fundo do seu baralho, na ordem que quiser, para fazer a metamorfose deste personagem de graça.\nCHAMADO DO CORVO Durante o seu turno, sempre que este personagem exaurir, compre uma carta."
+  },
+  {
+    "cardId": 3035,
+    "textPt": "(Um personagem com custo 2 ou mais pode ⟳ para cantar esta canção de graça.)\nO personagem escolhido ganha Investida e Desafiante +2 neste turno. (Ele pode desafiar no turno em que for jogado. Ele recebe +2 ¤ enquanto desafia.)"
+  },
+  {
+    "cardId": 3036,
+    "textPt": "Cantar Junto 6 (Qualquer quantidade de personagens seus ou dos seus companheiros de equipe, com custo total 6 ou mais, pode ⟳ para cantar esta canção de graça.)\nO jogador escolhido compra uma carta para cada tipo diferente de tinta entre os personagens que você tem em jogo."
+  },
+  {
+    "cardId": 3037,
+    "textPt": "Exaura o personagem adversário escolhido."
+  },
+  {
+    "cardId": 3038,
+    "textPt": "Escolha um personagem. Bana todos os outros personagens com o mesmo nome que esse personagem."
+  },
+  {
+    "cardId": 3039,
+    "textPt": "Seus personagens Floodborn ganham Evasivo até o início do seu próximo turno. (Somente personagens com Evasivo podem desafiá-los.)"
+  },
+  {
+    "cardId": 3040,
+    "textPt": "Retorne até 2 personagens, itens ou localizações escolhidos, cada um com custo 2 ou menos, para a mão do respectivo jogador."
+  },
+  {
+    "cardId": 3041,
+    "textPt": "PROCESSO DE RENOVAÇÃO ⟳, 1 ⬡ — Coloque uma carta do descarte do jogador escolhido no fundo do baralho dele."
+  },
+  {
+    "cardId": 3042,
+    "textPt": "PRESENTE DA COLMEIA Uma vez durante o seu turno, você pode pagar 1 ⬡ para dar a um personagem escolhido seu a classificação Mel até o início do seu próximo turno.\nFEITIÇO DA AGILIDADE ⟳, 2 ⬡ — Um personagem Mel escolhido seu ganha Evasivo até o início do seu próximo turno. (Somente personagens com Evasivo podem desafiá-lo.)"
+  },
+  {
+    "cardId": 3043,
+    "textPt": "DRENAGEM Sempre que um personagem adversário explorar, você ganha 1 lore, a menos que o jogador dele pague 1 ⬡.\nFLORESCER RADIANTE ⟳, 2 ⬡ — Ganhe 1 lore."
+  },
+  {
+    "cardId": 3044,
+    "textPt": "SABEDORIA PROFUNDA Seus personagens Floodborn recebem +1 ◊."
+  },
+  {
+    "cardId": 3045,
+    "textPt": "SEGURE MINHA MÃO Quando você jogar este personagem, você paga 2 ⬡ a menos pelo próximo personagem chamado Ellie Fredricksen que jogar neste turno."
+  },
+  {
+    "cardId": 3046,
+    "textPt": "CORAÇÃO AVENTUREIRO Sempre que você jogar uma localização, ganhe 1 lore."
+  },
+  {
+    "cardId": 3047,
+    "textPt": "NÃO É UM BRINQUEDO VOADOR Este personagem não pode ganhar Evasivo."
+  },
+  {
+    "cardId": 3048,
+    "textPt": "BONECO DE AÇÃO Quando você jogar este personagem, escolha uma das opções a seguir. Se você tiver outro personagem Brinquedo em jogo, escolha as duas em vez disso:\n• Você pode retornar uma carta de ação com custo 2 ou menos do seu descarte para sua mão.\n• Você pode jogar uma ação com custo 2 ou menos de graça."
+  },
+  {
+    "cardId": 3049,
+    "textPt": "PARA DENTRO DO BURACO Este personagem pode entrar em jogo exaurido.\nREFEIÇÃO FORTIFICANTE Durante o turno de um oponente, enquanto este personagem estiver exaurido, seus outros personagens Mel ganham Resistência +1. (O dano causado a eles é reduzido em 1.)"
+  },
+  {
+    "cardId": 3050,
+    "textPt": "Metamorfose 3 ⬡ (Você pode pagar 3 ⬡ para jogar esta carta sobre um dos seus personagens chamados Russell.)\nACAMPAMENTO BASE Seus personagens em localizações recebem +1 ¤.\nBOA LIDERANÇA Sempre que um dos seus personagens com 4 ¤ ou mais explorar, ganhe 1 lore."
+  },
+  {
+    "cardId": 3051,
+    "textPt": "O DESÍGNIO DO DESTINO Quando você jogar este personagem, você pode escolher e descartar uma carta. Se fizer isso, retorne o personagem escolhido para a mão do respectivo jogador."
+  },
+  {
+    "cardId": 3052,
+    "textPt": "RESOLVENDO PROBLEMAS Quando você jogar este personagem, compre 2 cartas, depois escolha e descarte uma carta."
+  },
+  {
+    "cardId": 3053,
+    "textPt": "INSÍGNIA DE AJUDA AOS IDOSOS Sempre que este personagem explorar, você pode mover ele e um dos seus outros personagens para a mesma localização de graça."
+  },
+  {
+    "cardId": 3054,
+    "textPt": "Proteção (Oponentes não podem escolher este personagem, exceto para desafiar.)\nPERÍCIA ELUSIVA Enquanto você tiver outro personagem Mel em jogo, este personagem ganha Evasivo. (Somente personagens com Evasivo podem desafiá-lo.)"
+  },
+  {
+    "cardId": 3055,
+    "textPt": "Proteção (Oponentes não podem escolher este personagem, exceto para desafiar.)"
+  },
+  {
+    "cardId": 3056,
+    "textPt": "LIMPANDO O CAMINHO Quando você jogar este personagem, você pode pagar 1 ⬡ para banir o item escolhido."
+  },
+  {
+    "cardId": 3057,
+    "textPt": "Evasivo (Somente personagens com Evasivo podem desafiar este personagem.)\nDO JEITO QUE EU GOSTO Todas as cartas na sua mão contam como tendo ◉."
+  },
+  {
+    "cardId": 3059,
+    "textPt": "DE VOLTA AO NINHO Sempre que este personagem explorar, coloque esta carta no topo do seu baralho."
+  },
+  {
+    "cardId": 3060,
+    "textPt": "TRUQUE ESPERTO Sempre que um dos seus personagens Floodborn for desafiado, o jogador que desafiou escolhe e descarta uma carta."
+  },
+  {
+    "cardId": 3062,
+    "textPt": "Metamorfose Batata 5 ⬡ (Você pode pagar 5 ⬡ para jogar esta carta sobre um dos seus itens chamados Potato.)"
+  },
+  {
+    "cardId": 3063,
+    "textPt": "Proteção (Oponentes não podem escolher este personagem, exceto para desafiar.)\nJUSTO É JUSTO Sempre que este personagem for desafiado, o oponente escolhido escolhe e descarta uma carta."
+  },
+  {
+    "cardId": 3064,
+    "textPt": "MAMÃE VOLTOU Durante o seu turno, quando você descartar esta carta, você pode jogar este personagem a partir do seu descarte. (Você paga todos os custos.)"
+  },
+  {
+    "cardId": 3065,
+    "textPt": "Metamorfose 2 ⬡ (Você pode pagar 2 ⬡ para jogar esta carta sobre um dos seus personagens chamados Tod ou Copper.)\nEvasivo (Somente personagens com Evasivo podem desafiar este personagem.)"
+  },
+  {
+    "cardId": 3066,
+    "textPt": "O CHAMADO DA AVENTURA Uma vez durante o seu turno, você pode descartar uma carta para dar a este personagem +1 ◊ e Evasivo até o início do seu próximo turno. (Somente personagens com Evasivo podem desafiá-lo.)"
+  },
+  {
+    "cardId": 3068,
+    "textPt": "Evasivo (Somente personagens com Evasivo podem desafiar este personagem.)\nINCLINANDO A BALANÇA Sempre que este personagem explorar, se um oponente tiver mais cartas na mão do que você, você pode comprar uma carta."
+  },
+  {
+    "cardId": 3069,
+    "textPt": "Metamorfose 4 ⬡ (Você pode pagar 4 ⬡ para jogar esta carta sobre um dos seus personagens chamados Carl Fredricksen ou Russell.)\nHABILIDADES DE SOBREVIVÊNCIA Enquanto este personagem estiver em uma localização, todos os personagens naquela localização recebem +1 ◊ e ganham Evasivo. (Somente personagens com Evasivo podem desafiá-los.)"
+  },
+  {
+    "cardId": 3070,
+    "textPt": "Metamorfose Dupla 0 ⬡ (Você pode pagar 0 ⬡ para jogar esta carta sobre dois dos seus personagens, um chamado Mickey Mouse e outro chamado Minnie Mouse.)\nPENSANDO EM VOCÊ Se este personagem fosse banido, coloque-o no seu poço de tinta virado para baixo e exaurido em vez disso."
+  },
+  {
+    "cardId": 3071,
+    "textPt": "Metamorfose 3 ⬡ (Você pode pagar 3 ⬡ para jogar esta carta sobre um dos seus personagens chamados Rapunzel ou Flynn Rider.)\nTROCA ESPERTA Sempre que este personagem explorar, você pode comprar uma carta e depois escolher e descartar uma carta.\nRECOMEÇO Durante o seu turno, sempre que você descartar uma carta de personagem, você pode jogar aquele personagem a partir do seu descarte. (Você paga todos os custos.)"
+  },
+  {
+    "cardId": 3072,
+    "textPt": "(Um personagem com custo 4 ou mais pode ⟳ para cantar esta canção de graça.)\nCause 2 de dano a cada personagem adversário danificado."
+  },
+  {
+    "cardId": 3073,
+    "textPt": "Cause 2 de dano ao personagem escolhido. Esse dano não pode ser reduzido por Resistência."
+  },
+  {
+    "cardId": 3074,
+    "textPt": "(Um personagem com custo 4 ou mais pode ⟳ para cantar esta canção de graça.)\nRetorne o personagem ou item escolhido para a mão do respectivo jogador."
+  },
+  {
+    "cardId": 3075,
+    "textPt": "Se um oponente tiver mais lore do que você, ganhe 2 lore."
+  },
+  {
+    "cardId": 3076,
+    "textPt": "CHEIO DE POTENCIAL Este item entra em jogo exaurido."
+  },
+  {
+    "cardId": 3077,
+    "textPt": "NOVAS MEMÓRIAS ⟳, 1 ⬡ — Revele a carta do topo do seu baralho. Se for uma carta que não seja de personagem, ou uma carta de personagem chamada Kevin, coloque-a na sua mão. Caso contrário, coloque-a no fundo do seu baralho."
+  }
+]

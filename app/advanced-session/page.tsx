@@ -2,21 +2,24 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import vocabularyData from "@/data/vocabulary.json";
-import cardsData from "@/data/cards.json";
-import type { CardSummary, VocabularyEntry } from "@/lib/types";
-import { loadProgress, markKnown, markUnknown, saveProgress } from "@/lib/progress";
+import advancedData from "@/data/advanced.json";
+import type { AdvancedCardEntry } from "@/lib/types";
+import {
+  ADVANCED_STORAGE_KEY,
+  loadProgress,
+  markKnown,
+  markUnknown,
+  saveProgress,
+} from "@/lib/progress";
 import { buildSession } from "@/lib/session";
-import { Flashcard } from "@/components/Flashcard";
+import { AdvancedFlashcard } from "@/components/AdvancedFlashcard";
 
-const vocabulary = vocabularyData as VocabularyEntry[];
-const cardById = new Map<number, CardSummary>(
-  (cardsData as CardSummary[]).map((card) => [card.id, card])
-);
+const advancedCards = advancedData as AdvancedCardEntry[];
+const getKey = (entry: AdvancedCardEntry) => String(entry.cardId);
 
-export default function SessionPage() {
+export default function AdvancedSessionPage() {
   const [session] = useState(() =>
-    buildSession(vocabulary, loadProgress(), (entry) => entry.term)
+    buildSession(advancedCards, loadProgress(ADVANCED_STORAGE_KEY), getKey)
   );
   const [index, setIndex] = useState(0);
   const [results, setResults] = useState({ known: 0, unknown: 0 });
@@ -24,7 +27,10 @@ export default function SessionPage() {
   if (session.length === 0) {
     return (
       <div className="p-8 text-center">
-        <p>Nenhum termo disponível ainda. Rode `npm run generate-data` primeiro.</p>
+        <p>
+          Nenhuma carta disponível ainda. Rode `npm run generate-advanced-source`,
+          traduza e rode `npm run merge-advanced-data` primeiro.
+        </p>
         <Link href="/" className="mt-4 inline-block text-sm underline">
           Voltar ao início
         </Link>
@@ -52,9 +58,10 @@ export default function SessionPage() {
   const current = session[index];
 
   function handleAnswer(known: boolean) {
-    const progress = loadProgress();
-    const updated = known ? markKnown(progress, current.term) : markUnknown(progress, current.term);
-    saveProgress(updated);
+    const progress = loadProgress(ADVANCED_STORAGE_KEY);
+    const key = getKey(current);
+    const updated = known ? markKnown(progress, key) : markUnknown(progress, key);
+    saveProgress(updated, ADVANCED_STORAGE_KEY);
     setResults((prev) => ({
       known: prev.known + (known ? 1 : 0),
       unknown: prev.unknown + (known ? 0 : 1),
@@ -67,12 +74,7 @@ export default function SessionPage() {
       <p className="mb-4 text-center text-sm text-slate-500">
         {index + 1} / {session.length}
       </p>
-      <Flashcard
-        key={current.term}
-        entry={current}
-        card={current.examples[0] ? cardById.get(current.examples[0].cardId) : undefined}
-        onAnswer={handleAnswer}
-      />
+      <AdvancedFlashcard key={current.cardId} entry={current} onAnswer={handleAnswer} />
     </div>
   );
 }

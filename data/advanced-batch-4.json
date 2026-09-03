@@ -1,0 +1,198 @@
+[
+  {
+    "cardId": 3133,
+    "textPt": "EQUIPAMENTO ÚTIL Sempre que você jogar um item, olhe a\ncarta do topo do seu baralho. Coloque-a no topo ou no fundo do\nseu baralho.\nENCONTRE AQUELE PÁSSARO! Sempre que este personagem explorar, olhe a\ncarta do topo do seu baralho. Se for uma carta de personagem chamada Kevin,\nvocê pode revelá-la e colocá-la na sua mão para ganhar 3 de lore.\nCaso contrário, coloque-a no topo ou no fundo do seu baralho."
+  },
+  {
+    "cardId": 3134,
+    "textPt": "RESULTADO FINAL Enquanto você tiver mais cartas\nno seu poço de tinta do que cada jogador adversário, este\npersonagem recebe +2 ◊ e ganha Proteção. (Oponentes\nnão podem escolhê-lo, exceto para desafiar.)"
+  },
+  {
+    "cardId": 3135,
+    "textPt": "TÁTICAS DE MEL Sempre que este personagem explorar,\num personagem de Mel escolhido seu recebe +1 ◊\ne ganha Proteção até o início do seu próximo turno.\n(Oponentes não podem escolhê-lo, exceto para desafiar.)"
+  },
+  {
+    "cardId": 3136,
+    "textPt": "Metamorfose 5 ⬡ (Você pode pagar 5 ⬡ para jogar esta carta sobre um\nde seus personagens chamados Darkwing Duck ou Launchpad.)\nProteção (Oponentes não podem escolher este personagem, exceto para\ndesafiar.)\nPOSE DE VITÓRIA Durante o seu turno, sempre que este personagem\nbanir outro personagem em um desafio, ganhe 2 de lore."
+  },
+  {
+    "cardId": 3137,
+    "textPt": "Cada jogador coloca as 2 cartas do topo do seu baralho no seu\npoço de tinta, viradas para baixo e exauridas."
+  },
+  {
+    "cardId": 3138,
+    "textPt": "Olhe as 4 cartas do topo do seu baralho. Você pode revelar\numa carta de personagem chamada Kevin ou uma carta de item e colocá-la\nna sua mão. Coloque o restante no fundo do seu\nbaralho, em qualquer ordem."
+  },
+  {
+    "cardId": 3139,
+    "textPt": "(Um personagem com custo 3 ou mais pode ⟳ para cantar esta\ncanção de graça.)\nColoque o item ou localização escolhido no poço de tinta do seu\njogador, virado para baixo e exaurido."
+  },
+  {
+    "cardId": 3140,
+    "textPt": "Um personagem escolhido recebe -3 ¤ neste turno."
+  },
+  {
+    "cardId": 3141,
+    "textPt": "TOC, TOC Este item entra em jogo exaurido.\nQUEM É? ⟳, 2 ⬡ — Olhe as 3 cartas do topo do\nseu baralho. Você pode revelar uma carta de personagem, item ou localização\ncom custo 6 ou menos e jogá-la de graça. Coloque o restante\nno fundo do seu baralho, em qualquer ordem. Coloque esta carta\nno seu poço de tinta, virada para baixo e exaurida."
+  },
+  {
+    "cardId": 3142,
+    "textPt": "FLORESCER REJUVENESCEDOR ⟳ — Remova até 2 de dano\nde um personagem escolhido. Se houver uma carta sob esse\npersonagem, ele ganha Resistência +1 até o início do seu próximo\nturno. (O dano causado a ele é reduzido em 1.)"
+  },
+  {
+    "cardId": 3143,
+    "textPt": "IMITADOR ⟳ — Coloque a carta do topo do seu baralho no\nseu poço de tinta, virada para baixo e exaurida. Um oponente escolhido\npode colocar a carta do topo do seu baralho no seu poço de tinta,\nvirada para baixo e exaurida."
+  },
+  {
+    "cardId": 3144,
+    "textPt": "VOCÊ É MEU AMIGO ⟳, 1 ⬡ — Um personagem escolhido recebe\n+1 ◊ e ganha Apoio neste turno. (Sempre que ele explorar,\nvocê pode adicionar o ¤ dele ao ¤ de outro personagem escolhido\nneste turno.)"
+  },
+  {
+    "cardId": 3145,
+    "textPt": "INVOCAR MEL ⟳, 2 ⬡ — Revele a carta do topo do\nseu baralho. Se for uma carta de Mel, coloque-a na sua mão.\nCaso contrário, coloque-a no fundo do seu baralho."
+  },
+  {
+    "cardId": 3146,
+    "textPt": "UM LAR LONGE DE CASA Personagens recebem +1 ⛉ enquanto estiverem aqui.\nEXPLORAÇÃO DE MEL Personagens de Mel recebem +1 ◊ enquanto estiverem aqui."
+  },
+  {
+    "cardId": 3147,
+    "textPt": "Metamorfose 3 ⬡ (Você pode pagar 3 ⬡ para jogar esta carta sobre um\nde seus personagens chamados Violet Parr.)\nResistência +1 (O dano causado a este personagem é reduzido em 1.)\nSINERGIA HEROICA Sempre que você jogar este ou outro\npersonagem Herói, você pode comprar uma carta e depois escolher e\ndescartar uma carta."
+  },
+  {
+    "cardId": 3148,
+    "textPt": "A VIDEIRA PROVÊ Sempre que um dos seus personagens Floodborn\nexplorar, você pode comprar uma carta e depois escolher\ne descartar uma carta."
+  },
+  {
+    "cardId": 3149,
+    "textPt": "DEFENDA O CAULE Seus personagens Floodborn ganham\nResistência +1. (O dano causado a eles é reduzido em 1.)"
+  },
+  {
+    "cardId": 3150,
+    "textPt": "Resistência +1 (O dano causado a este personagem é\nreduzido em 1.)\nMALDADE BOTÂNICA Quando você jogar este personagem,\nvocê pode escolher e descartar uma carta de personagem Alienígena\nou uma carta de localização da sua mão. Se fizer isso,\ncause 2 de dano a um personagem escolhido."
+  },
+  {
+    "cardId": 3152,
+    "textPt": "Desafiante +3 (Enquanto estiver desafiando, este personagem\nrecebe +3 ¤.)"
+  },
+  {
+    "cardId": 3154,
+    "textPt": "Resistência +1 (O dano causado a este personagem é\nreduzido em 1.)"
+  },
+  {
+    "cardId": 3155,
+    "textPt": "Alerta (Este personagem pode desafiar como se tivesse\nEvasivo.)"
+  },
+  {
+    "cardId": 3156,
+    "textPt": "ALIANÇA DE MEL Enquanto você tiver outro personagem de Mel\nem jogo, este personagem ganha Resistência +2.\n(O dano causado a ele é reduzido em 2.)"
+  },
+  {
+    "cardId": 3157,
+    "textPt": "CAMPO DE FORÇA Enquanto você não tiver cartas na sua\nmão, este personagem ganha Resistência +2. (O dano\ncausado a ele é reduzido em 2.)"
+  },
+  {
+    "cardId": 3158,
+    "textPt": "ATAQUE PREVENTIVO Quando você jogar este personagem,\nvocê pode causar 1 de dano a um personagem escolhido."
+  },
+  {
+    "cardId": 3159,
+    "textPt": "CONFIGURAÇÕES DE FÁBRICA Enquanto este personagem não tiver\ndano, ele recebe +2 ¤."
+  },
+  {
+    "cardId": 3160,
+    "textPt": "PODEMOS RESOLVER ISSO Sempre que um oponente\nescolher este personagem para uma ação ou habilidade,\nele escolhe e descarta uma carta."
+  },
+  {
+    "cardId": 3162,
+    "textPt": "Resistência +1 (O dano causado a este personagem é\nreduzido em 1.)\nPEGAR! Uma vez durante o seu turno, você pode pagar 1 ⬡\npara comprar uma carta e depois escolher e descartar uma carta."
+  },
+  {
+    "cardId": 3163,
+    "textPt": "DEMOLIR Sempre que você jogar este ou outro\npersonagem Floodborn, você pode banir um item escolhido."
+  },
+  {
+    "cardId": 3164,
+    "textPt": "TEMPESTADE DE PENAS Seus personagens chamados\nMalévola ganham Resistência +1. (O dano causado a eles\né reduzido em 1.)"
+  },
+  {
+    "cardId": 3165,
+    "textPt": "RECOMPENSA DO VENCEDOR Durante o seu turno, sempre que\num dos seus personagens Floodborn banir\noutro personagem em um desafio, ganhe 1 de lore.\nCOMPLETAR AS FILEIRAS Durante o turno de um oponente,\nsempre que um dos seus personagens Floodborn for\nbanido, compre uma carta."
+  },
+  {
+    "cardId": 3166,
+    "textPt": "SEM ESCAPATÓRIA Se você descartou uma carta neste turno, este\npersonagem ganha Desafiante +2 e pode desafiar\npersonagens prontos neste turno. (Eles recebem +2 ¤ enquanto\nestiverem desafiando.)"
+  },
+  {
+    "cardId": 3167,
+    "textPt": "Metamorfose 6 ⬡ (Você pode pagar 6 ⬡ para jogar esta carta sobre um\nde seus personagens chamados Omnidroid.)\nResistência +2 (O dano causado a este personagem é reduzido em 2.)\nRETORNO SOBRE INVESTIMENTO Quando você fizer a metamorfose deste personagem,\nvocê pode retornar todas as cartas sob ele para sua mão."
+  },
+  {
+    "cardId": 3168,
+    "textPt": "Metamorfose Floodborn 7 ⬡ (Você pode pagar 7 ⬡ para jogar esta carta sobre\num de seus personagens Floodborn.)\nSATURAR Seus outros personagens Floodborn exauridos ganham\nGuarda-costas.\nENXAME HOSTIL Durante o turno de um oponente, sempre que um\ndos seus personagens Floodborn for banido, cause 1 de dano a\ncada personagem adversário."
+  },
+  {
+    "cardId": 3169,
+    "textPt": "Até 2 personagens adversários escolhidos não podem desafiar\ndurante o próximo turno deles."
+  },
+  {
+    "cardId": 3170,
+    "textPt": "(Um personagem com custo 2 ou mais pode ⟳ para cantar esta\ncanção de graça.)\nSeus personagens e localizações ganham Resistência +1 até\no início do seu próximo turno. (O dano causado a eles é\nreduzido em 1.)"
+  },
+  {
+    "cardId": 3171,
+    "textPt": "Cause 2 de dano a um personagem escolhido. Durante o seu turno,\nquando você descartar esta carta, você pode jogá-la do seu\ndescarte. (Você paga todos os custos.)"
+  },
+  {
+    "cardId": 3172,
+    "textPt": "Descarte sua mão. Compre 2 cartas."
+  },
+  {
+    "cardId": 3173,
+    "textPt": "Seus personagens Floodborn ganham Resistência +2 e podem\ndesafiar personagens prontos neste turno. (O dano causado a\neles é reduzido em 2.)"
+  },
+  {
+    "cardId": 3174,
+    "textPt": "Cause 1 de dano a cada personagem e localização adversários.\nDepois, cause 2 de dano a cada personagem adversário com\nEvasivo e cada localização adversária com Evasivo."
+  },
+  {
+    "cardId": 3175,
+    "textPt": "EQUIPAMENTO ENCONTRADO ⟳ — Se você descartou uma carta neste\nturno, um personagem escolhido seu ganha Resistência +1 até\no início do seu próximo turno. (O dano causado a ele é\nreduzido em 1.)"
+  },
+  {
+    "cardId": 3176,
+    "textPt": "POTÊNCIA MÁXIMA ⟳, 1 ⬡ — Um personagem escolhido ganha Desafiante\n+2 neste turno. (Ele recebe +2 ¤ enquanto estiver desafiando.)\nCORTE RASO 2 ⬡, Bana este item — Bana um personagem\nVineling escolhido."
+  },
+  {
+    "cardId": 3177,
+    "textPt": "TRANSFORMAÇÃO ⟳, 1 ⬡ — Se um personagem foi banido\nem um desafio neste turno, compre uma carta."
+  },
+  {
+    "cardId": 3178,
+    "textPt": "RAIZ DO PODER Na primeira vez que um personagem Floodborn se mover para cá a cada\nturno, você pode causar 1 de dano a um personagem escolhido."
+  },
+  {
+    "cardId": 3179,
+    "textPt": "RECURSOS COMPARTILHADOS Quando você jogar este personagem,\ncada jogador compra uma carta."
+  },
+  {
+    "cardId": 3180,
+    "textPt": "VOCÊ ESTÁ SEGURA AGORA Enquanto você tiver um personagem exaurido\nchamado Sulley em jogo, este personagem não pode ser desafiado."
+  },
+  {
+    "cardId": 3181,
+    "textPt": "PODER DO PANDA VERMELHO Quando você jogar este personagem,\nolhe as 4 cartas do topo do seu baralho. Você pode\nrevelar uma carta de personagem Panda Vermelho ou uma carta de canção\ne colocá-la na sua mão. Coloque o restante no\nfundo do seu baralho, em qualquer ordem."
+  },
+  {
+    "cardId": 3182,
+    "textPt": "REMÉDIO BOTÂNICO Sempre que um dos seus personagens Floodborn\nexplorar, você pode mover 1 de dano de\num personagem escolhido para um personagem adversário escolhido."
+  },
+  {
+    "cardId": 3183,
+    "textPt": "FIQUEM JUNTOS Enquanto você tiver 2 ou mais outros\npersonagens de Mel em jogo, este personagem recebe +2 ◊."
+  },
+  {
+    "cardId": 3184,
+    "textPt": "TORRENTE Sempre que um dos seus personagens Floodborn\nexplorar, você paga 1 ⬡ a menos pelo próximo\npersonagem que você fizer a metamorfose neste turno."
+  }
+]

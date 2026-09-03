@@ -1,15 +1,13 @@
 # Advanced Mode — Status e próximos passos
 
-Pausado a pedido do usuário logo após o Task 6. Este documento registra o que
-já foi feito, o que falta, e onde retomar.
+Este documento registra o que já foi feito, o que falta, e onde retomar.
 
-Branch: `advanced-mode` (não mergeada em `main`). Último commit:
-`67fff19` — "Add merge script and generate the real data/advanced.json".
+Branch: `advanced-mode` (não mergeada em `main`).
 
 Plano completo: `docs/superpowers/plans/2026-09-02-advanced-mode.md`
 (11 tarefas no total).
 
-## Feito (Tasks 1-6) — implementado, testado e revisado
+## Feito (Tasks 1-11) — implementado, testado e revisado
 
 - **Task 1** — `buildSession` generalizado com extrator de chave (`getKey`).
   Revisado e aprovado.
@@ -37,36 +35,65 @@ Plano completo: `docs/superpowers/plans/2026-09-02-advanced-mode.md`
     entre lotes 2/5 vs 1/3/4 (sem perda de conteúdo).
 - **Task 6** — `scripts/merge-advanced-data.ts`: gerou o `data/advanced.json`
   final com 244 entradas (`cardId`, `name`, `imageUrl`, `textEn`, `textPt`).
-  `tsc`, `npm run test` (22/22) e `npm run build` passando.
-  **Ainda não passou pela revisão de spec/qualidade** (parado antes disso a
-  pedido do usuário) — recomendo rodar essa revisão antes de seguir para o
-  Task 7, já que os Tasks 1-4 sempre tiveram esse passo.
+  Revisado (spec + qualidade) e aprovado. Observações menores não bloqueantes
+  do revisor de qualidade: sem detecção de `cardId` duplicado entre arquivos
+  de lote (last-write-wins silencioso) e o fallback `textPt ?? ""` é código
+  morto dado o fluxo de erro atual — nenhuma ação necessária.
+- **Task 7** — `components/AdvancedFlashcard.tsx`: componente de flashcard
+  com frente (imagem + nome, fallback em caso de erro de imagem) e verso
+  (texto completo em inglês e português). Revisado (spec + qualidade) e
+  aprovado.
+- **Task 8** — `app/advanced-session/page.tsx`: página de sessão de 20
+  cartas, espelhando `app/session/page.tsx`, usando `ADVANCED_STORAGE_KEY`.
+  Revisado (spec + qualidade) e aprovado.
+- **Task 9** — `app/page.tsx`: botão "Avançado" adicionado à Home, ao lado
+  de "Começar sessão". Revisado (spec + qualidade) e aprovado.
+- **Task 10** — `app/progress/page.tsx`: segunda seção "Avançado" com barras
+  Novo/Aprendendo/Dominado, generalizando os helpers `bar`/`countBuckets`.
+  Revisado (spec + qualidade) e aprovado.
+- **Task 11** — Verificação manual completa (via Playwright headless,
+  desktop 1280×900 e mobile 390×844, screenshots conferidos visualmente):
+  - `npm run test`: 22/22 passando.
+  - Home mostra os 3 botões ("Começar sessão", "Avançado", "Ver progresso").
+  - Sessão avançada: frente mostra arte + nome da carta (imagem carrega do
+    CDN da Ravensburger); verso mostra texto completo em inglês e
+    português, com quebras de linha e bullets (•) preservados.
+  - "Eu sabia"/"Não sabia" avançam pelas 20 cartas até a tela de resumo
+    ("Sessão concluída! Acertos: X · Erros: Y").
+  - Progresso mostra as duas seções independentes; confirmado que responder
+    cartas do modo Avançado não altera os números da seção Vocabulário
+    (permaneceu 273 Novo/0/0 antes e depois; Avançado foi de 244/0/0 para
+    234/10/0 após 10 acertos).
+  - Fallback de imagem quebrada: **funciona corretamente para cenários
+    reais** (testado com um 404 de verdade no host da Ravensburger — o
+    fallback com o nome da carta aparece). **Observação sobre a receita de
+    teste do plano:** a URL exata sugerida no plano
+    (`https://example.com/broken.png`) não dispara o `onError` no Chromium
+    headless, porque o Chrome bloqueia essa resposta via ORB (Opaque
+    Response Blocking, já que `example.com` devolve HTML, não uma imagem) —
+    isso é uma particularidade dessa URL de teste específica, não um bug no
+    componente. Vale testar manualmente num navegador de verdade se quiser
+    confirmar 100%, mas o comportamento do componente em si (usar 404s ou
+    falhas de rede reais) está correto.
+  - Nenhum erro de console/página em nenhum dos dois viewports.
+  - `data/advanced.json` foi restaurado ao original (`git checkout --`)
+    após o teste de fallback; `git status` limpo.
 
 ## Falta fazer
 
-1. **Revisar o Task 6** (spec compliance + qualidade) — pulado neste ponto
-   de parada, mas seguindo o padrão usado em todas as tarefas anteriores.
-2. **Task 7** — `components/AdvancedFlashcard.tsx` (frente: imagem+nome;
-   verso: texto completo em inglês + tradução completa).
-3. **Task 8** — `app/advanced-session/page.tsx` (sessão de 20 cartas,
-   espelhando `app/session/page.tsx`).
-4. **Task 9** — Home (`app/page.tsx`) ganha o botão "Avançado".
-5. **Task 10** — Progresso (`app/progress/page.tsx`) ganha uma segunda seção
-   para o modo Avançado.
-6. **Task 11** — Verificação manual no navegador (mobile + desktop), fluxo
-   completo do modo Avançado, incluindo fallback de imagem quebrada.
-7. **Merge da branch `advanced-mode` para `main`** — só depois de tudo acima
-   e de o usuário revisar/aprovar. Não fazer sem pedido explícito.
-8. **Push para o GitHub** (`git push` da branch e/ou do `main` atualizado) —
+1. **Revisão final de código** de toda a implementação (Tasks 1-11 juntas)
+   — próximo passo, ainda não feito.
+2. **Merge da branch `advanced-mode` para `main`** — só depois da revisão
+   final e de o usuário revisar/aprovar. Não fazer sem pedido explícito.
+3. **Push para o GitHub** (`git push` da branch e/ou do `main` atualizado) —
    só quando o usuário pedir.
-9. **Deploy na Vercel** — segue pendente desde o MVP; o usuário adiou
+4. **Deploy na Vercel** — segue pendente desde o MVP; o usuário adiou
    explicitamente ("deixa o deploy pra depois"). Precisa de `vercel login`
    (interativo) ou um token de acesso.
 
 ## Como retomar
 
-Continuar a partir do Task 7 do plano
-(`docs/superpowers/plans/2026-09-02-advanced-mode.md`), usando o mesmo fluxo
-de subagent-driven-development já usado nos Tasks 1-6 (implementador →
-revisão de spec → revisão de qualidade, um subagente por vez). Está tudo na
-branch `advanced-mode`, sem nada pendente de commit.
+Só falta a revisão final de código (superpowers:requesting-code-review,
+comparando `advanced-mode` inteiro contra `main`) e depois
+superpowers:finishing-a-development-branch — mas o merge/push em si
+dependem de aprovação explícita do usuário.

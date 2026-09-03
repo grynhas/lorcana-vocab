@@ -1,5 +1,13 @@
 import { beforeEach, describe, expect, it } from "vitest";
-import { getLevel, isDominated, loadProgress, markKnown, markUnknown, saveProgress } from "../progress";
+import {
+  ADVANCED_STORAGE_KEY,
+  getLevel,
+  isDominated,
+  loadProgress,
+  markKnown,
+  markUnknown,
+  saveProgress,
+} from "../progress";
 
 beforeEach(() => {
   window.localStorage.clear();
@@ -38,5 +46,17 @@ describe("progress", () => {
     const progress = markKnown({}, "quest");
     saveProgress(progress);
     expect(loadProgress()).toEqual(progress);
+  });
+
+  it("keeps separate storage keys isolated", () => {
+    const vocabProgress = markKnown({}, "banish");
+    saveProgress(vocabProgress);
+
+    const advancedProgress = markKnown({}, "42");
+    saveProgress(advancedProgress, ADVANCED_STORAGE_KEY);
+
+    expect(loadProgress()).toEqual(vocabProgress);
+    expect(loadProgress(ADVANCED_STORAGE_KEY)).toEqual(advancedProgress);
+    expect(loadProgress()).not.toEqual(loadProgress(ADVANCED_STORAGE_KEY));
   });
 });

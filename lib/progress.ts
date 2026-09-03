@@ -1,12 +1,13 @@
 import type { ProgressMap } from "./types";
 
-const STORAGE_KEY = "lorcana-vocab-progress";
+export const VOCAB_STORAGE_KEY = "lorcana-vocab-progress";
+export const ADVANCED_STORAGE_KEY = "lorcana-vocab-progress-advanced";
 const MAX_LEVEL = 3;
 
-export function loadProgress(): ProgressMap {
+export function loadProgress(storageKey: string = VOCAB_STORAGE_KEY): ProgressMap {
   if (typeof window === "undefined") return {};
   try {
-    const raw = window.localStorage.getItem(STORAGE_KEY);
+    const raw = window.localStorage.getItem(storageKey);
     if (!raw) return {};
     return JSON.parse(raw) as ProgressMap;
   } catch {
@@ -14,10 +15,10 @@ export function loadProgress(): ProgressMap {
   }
 }
 
-export function saveProgress(progress: ProgressMap): void {
+export function saveProgress(progress: ProgressMap, storageKey: string = VOCAB_STORAGE_KEY): void {
   if (typeof window === "undefined") return;
   try {
-    window.localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
+    window.localStorage.setItem(storageKey, JSON.stringify(progress));
   } catch {
     // Best-effort: private browsing / quota errors just mean progress
     // won't persist this session.

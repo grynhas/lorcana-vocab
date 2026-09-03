@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Link from "next/link";
 import vocabularyData from "@/data/vocabulary.json";
 import type { ProgressMap, VocabularyEntry } from "@/lib/types";
 import { getLevel, loadProgress } from "@/lib/progress";
@@ -48,6 +49,9 @@ export default function ProgressPage() {
       {bar("Aprendendo", buckets.aprendendo, "bg-amber-400")}
       {bar("Dominado", buckets.dominado, "bg-green-500")}
       <p className="mt-4 text-sm text-slate-500">{total} termos no total.</p>
+      <Link href="/" className="mt-6 inline-block text-sm underline">
+        Voltar ao início
+      </Link>
     </div>
   );
 }

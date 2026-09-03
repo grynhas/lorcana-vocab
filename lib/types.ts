@@ -27,3 +27,11 @@ export type ProgressEntry = {
 };
 
 export type ProgressMap = Record<string, ProgressEntry>;
+
+export type AdvancedCardEntry = {
+  cardId: number;
+  name: string;
+  imageUrl: string;
+  textEn: string;
+  textPt: string;
+};

@@ -1,0 +1,198 @@
+[
+  {
+    "cardId": 3078,
+    "textPt": "CASCA FRÁGIL Este item entra em jogo exaurido.\nREGENERAR ⟳, 1 ⬡ — Bane um personagem escolhido\nseu. Você pode jogar um personagem com o mesmo nome\ndaquele personagem de graça."
+  },
+  {
+    "cardId": 3079,
+    "textPt": "QUE VISTA! Enquanto você tiver um personagem aqui, esta localização recebe +3 ◊."
+  },
+  {
+    "cardId": 3080,
+    "textPt": "Metamorfose 3 ⬡ (Você pode pagar 3 ⬡ para jogar esta carta sobre\num de seus personagens chamados Dash Parr.)\nEvasivo (Apenas personagens com Evasivo podem desafiar este\npersonagem.)\nSIGAM-ME! Sempre que este personagem explorar, você pode\nrevelar a carta do topo do seu baralho. Se fizer isso, pode jogá-la.\nCaso contrário, coloque-a no seu descarte. (Você paga todos os custos.)"
+  },
+  {
+    "cardId": 3081,
+    "textPt": "ENTENDA BEM Quando você jogar este personagem,\ncada oponente perde 1 lore."
+  },
+  {
+    "cardId": 3083,
+    "textPt": "FÚRIA SELVAGEM Enquanto este personagem tiver dano,\nele recebe +3 ¤."
+  },
+  {
+    "cardId": 3084,
+    "textPt": "PARCEIRO DE MUDANÇA Sempre que você jogar uma localização,\nvocê pode mover este personagem e até 1 de seus\noutros personagens para aquela localização de graça.\nA AVENTURA ESPERA Sempre que este personagem\nexplorar estando em uma localização, compre cartas iguais a\n◊ daquela localização."
+  },
+  {
+    "cardId": 3085,
+    "textPt": "Evasivo (Apenas personagens com Evasivo podem desafiar\neste personagem.)"
+  },
+  {
+    "cardId": 3086,
+    "textPt": "EXTRAINDO FORÇA Seus personagens Floodborn\nrecebem +1 ¤."
+  },
+  {
+    "cardId": 3087,
+    "textPt": "UM, DOIS, TRÊS, QUATRO Sempre que este personagem\nexplorar, você pode movê-lo para uma de suas localizações\nde graça."
+  },
+  {
+    "cardId": 3089,
+    "textPt": "Imprudente (Este personagem não pode explorar e deve\ndesafiar a cada turno, se possível.)\nONDA DE ADRENALINA Durante o seu turno, este\npersonagem recebe +4 ¤."
+  },
+  {
+    "cardId": 3090,
+    "textPt": "Metamorfose Temporária (Panda Vermelho) 2 ⬡ (Você pode pagar\n2 ⬡ para jogar esta carta sobre um de seus personagens\nPanda Vermelho. No final do seu turno, remova todo o\ndano deste personagem e retorne apenas esta\ncarta para sua mão.)"
+  },
+  {
+    "cardId": 3091,
+    "textPt": "Metamorfose Temporária 4 ⬡ (Você pode pagar 4 ⬡ para jogar esta\ncarta sobre um de seus personagens chamados Grandma Wu. No\nfinal do seu turno, remova todo o dano deste personagem\ne retorne apenas esta carta para sua mão.)\nCARGA INTIMIDADORA Sempre que este personagem\ndesafiar outro personagem, você ganha 2 lore e cada\noponente perde 2 lore."
+  },
+  {
+    "cardId": 3092,
+    "textPt": "Cantor(a) 6 (Este personagem conta como custo 6 para cantar\ncanções.)"
+  },
+  {
+    "cardId": 3093,
+    "textPt": "AMOR FORMIDÁVEL Enquanto você tiver um personagem chamado\nBelle em jogo, este personagem recebe +2 ¤."
+  },
+  {
+    "cardId": 3094,
+    "textPt": "Evasivo (Apenas personagens com Evasivo podem desafiar\neste personagem.)\nPROJETO FORA DO EXPEDIENTE Enquanto todas as cartas do seu\npoço de tinta estiverem exauridas, este personagem recebe +2 ◊."
+  },
+  {
+    "cardId": 3095,
+    "textPt": "Investida (Este personagem pode desafiar no turno\nem que é jogado.)"
+  },
+  {
+    "cardId": 3096,
+    "textPt": "Metamorfose Temporária 3 ⬡ (Você pode pagar 3 ⬡ para jogar esta\ncarta sobre um de seus personagens chamados Meilin Lee.\nNo final do seu turno, remova todo o dano deste\npersonagem e retorne apenas esta carta para sua mão.)\nRAINHA DO KARAOKÊ Uma vez durante o seu turno, sempre que\neste personagem cantar uma canção, ganhe 3 lore."
+  },
+  {
+    "cardId": 3097,
+    "textPt": "Imprudente (Este personagem não pode explorar e deve desafiar\na cada turno, se possível.)\nCARGA PROTETORA Uma vez durante o seu turno, sempre que\neste personagem desafiar outro personagem, você pode\ndesvirar um personagem de Mel escolhido. Se fizer isso, aquele personagem\nnão poderá explorar pelo restante deste turno."
+  },
+  {
+    "cardId": 3098,
+    "textPt": "Investida (Este personagem pode desafiar no turno em que\né jogado.)\nCRIANÇA-TÁSTROFE! Sempre que este personagem desafiar\noutro personagem com 3 ¤ ou menos, bana aquele\npersonagem. (Nenhum dano é causado naquele desafio.)"
+  },
+  {
+    "cardId": 3099,
+    "textPt": "OLHAR APAVORANTE Quando você jogar este personagem, você\npode exaurir todas as cartas do seu poço de tinta.\nIRRITADO Enquanto todas as cartas do seu poço de tinta estiverem\nexauridas, este personagem ganha Investida. (Ele pode desafiar no\nturno em que é jogado.)"
+  },
+  {
+    "cardId": 3100,
+    "textPt": "Metamorfose Temporária 7 ⬡ (Você pode pagar 7 ⬡ para jogar esta\ncarta sobre um de seus personagens chamados Ming Lee. No\nfinal do seu turno, remova todo o dano deste personagem\ne retorne apenas esta carta para sua mão.)\nCAMINHO DE DESTRUIÇÃO Sempre que este personagem\ndesafiar outro personagem, desvire-a. Ela não pode explorar\npelo restante deste turno."
+  },
+  {
+    "cardId": 3101,
+    "textPt": "EN GARDE Sempre que este personagem desafiar\noutro personagem, ganhe 1 lore."
+  },
+  {
+    "cardId": 3103,
+    "textPt": "Metamorfose 6 ⬡ (Você pode pagar 6 ⬡ para jogar esta carta sobre\num de seus personagens chamados Belle ou Beast.)\nDANÇA INSPIRADORA Sempre que este personagem explorar,\ndesvire todas as cartas do seu poço de tinta.\nPLATEIA GRATA 6 ⬡ — Desvire seus outros\npersonagens. Eles não podem explorar pelo restante deste turno."
+  },
+  {
+    "cardId": 3104,
+    "textPt": "Metamorfose Combo 6 ⬡ (Você pode pagar 6 ⬡ para jogar esta\ncarta sobre um de seus personagens chamados Dash Parr, um\nchamado Violet Parr, ou um de cada.)\nEvasivo, Resistência +1\nTÁTICAS INCRÍVEIS Sempre que este personagem explorar\nou desafiar, compre uma carta para cada carta sob ele."
+  },
+  {
+    "cardId": 3105,
+    "textPt": "Cantar Junto 7 (Qualquer número de personagens seus ou de seus\ncolegas de equipe com custo total 7 ou mais pode ⟳ para cantar esta\ncanção de graça.)\nBana o personagem escolhido."
+  },
+  {
+    "cardId": 3106,
+    "textPt": "Bana o personagem escolhido com 3 ¤ ou menos. Se você tiver\num personagem Monster em jogo, o oponente escolhido perde\n1 lore."
+  },
+  {
+    "cardId": 3107,
+    "textPt": "O personagem escolhido recebe +3 ¤ neste turno."
+  },
+  {
+    "cardId": 3108,
+    "textPt": "Embaralhe seu baralho, depois revele a carta do topo. Se for uma\ncarta de ação, você pode jogá-la de graça. Caso contrário, coloque-a no\nfundo do seu baralho, então cada oponente perde 1 lore\ne você ganha 1 lore."
+  },
+  {
+    "cardId": 3109,
+    "textPt": "(Um personagem com custo 2 ou mais pode ⟳ para cantar esta\ncanção de graça.)\nDesvire o personagem escolhido. Ele não pode explorar pelo restante\ndeste turno."
+  },
+  {
+    "cardId": 3110,
+    "textPt": "GRITOS ERRÁTICOS ⟳, 2 ⬡ — Exaura todas as cartas do seu\npoço de tinta. Exaura o personagem adversário escolhido com 2 ¤\nou menos."
+  },
+  {
+    "cardId": 3111,
+    "textPt": "FLUTUAR PARA LONGE Quando você jogar este item, escolha uma\nlocalização sua. Enquanto este item estiver em jogo, aquela\nlocalização ganha Evasivo. (Apenas personagens com Evasivo\npodem desafiá-la.)\nFORA DE VISTA 3 ⬡ — Retorne este item para sua mão."
+  },
+  {
+    "cardId": 3112,
+    "textPt": "AMEAÇA IMINENTE Seus personagens Floodborn ganham Investida. (Eles podem desafiar no turno\nem que são jogados.)"
+  },
+  {
+    "cardId": 3113,
+    "textPt": "DIA DA MUDANÇA Uma vez durante o seu turno, você pode mover o personagem escolhido\ndaqui para outra localização de graça. Se fizer isso, ganhe 1 lore."
+  },
+  {
+    "cardId": 3114,
+    "textPt": "Alerta (Este personagem pode desafiar como se tivesse\nEvasivo.)"
+  },
+  {
+    "cardId": 3115,
+    "textPt": "BUSCAR! Quando você jogar este personagem, se você tiver\num item em jogo, compre uma carta."
+  },
+  {
+    "cardId": 3116,
+    "textPt": "SEMPRE Cada oponente joga com a carta do topo\nde seu baralho virada para cima."
+  },
+  {
+    "cardId": 3117,
+    "textPt": "PEQUENO TRUQUE Quando você jogar este personagem,\nvocê pode comprar uma carta do fundo do\nseu baralho.\nERA DO INCÔMODO Quando este personagem for\nbanido, coloque esta carta do seu descarte no\nfundo do seu baralho."
+  },
+  {
+    "cardId": 3118,
+    "textPt": "PLANO MALIGNO Quando você jogar este personagem e\nsempre que ele explorar, coloque as 4 cartas do topo do seu\nbaralho no seu descarte. Você pode causar 1 dano ao\npersonagem escolhido para cada carta de item colocada no seu\ndescarte dessa forma."
+  },
+  {
+    "cardId": 3119,
+    "textPt": "SONHANDO COM MAIS Você paga 1 ⬡ a menos para fazer a metamorfose de um\npersonagem sobre este personagem."
+  },
+  {
+    "cardId": 3120,
+    "textPt": "SEMPRE COM VOCÊ Quando este personagem for banido,\nvocê pode colocar esta carta no seu poço de tinta virada para baixo\ne exaurida."
+  },
+  {
+    "cardId": 3122,
+    "textPt": "QUEM QUER UM PETISCO? Sempre que você jogar um item,\no personagem escolhido recebe +1 ¤ e ganha Resistência +1 neste\nturno. (O dano causado a ele é reduzido em 1.)"
+  },
+  {
+    "cardId": 3123,
+    "textPt": "SUSTO SÚBITO Enquanto você tiver 5 ou mais cartas no\nseu poço de tinta, este personagem recebe +2 ¤."
+  },
+  {
+    "cardId": 3124,
+    "textPt": "SAI DAQUI! Quando você jogar este personagem,\ncoloque um personagem escolhido seu no seu poço de tinta\nvirado para baixo e exaurido.\nPLANO ENGENHOSO No final do seu turno, se todas as cartas\ndo seu poço de tinta estiverem exauridas, ganhe 1 lore."
+  },
+  {
+    "cardId": 3127,
+    "textPt": "Proteção (Oponentes não podem escolher este personagem,\nexceto para desafiá-lo.)"
+  },
+  {
+    "cardId": 3128,
+    "textPt": "MÃOS CURATIVAS Quando você jogar este personagem,\nvocê pode remover até 3 de dano de um personagem\nescolhido seu. Se você removeu dano dessa\nforma, coloque a carta do topo do seu baralho no seu\npoço de tinta virada para baixo e exaurida."
+  },
+  {
+    "cardId": 3129,
+    "textPt": "FLUXO DE TINTA Sempre que um de seus personagens Floodborn\nfor banido, você pode colocar a carta do topo do seu baralho no\nseu poço de tinta virada para baixo e exaurida."
+  },
+  {
+    "cardId": 3130,
+    "textPt": "OLHOS ATENTOS Seus personagens Floodborn ganham Alerta.\n(Eles podem desafiar como se tivessem Evasivo.)"
+  },
+  {
+    "cardId": 3131,
+    "textPt": "CRIANDO MEMÓRIAS Enquanto você tiver 5 ou mais\ncartas no seu poço de tinta, este personagem recebe +2 ◊."
+  },
+  {
+    "cardId": 3132,
+    "textPt": "Apoio (Sempre que este personagem explorar, você pode\nadicionar sua ¤ à ¤ de outro personagem escolhido\nneste turno.)"
+  }
+]

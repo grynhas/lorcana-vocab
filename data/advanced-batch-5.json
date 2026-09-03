@@ -1,0 +1,194 @@
+[
+  {
+    "cardId": 3185,
+    "textPt": "MAMÃE ESTÁ DE VOLTA Durante o seu turno, quando você descarta esta carta, você pode jogar este personagem do seu descarte. (Você paga todos os custos.)"
+  },
+  {
+    "cardId": 3186,
+    "textPt": "DE VOLTA AO NINHO Sempre que este personagem explora, coloque esta carta no topo do seu baralho."
+  },
+  {
+    "cardId": 3187,
+    "textPt": "TRUQUE ESPERTO Sempre que um dos seus personagens floodborn é desafiado, o jogador desafiante escolhe e descarta uma carta."
+  },
+  {
+    "cardId": 3188,
+    "textPt": "Evasivo (Apenas personagens com Evasivo podem desafiar este personagem.)\nPROJETO FORA DE HORÁRIO Enquanto todas as cartas no seu poço de tinta estiverem exauridas, este personagem recebe +2 ◊."
+  },
+  {
+    "cardId": 3189,
+    "textPt": "Metamorfose Temporária (Panda Vermelho) 2 ⬡ (Você pode pagar 2 ⬡ para jogar esta carta sobre um dos seus personagens Panda Vermelho. No final do seu turno, remova todo o dano deste personagem e retorne apenas esta carta para sua mão.)"
+  },
+  {
+    "cardId": 3190,
+    "textPt": "Evasivo (Apenas personagens com Evasivo podem desafiar este personagem.)"
+  },
+  {
+    "cardId": 3191,
+    "textPt": "O RESULTADO FINAL Enquanto você tiver mais cartas no seu poço de tinta do que cada jogador adversário, este personagem recebe +2 ◊ e ganha Proteção. (Oponentes não podem escolhê-lo, exceto para desafiar.)"
+  },
+  {
+    "cardId": 3192,
+    "textPt": "SEMPRE Cada oponente joga com a carta do topo do seu baralho virada para cima."
+  },
+  {
+    "cardId": 3193,
+    "textPt": "UM LAR LONGE DE CASA Personagens recebem +1 ⛉ enquanto estiverem aqui.\nEXPLORAÇÃO DO MEL Personagens de mel recebem +1 ◊ enquanto estiverem aqui."
+  },
+  {
+    "cardId": 3194,
+    "textPt": "Resistência +1 (O dano causado a este personagem é reduzido em 1.)\nAPANHAR! Uma vez durante o seu turno, você pode pagar 1 ⬡ para comprar uma carta, depois escolher e descartar uma carta."
+  },
+  {
+    "cardId": 3195,
+    "textPt": "DEMOLIR Sempre que você jogar este ou outro personagem floodborn, você pode banir o item escolhido."
+  },
+  {
+    "cardId": 3196,
+    "textPt": "CAMPO DE FORÇA Enquanto você não tiver cartas na mão, este personagem ganha Resistência +2. (O dano causado a ele é reduzido em 2.)"
+  },
+  {
+    "cardId": 3197,
+    "textPt": "ENCONTRE UM AMIGO Quando você jogar este personagem e sempre que ele explorar, cada jogador revela a carta do topo do seu baralho. Se for uma carta de personagem, ele pode colocá-la na mão. Caso contrário, coloque-a no fundo do baralho."
+  },
+  {
+    "cardId": 3198,
+    "textPt": "Metamorfose 2 ⬡\nEvasivo\nBEM-VINDO DE VOLTA Sempre que este personagem explora, você pode retornar um personagem escolhido seu com custo 1 para sua mão. Se fizer isso, você pode jogar um personagem com custo 1 gratuitamente."
+  },
+  {
+    "cardId": 3199,
+    "textPt": "Metamorfose 5 ⬡\nAO INFINITO... Quando você jogar este personagem, se o oponente escolhido tiver mais cartas na mão do que você, compre cartas até ter o mesmo número.\n...E MAIS ALÉM! Sempre que este personagem explora, você pode jogar uma carta com custo 2 ou menos gratuitamente."
+  },
+  {
+    "cardId": 3200,
+    "textPt": "Metamorfose Combo 4 ⬡\nO PODER DA AMIZADE Quando este personagem é banido, se alguma das cartas que estavam sob ele forem cartas de personagem, você pode jogar esses personagens do seu descarte gratuitamente."
+  },
+  {
+    "cardId": 3201,
+    "textPt": "Metamorfose Madrigal 3 ⬡\nBÊNÇÃOS DA FAMÍLIA Uma vez durante o seu turno, sempre que você remover 1 ou mais de dano de um dos seus personagens, coloque a carta do topo do seu baralho no seu poço de tinta virada para baixo e exaurida."
+  },
+  {
+    "cardId": 3202,
+    "textPt": "ENERGIA FOCADA Este personagem pode entrar em jogo exaurido para comprar uma carta.\nCHAMADO Durante o seu turno, sempre que outro personagem seu entrar em jogo exaurido, você pode comprar uma carta."
+  },
+  {
+    "cardId": 3203,
+    "textPt": "Metamorfose 3 ⬡\nTRUQUE DE MÃO Quando você jogar este personagem, você pode colocar qualquer número de cartas da sua mão no fundo do seu baralho em qualquer ordem. Se fizer isso, compre esse número de cartas mais 1."
+  },
+  {
+    "cardId": 3204,
+    "textPt": "Metamorfose 4 ⬡\nVOCÊ PODE VOAR! Seus personagens ganham Evasivo."
+  },
+  {
+    "cardId": 3205,
+    "textPt": "Metamorfose 3 ⬡\nMISTURA MÁGICA Este personagem recebe +1 ◊ para cada tipo de tinta diferente entre os personagens que você tem em jogo."
+  },
+  {
+    "cardId": 3206,
+    "textPt": "Metamorfose 5 ⬡\nTOLOS! Você pode colocar 5 cartas de personagem do seu descarte no fundo do seu baralho em qualquer ordem para metamorfosear este personagem gratuitamente.\nCHAMADO DO CORVO Durante o seu turno, sempre que este personagem exaurir, compre uma carta."
+  },
+  {
+    "cardId": 3207,
+    "textPt": "Metamorfose 2 ⬡\nEvasivo"
+  },
+  {
+    "cardId": 3208,
+    "textPt": "Metamorfose 4 ⬡\nHABILIDADES AO AR LIVRE Enquanto este personagem estiver em uma localização, todos os personagens naquela localização recebem +1 ◊ e ganham Evasivo."
+  },
+  {
+    "cardId": 3209,
+    "textPt": "Metamorfose Dupla 0 ⬡\nPENSANDO EM VOCÊ Se este personagem for banido, coloque-o no seu poço de tinta virado para baixo e exaurido em vez disso."
+  },
+  {
+    "cardId": 3210,
+    "textPt": "Metamorfose 3 ⬡\nTROCA ESPERTA Sempre que este personagem explora, você pode comprar uma carta, depois escolher e descartar uma carta.\nNOVO COMEÇO Durante o seu turno, sempre que você descartar uma carta de personagem, você pode jogar esse personagem do seu descarte."
+  },
+  {
+    "cardId": 3211,
+    "textPt": "Metamorfose Temporária 3 ⬡\nRAINHA DO KARAOKÊ Uma vez durante o seu turno, sempre que este personagem cantar uma canção, ganhe 3 de lore."
+  },
+  {
+    "cardId": 3212,
+    "textPt": "Metamorfose Combo 6 ⬡\nEvasivo, Resistência +1\nTÁTICAS INCRÍVEIS Sempre que este personagem explora ou desafia, compre uma carta para cada carta sob ele."
+  },
+  {
+    "cardId": 3213,
+    "textPt": "Metamorfose 5 ⬡\nProteção\nPOSE DE VITÓRIA Durante o seu turno, sempre que este personagem banir outro personagem em um desafio, ganhe 2 de lore."
+  },
+  {
+    "cardId": 3214,
+    "textPt": "RECOMPENSA DO VENCEDOR Durante o seu turno, sempre que um dos seus personagens floodborn banir outro personagem em um desafio, ganhe 1 de lore.\nPREENCHER AS FILEIRAS Durante o turno de um oponente, sempre que um dos seus personagens floodborn for banido, compre uma carta."
+  },
+  {
+    "cardId": 3215,
+    "textPt": "Metamorfose 3 ⬡\nResistência +1\nApoio"
+  },
+  {
+    "cardId": 3216,
+    "textPt": "Metamorfose 6 ⬡\nDANÇA INSPIRADORA Sempre que este personagem explora, desvire todas as cartas no seu poço de tinta.\nPLATEIA GRATA 6 ⬡ — Desvire seus outros personagens. Eles não podem explorar pelo restante deste turno."
+  },
+  {
+    "cardId": 3217,
+    "textPt": "MIMETISMO AVANÇADO Você pode fazer a Metamorfose de qualquer personagem sobre este personagem. (Isso inclui todas as variantes de Metamorfose.)"
+  },
+  {
+    "cardId": 3218,
+    "textPt": "Cantora 3 (Este personagem conta como custo 3 para cantar canções.)\nLEALDADE À BANDA Este personagem não pode cantar canções sem Cantar Junto."
+  },
+  {
+    "cardId": 3219,
+    "textPt": "SAIA DAQUI! Quando você jogar este personagem, coloque um personagem escolhido seu no seu poço de tinta virado para baixo e exaurido.\nPLANO ARTEIRO No final do seu turno, se todas as cartas no seu poço de tinta estiverem exauridas, ganhe 1 de lore."
+  },
+  {
+    "cardId": 3220,
+    "textPt": "Imprudente (Este personagem não pode explorar e deve desafiar a cada turno, se possível.)\nCARGA PROTETORA Uma vez durante o seu turno, sempre que este personagem desafiar outro personagem, você pode desvirar um personagem de mel escolhido. Se fizer isso, esse personagem não pode explorar pelo restante deste turno."
+  },
+  {
+    "cardId": 3221,
+    "textPt": "SONHANDO COM MAIS Você paga 1 ⬡ a menos para fazer a Metamorfose de um personagem sobre este personagem."
+  },
+  {
+    "cardId": 3222,
+    "textPt": "(Um personagem com custo 3 ou mais pode ⟳ para cantar esta canção gratuitamente.)\nVocê e outro jogador escolhido compram 2 cartas cada."
+  },
+  {
+    "cardId": 3223,
+    "textPt": "O CHAMADO DA AVENTURA Uma vez durante o seu turno, você pode descartar uma carta para dar a este personagem +1 ◊ e Evasivo até o início do seu próximo turno. (Apenas personagens com Evasivo podem desafiá-lo.)"
+  },
+  {
+    "cardId": 3224,
+    "textPt": "O CHAMADO DA AVENTURA Uma vez durante o seu turno, você pode descartar uma carta para dar a este personagem +1 ◊ e Evasivo até o início do seu próximo turno. (Apenas personagens com Evasivo podem desafiá-lo.)"
+  },
+  {
+    "cardId": 3227,
+    "textPt": "FIQUE POR PERTO Quando você jogar este personagem, você pode jogar um personagem com custo 1 gratuitamente."
+  },
+  {
+    "cardId": 3228,
+    "textPt": "ENTRANDO DE FININHO Quando você jogar este personagem, se você tiver um personagem com Evasivo em jogo, você pode retornar um personagem, item ou localização escolhido com custo 2 ou menos para a mão do seu jogador."
+  },
+  {
+    "cardId": 3229,
+    "textPt": "FIGURA DE AÇÃO Quando você jogar este personagem, escolha uma das opções a seguir. Se você tiver outro personagem brinquedo em jogo, escolha ambas em vez disso:\n• Você pode retornar uma carta de ação com custo 2 ou menos do seu descarte para sua mão.\n• Você pode jogar uma ação com custo 2 ou menos gratuitamente."
+  },
+  {
+    "cardId": 3230,
+    "textPt": "Investida (Este personagem pode desafiar no turno em que é jogado.)\nCRIANÇA-TÁSTROFE! Sempre que este personagem desafiar outro personagem com 3 ¤ ou menos, bana esse personagem. (Nenhum dano é causado nesse desafio.)"
+  },
+  {
+    "cardId": 3231,
+    "textPt": "PEQUENA TRAPAÇA Quando você jogar este personagem, você pode comprar uma carta do fundo do seu baralho.\nERA DO INCÔMODO Quando este personagem é banido, coloque esta carta do seu descarte no fundo do seu baralho."
+  },
+  {
+    "cardId": 3232,
+    "textPt": "SEM ESCAPATÓRIA Se você descartou uma carta neste turno, este personagem ganha Desafiante +2 e pode desafiar personagens prontos neste turno. (Eles recebem +2 ¤ enquanto desafiam.)"
+  },
+  {
+    "cardId": 3235,
+    "textPt": "Guarda-costas (Este personagem pode entrar em jogo exaurido. Um personagem adversário que desafiar um dos seus personagens deve escolher um com Guarda-costas, se possível.)\nRECONTRATAR Quando você jogar este personagem, você pode retornar uma carta de personagem do seu descarte para sua mão."
+  },
+  {
+    "cardId": 3236,
+    "textPt": "AGUENTE FIRME! Quando você jogar este personagem, escolha uma das opções a seguir. Se você tiver outro personagem brinquedo em jogo, escolha ambas em vez disso:\n• Você pode retornar uma carta de personagem com custo 2 ou menos do seu descarte para sua mão.\n• Você pode jogar um personagem com custo 2 ou menos gratuitamente."
+  }
+]

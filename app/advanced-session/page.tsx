@@ -71,6 +71,9 @@ export default function AdvancedSessionPage() {
 
   return (
     <div className="p-8">
+      <Link href="/" className="mb-4 inline-block text-sm text-slate-500 underline">
+        Voltar ao início
+      </Link>
       <p className="mb-4 text-center text-sm text-slate-500">
         {index + 1} / {session.length}
       </p>

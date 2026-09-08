@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import type { AdvancedCardEntry } from "@/lib/types";
 
 type AdvancedFlashcardProps = {
@@ -12,69 +12,76 @@ export function AdvancedFlashcard({ entry, onAnswer }: AdvancedFlashcardProps) {
   const [flipped, setFlipped] = useState(false);
   const [imageFailed, setImageFailed] = useState(false);
 
+  function answer(known: boolean) {
+    onAnswer(known);
+    setFlipped(false);
+  }
+
+  useEffect(() => {
+    function handleKeydown(event: KeyboardEvent) {
+      if (event.target instanceof HTMLElement && event.target.closest("input, textarea")) {
+        return;
+      }
+      if (event.code === "Space") {
+        event.preventDefault();
+        if (!flipped) setFlipped(true);
+      } else if (flipped && event.key === "1") {
+        answer(false);
+      } else if (flipped && event.key === "2") {
+        answer(true);
+      }
+    }
+    window.addEventListener("keydown", handleKeydown);
+    return () => window.removeEventListener("keydown", handleKeydown);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [flipped]);
+
   return (
-    <div className="mx-auto max-w-md rounded-xl border border-slate-200 p-6 shadow-sm">
-      {!flipped ? (
-        <div>
-          <div className="text-center">
-            {!imageFailed ? (
-              <img
-                src={entry.imageUrl}
-                alt={entry.name}
-                className="mx-auto h-80 w-auto rounded-lg object-contain"
-                onError={() => setImageFailed(true)}
-              />
-            ) : (
-              <div className="mx-auto flex h-80 w-56 items-center justify-center rounded-lg bg-slate-100 p-2 text-center text-sm text-slate-500">
-                {entry.name}
-              </div>
-            )}
-            <p className="mt-2 text-sm text-slate-500">{entry.name}</p>
-          </div>
-          <div className="mt-4 border-t border-slate-200 pt-4">
-            <p className="text-xs uppercase tracking-wide text-slate-400">Inglês</p>
-            <p className="mt-1 whitespace-pre-line text-sm leading-relaxed">{entry.textEn}</p>
-          </div>
-          <div className="mt-6 text-center">
-            <button
-              type="button"
-              className="rounded-md bg-slate-900 px-4 py-2 text-white"
-              onClick={() => setFlipped(true)}
-            >
-              Virar card
-            </button>
-          </div>
+    <div className="fcard">
+      <span className="eyebrow">Modo avançado</span>
+      {!imageFailed ? (
+        <div className="cardimg cardimg-lg">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src={entry.imageUrl} alt={entry.name} onError={() => setImageFailed(true)} />
         </div>
       ) : (
-        <div>
-          <p className="text-center text-sm text-slate-500">{entry.name}</p>
-          <div className="mt-4 border-t border-slate-200 pt-4">
-            <p className="text-xs uppercase tracking-wide text-slate-400">Português</p>
-            <p className="mt-1 whitespace-pre-line text-sm leading-relaxed">{entry.textPt}</p>
+        <div className="cardimg cardimg-lg">{entry.name}</div>
+      )}
+      <p className="muted" style={{ fontSize: "var(--step--1)", margin: "var(--sp-2) 0 0" }}>
+        {entry.name}
+      </p>
+
+      {!flipped ? (
+        <>
+          <div className="textblock">
+            <span className="eyebrow">Inglês</span>
+            <p>{entry.textEn}</p>
           </div>
-          <div className="mt-6 flex justify-center gap-3">
-            <button
-              type="button"
-              className="rounded-md bg-red-100 px-4 py-2 text-red-700"
-              onClick={() => {
-                onAnswer(false);
-                setFlipped(false);
-              }}
-            >
-              Não sabia
+          <button type="button" className="btn btn-primary" style={{ marginTop: "var(--sp-5)" }} onClick={() => setFlipped(true)}>
+            Virar card
+          </button>
+          <p className="hint">
+            <kbd>espaço</kbd> virar
+          </p>
+        </>
+      ) : (
+        <>
+          <div className="textblock pt">
+            <span className="eyebrow">Português</span>
+            <p>{entry.textPt}</p>
+          </div>
+          <div className="grade">
+            <button type="button" className="btn btn-dont" onClick={() => answer(false)}>
+              ✕ Não sabia
             </button>
-            <button
-              type="button"
-              className="rounded-md bg-green-100 px-4 py-2 text-green-700"
-              onClick={() => {
-                onAnswer(true);
-                setFlipped(false);
-              }}
-            >
-              Eu sabia
+            <button type="button" className="btn btn-know" onClick={() => answer(true)}>
+              ✓ Eu sabia
             </button>
           </div>
-        </div>
+          <p className="hint">
+            <kbd>1</kbd> não sabia · <kbd>2</kbd> eu sabia
+          </p>
+        </>
       )}
     </div>
   );

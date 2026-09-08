@@ -1,0 +1,171 @@
+/* ============================================================
+   Lorewords — Design Tokens
+   Sistema "Seis Tintas": Amber, Ruby, Amethyst, Sapphire, Emerald, Steel
+   Tema escuro é o padrão. Tema claro em [data-theme="light"].
+   Todos os pares texto/fundo abaixo passam WCAG AA (>= 4.5:1).
+   ============================================================ */
+
+:root {
+  /* ---- Tintas (tema escuro) ---- */
+  --ink-amber:        #F2A93B;
+  --ink-ruby:         #FF6478;
+  --ink-amethyst:     #A47BFF;
+  --ink-sapphire:     #5B9CFF;
+  --ink-emerald:      #3DD8A0;
+  --ink-steel:        #9BB0CC;
+
+  /* Variantes fortes (hover / foco) */
+  --ink-amber-strong:    #FFC15E;
+  --ink-ruby-strong:     #FF8A99;
+  --ink-amethyst-strong: #BC9BFF;
+  --ink-sapphire-strong: #86B6FF;
+  --ink-emerald-strong:  #6BE6BA;
+  --ink-steel-strong:    #BCCBE0;
+
+  /* Fundos tintados (10% sobre a superfície) */
+  --ink-amber-soft:    rgb(242 169  59 / .12);
+  --ink-ruby-soft:     rgb(255 100 120 / .12);
+  --ink-amethyst-soft: rgb(164 123 255 / .12);
+  --ink-sapphire-soft: rgb( 91 156 255 / .12);
+  --ink-emerald-soft:  rgb( 61 216 160 / .12);
+  --ink-steel-soft:    rgb(155 176 204 / .10);
+
+  /* Bordas tintadas */
+  --ink-amber-line:    rgb(242 169  59 / .32);
+  --ink-ruby-line:     rgb(255 100 120 / .32);
+  --ink-amethyst-line: rgb(164 123 255 / .32);
+  --ink-sapphire-line: rgb( 91 156 255 / .32);
+  --ink-emerald-line:  rgb( 61 216 160 / .32);
+  --ink-steel-line:    rgb(155 176 204 / .28);
+
+  /* ---- Superfícies e texto ---- */
+  --bg:            #0A0D14;   /* fundo da página  */
+  --surface:       #121724;   /* cards            */
+  --surface-2:     #1A2130;   /* elevado / hover  */
+  --surface-3:     #232C3E;   /* pressionado      */
+  --line:          #262F42;   /* borda padrão     */
+  --line-strong:   #3A465D;   /* borda em foco    */
+
+  --text:          #E9EEF9;   /* 16.7:1 sobre bg  */
+  --text-muted:    #9AA7BE;   /*  8.0:1           */
+  --text-faint:    #6B7890;   /*  4.4:1           */
+  --text-on-ink:   #0A0D14;   /* texto sobre preenchimento colorido */
+
+  /* ---- Papéis semânticos ---- */
+  --brand:         var(--ink-sapphire);
+  --brand-strong:  var(--ink-sapphire-strong);
+  --accent:        var(--ink-amber);
+  --success:       var(--ink-emerald);
+  --danger:        var(--ink-ruby);
+  --magic:         var(--ink-amethyst);   /* modo avançado */
+  --neutral:       var(--ink-steel);
+
+  /* ---- Estados de aprendizado ---- */
+  --state-new:      var(--ink-sapphire);  /* Novo        */
+  --state-learning: var(--ink-amber);     /* Aprendendo  */
+  --state-mastered: var(--ink-emerald);   /* Dominado    */
+  --state-hard:     var(--ink-ruby);      /* Difícil     */
+
+  /* ---- Tipografia (carregada via next/font/google em app/layout.tsx) ---- */
+  --font-display: var(--f-display), "Iowan Old Style", Georgia, serif;
+  --font-ui:      var(--f-ui), -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  --font-mono:    var(--f-mono), ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  --step--1: clamp(.8125rem, .79rem + .12vw, .875rem);
+  --step-0:  clamp(.9375rem, .91rem + .14vw, 1rem);
+  --step-1:  clamp(1.125rem, 1.07rem + .27vw, 1.25rem);
+  --step-2:  clamp(1.375rem, 1.28rem + .45vw, 1.75rem);
+  --step-3:  clamp(1.75rem, 1.56rem + .95vw, 2.5rem);
+  --step-4:  clamp(2.25rem, 1.9rem + 1.75vw, 3.5rem);
+
+  --lh-tight: 1.15;
+  --lh-snug:  1.35;
+  --lh-body:  1.6;
+
+  /* ---- Espaçamento (escala 4px) ---- */
+  --sp-1: .25rem; --sp-2: .5rem;  --sp-3: .75rem; --sp-4: 1rem;
+  --sp-5: 1.5rem; --sp-6: 2rem;   --sp-7: 3rem;   --sp-8: 4rem;
+
+  /* ---- Raio ---- */
+  --r-sm: 8px; --r-md: 12px; --r-lg: 18px; --r-xl: 26px; --r-full: 999px;
+
+  /* ---- Sombras e brilhos ---- */
+  --shadow-1: 0 1px 2px rgb(0 0 0 / .35);
+  --shadow-2: 0 8px 24px -8px rgb(0 0 0 / .55);
+  --shadow-3: 0 24px 60px -16px rgb(0 0 0 / .65);
+  --glow-brand: 0 0 0 1px rgb(91 156 255 / .35), 0 12px 40px -12px rgb(91 156 255 / .45);
+  --focus-ring: 0 0 0 2px var(--bg), 0 0 0 4px var(--ink-sapphire);
+
+  /* ---- Movimento ---- */
+  --ease: cubic-bezier(.2,.7,.3,1);
+  --dur-fast: 140ms; --dur: 220ms; --dur-slow: 420ms;
+
+  /* ---- Vitral: gradiente de assinatura ---- */
+  --gradient-inks: linear-gradient(100deg,
+      #F2A93B 0%, #FF6478 20%, #A47BFF 40%,
+      #5B9CFF 60%, #3DD8A0 80%, #9BB0CC 100%);
+}
+
+/* ============================================================
+   Tema claro
+   ============================================================ */
+[data-theme="light"] {
+  --ink-amber:        #9A6200;
+  --ink-ruby:         #C22B45;
+  --ink-amethyst:     #6B37D0;
+  --ink-sapphire:     #1F56C7;
+  --ink-emerald:      #0A7551;
+  --ink-steel:        #47576F;
+
+  --ink-amber-strong:    #7C4E00;
+  --ink-ruby-strong:     #9E1F35;
+  --ink-amethyst-strong: #562BA8;
+  --ink-sapphire-strong: #17439E;
+  --ink-emerald-strong:  #075C40;
+  --ink-steel-strong:    #33415A;
+
+  --ink-amber-soft:    rgb(154  98   0 / .10);
+  --ink-ruby-soft:     rgb(194  43  69 / .10);
+  --ink-amethyst-soft: rgb(107  55 208 / .10);
+  --ink-sapphire-soft: rgb( 31  86 199 / .10);
+  --ink-emerald-soft:  rgb( 10 117  81 / .10);
+  --ink-steel-soft:    rgb( 71  87 111 / .08);
+
+  --ink-amber-line:    rgb(154  98   0 / .30);
+  --ink-ruby-line:     rgb(194  43  69 / .30);
+  --ink-amethyst-line: rgb(107  55 208 / .30);
+  --ink-sapphire-line: rgb( 31  86 199 / .30);
+  --ink-emerald-line:  rgb( 10 117  81 / .30);
+  --ink-steel-line:    rgb( 71  87 111 / .26);
+
+  --bg:          #FBFAF7;   /* pergaminho claro */
+  --surface:     #FFFFFF;
+  --surface-2:   #F4F2EC;
+  --surface-3:   #E9E6DE;
+  --line:        #E2DFD6;
+  --line-strong: #C9C4B7;
+
+  --text:        #101623;   /* 17.3:1 */
+  --text-muted:  #525E73;   /*  6.3:1 */
+  --text-faint:  #646F82;   /*  4.9:1 */
+  --text-on-ink: #FFFFFF;
+
+  --shadow-1: 0 1px 2px rgb(16 22 35 / .06);
+  --shadow-2: 0 8px 24px -10px rgb(16 22 35 / .18);
+  --shadow-3: 0 24px 60px -18px rgb(16 22 35 / .22);
+  --glow-brand: 0 0 0 1px rgb(31 86 199 / .25), 0 12px 32px -14px rgb(31 86 199 / .35);
+  --focus-ring: 0 0 0 2px var(--bg), 0 0 0 4px var(--ink-sapphire);
+}
+
+/* Lorewords é escuro por padrão — é uma decisão de marca (clima de mesa de
+   jogo à noite). O tema claro é opt-in: coloque data-theme="light" no <html>.
+   Se preferir seguir o sistema operacional, troque o seletor
+   [data-theme="light"] acima por:
+       @media (prefers-color-scheme: light) { :root:not([data-theme="dark"]) { ... } }
+   mantendo as mesmas declarações. */
+:root            { color-scheme: dark;  }
+[data-theme="light"] { color-scheme: light; }
+
+@media (prefers-reduced-motion: reduce) {
+  :root { --dur-fast: 0ms; --dur: 0ms; --dur-slow: 0ms; }
+}

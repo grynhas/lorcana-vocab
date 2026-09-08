@@ -1,0 +1,355 @@
+<!doctype html>
+<html lang="pt-BR" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Lorewords — Guia de Identidade Visual</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400&display=swap">
+<link rel="stylesheet" href="../cores/tokens.css">
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:var(--font-ui);
+     font-size:var(--step-0);line-height:var(--lh-body);-webkit-font-smoothing:antialiased}
+.wrap{max-width:1080px;margin:0 auto;padding:0 var(--sp-5)}
+h1,h2,h3{font-family:var(--font-display);line-height:var(--lh-tight);letter-spacing:-.015em;margin:0}
+h1{font-size:var(--step-4);font-weight:700}
+h2{font-size:var(--step-3);font-weight:700;margin:0 0 var(--sp-2)}
+h3{font-size:var(--step-1);font-weight:600;margin:0 0 var(--sp-2)}
+p{margin:0 0 var(--sp-4);max-width:66ch;color:var(--text-muted)}
+code,kbd{font-family:var(--font-mono);font-size:.875em}
+code{background:var(--surface-2);border:1px solid var(--line);border-radius:6px;padding:.1em .4em;color:var(--ink-sapphire)}
+.eyebrow{font-size:11px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--text-faint);margin:0 0 var(--sp-2)}
+section{padding:var(--sp-8) 0;border-top:1px solid var(--line)}
+section:first-of-type{border-top:none}
+.grid{display:grid;gap:var(--sp-4)}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-lg);padding:var(--sp-5)}
+
+/* hero */
+.hero{padding:var(--sp-8) 0 var(--sp-7);position:relative;overflow:hidden}
+.hero::before{content:"";position:absolute;inset:-40% -10% auto -10%;height:420px;
+  background:var(--gradient-inks);filter:blur(120px);opacity:.16;pointer-events:none}
+.hero .logo{width:min(420px,80%);height:auto;display:block;margin-bottom:var(--sp-5)}
+.tagline{font-family:var(--font-display);font-size:var(--step-2);color:var(--text);max-width:20ch;font-weight:600}
+
+/* swatches */
+.inks{grid-template-columns:repeat(auto-fit,minmax(160px,1fr))}
+.ink{border-radius:var(--r-md);overflow:hidden;border:1px solid var(--line);background:var(--surface)}
+.ink .chip{height:88px}
+.ink .meta{padding:var(--sp-3)}
+.ink .name{font-weight:600;font-size:var(--step-0)}
+.ink .hex{font-family:var(--font-mono);font-size:12px;color:var(--text-muted)}
+.ink .role{font-size:12px;color:var(--text-faint);margin-top:4px;display:block;line-height:1.4}
+.neutrals{grid-template-columns:repeat(auto-fit,minmax(120px,1fr))}
+.neutral{border:1px solid var(--line);border-radius:var(--r-md);overflow:hidden}
+.neutral .chip{height:56px}
+.neutral .meta{padding:var(--sp-2) var(--sp-3);background:var(--surface);font-size:12px}
+.neutral .hex{font-family:var(--font-mono);color:var(--text-muted);font-size:11px}
+
+/* logo grid */
+.logos{grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
+.logobox{display:grid;place-items:center;min-height:150px;border-radius:var(--r-md);border:1px solid var(--line);padding:var(--sp-5)}
+.on-dark{background:var(--bg)} .on-light{background:#FBFAF7} .on-color{background:var(--ink-amethyst)}
+.logobox svg,.logobox img{max-width:100%;height:auto}
+.caption{font-size:12px;color:var(--text-faint);margin-top:var(--sp-2);text-align:center}
+
+/* type specimen */
+.spec{display:grid;gap:var(--sp-5)}
+.spec-row{display:grid;grid-template-columns:110px 1fr;gap:var(--sp-4);align-items:baseline}
+.spec-row .tag{font-family:var(--font-mono);font-size:11px;color:var(--text-faint);padding-top:.6em}
+
+/* components */
+.btn{font:inherit;font-weight:600;border-radius:var(--r-full);padding:.72em 1.5em;border:1px solid transparent;
+     cursor:pointer;transition:transform var(--dur-fast) var(--ease),background var(--dur) var(--ease),box-shadow var(--dur) var(--ease)}
+.btn:active{transform:translateY(1px)}
+.btn:focus-visible{outline:none;box-shadow:var(--focus-ring)}
+.btn-primary{background:var(--ink-sapphire);color:var(--text-on-ink)}
+.btn-primary:hover{background:var(--ink-sapphire-strong);box-shadow:var(--glow-brand)}
+.btn-ghost{background:transparent;color:var(--text);border-color:var(--line-strong)}
+.btn-ghost:hover{background:var(--surface-2);border-color:var(--text-faint)}
+.btn-know{background:var(--ink-emerald-soft);color:var(--ink-emerald);border-color:var(--ink-emerald-line)}
+.btn-know:hover{background:var(--ink-emerald);color:var(--text-on-ink)}
+.btn-dont{background:var(--ink-ruby-soft);color:var(--ink-ruby);border-color:var(--ink-ruby-line)}
+.btn-dont:hover{background:var(--ink-ruby);color:var(--text-on-ink)}
+.btn-magic{background:var(--ink-amethyst-soft);color:var(--ink-amethyst);border-color:var(--ink-amethyst-line)}
+.btn-magic:hover{background:var(--ink-amethyst);color:var(--text-on-ink)}
+.row{display:flex;flex-wrap:wrap;gap:var(--sp-3);align-items:center}
+
+.badge{display:inline-flex;align-items:center;gap:6px;font-size:11px;font-weight:600;letter-spacing:.08em;
+       text-transform:uppercase;padding:.35em .8em;border-radius:var(--r-full);border:1px solid}
+.b-new{color:var(--ink-sapphire);background:var(--ink-sapphire-soft);border-color:var(--ink-sapphire-line)}
+.b-learn{color:var(--ink-amber);background:var(--ink-amber-soft);border-color:var(--ink-amber-line)}
+.b-master{color:var(--ink-emerald);background:var(--ink-emerald-soft);border-color:var(--ink-emerald-line)}
+.b-hard{color:var(--ink-ruby);background:var(--ink-ruby-soft);border-color:var(--ink-ruby-line)}
+.b-adv{color:var(--ink-amethyst);background:var(--ink-amethyst-soft);border-color:var(--ink-amethyst-line)}
+.dot{width:7px;height:7px;border-radius:50%;background:currentColor}
+
+.meter{display:grid;gap:6px;margin-bottom:var(--sp-4)}
+.meter .top{display:flex;justify-content:space-between;font-size:var(--step--1);font-variant-numeric:tabular-nums}
+.meter .track{height:8px;border-radius:var(--r-full);background:var(--surface-3);overflow:hidden}
+.meter .fill{height:100%;border-radius:var(--r-full)}
+
+.rule{display:grid;grid-template-columns:1fr 1fr;gap:var(--sp-4)}
+.do,.dont{border-radius:var(--r-md);padding:var(--sp-4);border:1px solid}
+.do{border-color:var(--ink-emerald-line);background:var(--ink-emerald-soft)}
+.dont{border-color:var(--ink-ruby-line);background:var(--ink-ruby-soft)}
+.do h4,.dont h4{margin:0 0 var(--sp-2);font-size:var(--step--1);letter-spacing:.1em;text-transform:uppercase;font-family:var(--font-ui)}
+.do h4{color:var(--ink-emerald)} .dont h4{color:var(--ink-ruby)}
+.do ul,.dont ul{margin:0;padding-left:1.1em;color:var(--text-muted);font-size:var(--step--1)}
+.do li,.dont li{margin-bottom:.4em}
+
+table{width:100%;border-collapse:collapse;font-size:var(--step--1)}
+th,td{text-align:left;padding:.7em .9em;border-bottom:1px solid var(--line)}
+th{color:var(--text-faint);font-weight:600;font-size:11px;letter-spacing:.1em;text-transform:uppercase}
+td:first-child{font-family:var(--font-mono);color:var(--ink-sapphire);white-space:nowrap}
+.scroller{overflow-x:auto}
+
+.themetoggle{position:fixed;right:20px;bottom:20px;z-index:9}
+footer{padding:var(--sp-7) 0;color:var(--text-faint);font-size:var(--step--1);border-top:1px solid var(--line)}
+@media (max-width:640px){.rule{grid-template-columns:1fr}.spec-row{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+
+<header class="hero">
+  <img class="logo" src="../logo/lorewords-logo-horizontal-tema-escuro.svg" alt="Lorewords" id="heroLogo">
+  <p class="tagline">Aprenda inglês pelas cartas que você já ama jogar.</p>
+  <p style="max-width:60ch">Guia de identidade visual — v1.0. O sistema se chama <strong style="color:var(--text)">Seis Tintas</strong>:
+  as seis cores de tinta do jogo viram seis papéis funcionais na interface. Nada de decoração solta —
+  cada cor significa uma coisa e só uma.</p>
+</header>
+
+<section id="logo">
+  <p class="eyebrow">01 — Marca</p>
+  <h2>Logo</h2>
+  <p>O símbolo é uma <strong style="color:var(--text)">rosácea hexagonal de vitral</strong>: seis facetas, uma por tinta,
+  em volta de um vazio central — a "página em branco" que o estudo preenche. Ele é 100% original: não usa,
+  imita nem deriva de nenhuma marca de terceiros.</p>
+
+  <div class="grid logos">
+    <div><div class="logobox on-dark"><img src="../logo/lorewords-logo-horizontal-tema-escuro.svg" alt="" style="width:100%"></div><div class="caption">Horizontal — fundo escuro (padrão)</div></div>
+    <div><div class="logobox on-light"><img src="../logo/lorewords-logo-horizontal-tema-claro.svg" alt="" style="width:100%"></div><div class="caption">Horizontal — fundo claro</div></div>
+    <div><div class="logobox on-dark"><img src="../logo/lorewords-logo-vertical-tema-escuro.svg" alt="" style="width:70%"></div><div class="caption">Empilhado — perfil, splash, share</div></div>
+    <div><div class="logobox on-color"><img src="../logo/lorewords-logo-horizontal-mono-preto.svg" alt="" style="width:100%"></div><div class="caption">Monocromático — sobre cor sólida</div></div>
+    <div><div class="logobox on-dark"><img src="../logo/lorewords-simbolo-colorido.svg" alt="" style="width:88px"></div><div class="caption">Símbolo isolado — avatar, app icon</div></div>
+    <div><div class="logobox on-dark" style="gap:18px;grid-auto-flow:column">
+        <img src="../logo/lorewords-favicon.svg" style="width:64px" alt="">
+        <img src="../logo/lorewords-favicon.svg" style="width:32px" alt="">
+        <img src="../logo/lorewords-favicon.svg" style="width:16px" alt="">
+      </div><div class="caption">Favicon 64 / 32 / 16 px (versão sem vãos)</div></div>
+  </div>
+
+  <div class="rule" style="margin-top:var(--sp-5)">
+    <div class="do"><h4>Faça</h4><ul>
+      <li>Respeite uma margem livre igual à <strong>altura de uma faceta</strong> em volta do logo.</li>
+      <li>Tamanho mínimo: 24 px de altura para o símbolo, 120 px de largura para o horizontal.</li>
+      <li>Em fundos coloridos ou fotos, use a versão monocromática.</li>
+      <li>Use o favicon (sem vãos) abaixo de 32 px — a versão com vãos entope.</li>
+    </ul></div>
+    <div class="dont"><h4>Não faça</h4><ul>
+      <li>Não recolora as facetas fora da paleta oficial.</li>
+      <li>Não aplique sombra, contorno, bisel ou gradiente no símbolo.</li>
+      <li>Não estique, incline nem gire o logo.</li>
+      <li>Não recrie o wordmark digitando "Lorewords" — use sempre o SVG (já vetorizado).</li>
+    </ul></div>
+  </div>
+</section>
+
+<section id="cores">
+  <p class="eyebrow">02 — Cor</p>
+  <h2>As seis tintas</h2>
+  <p>Cada tinta tem <strong style="color:var(--text)">um</strong> papel na interface. Se você precisar de uma cor
+  para algo novo, primeiro pergunte de qual desses papéis aquilo se aproxima — não invente a sétima tinta.</p>
+
+  <div class="grid inks">
+    <div class="ink"><div class="chip" style="background:var(--ink-amber)"></div><div class="meta">
+      <div class="name">Amber</div><div class="hex">--ink-amber · #F2A93B</div>
+      <span class="role">Aprendendo · destaque · acento da marca</span></div></div>
+    <div class="ink"><div class="chip" style="background:var(--ink-ruby)"></div><div class="meta">
+      <div class="name">Ruby</div><div class="hex">--ink-ruby · #FF6478</div>
+      <span class="role">Errei · card difícil · alerta</span></div></div>
+    <div class="ink"><div class="chip" style="background:var(--ink-amethyst)"></div><div class="meta">
+      <div class="name">Amethyst</div><div class="hex">--ink-amethyst · #A47BFF</div>
+      <span class="role">Modo avançado · conteúdo "mágico"</span></div></div>
+    <div class="ink"><div class="chip" style="background:var(--ink-sapphire)"></div><div class="meta">
+      <div class="name">Sapphire</div><div class="hex">--ink-sapphire · #5B9CFF</div>
+      <span class="role">Primária da marca · novo · links · CTA</span></div></div>
+    <div class="ink"><div class="chip" style="background:var(--ink-emerald)"></div><div class="meta">
+      <div class="name">Emerald</div><div class="hex">--ink-emerald · #3DD8A0</div>
+      <span class="role">Acertei · dominado · sucesso</span></div></div>
+    <div class="ink"><div class="chip" style="background:var(--ink-steel)"></div><div class="meta">
+      <div class="name">Steel</div><div class="hex">--ink-steel · #9BB0CC</div>
+      <span class="role">Neutro · metadados · estrutura</span></div></div>
+  </div>
+
+  <h3 style="margin-top:var(--sp-6)">Superfícies e texto</h3>
+  <div class="grid neutrals">
+    <div class="neutral"><div class="chip" style="background:var(--bg)"></div><div class="meta">bg<br><span class="hex">#0A0D14</span></div></div>
+    <div class="neutral"><div class="chip" style="background:var(--surface)"></div><div class="meta">surface<br><span class="hex">#121724</span></div></div>
+    <div class="neutral"><div class="chip" style="background:var(--surface-2)"></div><div class="meta">surface-2<br><span class="hex">#1A2130</span></div></div>
+    <div class="neutral"><div class="chip" style="background:var(--surface-3)"></div><div class="meta">surface-3<br><span class="hex">#232C3E</span></div></div>
+    <div class="neutral"><div class="chip" style="background:var(--line)"></div><div class="meta">line<br><span class="hex">#262F42</span></div></div>
+    <div class="neutral"><div class="chip" style="background:var(--text)"></div><div class="meta">text<br><span class="hex">#E9EEF9</span></div></div>
+    <div class="neutral"><div class="chip" style="background:var(--text-muted)"></div><div class="meta">text-muted<br><span class="hex">#9AA7BE</span></div></div>
+    <div class="neutral"><div class="chip" style="background:var(--text-faint)"></div><div class="meta">text-faint<br><span class="hex">#6B7890</span></div></div>
+  </div>
+
+  <h3 style="margin-top:var(--sp-6)">Contraste verificado</h3>
+  <div class="scroller"><table>
+    <thead><tr><th>Token</th><th>Sobre <code>--bg</code></th><th>Sobre <code>--surface</code></th><th>WCAG</th></tr></thead>
+    <tbody>
+      <tr><td>--text</td><td>16,7:1</td><td>15,4:1</td><td>AAA</td></tr>
+      <tr><td>--text-muted</td><td>8,0:1</td><td>7,4:1</td><td>AAA</td></tr>
+      <tr><td>--text-faint</td><td>4,4:1</td><td>4,0:1</td><td>AA grande / decorativo</td></tr>
+      <tr><td>--ink-amber</td><td>9,7:1</td><td>9,0:1</td><td>AAA</td></tr>
+      <tr><td>--ink-ruby</td><td>6,8:1</td><td>6,3:1</td><td>AA</td></tr>
+      <tr><td>--ink-amethyst</td><td>6,3:1</td><td>5,8:1</td><td>AA</td></tr>
+      <tr><td>--ink-sapphire</td><td>7,1:1</td><td>6,5:1</td><td>AA</td></tr>
+      <tr><td>--ink-emerald</td><td>10,7:1</td><td>9,8:1</td><td>AAA</td></tr>
+      <tr><td>--ink-steel</td><td>8,8:1</td><td>8,1:1</td><td>AAA</td></tr>
+    </tbody>
+  </table></div>
+  <p style="margin-top:var(--sp-3);font-size:var(--step--1)">Texto <code>--text-on-ink</code> (#0A0D14) sobre qualquer tinta preenchida fica entre 6,3:1 e 10,7:1 — todos passam AA.
+  <strong style="color:var(--text)">Nunca use cor sozinha</strong> para indicar acerto ou erro: acompanhe sempre de ícone ou texto.</p>
+
+  <h3 style="margin-top:var(--sp-6)">Gradiente de assinatura</h3>
+  <div style="height:12px;border-radius:var(--r-full);background:var(--gradient-inks);margin-bottom:var(--sp-2)"></div>
+  <p style="font-size:var(--step--1)"><code>--gradient-inks</code> — use com moderação: barra de topo, brilho de fundo desfocado,
+  borda de conquista. Nunca atrás de texto.</p>
+</section>
+
+<section id="tipografia">
+  <p class="eyebrow">03 — Tipografia</p>
+  <h2>Lora + Inter</h2>
+  <p>Lora (serifa caligráfica) carrega o clima de manuscrito iluminado; Inter cuida de tudo que é
+  funcional. A palavra em <strong style="color:var(--text)">inglês</strong> sempre em Lora, a tradução em
+  <strong style="color:var(--text)">português</strong> sempre em Inter — a diferença de forma ajuda o cérebro a separar os idiomas.</p>
+
+  <div class="card spec">
+    <div class="spec-row"><span class="tag">step-4 / Lora 700</span>
+      <div style="font-family:var(--font-display);font-size:var(--step-4);font-weight:700;line-height:1.1;letter-spacing:-.015em">Vampire Potato</div></div>
+    <div class="spec-row"><span class="tag">step-3 / Lora 700</span>
+      <div style="font-family:var(--font-display);font-size:var(--step-3);font-weight:700;line-height:1.15">Seu progresso</div></div>
+    <div class="spec-row"><span class="tag">step-2 / Lora 600</span>
+      <div style="font-family:var(--font-display);font-size:var(--step-2);font-weight:600">Vocabulário do baralho</div></div>
+    <div class="spec-row"><span class="tag">step-1 / Inter 500</span>
+      <div style="font-size:var(--step-1);font-weight:500">metamorfose de batata</div></div>
+    <div class="spec-row"><span class="tag">step-0 / Inter 400</span>
+      <div>Vire o card para ver a tradução, a frase de exemplo tirada da carta e a pronúncia. Você marca se sabia ou não — a repetição espaçada cuida do resto.</div></div>
+    <div class="spec-row"><span class="tag">step--1 / Inter 600</span>
+      <div style="font-size:11px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--text-faint)">Palavra-chave</div></div>
+    <div class="spec-row"><span class="tag">mono 400</span>
+      <div style="font-family:var(--font-mono)">/ˈvæm.paɪɚ ˈpə.teɪ.toʊ/ · TFC-193</div></div>
+  </div>
+</section>
+
+<section id="componentes">
+  <p class="eyebrow">04 — Componentes</p>
+  <h2>Peças da interface</h2>
+
+  <h3>Botões</h3>
+  <div class="card"><div class="row">
+    <button class="btn btn-primary">Começar sessão</button>
+    <button class="btn btn-ghost">Ver progresso</button>
+    <button class="btn btn-magic">Modo avançado</button>
+    <button class="btn btn-dont">Não sabia</button>
+    <button class="btn btn-know">Eu sabia</button>
+  </div>
+  <p style="font-size:var(--step--1);margin:var(--sp-4) 0 0">Uma única ação primária por tela.
+  "Não sabia" e "Eu sabia" começam suaves (fundo tintado) e só ficam sólidos no hover —
+  assim o card não vira um semáforo piscando.</p></div>
+
+  <h3 style="margin-top:var(--sp-5)">Selos de estado</h3>
+  <div class="card"><div class="row">
+    <span class="badge b-new"><span class="dot"></span>Novo</span>
+    <span class="badge b-learn"><span class="dot"></span>Aprendendo</span>
+    <span class="badge b-master"><span class="dot"></span>Dominado</span>
+    <span class="badge b-hard"><span class="dot"></span>Difícil</span>
+    <span class="badge b-adv"><span class="dot"></span>Avançado</span>
+  </div></div>
+
+  <h3 style="margin-top:var(--sp-5)">Barras de progresso</h3>
+  <div class="card">
+    <div class="meter"><div class="top"><span>Novo</span><span>252</span></div>
+      <div class="track"><div class="fill" style="width:92%;background:var(--ink-sapphire)"></div></div></div>
+    <div class="meter"><div class="top"><span>Aprendendo</span><span>21</span></div>
+      <div class="track"><div class="fill" style="width:8%;background:var(--ink-amber)"></div></div></div>
+    <div class="meter" style="margin-bottom:0"><div class="top"><span>Dominado</span><span>0</span></div>
+      <div class="track"><div class="fill" style="width:0%;background:var(--ink-emerald)"></div></div></div>
+    <p style="font-size:var(--step--1);margin:var(--sp-4) 0 0">A trilha vazia usa <code>--surface-3</code>, nunca branco.
+    Números com <code>tabular-nums</code> para não dançarem ao atualizar.</p>
+  </div>
+</section>
+
+<section id="imagens">
+  <p class="eyebrow">05 — Imagens</p>
+  <h2>Arte de apoio</h2>
+  <p>Três peças geradas para a marca (Gemini / Nano Banana), na pasta <code>imagens/</code>.
+  Todas são originais e não derivam de arte de terceiros.</p>
+  <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(240px,1fr))">
+    <div><div class="logobox on-dark" style="padding:0;overflow:hidden">
+      <img src="../imagens/lorewords-fundo-vitral-1280x714.jpg" alt="" style="width:100%;display:block"></div>
+      <div class="caption">hero-vitral — fundo do topo. Use com <code>opacity:.5</code> e um gradiente
+      escuro por cima do lado esquerdo.</div></div>
+    <div><div class="logobox on-dark"><img src="../imagens/lorewords-mascote-glim-512px-transparente.png" alt="" style="width:130px"></div>
+      <div class="caption">Glim, o mascote — gota de tinta com asas de vitral. PNG transparente,
+      pensado para superfícies escuras. Bom em estados vazios, fim de sessão e erro 404.</div></div>
+    <div><div class="logobox on-dark" style="padding:0;overflow:hidden">
+      <img src="../imagens/lorewords-textura-hexagonal-1024x1024.jpg" alt="" style="width:100%;display:block"></div>
+      <div class="caption">textura-hex — favos discretos para o fundo de seções.
+      Sempre abaixo de <code>opacity:.6</code>.</div></div>
+  </div>
+</section>
+
+<section id="voz">
+  <p class="eyebrow">06 — Voz</p>
+  <h2>Como o Lorewords fala</h2>
+  <div class="rule">
+    <div class="do"><h4>Sim</h4><ul>
+      <li>Direto e curto: "Vire o card", "Você errou 3 vezes essa".</li>
+      <li>Vocabulário de jogo quando ajuda: <em>baralho</em>, <em>sessão</em>, <em>tinta</em>.</li>
+      <li>Elogio específico: "12 palavras novas hoje" &gt; "Mandou bem!".</li>
+      <li>Erro sem drama: "Ainda não. Ela volta daqui a pouco."</li>
+    </ul></div>
+    <div class="dont"><h4>Não</h4><ul>
+      <li>Gritar em caixa alta ou empilhar emoji.</li>
+      <li>Gamificação culpada: "Você perdeu sua ofensiva!".</li>
+      <li>Jargão de SRS na cara do usuário ("intervalo E-Factor 2.5").</li>
+      <li>Fingir que é um produto oficial de algum TCG.</li>
+    </ul></div>
+  </div>
+</section>
+
+<section id="legal">
+  <p class="eyebrow">07 — Cuidado importante</p>
+  <h2>Marcas de terceiros</h2>
+  <p><strong style="color:var(--text)">Lorewords é uma marca independente.</strong> A identidade acima —
+  símbolo, wordmark, paleta e tipografia — foi desenhada do zero e não deriva de nenhum logo,
+  arte ou elemento gráfico de terceiros. As seis tintas são inspiradas em um conceito de regra do jogo
+  (nomes de cores), não em arte protegida.</p>
+  <p>Ao publicar o site, vale seguir estas precauções:</p>
+  <ul style="color:var(--text-muted);max-width:66ch">
+    <li>Não use "Lorcana", "Disney" nem logos oficiais no nome do site, no domínio, no logo ou no favicon.</li>
+    <li>Pode <em>mencionar</em> o jogo em texto descritivo ("vocabulário das cartas de Disney Lorcana") — isso é uso nominativo.</li>
+    <li>Inclua um rodapé de isenção: <em>"Lorewords é um projeto de fãs, sem vínculo com a Disney ou a Ravensburger. Todas as marcas e artes das cartas pertencem aos seus donos."</em></li>
+    <li>Imagens de cartas: use a API pública que você já usa, mostre-as como referência dentro do estudo e não as redistribua em downloads nem venda nada em cima delas.</li>
+    <li>Se um dia monetizar, converse com um advogado antes — projeto de fã sem fins lucrativos e produto pago são situações bem diferentes.</li>
+  </ul>
+  <p style="font-size:var(--step--1);color:var(--text-faint)">Isso é orientação geral de bom senso, não parecer jurídico.</p>
+</section>
+
+<footer><div>Lorewords · Guia de Identidade Visual v1.0 · Seis Tintas</div></footer>
+</div>
+
+<button class="btn btn-ghost themetoggle" onclick="
+  const h=document.documentElement;
+  const light = h.getAttribute('data-theme')==='light';
+  h.setAttribute('data-theme', light?'dark':'light');
+  document.getElementById('heroLogo').src='../logo/lorewords-logo-horizontal-tema-'+(light?'escuro':'claro')+'.svg';
+">Alternar tema</button>
+
+</body>
+</html>

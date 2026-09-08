@@ -1,11 +1,11 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import Link from "next/link";
 import vocabularyData from "@/data/vocabulary.json";
 import advancedData from "@/data/advanced.json";
 import type { AdvancedCardEntry, ProgressMap, VocabularyEntry } from "@/lib/types";
 import { ADVANCED_STORAGE_KEY, getLevel, loadProgress } from "@/lib/progress";
+import { TopBar } from "@/components/TopBar";
 
 const vocabulary = vocabularyData as VocabularyEntry[];
 const advancedCards = advancedData as AdvancedCardEntry[];
@@ -24,6 +24,21 @@ function countBuckets<T>(items: T[], progress: ProgressMap, getKey: (item: T) =>
   return buckets;
 }
 
+function Meter({ label, count, total, color }: { label: string; count: number; total: number; color: string }) {
+  const pct = total === 0 ? 0 : Math.round((count / total) * 100);
+  return (
+    <div className="meter">
+      <div className="top">
+        <b>{label}</b>
+        <span>{count}</span>
+      </div>
+      <div className="track">
+        <div className="fill" style={{ width: `${pct}%`, background: color }} />
+      </div>
+    </div>
+  );
+}
+
 export default function ProgressPage() {
   const [vocabProgress, setVocabProgress] = useState<ProgressMap>({});
   const [advancedProgress, setAdvancedProgress] = useState<ProgressMap>({});
@@ -40,44 +55,32 @@ export default function ProgressPage() {
     (entry) => String(entry.cardId)
   );
 
-  function bar(label: string, count: number, total: number, colorClass: string) {
-    const pct = total === 0 ? 0 : Math.round((count / total) * 100);
-    return (
-      <div className="mb-4">
-        <div className="mb-1 flex justify-between text-sm">
-          <span>{label}</span>
-          <span>{count}</span>
-        </div>
-        <div className="h-3 overflow-hidden rounded-full bg-slate-100">
-          <div className={`h-full ${colorClass}`} style={{ width: `${pct}%` }} />
+  return (
+    <>
+      <TopBar backHref="/" backLabel="Voltar ao início" eyebrow="Progresso" />
+      <div className="page-shell">
+        <div className="page-content">
+          <div className="secttl" style={{ marginTop: 0 }}>
+            <h3>Vocabulário</h3>
+          </div>
+          <Meter label="Novo" count={vocabBuckets.novo} total={vocabulary.length} color="var(--state-new)" />
+          <Meter label="Aprendendo" count={vocabBuckets.aprendendo} total={vocabulary.length} color="var(--state-learning)" />
+          <Meter label="Dominado" count={vocabBuckets.dominado} total={vocabulary.length} color="var(--state-mastered)" />
+          <p className="faint" style={{ fontSize: "var(--step--1)", margin: 0 }}>
+            {vocabulary.length} termos no total.
+          </p>
+
+          <div className="secttl">
+            <h3>Avançado</h3>
+          </div>
+          <Meter label="Novo" count={advancedBuckets.novo} total={advancedCards.length} color="var(--state-new)" />
+          <Meter label="Aprendendo" count={advancedBuckets.aprendendo} total={advancedCards.length} color="var(--state-learning)" />
+          <Meter label="Dominado" count={advancedBuckets.dominado} total={advancedCards.length} color="var(--state-mastered)" />
+          <p className="faint" style={{ fontSize: "var(--step--1)", margin: 0 }}>
+            {advancedCards.length} cartas no total.
+          </p>
         </div>
       </div>
-    );
-  }
-
-  return (
-    <div className="mx-auto max-w-md p-8">
-      <h2 className="mb-6 text-2xl font-semibold">Progresso</h2>
-
-      <h3 className="mb-3 text-sm font-semibold uppercase tracking-wide text-slate-500">
-        Vocabulário
-      </h3>
-      {bar("Novo", vocabBuckets.novo, vocabulary.length, "bg-red-400")}
-      {bar("Aprendendo", vocabBuckets.aprendendo, vocabulary.length, "bg-amber-400")}
-      {bar("Dominado", vocabBuckets.dominado, vocabulary.length, "bg-green-500")}
-      <p className="mb-6 text-sm text-slate-500">{vocabulary.length} termos no total.</p>
-
-      <h3 className="mb-3 text-sm font-semibold uppercase tracking-wide text-slate-500">
-        Avançado
-      </h3>
-      {bar("Novo", advancedBuckets.novo, advancedCards.length, "bg-red-400")}
-      {bar("Aprendendo", advancedBuckets.aprendendo, advancedCards.length, "bg-amber-400")}
-      {bar("Dominado", advancedBuckets.dominado, advancedCards.length, "bg-green-500")}
-      <p className="text-sm text-slate-500">{advancedCards.length} cartas no total.</p>
-
-      <Link href="/" className="mt-6 inline-block text-sm underline">
-        Voltar ao início
-      </Link>
-    </div>
+    </>
   );
 }

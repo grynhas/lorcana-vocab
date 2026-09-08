@@ -1,29 +1,46 @@
 import Link from "next/link";
+import { TopBar } from "@/components/TopBar";
 
 export default function HomePage() {
   return (
-    <div className="mx-auto max-w-md p-8 text-center">
-      <h1 className="text-3xl font-bold">Lorcana Vocab</h1>
-      <p className="mt-2 text-slate-500">
-        Aprenda o vocabulário de inglês usado nas cartas de Disney Lorcana.
-      </p>
-      <div className="mt-8 flex flex-col items-center gap-3">
-        <Link
-          href="/session"
-          className="inline-block rounded-md bg-slate-900 px-6 py-3 text-white"
-        >
-          Começar sessão
-        </Link>
-        <Link
-          href="/advanced-session"
-          className="inline-block rounded-md border border-slate-900 px-6 py-3 text-slate-900 dark:border-slate-100 dark:text-slate-100"
-        >
-          Avançado
-        </Link>
+    <>
+      <TopBar />
+      <div className="page-shell" style={{ position: "relative" }}>
+        <div className="glow" />
+        <div className="page-content">
+          <div className="home-hero">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img className="mark" src="/logo/lorewords-simbolo-colorido.svg" alt="" />
+            <h1>
+              Sua sessão de hoje
+              <br />
+              está pronta
+            </h1>
+            <p>
+              Aprenda o vocabulário de inglês usado nas cartas de Disney Lorcana.
+            </p>
+            <div className="cta">
+              <Link href="/session" className="btn btn-primary">
+                Começar sessão
+              </Link>
+              <Link href="/advanced-session" className="btn btn-magic">
+                Modo avançado
+              </Link>
+              <Link href="/progress" className="btn btn-ghost">
+                Ver progresso
+              </Link>
+            </div>
+          </div>
+          <div className="inkstrip" aria-hidden="true">
+            <span style={{ background: "var(--ink-amber)" }} />
+            <span style={{ background: "var(--ink-ruby)" }} />
+            <span style={{ background: "var(--ink-amethyst)" }} />
+            <span style={{ background: "var(--ink-sapphire)" }} />
+            <span style={{ background: "var(--ink-emerald)" }} />
+            <span style={{ background: "var(--ink-steel)" }} />
+          </div>
+        </div>
       </div>
-      <Link href="/progress" className="mt-4 block text-sm text-slate-500 underline">
-        Ver progresso
-      </Link>
-    </div>
+    </>
   );
 }

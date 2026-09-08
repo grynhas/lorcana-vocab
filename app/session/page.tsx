@@ -8,6 +8,7 @@ import type { CardSummary, VocabularyEntry } from "@/lib/types";
 import { loadProgress, markKnown, markUnknown, saveProgress } from "@/lib/progress";
 import { buildSession } from "@/lib/session";
 import { Flashcard } from "@/components/Flashcard";
+import { TopBar } from "@/components/TopBar";
 
 const vocabulary = vocabularyData as VocabularyEntry[];
 const cardById = new Map<number, CardSummary>(
@@ -20,32 +21,40 @@ export default function SessionPage() {
   );
   const [index, setIndex] = useState(0);
   const [results, setResults] = useState({ known: 0, unknown: 0 });
+  const [history, setHistory] = useState<boolean[]>([]);
 
   if (session.length === 0) {
     return (
-      <div className="p-8 text-center">
-        <p>Nenhum termo disponível ainda. Rode `npm run generate-data` primeiro.</p>
-        <Link href="/" className="mt-4 inline-block text-sm underline">
-          Voltar ao início
-        </Link>
-      </div>
+      <>
+        <TopBar backHref="/" backLabel="Voltar ao início" />
+        <div className="page-shell">
+          <div className="page-content" style={{ textAlign: "center" }}>
+            <p className="muted">Nenhum termo disponível ainda. Rode `npm run generate-data` primeiro.</p>
+            <Link href="/" className="link-back" style={{ marginTop: "var(--sp-4)", justifyContent: "center" }}>
+              Voltar ao início
+            </Link>
+          </div>
+        </div>
+      </>
     );
   }
 
   if (index >= session.length) {
     return (
-      <div className="mx-auto max-w-md p-8 text-center">
-        <h2 className="text-2xl font-semibold">Sessão concluída!</h2>
-        <p className="mt-4">
-          Acertos: {results.known} · Erros: {results.unknown}
-        </p>
-        <Link
-          href="/"
-          className="mt-6 inline-block rounded-md bg-slate-900 px-4 py-2 text-white"
-        >
-          Voltar ao início
-        </Link>
-      </div>
+      <>
+        <TopBar backHref="/" backLabel="Voltar ao início" />
+        <div className="page-shell">
+          <div className="page-content" style={{ textAlign: "center" }}>
+            <h2 style={{ fontSize: "var(--step-2)", fontWeight: 600 }}>Sessão concluída!</h2>
+            <p className="muted" style={{ marginTop: "var(--sp-4)" }}>
+              Acertos: {results.known} · Erros: {results.unknown}
+            </p>
+            <Link href="/" className="btn btn-primary" style={{ marginTop: "var(--sp-6)", display: "inline-flex" }}>
+              Voltar ao início
+            </Link>
+          </div>
+        </div>
+      </>
     );
   }
 
@@ -59,20 +68,44 @@ export default function SessionPage() {
       known: prev.known + (known ? 1 : 0),
       unknown: prev.unknown + (known ? 0 : 1),
     }));
+    setHistory((prev) => [...prev, known]);
     setIndex((prev) => prev + 1);
   }
 
   return (
-    <div className="p-8">
-      <p className="mb-4 text-center text-sm text-slate-500">
-        {index + 1} / {session.length}
-      </p>
-      <Flashcard
-        key={current.term}
-        entry={current}
-        card={current.examples[0] ? cardById.get(current.examples[0].cardId) : undefined}
-        onAnswer={handleAnswer}
-      />
-    </div>
+    <>
+      <TopBar backHref="/" backLabel="Sair" eyebrow="Sessão · vocabulário" />
+      <div className="page-shell">
+        <div className="page-content">
+          <div className="progress-head">
+            <div className="seg">
+              {session.map((_, i) => (
+                <i
+                  key={i}
+                  className={
+                    i < history.length
+                      ? history[i]
+                        ? "done"
+                        : "miss"
+                      : i === index
+                        ? "now"
+                        : ""
+                  }
+                />
+              ))}
+            </div>
+            <span className="count">
+              {index + 1} / {session.length}
+            </span>
+          </div>
+          <Flashcard
+            key={current.term}
+            entry={current}
+            card={current.examples[0] ? cardById.get(current.examples[0].cardId) : undefined}
+            onAnswer={handleAnswer}
+          />
+        </div>
+      </div>
+    </>
   );
 }

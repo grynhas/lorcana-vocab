@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="pt-BR" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Lorewords — Telas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400&display=swap">
+<link rel="stylesheet" href="../cores/tokens.css">
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:var(--font-ui);font-size:var(--step-0);
+     line-height:var(--lh-body);-webkit-font-smoothing:antialiased}
+.page{max-width:1180px;margin:0 auto;padding:var(--sp-6) var(--sp-5) var(--sp-8)}
+.screens{display:grid;gap:var(--sp-6);grid-template-columns:repeat(auto-fit,minmax(360px,1fr))}
+.label{font-size:11px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--text-faint);margin:0 0 var(--sp-3)}
+.frame{background:var(--bg);border:1px solid var(--line);border-radius:var(--r-xl);overflow:hidden;
+       box-shadow:var(--shadow-3);position:relative;min-height:620px;display:flex;flex-direction:column}
+
+/* ---------- chrome comum ---------- */
+.topbar{display:flex;align-items:center;justify-content:space-between;padding:var(--sp-4) var(--sp-5);
+        border-bottom:1px solid var(--line);position:relative;z-index:2}
+.topbar img{height:24px}
+.iconbtn{width:34px;height:34px;border-radius:var(--r-full);border:1px solid var(--line);background:var(--surface);
+         color:var(--text-muted);display:grid;place-items:center;cursor:pointer}
+.body{flex:1;padding:var(--sp-6) var(--sp-5);position:relative;z-index:2}
+.glow{position:absolute;inset:-30% -20% auto -20%;height:340px;background:var(--gradient-inks);
+      filter:blur(110px);opacity:.14;pointer-events:none;z-index:0}
+
+h1,h2,h3{font-family:var(--font-display);letter-spacing:-.015em;line-height:var(--lh-tight);margin:0}
+.muted{color:var(--text-muted)} .faint{color:var(--text-faint)}
+.eyebrow{font-size:11px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--text-faint)}
+
+.btn{font:inherit;font-weight:600;border-radius:var(--r-full);padding:.78em 1.6em;border:1px solid transparent;
+     cursor:pointer;width:100%;transition:all var(--dur) var(--ease)}
+.btn:focus-visible{outline:none;box-shadow:var(--focus-ring)}
+.btn-primary{background:var(--ink-sapphire);color:var(--text-on-ink)}
+.btn-primary:hover{background:var(--ink-sapphire-strong);box-shadow:var(--glow-brand)}
+.btn-magic{background:var(--ink-amethyst-soft);color:var(--ink-amethyst);border-color:var(--ink-amethyst-line)}
+.btn-magic:hover{background:var(--ink-amethyst);color:var(--text-on-ink)}
+.btn-ghost{background:transparent;color:var(--text-muted);border-color:var(--line-strong)}
+.btn-ghost:hover{background:var(--surface-2);color:var(--text)}
+
+/* ---------- 1. Home ---------- */
+.home-hero{text-align:center;padding-top:var(--sp-6)}
+.home-hero .mark{width:76px;margin:0 auto var(--sp-5);display:block}
+.home-hero h1{font-size:var(--step-3);font-weight:700;margin-bottom:var(--sp-2)}
+.home-hero p{color:var(--text-muted);margin:0 auto var(--sp-6);max-width:32ch}
+.cta{display:grid;gap:var(--sp-3);max-width:300px;margin:0 auto}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:var(--sp-3);margin-top:var(--sp-7)}
+.stat{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-md);padding:var(--sp-4) var(--sp-3);text-align:center}
+.stat .n{font-family:var(--font-display);font-size:var(--step-2);font-weight:700;font-variant-numeric:tabular-nums;display:block}
+.stat .l{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--text-faint)}
+.inkstrip{display:flex;gap:4px;margin-top:var(--sp-6)}
+.inkstrip span{flex:1;height:4px;border-radius:var(--r-full)}
+
+/* ---------- 2. Flashcard ---------- */
+.progress-head{display:flex;align-items:center;gap:var(--sp-3);margin-bottom:var(--sp-5)}
+.seg{display:flex;gap:3px;flex:1}
+.seg i{flex:1;height:4px;border-radius:var(--r-full);background:var(--surface-3)}
+.seg i.done{background:var(--ink-emerald)} .seg i.miss{background:var(--ink-ruby)} .seg i.now{background:var(--ink-sapphire)}
+.count{font-family:var(--font-mono);font-size:12px;color:var(--text-faint);font-variant-numeric:tabular-nums}
+
+.fcard{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-lg);
+       padding:var(--sp-6) var(--sp-5);text-align:center;box-shadow:var(--shadow-2);position:relative;overflow:hidden}
+.fcard::before{content:"";position:absolute;top:0;left:0;right:0;height:3px;background:var(--gradient-inks);opacity:.85}
+.word{font-family:var(--font-display);font-size:var(--step-4);font-weight:700;line-height:1.05;margin:var(--sp-3) 0}
+.ipa{font-family:var(--font-mono);font-size:var(--step--1);color:var(--text-faint);margin-bottom:var(--sp-5)}
+.translation{font-size:var(--step-2);font-weight:500;color:var(--ink-amber);margin:var(--sp-2) 0 var(--sp-4)}
+.cardimg{width:150px;aspect-ratio:5/7;border-radius:10px;margin:0 auto var(--sp-3);
+         background:var(--surface-2);border:1px solid var(--line);display:grid;place-items:center;
+         font-size:10px;color:var(--text-faint);text-align:center;padding:var(--sp-2);line-height:1.4}
+.quote{font-family:var(--font-display);font-style:italic;font-size:var(--step-0);color:var(--text-muted);
+       border-left:2px solid var(--ink-amber-line);padding-left:var(--sp-3);text-align:left;margin:var(--sp-4) 0}
+.quote b{color:var(--ink-amber);font-style:normal;font-weight:600}
+.grade{display:grid;grid-template-columns:1fr 1fr;gap:var(--sp-3);margin-top:var(--sp-5)}
+.btn-dont{background:var(--ink-ruby-soft);color:var(--ink-ruby);border-color:var(--ink-ruby-line)}
+.btn-dont:hover{background:var(--ink-ruby);color:var(--text-on-ink)}
+.btn-know{background:var(--ink-emerald-soft);color:var(--ink-emerald);border-color:var(--ink-emerald-line)}
+.btn-know:hover{background:var(--ink-emerald);color:var(--text-on-ink)}
+.hint{font-size:11px;color:var(--text-faint);text-align:center;margin-top:var(--sp-4)}
+kbd{font-family:var(--font-mono);background:var(--surface-2);border:1px solid var(--line);
+    border-bottom-width:2px;border-radius:5px;padding:1px 5px;font-size:10px;color:var(--text-muted)}
+
+/* ---------- 3. Progresso ---------- */
+.streak{display:flex;align-items:center;gap:var(--sp-4);background:var(--surface);border:1px solid var(--line);
+        border-radius:var(--r-lg);padding:var(--sp-4) var(--sp-5);margin-bottom:var(--sp-5)}
+.streak .big{font-family:var(--font-display);font-size:var(--step-3);font-weight:700;color:var(--ink-amber);
+             font-variant-numeric:tabular-nums;line-height:1}
+.week{display:flex;gap:6px;margin-left:auto}
+.week i{width:16px;height:16px;border-radius:5px;background:var(--surface-3);display:block}
+.week i.on{background:var(--ink-amber)} .week i.today{background:var(--ink-amber);box-shadow:0 0 0 2px var(--ink-amber-line)}
+.meter{margin-bottom:var(--sp-4)}
+.meter .top{display:flex;justify-content:space-between;font-size:var(--step--1);margin-bottom:6px;font-variant-numeric:tabular-nums}
+.meter .top b{font-weight:500}
+.track{height:8px;border-radius:var(--r-full);background:var(--surface-3);overflow:hidden}
+.fill{height:100%;border-radius:var(--r-full);transition:width var(--dur-slow) var(--ease)}
+.secttl{display:flex;align-items:baseline;justify-content:space-between;margin:var(--sp-6) 0 var(--sp-4)}
+.secttl h3{font-size:var(--step-1);font-weight:600}
+.inkrow{display:flex;align-items:center;gap:var(--sp-3);padding:var(--sp-3) 0;border-top:1px solid var(--line)}
+.inkrow .hexdot{width:14px;height:14px;clip-path:polygon(50% 0,100% 25%,100% 75%,50% 100%,0 75%,0 25%);flex:none}
+.inkrow .nm{flex:1;font-size:var(--step--1)}
+.inkrow .bar{width:90px;height:6px;border-radius:var(--r-full);background:var(--surface-3);overflow:hidden}
+.inkrow .num{font-family:var(--font-mono);font-size:11px;color:var(--text-faint);width:46px;text-align:right;font-variant-numeric:tabular-nums}
+.tabs{display:flex;gap:var(--sp-2);margin-bottom:var(--sp-5)}
+.tab{font-size:var(--step--1);font-weight:500;padding:.4em 1em;border-radius:var(--r-full);
+     border:1px solid var(--line);background:transparent;color:var(--text-muted);cursor:pointer}
+.tab[aria-selected=true]{background:var(--ink-sapphire-soft);border-color:var(--ink-sapphire-line);color:var(--ink-sapphire)}
+.note{max-width:70ch;color:var(--text-muted);font-size:var(--step--1);margin:var(--sp-6) auto 0}
+.themetoggle{position:fixed;right:20px;bottom:20px;z-index:9;width:auto;padding:.6em 1.2em}
+</style>
+</head>
+<body>
+<div class="page">
+  <p class="label">Lorewords · telas com a identidade aplicada</p>
+
+  <div class="screens">
+
+    <!-- ============ 1. HOME ============ -->
+    <div>
+      <p class="label">01 · Início</p>
+      <div class="frame">
+        <div class="glow"></div>
+        <div class="topbar">
+          <img src="../logo/lorewords-logo-horizontal-tema-escuro.svg" alt="Lorewords" class="hlogo">
+          <button class="iconbtn" aria-label="Ajustes">⚙</button>
+        </div>
+        <div class="body">
+          <div class="home-hero">
+            <img class="mark" src="../logo/lorewords-simbolo-colorido.svg" alt="">
+            <h1>Sua sessão de hoje<br>está pronta</h1>
+            <p>20 palavras das cartas que você joga — com pronúncia, tradução e a frase original.</p>
+            <div class="cta">
+              <button class="btn btn-primary">Começar sessão</button>
+              <button class="btn btn-magic">Modo avançado</button>
+              <button class="btn btn-ghost">Ver progresso</button>
+            </div>
+          </div>
+          <div class="stats">
+            <div class="stat"><span class="n">273</span><span class="l">Termos</span></div>
+            <div class="stat"><span class="n" style="color:var(--ink-amber)">7</span><span class="l">Dias</span></div>
+            <div class="stat"><span class="n" style="color:var(--ink-emerald)">21</span><span class="l">Dominadas</span></div>
+          </div>
+          <div class="inkstrip">
+            <span style="background:var(--ink-amber)"></span><span style="background:var(--ink-ruby)"></span>
+            <span style="background:var(--ink-amethyst)"></span><span style="background:var(--ink-sapphire)"></span>
+            <span style="background:var(--ink-emerald)"></span><span style="background:var(--ink-steel)"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ============ 2. FLASHCARD ============ -->
+    <div>
+      <p class="label">02 · Card virado</p>
+      <div class="frame">
+        <div class="topbar">
+          <button class="iconbtn" aria-label="Sair">←</button>
+          <span class="eyebrow">Sessão · vocabulário</span>
+          <button class="iconbtn" aria-label="Pular">⋯</button>
+        </div>
+        <div class="body">
+          <div class="progress-head">
+            <div class="seg">
+              <i class="done"></i><i class="done"></i><i class="miss"></i><i class="done"></i><i class="now"></i>
+              <i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i>
+            </div>
+            <span class="count">5 / 20</span>
+          </div>
+
+          <div class="fcard">
+            <span class="eyebrow">Palavra-chave</span>
+            <div class="word">Potato Shift</div>
+            <div class="ipa">/pəˈteɪ.toʊ ʃɪft/</div>
+            <div class="translation">metamorfose de batata</div>
+            <div class="cardimg">imagem da carta<br>(vem da API)</div>
+            <div class="quote"><b>Shift</b> — pagar um custo reduzido para jogar esta carta
+              em cima de outra que você já controla.</div>
+            <div class="grade">
+              <button class="btn btn-dont">Não sabia</button>
+              <button class="btn btn-know">Eu sabia</button>
+            </div>
+          </div>
+          <p class="hint"><kbd>espaço</kbd> virar · <kbd>1</kbd> não sabia · <kbd>2</kbd> eu sabia</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- ============ 3. PROGRESSO ============ -->
+    <div>
+      <p class="label">03 · Progresso</p>
+      <div class="frame">
+        <div class="topbar">
+          <button class="iconbtn" aria-label="Voltar">←</button>
+          <span class="eyebrow">Progresso</span>
+          <button class="iconbtn" aria-label="Tema">◐</button>
+        </div>
+        <div class="body">
+          <div class="streak">
+            <div><span class="big">7</span>
+              <div class="faint" style="font-size:11px;letter-spacing:.1em;text-transform:uppercase">dias seguidos</div></div>
+            <div class="week">
+              <i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="today"></i>
+            </div>
+          </div>
+
+          <div class="tabs">
+            <button class="tab" aria-selected="true">Vocabulário</button>
+            <button class="tab" aria-selected="false">Avançado</button>
+          </div>
+
+          <div class="meter"><div class="top"><b>Novo</b><span>252</span></div>
+            <div class="track"><div class="fill" style="width:92%;background:var(--ink-sapphire)"></div></div></div>
+          <div class="meter"><div class="top"><b>Aprendendo</b><span>21</span></div>
+            <div class="track"><div class="fill" style="width:8%;background:var(--ink-amber)"></div></div></div>
+          <div class="meter"><div class="top"><b>Dominado</b><span>0</span></div>
+            <div class="track"><div class="fill" style="width:1%;background:var(--ink-emerald)"></div></div></div>
+          <p class="faint" style="font-size:var(--step--1);margin:0">273 termos no total.</p>
+
+          <div class="secttl"><h3>Por tinta</h3><span class="faint" style="font-size:11px">dominadas</span></div>
+          <div class="inkrow"><span class="hexdot" style="background:var(--ink-amber)"></span><span class="nm">Amber</span>
+            <span class="bar"><span class="fill" style="display:block;width:34%;background:var(--ink-amber)"></span></span><span class="num">16/47</span></div>
+          <div class="inkrow"><span class="hexdot" style="background:var(--ink-ruby)"></span><span class="nm">Ruby</span>
+            <span class="bar"><span class="fill" style="display:block;width:18%;background:var(--ink-ruby)"></span></span><span class="num">8/44</span></div>
+          <div class="inkrow"><span class="hexdot" style="background:var(--ink-amethyst)"></span><span class="nm">Amethyst</span>
+            <span class="bar"><span class="fill" style="display:block;width:52%;background:var(--ink-amethyst)"></span></span><span class="num">24/46</span></div>
+          <div class="inkrow"><span class="hexdot" style="background:var(--ink-sapphire)"></span><span class="nm">Sapphire</span>
+            <span class="bar"><span class="fill" style="display:block;width:41%;background:var(--ink-sapphire)"></span></span><span class="num">19/46</span></div>
+          <div class="inkrow"><span class="hexdot" style="background:var(--ink-emerald)"></span><span class="nm">Emerald</span>
+            <span class="bar"><span class="fill" style="display:block;width:27%;background:var(--ink-emerald)"></span></span><span class="num">12/45</span></div>
+          <div class="inkrow"><span class="hexdot" style="background:var(--ink-steel)"></span><span class="nm">Steel</span>
+            <span class="bar"><span class="fill" style="display:block;width:11%;background:var(--ink-steel)"></span></span><span class="num">5/45</span></div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <p class="note">Tudo aqui usa só os tokens de <code>cores/tokens.css</code> — nenhuma cor solta no CSS.
+  Para levar pro app: copie <code>tokens.css</code>, importe no seu CSS global e troque os valores fixos
+  pelas variáveis. As classes destas telas servem de referência direta.</p>
+</div>
+
+<button class="btn btn-ghost themetoggle" onclick="
+  const h=document.documentElement, light=h.getAttribute('data-theme')==='light';
+  h.setAttribute('data-theme', light?'dark':'light');
+  document.querySelectorAll('.hlogo').forEach(i=>i.src='../logo/lorewords-logo-horizontal-tema-'+(light?'escuro':'claro')+'.svg');
+">Alternar tema</button>
+</body>
+</html>

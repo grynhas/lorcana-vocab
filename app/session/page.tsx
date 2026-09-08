@@ -7,6 +7,7 @@ import cardsData from "@/data/cards.json";
 import type { CardSummary, VocabularyEntry } from "@/lib/types";
 import { loadProgress, markKnown, markUnknown, saveProgress } from "@/lib/progress";
 import { buildSession } from "@/lib/session";
+import { useImagePreload } from "@/lib/useImagePreload";
 import { Flashcard } from "@/components/Flashcard";
 import { TopBar } from "@/components/TopBar";
 
@@ -22,6 +23,12 @@ export default function SessionPage() {
   const [index, setIndex] = useState(0);
   const [results, setResults] = useState({ known: 0, unknown: 0 });
   const [history, setHistory] = useState<boolean[]>([]);
+
+  const nextEntry = session[index + 1];
+  const nextImageUrl = nextEntry?.examples[0]
+    ? cardById.get(nextEntry.examples[0].cardId)?.imageUrl
+    : undefined;
+  useImagePreload(nextImageUrl);
 
   if (session.length === 0) {
     return (

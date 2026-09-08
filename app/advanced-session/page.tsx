@@ -12,6 +12,7 @@ import {
   saveProgress,
 } from "@/lib/progress";
 import { buildSession } from "@/lib/session";
+import { useImagePreload } from "@/lib/useImagePreload";
 import { AdvancedFlashcard } from "@/components/AdvancedFlashcard";
 import { TopBar } from "@/components/TopBar";
 
@@ -25,6 +26,8 @@ export default function AdvancedSessionPage() {
   const [index, setIndex] = useState(0);
   const [results, setResults] = useState({ known: 0, unknown: 0 });
   const [history, setHistory] = useState<boolean[]>([]);
+
+  useImagePreload(session[index + 1]?.imageUrl);
 
   if (session.length === 0) {
     return (
